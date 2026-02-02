@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260130-203123) (Retool)</description>
-		<version>20260130-203123</version>
-		<date>2026-02-01 04-39-35</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260131-211332) (Retool)</description>
+		<version>20260131-211332</version>
+		<date>2026-02-02 04-34-40</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2152,11 +2152,11 @@
 		<description>FireStriker (USA)</description>
 		<rom name="FireStriker (USA).sfc" size="1048576" crc="e500c7ba" md5="a9bb24a7622114b91ca85dcb30026830" sha1="cca28af7c399845dff3ca17be3f5dc1051c959ac" sha256="6f32355bef68d4ad58822f50074b46bcc9a68357cd2c6a5470c96bf5344f84d8"/>
 	</game>
-	<game name="Firearm (USA) (Proto) (1993-12-17)" id="3578">
+	<game name="Firearm (USA) (Proto)" id="3578">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Firearm (USA) (Proto) (1993-12-17)</description>
-		<rom name="Firearm (USA) (Proto) (1993-12-17).sfc" size="524288" crc="9aa13682" md5="daea82fee63f9f8b0892833cb538159a" sha1="22d140eafbad07c8ce71a89ce586cdbcc82d30e8" sha256="1a23fb3d138f0c0ee7f78f2a5e0c94c69e2e1625b8fbd07cba6468ce31562fda"/>
+		<description>Firearm (USA) (Proto)</description>
+		<rom name="Firearm (USA) (Proto).sfc" size="524288" crc="9aa13682" md5="daea82fee63f9f8b0892833cb538159a" sha1="22d140eafbad07c8ce71a89ce586cdbcc82d30e8" sha256="1a23fb3d138f0c0ee7f78f2a5e0c94c69e2e1625b8fbd07cba6468ce31562fda"/>
 	</game>
 	<game name="Firemen, The (Europe) (En,Fr,De)" id="0829">
 		<category>Games</category>
