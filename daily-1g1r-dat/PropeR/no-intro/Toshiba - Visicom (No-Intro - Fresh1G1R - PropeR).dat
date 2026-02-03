@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Toshiba - Visicom (Retool)</name>
-		<description>Toshiba - Visicom (5) (-y) [-aAbBcdkmMpPuv] (20200202-120958) (Retool)</description>
-		<version>20200202-120958</version>
-		<date>2026-02-02 04-40-16</date>
+		<description>Toshiba - Visicom (6) (-y) [-aAbBcdkmMpPuv] (20260201-050255) (Retool)</description>
+		<version>20260201-050255</version>
+		<date>2026-02-03 05-40-16</date>
 		<author>relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -22,6 +22,12 @@
 		<description>Gambler II (Japan)</description>
 		<game_id>CAS-141</game_id>
 		<rom name="Gambler II (Japan).rom" size="2048" crc="9da5c845" md5="2f29654b1656fbb462a8223100e2c6cc" sha1="438d9fc67de1ef408718b4737c0d0fd48844dacb" sha256="5d90b2f41414025a1f22280a366616a9d0d8b984a684c99d9a06f407cba75f3a"/>
+	</game>
+	<game name="Inspiration - Fortunetelling &amp; Biorhythm (Japan)" id="0007">
+		<category>Games</category>
+		<description>Inspiration - Fortunetelling &amp; Biorhythm (Japan)</description>
+		<game_id>CAS-190</game_id>
+		<rom name="Inspiration - Fortunetelling &amp; Biorhythm (Japan).rom" size="2048" crc="a6b5d88c" md5="355b28a14a8229e72b850c35445746d7" sha1="6eb2710111e1d05a9d6881bc5d1a87ba6cef4688" sha256="e4e2b135f3de4fd1083d11e8f93d203c32868817a79f82e35a4f612360b5bcda"/>
 	</game>
 	<game name="Sansuu Drill (Japan)" id="0002">
 		<category>Games</category>

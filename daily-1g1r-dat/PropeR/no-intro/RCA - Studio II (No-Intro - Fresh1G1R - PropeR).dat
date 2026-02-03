@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>RCA - Studio II (Retool)</name>
-		<description>RCA - Studio II (16) (-y) [-aAbBcdkmMpPuv] (20200201-121822) (Retool)</description>
-		<version>20200201-121822</version>
-		<date>2026-02-02 04-39-58</date>
+		<description>RCA - Studio II (16) (-y) [-aAbBcdkmMpPuv] (20260201-053357) (Retool)</description>
+		<version>20260201-053357</version>
+		<date>2026-02-03 05-37-23</date>
 		<author>relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

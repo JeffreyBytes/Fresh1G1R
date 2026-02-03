@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260131-211332) (Retool)</description>
-		<version>20260131-211332</version>
-		<date>2026-02-02 04-34-40</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,855) (-y) [-aAbBcefkmMoprv] (20260201-211050) (Retool)</description>
+		<version>20260201-211050</version>
+		<date>2026-02-03 05-28-32</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -283,11 +283,11 @@
 		<description>Aoki Densetsu Shoot! (Japan)</description>
 		<rom name="Aoki Densetsu Shoot! (Japan).sfc" size="1572864" crc="9ea4ad6f" md5="41668cd2bfd33fab8b7168fecff2ae4b" sha1="c63ca9ad073bc2b8ae079aa19cf026791d0fd2db" sha256="5ee3f901c6142ff54c3c32db34f40ab5387c3256e0febde54c6dfd4668456e7e"/>
 	</game>
-	<game name="Apocalypse II (Europe) (Proto 2) (1997-10-28)" id="4264">
+	<game name="Apocalypse II (Europe) (Proto 2)" id="4264">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Apocalypse II (Europe) (Proto 2) (1997-10-28)</description>
-		<rom name="Apocalypse II (Europe) (Proto 2) (1997-10-28).sfc" size="1048576" crc="93557c67" md5="2f640607c1f49f5cfe6118df59de1eda" sha1="2d7d6c5a5dd6eb9e165ef8b27b9dd23626f0fbda" sha256="228e142b71f88b5bd36a51afc5d4a37d4f687b37f6e2b36bdac79f8cefe72043"/>
+		<description>Apocalypse II (Europe) (Proto 2)</description>
+		<rom name="Apocalypse II (Europe) (Proto 2).sfc" size="1048576" crc="93557c67" md5="2f640607c1f49f5cfe6118df59de1eda" sha1="2d7d6c5a5dd6eb9e165ef8b27b9dd23626f0fbda" sha256="228e142b71f88b5bd36a51afc5d4a37d4f687b37f6e2b36bdac79f8cefe72043"/>
 	</game>
 	<game name="Appleseed - Prometheus no Shintaku (Japan)" id="0111">
 		<category>Games</category>
@@ -389,11 +389,11 @@
 		<description>Atlas, The - Renaissance Voyager (Japan) (Rev 1)</description>
 		<rom name="Atlas, The - Renaissance Voyager (Japan) (Rev 1).sfc" size="2097152" crc="dffb7f28" md5="9c978bf1c4583e406ec68ba5b14ca126" sha1="364665d92b539565a29db474848e97b849faeecd" sha256="7bd74f90379a47aa1c151eb0330d93f6a0cbbf5c6e4541a7bc42ff4aa9c4463e"/>
 	</game>
-	<game name="Atmosfear (USA) (Proto) (1994-07-12)" id="3787">
+	<game name="Atmosfear (USA) (Proto)" id="3787">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Atmosfear (USA) (Proto) (1994-07-12)</description>
-		<rom name="Atmosfear (USA) (Proto) (1994-07-12).sfc" size="2097152" crc="22f9b260" md5="0c50fc6fa2929a3de6a2625fe6d8a375" sha1="c6c47d7693f5a9ddd7af2c4ce8f7046b966c2085" sha256="0e8394cb59ef5ac2974eb7f2280df1d58ff3e0ae6e2635c78f01ff9b4a9ce161"/>
+		<description>Atmosfear (USA) (Proto)</description>
+		<rom name="Atmosfear (USA) (Proto).sfc" size="2097152" crc="22f9b260" md5="0c50fc6fa2929a3de6a2625fe6d8a375" sha1="c6c47d7693f5a9ddd7af2c4ce8f7046b966c2085" sha256="0e8394cb59ef5ac2974eb7f2280df1d58ff3e0ae6e2635c78f01ff9b4a9ce161"/>
 	</game>
 	<game name="Axelay (USA)" id="0147">
 		<category>Games</category>
@@ -1920,11 +1920,11 @@
 		<description>Esparks - Ijikuu kara no Raihousha (Japan)</description>
 		<rom name="Esparks - Ijikuu kara no Raihousha (Japan).sfc" size="1572864" crc="634344a0" md5="0e0a4d7ebc87433bbbc95929f3e0a6d2" sha1="dbfbef2cfdc44f692bcba1e3e5e3c4d73d15bb02" sha256="dd89c13b36d44433d06253e85767af0460ec0190f10a58a840f5d62900db088d"/>
 	</game>
-	<game name="Eurit (USA) (Proto) (1995-05-24)" id="0725">
+	<game name="Eurit (USA) (Proto)" id="0725">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Eurit (USA) (Proto) (1995-05-24)</description>
-		<rom name="Eurit (USA) (Proto) (1995-05-24).sfc" size="2097152" crc="78bcd558" md5="5cdc61e633335d5dbe3b45325cdc39c7" sha1="c99e51c4d64a5f7edaf1cbfe4146b8f6821f1f09" sha256="f22fd0ddf11a804ca46287b9086602e7647a708ea6eb31a232500ec597cc14db"/>
+		<description>Eurit (USA) (Proto)</description>
+		<rom name="Eurit (USA) (Proto).sfc" size="2097152" crc="78bcd558" md5="5cdc61e633335d5dbe3b45325cdc39c7" sha1="c99e51c4d64a5f7edaf1cbfe4146b8f6821f1f09" sha256="f22fd0ddf11a804ca46287b9086602e7647a708ea6eb31a232500ec597cc14db"/>
 	</game>
 	<game name="Exertainment Mountain Bike Rally (USA)" id="0735">
 		<category>Games</category>
@@ -2168,11 +2168,11 @@
 		<description>Firepower 2000 (USA)</description>
 		<rom name="Firepower 2000 (USA).sfc" size="1048576" crc="327416d4" md5="650e587408e8691c511e831de5f606dc" sha1="9ca23cf83594d2c17ac790684de278f3fa91b360" sha256="003dba0193acc5336840307194643ca3b1f848dcfc77580b4e17c605105b27f5"/>
 	</game>
-	<game name="Fireteam Rogue (USA) (Proto 2) (1995-01-16)" id="3495">
+	<game name="Fireteam Rogue (USA) (Proto 2)" id="3495">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Fireteam Rogue (USA) (Proto 2) (1995-01-16)</description>
-		<rom name="Fireteam Rogue (USA) (Proto 2) (1995-01-16).sfc" size="2097152" crc="4f659fd5" md5="9a742da05b50914f9f3c0ae64a877f28" sha1="7692442f132a67e44b6842c0c97362a624453bf8" sha256="cf1c6dbcdb9724ccddc2cd3d2a7799c83eed47081a466e81a3c91b721a4ba242"/>
+		<description>Fireteam Rogue (USA) (Proto 2)</description>
+		<rom name="Fireteam Rogue (USA) (Proto 2).sfc" size="2097152" crc="4f659fd5" md5="9a742da05b50914f9f3c0ae64a877f28" sha1="7692442f132a67e44b6842c0c97362a624453bf8" sha256="cf1c6dbcdb9724ccddc2cd3d2a7799c83eed47081a466e81a3c91b721a4ba242"/>
 	</game>
 	<game name="First Queen - Ornic Senki (Japan)" id="0835">
 		<category>Games</category>
@@ -2388,13 +2388,6 @@
 		<category>Games</category>
 		<description>Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 2)</description>
 		<rom name="Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 2).sfc" size="2097152" crc="af984bc1" md5="22cb2b6f488676bedb89baa051d94d56" sha1="2732b810694880f9a388657ffb4cfb79d7d3ea7c" sha256="f536fdc34585ca1fd66dc984e7575b87e6258d5b7220e538fe8d8c07453c3d78"/>
-	</game>
-	<game name="Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample) (1994-10-24)" id="3537">
-		<category>Demos</category>
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample) (1994-10-24)</description>
-		<rom name="Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample) (1994-10-24).sfc" size="2097152" crc="9a1aea39" md5="ffe65e5d8eb7e93cd22c9e910e152e7d" sha1="1154c54e14895f0dbd2f872123f3f73696e2599d" sha256="8dcdf6d754ba8fb3144c3de2eb39b9120e9f04272cade1574d6fb72b6a789030"/>
 	</game>
 	<game name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)" id="0913">
 		<category>Games</category>
@@ -3644,12 +3637,11 @@
 		<description>Kevin Keegan's Player Manager (Europe)</description>
 		<rom name="Kevin Keegan's Player Manager (Europe).sfc" size="524288" crc="fce7bade" md5="1c0d34fbc486fc9b9248b2bcfa02e962" sha1="e5c17afe16ff7571b2576bcce044362ab559ada7" sha256="047530fff116108b8e50b7ebe82f51b4dfe05acda6618c71efb9b4d6d5c25a07"/>
 	</game>
-	<game name="Kevin Keegan's Player Manager (Europe) (Auto Demo) (1993-10-20)" id="4505">
+	<game name="Kevin Keegan's Player Manager (Europe) (Auto Demo)" id="4505">
 		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Kevin Keegan's Player Manager (Europe) (Auto Demo) (1993-10-20)</description>
-		<rom name="Kevin Keegan's Player Manager (Europe) (Auto Demo) (1993-10-20).sfc" size="524288" crc="74e33ee6" md5="ae0d2ffb5e7ddacdcd2693b090cf7e86" sha1="b48b4f0166fd0323142b02b6f954869d928b2840" sha256="d8bb64ec5e2ef0508cdab4685002afaf0f497fc124ae582ae238a5c907659e9a"/>
+		<description>Kevin Keegan's Player Manager (Europe) (Auto Demo)</description>
+		<rom name="Kevin Keegan's Player Manager (Europe) (Auto Demo).sfc" size="524288" crc="74e33ee6" md5="ae0d2ffb5e7ddacdcd2693b090cf7e86" sha1="b48b4f0166fd0323142b02b6f954869d928b2840" sha256="d8bb64ec5e2ef0508cdab4685002afaf0f497fc124ae582ae238a5c907659e9a"/>
 	</game>
 	<game name="Kevin Keegan's Player Manager (Europe) (Demo 1)" id="3610">
 		<category>Demos</category>
@@ -4450,11 +4442,11 @@
 		<description>Melfand Stories (Japan)</description>
 		<rom name="Melfand Stories (Japan).sfc" size="1572864" crc="0928fc15" md5="0b3fe2b7c34687107e91497f1aa8705a" sha1="f321fecc3ead4f2e5ec981ed591d87eedc068e5b" sha256="8815a2e8b26450053d43f2450936eced005d81ee9e33faa5aea2dd8d1e3e7d65"/>
 	</game>
-	<game name="Mer Wars (USA) (Proto) (1993-12-15)" id="4088">
+	<game name="Mer Wars (USA) (Proto)" id="4088">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Mer Wars (USA) (Proto) (1993-12-15)</description>
-		<rom name="Mer Wars (USA) (Proto) (1993-12-15).sfc" size="524288" crc="63bfc034" md5="c94afc106995dbf10adaaad2a29a3580" sha1="75ebb4df85bc4f79a8c01b552f7563f1038e1728" sha256="cb05c1ea585e664e2a6f46f49dda102e9ed06cb3b111f023b8c532d5663bd5c5"/>
+		<description>Mer Wars (USA) (Proto)</description>
+		<rom name="Mer Wars (USA) (Proto).sfc" size="524288" crc="63bfc034" md5="c94afc106995dbf10adaaad2a29a3580" sha1="75ebb4df85bc4f79a8c01b552f7563f1038e1728" sha256="cb05c1ea585e664e2a6f46f49dda102e9ed06cb3b111f023b8c532d5663bd5c5"/>
 	</game>
 	<game name="Metal Combat - Falcon's Revenge (USA)" id="1617">
 		<category>Games</category>
@@ -4691,29 +4683,29 @@
 		<description>Mouryou Senki Madara 2 (Japan)</description>
 		<rom name="Mouryou Senki Madara 2 (Japan).sfc" size="1572864" crc="0dcbf723" md5="f5e730174aa118c0519151ab1b38d7f2" sha1="13f9bdd5488fb71f41a70e5bc4dd2d8bf37ed303" sha256="d9d7207bb7fc74f375347895b75b97096144e3c5d06571b9784ec6e8d6232650"/>
 	</game>
-	<game name="Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Level 11-G)" id="1701">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Level 11-G)</description>
-		<rom name="Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Level 11-G).sfc" size="524288" crc="93f78934" md5="3472fde51129422e6a7841132ad853a6" sha1="3eb3a4f9a3e6b86375798689be894b7301afb98a" sha256="249d966aac41608dd2edcd5a93fd877144648cc5939fa50f66cded381269c179"/>
-	</game>
-	<game name="Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Levels 000)" id="1702">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Levels 000)</description>
-		<rom name="Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Levels 000).sfc" size="1048576" crc="6574cea6" md5="787c1f30f3eb09b2e480c473a53eb91f" sha1="f1269527bceaf044e7c5f634ca61c0162b8b33f7" sha256="0bb4b7301a2773831136b3f39e7c841551570865b9f856b1f26ca78e0b8d358d"/>
-	</game>
-	<game name="Mr. Bloopy Saves the World (USA) (Demo) (1994-06-22) (Levels-B)" id="1703">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>Mr. Bloopy Saves the World (USA) (Demo) (1994-06-22) (Levels-B)</description>
-		<rom name="Mr. Bloopy Saves the World (USA) (Demo) (1994-06-22) (Levels-B).sfc" size="524288" crc="63885a43" md5="ef71d4ab5e99a2932eec4dcdd029fcae" sha1="1bcc44acd6297806ad3239eb416be5217ac1a43c" sha256="40cff9170eb142a50bef5df9859ce2761a185250d2a3c174251ccce8e5d59c96"/>
-	</game>
-	<game name="Mr. Bloopy Saves the World (USA) (Proto) (1995-02-16)" id="1704">
+	<game name="Mr. Bloopy Saves the World (USA) (Proto 1) (Level 11-G)" id="1701">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Mr. Bloopy Saves the World (USA) (Proto) (1995-02-16)</description>
-		<rom name="Mr. Bloopy Saves the World (USA) (Proto) (1995-02-16).sfc" size="2097152" crc="dde9a760" md5="f763c4c066cafc151d9f65f8470de488" sha1="05b6b256291403e0ed5bcfad1be7fe0ace81991d" sha256="4a018f866be9bcd844f36ee4ce5408ba4c2834acd9a9d4143bb326c6cd261bfb"/>
+		<description>Mr. Bloopy Saves the World (USA) (Proto 1) (Level 11-G)</description>
+		<rom name="Mr. Bloopy Saves the World (USA) (Proto 1) (Level 11-G).sfc" size="524288" crc="93f78934" md5="3472fde51129422e6a7841132ad853a6" sha1="3eb3a4f9a3e6b86375798689be894b7301afb98a" sha256="249d966aac41608dd2edcd5a93fd877144648cc5939fa50f66cded381269c179"/>
+	</game>
+	<game name="Mr. Bloopy Saves the World (USA) (Proto 1) (Levels 000)" id="1702">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mr. Bloopy Saves the World (USA) (Proto 1) (Levels 000)</description>
+		<rom name="Mr. Bloopy Saves the World (USA) (Proto 1) (Levels 000).sfc" size="524288" crc="2df22be6" md5="f483a550f4c31e055afa1eebfee7ed6b" sha1="a42c4087611d61ce8f3b2634f189621a2003ede2" sha256="9d6ce19ff2cb3cb46185bf1ef389c157691f77fda1ea21b80e2a3d1bafbca50f"/>
+	</game>
+	<game name="Mr. Bloopy Saves the World (USA) (Proto 1) (Levels-B)" id="1703">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mr. Bloopy Saves the World (USA) (Proto 1) (Levels-B)</description>
+		<rom name="Mr. Bloopy Saves the World (USA) (Proto 1) (Levels-B).sfc" size="524288" crc="63885a43" md5="ef71d4ab5e99a2932eec4dcdd029fcae" sha1="1bcc44acd6297806ad3239eb416be5217ac1a43c" sha256="40cff9170eb142a50bef5df9859ce2761a185250d2a3c174251ccce8e5d59c96"/>
+	</game>
+	<game name="Mr. Bloopy Saves the World (USA) (Proto 2)" id="1704">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mr. Bloopy Saves the World (USA) (Proto 2)</description>
+		<rom name="Mr. Bloopy Saves the World (USA) (Proto 2).sfc" size="2097152" crc="dde9a760" md5="f763c4c066cafc151d9f65f8470de488" sha1="05b6b256291403e0ed5bcfad1be7fe0ace81991d" sha256="4a018f866be9bcd844f36ee4ce5408ba4c2834acd9a9d4143bb326c6cd261bfb"/>
 	</game>
 	<game name="Mr. Bloppy Saves the World (USA) (Piko Interactive)" id="3990">
 		<category>Games</category>
@@ -5036,10 +5028,10 @@
 		<description>Nigel Mansell's World Championship Racing (USA)</description>
 		<rom name="Nigel Mansell's World Championship Racing (USA).sfc" size="1048576" crc="162252e2" md5="eaeadf3718805132ac2348c6bc093563" sha1="03591006e7296ab3f0608faa97e03ce725eb0f14" sha256="ce9c819d6496e58901b39d9b04558a89e09ccc3aac33690b8d02bb0406682a57"/>
 	</game>
-	<game name="Nightmare Busters (USA, Europe) (Unl)" id="3691">
+	<game name="Nightmare Busters (World) (Super Fighter Team) (Unl)" id="3691">
 		<category>Games</category>
-		<description>Nightmare Busters (USA, Europe) (Unl)</description>
-		<rom name="Nightmare Busters (USA, Europe) (Unl).sfc" size="2097152" crc="abaaff79" md5="5b78a0d25cf6e12bdf20c8f6f6b0cdaf" sha1="65d156bcc43149d4828289bc78b2565a674f58be" sha256="0eb776a2adbfd62746e711a0e6a89f13312eeeee1a9c890e12a188498e501edb"/>
+		<description>Nightmare Busters (World) (Super Fighter Team) (Unl)</description>
+		<rom name="Nightmare Busters (World) (Super Fighter Team) (Unl).sfc" size="2097152" crc="abaaff79" md5="5b78a0d25cf6e12bdf20c8f6f6b0cdaf" sha1="65d156bcc43149d4828289bc78b2565a674f58be" sha256="0eb776a2adbfd62746e711a0e6a89f13312eeeee1a9c890e12a188498e501edb"/>
 	</game>
 	<game name="Ninja Gaiden Trilogy (USA)" id="1820">
 		<category>Games</category>
@@ -6927,11 +6919,11 @@
 		<description>Sports Illustrated - Championship Football &amp; Baseball (USA)</description>
 		<rom name="Sports Illustrated - Championship Football &amp; Baseball (USA).sfc" size="2097152" crc="d4874966" md5="06c57e81aef26ecd5ff50843b131174e" sha1="a32b98885a9502a9b4262f4221ad75b155294b20" sha256="254d17a82a32d8bd231ca3a87d356b65e65cb0229902a69a57c21a4c99bbba1f"/>
 	</game>
-	<game name="Spot Goes to Hollywood (USA) (Proto) (1995-08-05)" id="3769">
+	<game name="Spot Goes to Hollywood (USA) (Proto 2)" id="3769">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Spot Goes to Hollywood (USA) (Proto) (1995-08-05)</description>
-		<rom name="Spot Goes to Hollywood (USA) (Proto) (1995-08-05).sfc" size="2097152" crc="2fa40bf4" md5="067dd0727b36bec282fb7a30063948be" sha1="232bf12780458d0793b48a3a17839dc30d0718ca" sha256="6eabd824c0f95acbc25aff68923602b2a9fd768ad3811853ee7cf9d27a8e0ade"/>
+		<description>Spot Goes to Hollywood (USA) (Proto 2)</description>
+		<rom name="Spot Goes to Hollywood (USA) (Proto 2).sfc" size="2097152" crc="2fa40bf4" md5="067dd0727b36bec282fb7a30063948be" sha1="232bf12780458d0793b48a3a17839dc30d0718ca" sha256="6eabd824c0f95acbc25aff68923602b2a9fd768ad3811853ee7cf9d27a8e0ade"/>
 	</game>
 	<game name="Spriggan Powered (Japan)" id="2471">
 		<category>Games</category>
@@ -8109,11 +8101,11 @@
 		<description>Super!! Pachinko (Japan)</description>
 		<rom name="Super!! Pachinko (Japan).sfc" size="1048576" crc="410d9f0a" md5="2305598dae517e95d727c54a9b376117" sha1="47fc4a6712dcca24ef360f3e6a99b68db85cd9a4" sha256="0e730e09e5dcee74018028d47f8dc09d364f2c7a857638a71da8747dcfcfe3a4"/>
 	</game>
-	<game name="Superman (USA) (Auto Demo) (1992-05-25)" id="3791">
+	<game name="Superman (USA) (Auto Demo)" id="3791">
 		<category>Demos</category>
 		<category>Games</category>
-		<description>Superman (USA) (Auto Demo) (1992-05-25)</description>
-		<rom name="Superman (USA) (Auto Demo) (1992-05-25).sfc" size="524288" crc="26a050c4" md5="f5f5da8353fa71bbefa040f97b986154" sha1="4295ef8931377a923dec6d69ddd9dc8ef8cf2f77" sha256="033addce1730c759144235f01862e3344f143780fa72bfc10840ae463f209a01"/>
+		<description>Superman (USA) (Auto Demo)</description>
+		<rom name="Superman (USA) (Auto Demo).sfc" size="524288" crc="26a050c4" md5="f5f5da8353fa71bbefa040f97b986154" sha1="4295ef8931377a923dec6d69ddd9dc8ef8cf2f77" sha256="033addce1730c759144235f01862e3344f143780fa72bfc10840ae463f209a01"/>
 	</game>
 	<game name="Sutobasu Yarou Show (Japan)" id="2935">
 		<category>Games</category>
@@ -8140,11 +8132,11 @@
 		<description>Sword World SFC 2 - Inishie no Kyojin Densetsu (Japan) (Rev 1)</description>
 		<rom name="Sword World SFC 2 - Inishie no Kyojin Densetsu (Japan) (Rev 1).sfc" size="2097152" crc="cb148365" md5="b8bc977b3e47201ed024a4caea1c23b9" sha1="a90412a32828fdf02968bf7b1f2efd57453ef031" sha256="54ed71e9f68373cd9d410895b88f5db8bc1d7a18a668bdfbd56f0a2abbe11dbb"/>
 	</game>
-	<game name="Sylvester and Tweety (USA) (Proto) (1993-12-15)" id="3581">
+	<game name="Sylvester and Tweety (USA) (Proto 2)" id="3581">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Sylvester and Tweety (USA) (Proto) (1993-12-15)</description>
-		<rom name="Sylvester and Tweety (USA) (Proto) (1993-12-15).sfc" size="524288" crc="3127c85b" md5="9e900182c2f01ddfb61901e058c0e5e1" sha1="b9f6d52a625f508fbd681b0c7ca72e26516094f3" sha256="2a80fdf6f8dbc531c43b5c9194749f42e8593b8a5404960ac2cd443084399ed7"/>
+		<description>Sylvester and Tweety (USA) (Proto 2)</description>
+		<rom name="Sylvester and Tweety (USA) (Proto 2).sfc" size="524288" crc="3127c85b" md5="9e900182c2f01ddfb61901e058c0e5e1" sha1="b9f6d52a625f508fbd681b0c7ca72e26516094f3" sha256="2a80fdf6f8dbc531c43b5c9194749f42e8593b8a5404960ac2cd443084399ed7"/>
 	</game>
 	<game name="Syndicate (USA)" id="2952">
 		<category>Games</category>
@@ -8477,11 +8469,11 @@
 		<description>Tom and Jerry (USA)</description>
 		<rom name="Tom and Jerry (USA).sfc" size="524288" crc="8b1dafbb" md5="bc16be2e9c7e170f7cd10da919f3e099" sha1="768b7b339804ddf13aaca59713a4e2c5e7ef9f3a" sha256="4f500da19dbb1557a7bc0ce14437098c1402478d573fb569303b81c011f86fbf"/>
 	</game>
-	<game name="Tom vs Jerry - The Chase Is On! (Europe) (Proto) (1995-04-28)" id="3789">
+	<game name="Tom vs Jerry - The Chase Is On! (Europe) (Proto 2)" id="3789">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Tom vs Jerry - The Chase Is On! (Europe) (Proto) (1995-04-28)</description>
-		<rom name="Tom vs Jerry - The Chase Is On! (Europe) (Proto) (1995-04-28).sfc" size="2097152" crc="690b8c85" md5="55d4156933f56409a8790bf8289254b3" sha1="9aa4767f6fb24b53412a72e830063300beab569c" sha256="604157fa406afbc39162f96fcc63c9649b4359abc978f3427e3d631d248e36a2"/>
+		<description>Tom vs Jerry - The Chase Is On! (Europe) (Proto 2)</description>
+		<rom name="Tom vs Jerry - The Chase Is On! (Europe) (Proto 2).sfc" size="2097152" crc="690b8c85" md5="55d4156933f56409a8790bf8289254b3" sha1="9aa4767f6fb24b53412a72e830063300beab569c" sha256="604157fa406afbc39162f96fcc63c9649b4359abc978f3427e3d631d248e36a2"/>
 	</game>
 	<game name="Tommy Moe's Winter Extreme - Skiing and Snowboarding (USA)" id="3095">
 		<category>Games</category>
