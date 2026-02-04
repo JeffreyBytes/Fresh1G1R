@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Microsoft - MSX (Retool)</name>
-		<description>Microsoft - MSX (560) (-y) [-aAbBcefkmMoprv] (20250429-210021) (Retool)</description>
-		<version>20250429-210021</version>
-		<date>2026-02-03 05-29-12</date>
-		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, SonGoku, xuom2</author>
+		<description>Microsoft - MSX (561) (-y) [-aAbBcefkmMoprv] (20260202-122913) (Retool)</description>
+		<version>20260202-122913</version>
+		<date>2026-02-04 05-18-09</date>
+		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -621,6 +621,12 @@
 		<description>Crusader (Japan)</description>
 		<rom name="Crusader (Japan).rom" size="32768" crc="0b69dd50" md5="3f6ca4ab412a7c5e8ca9ded41c7ecf91" sha1="d0e8bc3f5fd93dcd07cbb945b00018a491842242"/>
 	</game>
+	<game name="Custar (Japan)" id="0957">
+		<category>Games</category>
+		<description>Custar (Japan)</description>
+		<game_id>HM-104</game_id>
+		<rom name="Custar (Japan).rom" size="8192" crc="1e4e5da0" md5="84a583043446ad3550f9090c9e5f7397" sha1="f864f825b2270c3b98b3c04671a3ac5f2d95affa" sha256="48d285a8142eea0391bde302920a9289e30da06052969753cab360ffe0ec05ef"/>
+	</game>
 	<game name="D-Day (Japan)" id="0268">
 		<category>Games</category>
 		<description>D-Day (Japan)</description>
@@ -1134,7 +1140,8 @@
 	<game name="H.E.R.O. (Japan)" id="0423">
 		<category>Games</category>
 		<description>H.E.R.O. (Japan)</description>
-		<rom name="H.E.R.O. (Japan).rom" size="32768" crc="8fdad3af" md5="2ba6f43da5d2f31c3aab9f8b0a29317b" sha1="ebb70722f75279911cce79e6bd78b8f514561b0f"/>
+		<game_id>R48X5505</game_id>
+		<rom name="H.E.R.O. (Japan).rom" size="16384" crc="97ab0d70" md5="6b6d173cc0b3ccdc067606fef1bfbff5" sha1="6fbb385147a939a7e6b47f5945d8e3b671a8c065" sha256="4759972665f18e60ababe77a46f65da439166a5e9477431514b5985a605c44b2"/>
 	</game>
 	<game name="Hades no Monsho (Japan)" id="0424">
 		<category>Games</category>

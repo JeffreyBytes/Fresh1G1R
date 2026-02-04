@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,855) (-y) [-aAbBcefkmMoprv] (20260201-211050) (Retool)</description>
-		<version>20260201-211050</version>
-		<date>2026-02-03 05-28-32</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260202-210604) (Retool)</description>
+		<version>20260202-210604</version>
+		<date>2026-02-04 05-14-45</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7667,6 +7667,13 @@
 		<category>Games</category>
 		<description>Super Mahjong Taikai (Japan) (Rev 5)</description>
 		<rom name="Super Mahjong Taikai (Japan) (Rev 5).sfc" size="524288" crc="732740ec" md5="b853a894e0f9e129bbc71ee063a903de" sha1="e2d0e493d8b9cfba98338a80de942f45968d1f25" sha256="8e58569e54afeb1dde7c4cc326f55cfa07d0d7a918d8e7f433a3d1ecc0c034dc"/>
+	</game>
+	<game name="Super Mario - Yoshi Island (Japan) (Rev 2) (Sample)" id="4068">
+		<category>Demos</category>
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Mario - Yoshi Island (Japan) (Rev 2) (Sample)</description>
+		<rom name="Super Mario - Yoshi Island (Japan) (Rev 2) (Sample).sfc" size="2097152" crc="fb6ce04a" md5="b4f54c0c985629418b59cafff3a3a47a" sha1="d2245fa377319cf22638938df254a70d7e033244" sha256="ef0750d5cd368b806090f0cc3e6b22893c193f3d1c49b6f176a105c72252b62a"/>
 	</game>
 	<game name="Super Mario All-Stars + Super Mario World (USA)" id="2756">
 		<category>Games</category>

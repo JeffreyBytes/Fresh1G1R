@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Microsoft - MSX (Retool)</name>
-		<description>Microsoft - MSX (37) (-ly) [-aAbBcdDefkmMopPruv] (20250429-210021) (Retool)</description>
-		<version>20250429-210021</version>
-		<date>2026-02-03 05-34-23</date>
-		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, SonGoku, xuom2</author>
+		<description>Microsoft - MSX (37) (-ly) [-aAbBcdDefkmMopPruv] (20260202-122913) (Retool)</description>
+		<version>20260202-122913</version>
+		<date>2026-02-04 05-23-43</date>
+		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>

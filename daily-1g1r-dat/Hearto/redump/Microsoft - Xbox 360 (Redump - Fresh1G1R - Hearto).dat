@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,592) (-y) [-aAbBcefkmMoprv] (2026-02-02 13-23-36) (Retool)</description>
-		<version>2026-02-02 13-23-36</version>
-		<date>2026-02-03 05-24-34</date>
+		<description>Microsoft - Xbox 360 (1,592) (-y) [-aAbBcefkmMoprv] (2026-02-04 01-53-06) (Retool)</description>
+		<version>2026-02-04 01-53-06</version>
+		<date>2026-02-04 05-13-54</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2011,15 +2011,15 @@
 		<description>Doom 3 - BFG Edition (USA) (En,Fr,Es)</description>
 		<rom name="Doom 3 - BFG Edition (USA) (En,Fr,Es).iso" size="8738846720" crc="40f69aa1" md5="056a0ceb6a4d586ab8941a7559a31be4" sha1="84a4571b13f3b8866833ac0e37a31734b3c2144d"/>
 	</game>
-	<game name="Dragon Age - Inquisition (World) (Disc 1)">
+	<game name="Dragon Age - Inquisition (World) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)">
 		<category>Games</category>
-		<description>Dragon Age - Inquisition (World) (Disc 1)</description>
-		<rom name="Dragon Age - Inquisition (World) (Disc 1).iso" size="8738846720" crc="0bb07dda" md5="b846aeeb25a0521bab2b95c3cab0fed8" sha1="ec7ceb049691b4a6b33f44fa3bd919313aec2871"/>
+		<description>Dragon Age - Inquisition (World) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)</description>
+		<rom name="Dragon Age - Inquisition (World) (En,Fr,De,Es,It,Pl,Ru) (Disc 1).iso" size="8738846720" crc="0bb07dda" md5="b846aeeb25a0521bab2b95c3cab0fed8" sha1="ec7ceb049691b4a6b33f44fa3bd919313aec2871"/>
 	</game>
-	<game name="Dragon Age - Inquisition (World) (Disc 2)">
+	<game name="Dragon Age - Inquisition (World) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)">
 		<category>Games</category>
-		<description>Dragon Age - Inquisition (World) (Disc 2)</description>
-		<rom name="Dragon Age - Inquisition (World) (Disc 2).iso" size="8738846720" crc="d55e6a1e" md5="51847c71aab8d10bfb6464552a7a31f4" sha1="24eada82c1d8f9ff350439e02351b8e598d2ba97"/>
+		<description>Dragon Age - Inquisition (World) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)</description>
+		<rom name="Dragon Age - Inquisition (World) (En,Fr,De,Es,It,Pl,Ru) (Disc 2).iso" size="8738846720" crc="d55e6a1e" md5="51847c71aab8d10bfb6464552a7a31f4" sha1="24eada82c1d8f9ff350439e02351b8e598d2ba97"/>
 	</game>
 	<game name="Dragon Age - Origins (World) (En,Es,It)">
 		<category>Games</category>
@@ -5356,10 +5356,10 @@
 		<description>Oneechanbara Z - Kagura (Japan)</description>
 		<rom name="Oneechanbara Z - Kagura (Japan).iso" size="7838695424" crc="c9546f7a" md5="be774fbf9f0cb8b263dcda8100d0e766" sha1="66604a0ff65bd5f973e32ef796e4983108c3efc4"/>
 	</game>
-	<game name="Open Season (USA) (En,Fr,Es,Nl)">
+	<game name="Open Season (USA, Europe) (En,Fr,Es,Nl)">
 		<category>Games</category>
-		<description>Open Season (USA) (En,Fr,Es,Nl)</description>
-		<rom name="Open Season (USA) (En,Fr,Es,Nl).iso" size="7834892288" crc="43bffcbf" md5="0f65666d27bf3bdef73a3716e4f61c11" sha1="412a9a2fd853104dd0e506244a077c15df5cc139"/>
+		<description>Open Season (USA, Europe) (En,Fr,Es,Nl)</description>
+		<rom name="Open Season (USA, Europe) (En,Fr,Es,Nl).iso" size="7834892288" crc="43bffcbf" md5="0f65666d27bf3bdef73a3716e4f61c11" sha1="412a9a2fd853104dd0e506244a077c15df5cc139"/>
 	</game>
 	<game name="Operation Darkness (USA)">
 		<category>Games</category>
