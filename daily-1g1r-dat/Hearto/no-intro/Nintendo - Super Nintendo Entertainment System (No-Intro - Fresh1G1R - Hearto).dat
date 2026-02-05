@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260202-210604) (Retool)</description>
-		<version>20260202-210604</version>
-		<date>2026-02-04 05-14-45</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260203-210726) (Retool)</description>
+		<version>20260203-210726</version>
+		<date>2026-02-05 04-56-06</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2419,11 +2419,11 @@
 		<description>Ganso Pachinko Ou (Japan)</description>
 		<rom name="Ganso Pachinko Ou (Japan).sfc" size="1048576" crc="73453c46" md5="5d449f0cd4402138466476b0882398a6" sha1="12345619eaa14ce4418bb6ee66c0364814c5082f" sha256="2dff4ad70f3320c9d4950b1ac12fd62f27e2f63088a080b60f2fa584d36fcb44"/>
 	</game>
-	<game name="Gargoyles (USA) (Proto) (1994-07-19)" id="4205">
+	<game name="Gargoyles (USA) (Proto)" id="4205">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Gargoyles (USA) (Proto) (1994-07-19)</description>
-		<rom name="Gargoyles (USA) (Proto) (1994-07-19).sfc" size="688128" crc="3439626b" md5="ad4d6c817077fcbd2cb64218b17c5b89" sha1="5c87ac32ae57ef4daaadd0351fbc4a1638c5c61e" sha256="4df5d06e8b80ee4b5f313a523b8f9e2d091a61cc32e9defb69621fbc0e451898"/>
+		<description>Gargoyles (USA) (Proto)</description>
+		<rom name="Gargoyles (USA) (Proto).sfc" size="688128" crc="3439626b" md5="ad4d6c817077fcbd2cb64218b17c5b89" sha1="5c87ac32ae57ef4daaadd0351fbc4a1638c5c61e" sha256="4df5d06e8b80ee4b5f313a523b8f9e2d091a61cc32e9defb69621fbc0e451898"/>
 	</game>
 	<game name="Garry Kitchen's Super Battletank - War in the Gulf (USA) (Rev 1)" id="2571">
 		<category>Games</category>
@@ -3646,16 +3646,14 @@
 	<game name="Kevin Keegan's Player Manager (Europe) (Demo 1)" id="3610">
 		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Kevin Keegan's Player Manager (Europe) (Demo 1)</description>
 		<rom name="Kevin Keegan's Player Manager (Europe) (Demo 1).sfc" size="524288" crc="e3dff03d" md5="8ec6295e97fcefe45b6e045e1281c692" sha1="0c8b7f9d1eb8f0e26aff7dbe00ac38b6f376d688" sha256="aa696e240a9f3d25303f23e360536b69c45eb3ed9e4115925be742a44e013ef6"/>
 	</game>
-	<game name="Kevin Keegan's Player Manager (Europe) (Demo 2) (1993-06-18)" id="4504">
+	<game name="Kevin Keegan's Player Manager (Europe) (Demo 2)" id="4504">
 		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Kevin Keegan's Player Manager (Europe) (Demo 2) (1993-06-18)</description>
-		<rom name="Kevin Keegan's Player Manager (Europe) (Demo 2) (1993-06-18).sfc" size="524288" crc="7f480abd" md5="523e3aca4d5fe79a0e5e9c342c732b64" sha1="a941e106b120321f500a3239e1847d3161e90241" sha256="7a3cea1c5d0e888a3703c8d690ac79aaf9245b65a72de127963b9979f0d97ecb"/>
+		<description>Kevin Keegan's Player Manager (Europe) (Demo 2)</description>
+		<rom name="Kevin Keegan's Player Manager (Europe) (Demo 2).sfc" size="524288" crc="7f480abd" md5="523e3aca4d5fe79a0e5e9c342c732b64" sha1="a941e106b120321f500a3239e1847d3161e90241" sha256="7a3cea1c5d0e888a3703c8d690ac79aaf9245b65a72de127963b9979f0d97ecb"/>
 	</game>
 	<game name="Kick Off (Europe)" id="1324">
 		<category>Games</category>
@@ -5706,11 +5704,11 @@
 		<description>Power Rangers Zeo - Battle Racers (USA)</description>
 		<rom name="Power Rangers Zeo - Battle Racers (USA).sfc" size="1048576" crc="389300cf" md5="1b92a6e65433de62272d32aa3cf28e52" sha1="f83f07f2a6de60ed5e96e7f08de42ed69b9f6e62" sha256="2e2a8c0da7f6def617077a25b222062f6988ef14b36b2edfe10d47c6a942d023"/>
 	</game>
-	<game name="Power Slide (Europe) (Proto) (1994-04-12)" id="2045">
+	<game name="Power Slide (Europe) (Proto)" id="2045">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Power Slide (Europe) (Proto) (1994-04-12)</description>
-		<rom name="Power Slide (Europe) (Proto) (1994-04-12).sfc" size="524288" crc="65ce3729" md5="abd8381a8e4693fa8c04caa91f790e07" sha1="30115db2558060d9293684f3d5810d063a0c710e" sha256="efabfa4f27d9ec2567caf2bfe16d2e0ba6039649913db5170f5f8d29b7cc2daa"/>
+		<description>Power Slide (Europe) (Proto)</description>
+		<rom name="Power Slide (Europe) (Proto).sfc" size="524288" crc="65ce3729" md5="abd8381a8e4693fa8c04caa91f790e07" sha1="30115db2558060d9293684f3d5810d063a0c710e" sha256="efabfa4f27d9ec2567caf2bfe16d2e0ba6039649913db5170f5f8d29b7cc2daa"/>
 	</game>
 	<game name="Power Soukoban (Japan)" id="2046">
 		<category>Games</category>
@@ -6960,12 +6958,11 @@
 		<description>Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)</description>
 		<rom name="Star Fox 2 (USA, Europe) (Classic Mini, Switch Online).sfc" size="1048576" crc="87653732" md5="7d66769f53cb3fb7f5c73044876db240" sha1="1135a2a6cb786ac7523e81dd553dc81aaa266f51" sha256="e134f20f6ee7d422d06faea6b1ae1e4101d1d0a200a0571d715d1cf23d959e8c"/>
 	</game>
-	<game name="Star Glider (Japan) (Demo) (1992-09-23)" id="4084">
+	<game name="Star Glider (Japan) (Demo)" id="4084">
 		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Star Glider (Japan) (Demo) (1992-09-23)</description>
-		<rom name="Star Glider (Japan) (Demo) (1992-09-23).sfc" size="524288" crc="e9771c0d" md5="e9add0763f743fc634b839955f56022b" sha1="12d8d1bfb9f1bb27e7c0f1d1c30351d88400d2bc" sha256="d8f3b252d6afb77b9b46ab00b89415fba276f1cc07c0c89950c9bc9850fbb6cd"/>
+		<description>Star Glider (Japan) (Demo)</description>
+		<rom name="Star Glider (Japan) (Demo).sfc" size="524288" crc="e9771c0d" md5="e9add0763f743fc634b839955f56022b" sha1="12d8d1bfb9f1bb27e7c0f1d1c30351d88400d2bc" sha256="d8f3b252d6afb77b9b46ab00b89415fba276f1cc07c0c89950c9bc9850fbb6cd"/>
 	</game>
 	<game name="Star Ocean (Japan)" id="2482">
 		<category>Games</category>
@@ -7735,12 +7732,11 @@
 		<description>Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan)</description>
 		<rom name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan).sfc" size="1572864" crc="d8c0e0be" md5="68a7f453ddee511365ccbb62c25a125f" sha1="dc3bdace7f7587788cb72b9c3475b7c6335a5450" sha256="1680dc92038da22f62a7c92c956b26a0356f35b34c43bb932636b1840ff43fc9"/>
 	</game>
-	<game name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show)" id="3702">
-		<category>Demos</category>
+	<game name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show)" id="3702">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show)</description>
-		<rom name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show).sfc" size="1048576" crc="881ec69d" md5="43d9acf540aee0036f5da994b572dcd9" sha1="8227a6eacfe24747d5f680b3b7cd07476ec6535c" sha256="814039f28de4eb6fcc8f7b564ee6ebdd125423a15c6fb7563f36eef11682bf5f"/>
+		<description>Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show)</description>
+		<rom name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show).sfc" size="1048576" crc="881ec69d" md5="43d9acf540aee0036f5da994b572dcd9" sha1="8227a6eacfe24747d5f680b3b7cd07476ec6535c" sha256="814039f28de4eb6fcc8f7b564ee6ebdd125423a15c6fb7563f36eef11682bf5f"/>
 	</game>
 	<game name="Super Nichibutsu Mahjong (Japan)" id="2785">
 		<category>Games</category>
@@ -8165,12 +8161,12 @@
 		<description>TKO Super Championship Boxing (USA)</description>
 		<rom name="TKO Super Championship Boxing (USA).sfc" size="524288" crc="fd4af462" md5="ce4c0781255c881e57fa370ecffb776f" sha1="b3f4b93f6ba108f7360c1d7f1ae73d1eb4c2a390" sha256="08d808e9c5851e4301a38a56b350a20ea9e3adbef51546e87e1785d691d0f2d5"/>
 	</game>
-	<game name="TKO Super Championship Boxing (USA) (Sample) (1992-08-xx)" id="3086">
+	<game name="TKO Super Championship Boxing (USA) (Sample)" id="3086">
 		<category>Demos</category>
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>TKO Super Championship Boxing (USA) (Sample) (1992-08-xx)</description>
-		<rom name="TKO Super Championship Boxing (USA) (Sample) (1992-08-xx).sfc" size="524288" crc="5f2ab21d" md5="cfdcd6a8ede7eeb243b2facf6344aaa8" sha1="b0ef4e1c0dbf5f70bb699d5696925e78dbd9d00e" sha256="12ad9ee84eed0d991600a5bef90bf5608cdc0b8ce02aea523177be6921a15da2"/>
+		<description>TKO Super Championship Boxing (USA) (Sample)</description>
+		<rom name="TKO Super Championship Boxing (USA) (Sample).sfc" size="524288" crc="5f2ab21d" md5="cfdcd6a8ede7eeb243b2facf6344aaa8" sha1="b0ef4e1c0dbf5f70bb699d5696925e78dbd9d00e" sha256="12ad9ee84eed0d991600a5bef90bf5608cdc0b8ce02aea523177be6921a15da2"/>
 	</game>
 	<game name="TNN Bass Tournament of Champions (USA)" id="3087">
 		<category>Games</category>
