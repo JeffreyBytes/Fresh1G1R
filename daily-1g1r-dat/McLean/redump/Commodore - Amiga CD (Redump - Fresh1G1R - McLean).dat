@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD (Retool)</name>
-		<description>Commodore - Amiga CD (59) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-24 00-36-53) (Retool)</description>
-		<version>2026-01-24 00-36-53</version>
-		<date>2026-02-05 04-56-55</date>
+		<description>Commodore - Amiga CD (59) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-05 08-35-00) (Retool)</description>
+		<version>2026-02-05 08-35-00</version>
+		<date>2026-02-06 04-30-47</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -258,11 +258,11 @@
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 3).bin" size="684349680" crc="9618773e" md5="65ad8ea5df6c456716db924dfe436f4d" sha1="7f975741a6d8e1dfd767b29203757962da21ca34"/>
 		<rom name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 3).cue" size="134" crc="745adf2a" md5="5622da6f83a8c9effea889a4c665c307" sha1="b665f112d9aad1defc312374c2ed6432a9009f65"/>
 	</game>
-	<game name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr)">
+	<game name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr,Sr)">
 		<category>Games</category>
-		<description>OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr)</description>
-		<rom name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr).bin" size="203497392" crc="9a7c1bc7" md5="e1df089063a849595bdc74c710d19840" sha1="02e6a6659d1aa570384adb5f7f371389e306f2c1"/>
-		<rom name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr).cue" size="145" crc="1e14ca9b" md5="6b33a2ea77d11578bf4e6f8e673fcf98" sha1="fd9690a4acc96d594ccb587424a933c00bd2c65f"/>
+		<description>OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr,Sr)</description>
+		<rom name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr,Sr).bin" size="203497392" crc="9a7c1bc7" md5="e1df089063a849595bdc74c710d19840" sha1="02e6a6659d1aa570384adb5f7f371389e306f2c1"/>
+		<rom name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr,Sr).cue" size="148" crc="a2e02d84" md5="852b4527283d634f77db7fb428abe877" sha1="25d5bc4fc4edcfb74fa34510696d1873a768fee4"/>
 	</game>
 	<game name="Payback (Europe)">
 		<category>Games</category>

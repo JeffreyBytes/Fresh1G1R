@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (398) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-25 13-11-38) (Retool)</description>
-		<version>2026-01-25 13-11-38</version>
-		<date>2026-02-05 04-56-53</date>
+		<description>Apple - Macintosh (399) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-05 10-14-43) (Retool)</description>
+		<version>2026-02-05 10-14-43</version>
+		<date>2026-02-06 04-30-45</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1378,6 +1378,12 @@
 		<description>MacPack Blitz (USA) (Disc 5)</description>
 		<rom name="MacPack Blitz (USA) (Disc 5).bin" size="653973600" crc="392dec05" md5="66ea81be40dbb70952c98916870d3a2c" sha1="fdd4ee906672e7ec4961103daef4f2832d6fbf2b"/>
 		<rom name="MacPack Blitz (USA) (Disc 5).cue" size="94" crc="98df9de7" md5="c1ff32e72c523d5c9f3fe37e090d610f" sha1="3e6e3b9dabaccfd660e3300b37531dbbd119d567"/>
+	</game>
+	<game name="Mah Jong Quest (USA)">
+		<category>Games</category>
+		<description>Mah Jong Quest (USA)</description>
+		<rom name="Mah Jong Quest (USA).bin" size="28080528" crc="4b6004a9" md5="1aa6dc1e03b09faf390264c7a5d8918f" sha1="9f8ceeaa0844ddf09f6392bd69018f511d2426d6"/>
+		<rom name="Mah Jong Quest (USA).cue" size="86" crc="3f512d79" md5="43a8ff67342a4712e3249977effa3dad" sha1="4803401d1bb601b917f6add011087cf694b8c661"/>
 	</game>
 	<game name="Manhole, The - CD-ROM Masterpiece Edition (USA)">
 		<category>Games</category>

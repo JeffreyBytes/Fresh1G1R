@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (564) (-y) [-aAbBcefkmMoprv] (2026-01-25 13-11-38) (Retool)</description>
-		<version>2026-01-25 13-11-38</version>
-		<date>2026-02-05 04-51-27</date>
+		<description>Apple - Macintosh (565) (-y) [-aAbBcefkmMoprv] (2026-02-05 10-14-43) (Retool)</description>
+		<version>2026-02-05 10-14-43</version>
+		<date>2026-02-06 04-24-42</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2235,6 +2235,12 @@
 		<description>Mad Paradox (Japan)</description>
 		<rom name="Mad Paradox (Japan).bin" size="146179152" crc="2a7865d3" md5="343a45ffe79a1352a57823f687467174" sha1="f120f7ce9b71f6472b106fa2494456b20b3f750d"/>
 		<rom name="Mad Paradox (Japan).cue" size="85" crc="4fec2f24" md5="f96bc600e40420387a47ff726cc703a2" sha1="15e89d2f1befa1188f91437135bd1a1231cad714"/>
+	</game>
+	<game name="Mah Jong Quest (USA)">
+		<category>Games</category>
+		<description>Mah Jong Quest (USA)</description>
+		<rom name="Mah Jong Quest (USA).bin" size="28080528" crc="4b6004a9" md5="1aa6dc1e03b09faf390264c7a5d8918f" sha1="9f8ceeaa0844ddf09f6392bd69018f511d2426d6"/>
+		<rom name="Mah Jong Quest (USA).cue" size="86" crc="3f512d79" md5="43a8ff67342a4712e3249977effa3dad" sha1="4803401d1bb601b917f6add011087cf694b8c661"/>
 	</game>
 	<game name="Manhole, The - CD-ROM Masterpiece Edition (USA)">
 		<category>Games</category>

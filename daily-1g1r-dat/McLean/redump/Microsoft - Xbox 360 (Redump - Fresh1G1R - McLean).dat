@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-05 01-20-30) (Retool)</description>
-		<version>2026-02-05 01-20-30</version>
-		<date>2026-02-05 04-57-04</date>
+		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-06 01-37-20) (Retool)</description>
+		<version>2026-02-06 01-37-20</version>
+		<date>2026-02-06 04-31-37</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1036,10 +1036,10 @@
 		<description>Captain America - Super Soldier (USA, Europe)</description>
 		<rom name="Captain America - Super Soldier (USA, Europe).iso" size="7838695424" crc="5e384fe4" md5="a1ce9eaa9665dcad7e7933722f9eb221" sha1="8f1032fb2f5891ef1333dfe80b1386a203034f09"/>
 	</game>
-	<game name="Carnival Games - Monkey See, Monkey Do (World) (En,Fr,De,Es,It)">
+	<game name="Carnival Games - Monkey See, Monkey Do (World) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
-		<description>Carnival Games - Monkey See, Monkey Do (World) (En,Fr,De,Es,It)</description>
-		<rom name="Carnival Games - Monkey See, Monkey Do (World) (En,Fr,De,Es,It).iso" size="7838695424" crc="e5ec7ed3" md5="82e4e0877a6e67f6d17941fc4dd32dc1" sha1="e5dbef88abe4bfbcf43b5491bbdac26636173496"/>
+		<description>Carnival Games - Monkey See, Monkey Do (World) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Carnival Games - Monkey See, Monkey Do (World) (En,Fr,De,Es,It,Nl).iso" size="7838695424" crc="e5ec7ed3" md5="82e4e0877a6e67f6d17941fc4dd32dc1" sha1="e5dbef88abe4bfbcf43b5491bbdac26636173496"/>
 	</game>
 	<game name="Carrier Command - Gaea Mission (USA)">
 		<category>Games</category>
@@ -1741,10 +1741,10 @@
 		<description>Disney-Pixar Ratatouille (USA)</description>
 		<rom name="Disney-Pixar Ratatouille (USA).iso" size="7835492352" crc="fadb5ba7" md5="267ac41291087051a7d2b1a8f59d968f" sha1="532041eb4dceb3af2ae4f21b2ecd3d5244ca0806"/>
 	</game>
-	<game name="Disney-Pixar Toy Story 3 (USA) (Toy Box Special Edition)">
+	<game name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es) (Toy Box Special Edition)">
 		<category>Games</category>
-		<description>Disney-Pixar Toy Story 3 (USA) (Toy Box Special Edition)</description>
-		<rom name="Disney-Pixar Toy Story 3 (USA) (Toy Box Special Edition).iso" size="7838695424" crc="c4581d76" md5="daaabf41c78c6db03fa2a3f8b64cdbf6" sha1="11caa517a5b86005c7c8ef199e2789175ee6ba11"/>
+		<description>Disney-Pixar Toy Story 3 (USA) (En,Fr,Es) (Toy Box Special Edition)</description>
+		<rom name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es) (Toy Box Special Edition).iso" size="7838695424" crc="c4581d76" md5="daaabf41c78c6db03fa2a3f8b64cdbf6" sha1="11caa517a5b86005c7c8ef199e2789175ee6ba11"/>
 	</game>
 	<game name="Disney-Pixar Toy Story Mania! (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Ru)">
 		<category>Games</category>
@@ -5761,10 +5761,10 @@
 		<description>Space Chimps (USA)</description>
 		<rom name="Space Chimps (USA).iso" size="7835492352" crc="9fe52f86" md5="3f5e44fbc6f50cb5f802bce96ff4e630" sha1="dca5b1642483f44c09c9eb7c3aa4ded3ed0d05c8"/>
 	</game>
-	<game name="Spec Ops - The Line (USA, Europe) (En,Ja,Fr,De,Es,It)">
+	<game name="Spec Ops - The Line (USA, Europe) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Spec Ops - The Line (USA, Europe) (En,Ja,Fr,De,Es,It)</description>
-		<rom name="Spec Ops - The Line (USA, Europe) (En,Ja,Fr,De,Es,It).iso" size="8738846720" crc="be9c028c" md5="2da28d251664439f09d33c06277eed63" sha1="ec7d7d72aee347ec20015fb60ee59924b9a13192"/>
+		<description>Spec Ops - The Line (USA, Europe) (En,Fr,Es)</description>
+		<rom name="Spec Ops - The Line (USA, Europe) (En,Fr,Es).iso" size="8738846720" crc="be9c028c" md5="2da28d251664439f09d33c06277eed63" sha1="ec7d7d72aee347ec20015fb60ee59924b9a13192"/>
 	</game>
 	<game name="Spectral Force 3 (USA)">
 		<category>Games</category>
