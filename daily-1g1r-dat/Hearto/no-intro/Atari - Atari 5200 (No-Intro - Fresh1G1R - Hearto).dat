@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari 5200 (Retool)</name>
-		<description>Atari - Atari 5200 (107) (-y) [-aAbBcefkmMoprv] (20260204-130956) (Retool)</description>
-		<version>20260204-130956</version>
-		<date>2026-02-06 04-29-58</date>
+		<description>Atari - Atari 5200 (108) (-y) [-aAbBcefkmMoprv] (20260205-110758) (Retool)</description>
+		<version>20260205-110758</version>
+		<date>2026-02-07 04-22-26</date>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -544,10 +544,17 @@
 		<description>Xari Arena (USA) (Proto) (1983-09-20)</description>
 		<rom name="Xari Arena (USA) (Proto) (1983-09-20).a52" size="16384" crc="29178296" md5="c1f1d430ebd3e0ff8de688e5101da7af" sha1="42accb12e34031da5822dc52fbbfb1b912a6a5a7" sha256="51c902b011785bcf5192d6fafb83e133fdde88952b2b5a0a4f11ecae418d7ace"/>
 	</game>
-	<game name="Xevious (USA) (Proto)" id="0103">
+	<game name="Xevious (USA) (Proto) (1984-01-04)" id="0195">
+		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Xevious (USA) (Proto)</description>
-		<rom name="Xevious (USA) (Proto).a52" size="32768" crc="382634dc" md5="53d0fa90d913084677212a240c5affbd" sha1="c3cf33216dfa484309b923f21829d040486bc481"/>
+		<description>Xevious (USA) (Proto) (1984-01-04)</description>
+		<rom name="Xevious (USA) (Proto) (1984-01-04).a52" size="32768" crc="5a52793f" md5="bfde4af393edd277021236f4274449ec" sha1="b76985b1942dab8c353d70edb108ad571cb2024c" sha256="1c835d8f769c5d088d42e9ee8117c7768806f05d6b300ea61181c4956802ca76"/>
+	</game>
+	<game name="Xevious (USA) (Proto) (Unknown)" id="0103">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xevious (USA) (Proto) (Unknown)</description>
+		<rom name="Xevious (USA) (Proto) (Unknown).a52" size="32768" crc="382634dc" md5="53d0fa90d913084677212a240c5affbd" sha1="c3cf33216dfa484309b923f21829d040486bc481" sha256="82254ee8ba44cf43d0bf728aff85f14f738ee4473334e4c057e9f5c59777dd15"/>
 	</game>
 	<game name="Yellow Submarine (USA) (Demo)" id="0104">
 		<category>Demos</category>
