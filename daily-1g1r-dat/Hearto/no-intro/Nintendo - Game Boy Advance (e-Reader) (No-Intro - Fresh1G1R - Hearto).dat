@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (e-Reader) (Retool)</name>
-		<description>Nintendo - Game Boy Advance (e-Reader) (3,006) (-y) [-aAbBcefkmMoprv] (20260204-075123) (Retool)</description>
-		<version>20260204-075123</version>
-		<date>2026-02-07 04-19-27</date>
+		<description>Nintendo - Game Boy Advance (e-Reader) (3,007) (-y) [-aAbBcefkmMoprv] (20260206-090721) (Retool)</description>
+		<version>20260206-090721</version>
+		<date>2026-02-08 04-39-52</date>
 		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -12276,6 +12276,12 @@
 		<description>Pokemon-e TCG - M-88-# - Machamp (USA) (Sample)</description>
 		<rom name="Pokemon-e TCG - M-88-# - Machamp (USA) (Sample) (Long Strip).raw" size="2912" crc="0701b8ec" md5="5b3daf3c913c08f9b027641c445a6e54" sha1="af3833c2f44ef7690e01af8eed68afa943f16aa9"/>
 		<rom name="Pokemon-e TCG - M-88-# - Machamp (USA) (Sample) (Short Strip).raw" size="1872" crc="3d8da6e9" md5="f2f77a6a262e84341938cb229cbd3c18" sha1="a2d5138e61db9c018a5de9753568f6c660b44a81"/>
+	</game>
+	<game name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample)" id="3259">
+		<category>Demos</category>
+		<description>Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample)</description>
+		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Long Strip).raw" size="2912" crc="78e6f23a" md5="9b1104953505a93c147151709716ed97" sha1="114c39bdffc155c484c7c57cc2d7168000806f26" sha256="b5b9bee55f73a202acffdd5ff354c659e37684ccb3eba07140ad8e8ecaba06ab"/>
+		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Short Strip).raw" size="1872" crc="a71f27d6" md5="4a2d37f0396acab1eb89e711df8e69b6" sha1="22d58e79bfb721e51c9627d18c74c85aca4771cc" sha256="ccce55d3470b873ac10e5712ac8d026efc818ee0873455afe7853a3d030293bc"/>
 	</game>
 	<game name="Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)" id="2301">
 		<category>Games</category>
