@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,814) (-y) [-aAbBcefkmMoprv] (2026-01-31 22-48-36) (Retool)</description>
-		<version>2026-01-31 22-48-36</version>
-		<date>2026-02-07 04-18-43</date>
+		<description>Sony - PlayStation Portable (1,815) (-y) [-aAbBcefkmMoprv] (2026-02-08 15-02-26) (Retool)</description>
+		<version>2026-02-08 15-02-26</version>
+		<date>2026-02-09 04-38-16</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3021,10 +3021,15 @@
 		<description>Hatsune Miku - Project Diva (Japan, Asia)</description>
 		<rom name="Hatsune Miku - Project Diva (Japan, Asia).iso" size="1402929152" crc="1ad74675" md5="e4886b42939a47e39486414388061042" sha1="098758b6d50c584b874e032b15e5b68aa97e5a16"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban)">
+	<game name="Hatsune Miku - Project Diva 2nd (Japan)">
 		<category>Games</category>
-		<description>Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban)</description>
-		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban).iso" size="1618280448" crc="08832d16" md5="1c58ec248d77583803bc6b25c648affb" sha1="de0d2e73df4f74743758b1f8c06d78d4e81390ad"/>
+		<description>Hatsune Miku - Project Diva 2nd (Japan)</description>
+		<rom name="Hatsune Miku - Project Diva 2nd (Japan).iso" size="1612283904" crc="242e921c" md5="2f5d32d9f77f926492b8cc07d88b18b0" sha1="af3929cf33e6f92cf3b991245df1ee8e2b576a17"/>
+	</game>
+	<game name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)">
+		<category>Games</category>
+		<description>Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)</description>
+		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban).iso" size="1618280448" crc="08832d16" md5="1c58ec248d77583803bc6b25c648affb" sha1="de0d2e73df4f74743758b1f8c06d78d4e81390ad"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva Extend (Japan, Asia)">
 		<category>Games</category>

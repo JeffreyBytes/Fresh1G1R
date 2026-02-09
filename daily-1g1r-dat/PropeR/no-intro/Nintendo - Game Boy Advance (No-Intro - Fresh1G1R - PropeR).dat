@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,547) (-y) [-aAbBcdkmMpPuv] (20260204-095544) (Retool)</description>
-		<version>20260204-095544</version>
-		<date>2026-02-08 04-48-48</date>
+		<description>Nintendo - Game Boy Advance (1,548) (-y) [-aAbBcdkmMpPuv] (20260207-153904) (Retool)</description>
+		<version>20260207-153904</version>
+		<date>2026-02-09 04-54-07</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -219,7 +219,7 @@
 	<game name="Alien Hominid (Europe) (En,Fr,De,Es,It)" id="2281">
 		<category>Games</category>
 		<description>Alien Hominid (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Alien Hominid (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="dff47236" md5="18ef4ec828a4bf14b6fd241230bb349a" sha1="9d0e6bbbe6a364c5c190aa2695f8b58ffcca8e21"/>
+		<rom name="Alien Hominid (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="dff47236" md5="18ef4ec828a4bf14b6fd241230bb349a" sha1="9d0e6bbbe6a364c5c190aa2695f8b58ffcca8e21" sha256="a39052860989f666ba43be8d3b2efd5e8c984c1631ab7e05da0193779cb26ae0"/>
 	</game>
 	<game name="Alienators - Evolution Continues (USA, Europe)" id="0175">
 		<category>Games</category>
@@ -6045,6 +6045,11 @@
 		<category>Games</category>
 		<description>Sigma Star Saga (USA, Europe)</description>
 		<rom name="Sigma Star Saga (USA, Europe).gba" size="8388608" crc="a8b80a7c" md5="29b048b4b36b3fda168850003f2ee844" sha1="132222e0c0ddacb6281cc2eb4489ed6c8719dac2"/>
+	</game>
+	<game name="Sigma Star Saga DX (World) (Limited Run Games)" id="3298">
+		<category>Games</category>
+		<description>Sigma Star Saga DX (World) (Limited Run Games)</description>
+		<rom name="Sigma Star Saga DX (World) (Limited Run Games).gba" size="16777216" crc="ff797ac9" md5="5a2dc24d450d9733cbf1d755ebc40af4" sha1="9310aa93aedbf2394e848fc56339a22a71bc81a1" sha256="df1e94a01aec3aad70073702c9fd0827bc6b5ccc28a06b03f6ab4b8458ee5fc0"/>
 	</game>
 	<game name="Silent Scope (USA) (En,Fr,De,Es,It)" id="0570">
 		<category>Games</category>
