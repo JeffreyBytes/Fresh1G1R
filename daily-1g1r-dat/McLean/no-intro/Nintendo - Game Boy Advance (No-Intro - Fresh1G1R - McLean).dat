@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,042) (-ly) [-aAbBcdDefkmMopPruv] (20260207-153904) (Retool)</description>
-		<version>20260207-153904</version>
-		<date>2026-02-10 04-49-40</date>
+		<description>Nintendo - Game Boy Advance (1,041) (-ly) [-aAbBcdDefkmMopPruv] (20260209-000508) (Retool)</description>
+		<version>20260209-000508</version>
+		<date>2026-02-11 04-49-24</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3980,11 +3980,6 @@
 		<category>Games</category>
 		<description>Sigma Star Saga (USA, Europe)</description>
 		<rom name="Sigma Star Saga (USA, Europe).gba" size="8388608" crc="a8b80a7c" md5="29b048b4b36b3fda168850003f2ee844" sha1="132222e0c0ddacb6281cc2eb4489ed6c8719dac2"/>
-	</game>
-	<game name="Sigma Star Saga DX (World) (Limited Run Games)" id="3298">
-		<category>Games</category>
-		<description>Sigma Star Saga DX (World) (Limited Run Games)</description>
-		<rom name="Sigma Star Saga DX (World) (Limited Run Games).gba" size="16777216" crc="ff797ac9" md5="5a2dc24d450d9733cbf1d755ebc40af4" sha1="9310aa93aedbf2394e848fc56339a22a71bc81a1" sha256="df1e94a01aec3aad70073702c9fd0827bc6b5ccc28a06b03f6ab4b8458ee5fc0"/>
 	</game>
 	<game name="Silent Scope (USA) (En,Fr,De,Es,It)" id="0570">
 		<category>Games</category>
