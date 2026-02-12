@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,592) (-y) [-aAbBcefkmMoprv] (2026-02-11 01-36-35) (Retool)</description>
-		<version>2026-02-11 01-36-35</version>
-		<date>2026-02-11 04-39-54</date>
+		<description>Microsoft - Xbox 360 (1,598) (-y) [-aAbBcefkmMoprv] (2026-02-12 04-00-49) (Retool)</description>
+		<version>2026-02-12 04-00-49</version>
+		<date>2026-02-12 04-34-33</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -850,6 +850,11 @@
 		<category>Add-Ons</category>
 		<description>Borderlands - Double Game Add-On Pack (USA, Europe)</description>
 		<rom name="Borderlands - Double Game Add-On Pack (USA, Europe).iso" size="7838695424" crc="acacae7a" md5="5607192a104bc4f6ccb020daff4a2505" sha1="58adb3278e377a3f14744b8380034796edd70184"/>
+	</game>
+	<game name="Borderlands - Game of the Year Edition (Germany) (Expansion Disk)">
+		<category>Add-Ons</category>
+		<description>Borderlands - Game of the Year Edition (Germany) (Expansion Disk)</description>
+		<rom name="Borderlands - Game of the Year Edition (Germany) (Expansion Disk).iso" size="7838695424" crc="007e7e7c" md5="f531b8f7b83f0cd6a4ec79c1a6c93add" sha1="44081804a7e3d3a58fb88a083ed1540c264b8dde"/>
 	</game>
 	<game name="Borderlands - The Pre-Sequel! (World) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
@@ -2306,15 +2311,25 @@
 		<description>El Shaddai - Ascension of the Metatron (USA)</description>
 		<rom name="El Shaddai - Ascension of the Metatron (USA).iso" size="7838695424" crc="4cc05d46" md5="c7ed19a192bb97bccfec19aa71816033" sha1="e75a73f861602d493b3a2f9883037c277dee0f7f"/>
 	</game>
+	<game name="Elder Scrolls IV, The - Oblivion (USA) (Rev 3)">
+		<category>Games</category>
+		<description>Elder Scrolls IV, The - Oblivion (USA) (Rev 3)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion (USA) (Rev 3).iso" size="7838695424" crc="a394b875" md5="b1f1e89be472549c15bef59c968bfce8" sha1="14c135f92589bdbea365624432735011696cb538"/>
+	</game>
+	<game name="Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Spain) (Disc 2)">
+		<category>Games</category>
+		<description>Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Spain) (Disc 2)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Spain) (Disc 2).iso" size="7838695424" crc="196a1fe4" md5="624ef206a9f230945b514bebdb44e8a0" sha1="67fb1d070968e39b996feb9129a8ff643197a93e"/>
+	</game>
+	<game name="Elder Scrolls IV, The - Oblivion - Edicion Juego del Ano (Spain) (Disc 2)">
+		<category>Games</category>
+		<description>Elder Scrolls IV, The - Oblivion - Edicion Juego del Ano (Spain) (Disc 2)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion - Edicion Juego del Ano (Spain) (Disc 2).iso" size="7835492352" crc="a31172e0" md5="8a4f36f02bf25b051222a764e7deb719" sha1="afdc34e1c92dc147dc6842ba7de6f483281c4c41"/>
+	</game>
 	<game name="Elder Scrolls IV, The - Oblivion - Edition Jeu de L'Annee (France) (Disc 2)">
 		<category>Games</category>
 		<description>Elder Scrolls IV, The - Oblivion - Edition Jeu de L'Annee (France) (Disc 2)</description>
 		<rom name="Elder Scrolls IV, The - Oblivion - Edition Jeu de L'Annee (France) (Disc 2).iso" size="7835492352" crc="0c28d7ee" md5="e4c2260f5dbdbfa5b8ee64406c0eb10a" sha1="e6aeebb5007c3a863c7234ffca61f811fbdd8568"/>
-	</game>
-	<game name="Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 1) (Rev 1)">
-		<category>Games</category>
-		<description>Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 1) (Rev 1)</description>
-		<rom name="Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 1) (Rev 1).iso" size="7838695424" crc="a394b875" md5="b1f1e89be472549c15bef59c968bfce8" sha1="14c135f92589bdbea365624432735011696cb538"/>
 	</game>
 	<game name="Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 2) (Rev 1)">
 		<category>Games</category>
@@ -2615,6 +2630,16 @@
 		<category>Games</category>
 		<description>Fallout 3 (USA, Europe)</description>
 		<rom name="Fallout 3 (USA, Europe).iso" size="7835492352" crc="9e679170" md5="77ee354eb47b04ae44c50f95b9566d2a" sha1="0927a5350bbb25e88493406af914d94836d2aa8a"/>
+	</game>
+	<game name="Fallout 3 - Extension de Jeu - Broken Steel et Point Lookout (France)">
+		<category>Add-Ons</category>
+		<description>Fallout 3 - Extension de Jeu - Broken Steel et Point Lookout (France)</description>
+		<rom name="Fallout 3 - Extension de Jeu - Broken Steel et Point Lookout (France).iso" size="7838695424" crc="d6ab8acb" md5="0a2c201dc273932c826381d3085b4e31" sha1="fef11a58f3b54b13a4d84109a85786863d3851d2"/>
+	</game>
+	<game name="Fallout 3 - Extension de Jeu - The Pitt et Operation - Anchorage (France)">
+		<category>Add-Ons</category>
+		<description>Fallout 3 - Extension de Jeu - The Pitt et Operation - Anchorage (France)</description>
+		<rom name="Fallout 3 - Extension de Jeu - The Pitt et Operation - Anchorage (France).iso" size="7838695424" crc="bd52216d" md5="92673ba6a1ac3c97f64edfa0a40a3b14" sha1="424f0719fc58e4ea04ed2bf150fca084de92251b"/>
 	</game>
 	<game name="Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout (USA, Europe)">
 		<category>Add-Ons</category>
@@ -5281,10 +5306,10 @@
 		<description>Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)</description>
 		<rom name="Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).iso" size="7835492352" crc="cc9b86a2" md5="fc0d340fbfb20e3d5e8b17197e8d0982" sha1="bd0c0e6dedf9867d6aa78fb1df069b98a1ac22f4"/>
 	</game>
-	<game name="Ninja Gaiden 3 - Razor's Edge (USA)">
+	<game name="Ninja Gaiden 3 - Razor's Edge (USA, Europe)">
 		<category>Games</category>
-		<description>Ninja Gaiden 3 - Razor's Edge (USA)</description>
-		<rom name="Ninja Gaiden 3 - Razor's Edge (USA).iso" size="8738846720" crc="d172d568" md5="2b9615d7c18ae68093ef65003ecbc886" sha1="65aee5b5279f0de3412abe993ca5b49dc69f9f4b"/>
+		<description>Ninja Gaiden 3 - Razor's Edge (USA, Europe)</description>
+		<rom name="Ninja Gaiden 3 - Razor's Edge (USA, Europe).iso" size="8738846720" crc="d172d568" md5="2b9615d7c18ae68093ef65003ecbc886" sha1="65aee5b5279f0de3412abe993ca5b49dc69f9f4b"/>
 	</game>
 	<game name="Ninja Gaiden II (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)">
 		<category>Games</category>
@@ -5951,6 +5976,11 @@
 		<description>Risen 3 - Titan Lords (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Risen 3 - Titan Lords (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="c4622c26" md5="5cc8d061e40c2d5f3a7d857eb7a1e370" sha1="8a92bf21c526c9f88609239cb6bfb40f4dd176de"/>
 	</game>
+	<game name="Robert Ludlum's Das Bourne Komplott (Germany) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Robert Ludlum's Das Bourne Komplott (Germany) (En,Fr,De,Es,It)</description>
+		<rom name="Robert Ludlum's Das Bourne Komplott (Germany) (En,Fr,De,Es,It).iso" size="7835492352" crc="ee2ec53a" md5="1d20ce8b5327635adecf4d0e51b35b56" sha1="05f2241928d0b3ac65fe5f860c4bc3f687debbf2"/>
+	</game>
 	<game name="Robert Ludlum's The Bourne Conspiracy (USA, Europe) (Demo)">
 		<category>Demos</category>
 		<description>Robert Ludlum's The Bourne Conspiracy (USA, Europe) (Demo)</description>
@@ -6441,10 +6471,10 @@
 		<description>Skylanders - SuperChargers (USA) (En,Fr)</description>
 		<rom name="Skylanders - SuperChargers (USA) (En,Fr).iso" size="8738846720" crc="141402cc" md5="60c3276a42b0e9ae21a8d03d2491ce95" sha1="d298228af7b717a3ccd6b86536f56d22c233a282"/>
 	</game>
-	<game name="Skylanders - Swap Force (USA) (En,Fr)">
+	<game name="Skylanders - Swap Force (USA, Australia) (En,Fr)">
 		<category>Games</category>
-		<description>Skylanders - Swap Force (USA) (En,Fr)</description>
-		<rom name="Skylanders - Swap Force (USA) (En,Fr).iso" size="8738846720" crc="a542269b" md5="4bba115990832daae470005e39ccbdcc" sha1="c738f4a0def88347c07d7e2f895db9b49a25d4da"/>
+		<description>Skylanders - Swap Force (USA, Australia) (En,Fr)</description>
+		<rom name="Skylanders - Swap Force (USA, Australia) (En,Fr).iso" size="8738846720" crc="a542269b" md5="4bba115990832daae470005e39ccbdcc" sha1="c738f4a0def88347c07d7e2f895db9b49a25d4da"/>
 	</game>
 	<game name="Skylanders - Trap Team (USA) (En,Fr)">
 		<category>Games</category>

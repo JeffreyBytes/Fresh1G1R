@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-11 01-36-35) (Retool)</description>
-		<version>2026-02-11 01-36-35</version>
-		<date>2026-02-11 04-46-03</date>
+		<description>Microsoft - Xbox 360 (1,393) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-12 04-00-49) (Retool)</description>
+		<version>2026-02-12 04-00-49</version>
+		<date>2026-02-12 04-40-34</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2071,10 +2071,10 @@
 		<description>El Shaddai - Ascension of the Metatron (USA)</description>
 		<rom name="El Shaddai - Ascension of the Metatron (USA).iso" size="7838695424" crc="4cc05d46" md5="c7ed19a192bb97bccfec19aa71816033" sha1="e75a73f861602d493b3a2f9883037c277dee0f7f"/>
 	</game>
-	<game name="Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 1) (Rev 1)">
+	<game name="Elder Scrolls IV, The - Oblivion (USA) (Rev 3)">
 		<category>Games</category>
-		<description>Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 1) (Rev 1)</description>
-		<rom name="Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 1) (Rev 1).iso" size="7838695424" crc="a394b875" md5="b1f1e89be472549c15bef59c968bfce8" sha1="14c135f92589bdbea365624432735011696cb538"/>
+		<description>Elder Scrolls IV, The - Oblivion (USA) (Rev 3)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion (USA) (Rev 3).iso" size="7838695424" crc="a394b875" md5="b1f1e89be472549c15bef59c968bfce8" sha1="14c135f92589bdbea365624432735011696cb538"/>
 	</game>
 	<game name="Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA) (Disc 2) (Rev 1)">
 		<category>Games</category>
@@ -4681,10 +4681,10 @@
 		<description>Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)</description>
 		<rom name="Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).iso" size="7835492352" crc="cc9b86a2" md5="fc0d340fbfb20e3d5e8b17197e8d0982" sha1="bd0c0e6dedf9867d6aa78fb1df069b98a1ac22f4"/>
 	</game>
-	<game name="Ninja Gaiden 3 - Razor's Edge (USA)">
+	<game name="Ninja Gaiden 3 - Razor's Edge (USA, Europe)">
 		<category>Games</category>
-		<description>Ninja Gaiden 3 - Razor's Edge (USA)</description>
-		<rom name="Ninja Gaiden 3 - Razor's Edge (USA).iso" size="8738846720" crc="d172d568" md5="2b9615d7c18ae68093ef65003ecbc886" sha1="65aee5b5279f0de3412abe993ca5b49dc69f9f4b"/>
+		<description>Ninja Gaiden 3 - Razor's Edge (USA, Europe)</description>
+		<rom name="Ninja Gaiden 3 - Razor's Edge (USA, Europe).iso" size="8738846720" crc="d172d568" md5="2b9615d7c18ae68093ef65003ecbc886" sha1="65aee5b5279f0de3412abe993ca5b49dc69f9f4b"/>
 	</game>
 	<game name="Ninja Gaiden II (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)">
 		<category>Games</category>
@@ -5241,6 +5241,11 @@
 		<description>Risen 3 - Titan Lords (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Risen 3 - Titan Lords (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="c4622c26" md5="5cc8d061e40c2d5f3a7d857eb7a1e370" sha1="8a92bf21c526c9f88609239cb6bfb40f4dd176de"/>
 	</game>
+	<game name="Robert Ludlum's Das Bourne Komplott (Germany) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Robert Ludlum's Das Bourne Komplott (Germany) (En,Fr,De,Es,It)</description>
+		<rom name="Robert Ludlum's Das Bourne Komplott (Germany) (En,Fr,De,Es,It).iso" size="7835492352" crc="ee2ec53a" md5="1d20ce8b5327635adecf4d0e51b35b56" sha1="05f2241928d0b3ac65fe5f860c4bc3f687debbf2"/>
+	</game>
 	<game name="Robert Ludlum's The Bourne Conspiracy (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Robert Ludlum's The Bourne Conspiracy (USA, Europe) (En,Fr,De,Es,It)</description>
@@ -5646,10 +5651,10 @@
 		<description>Skylanders - SuperChargers (USA) (En,Fr)</description>
 		<rom name="Skylanders - SuperChargers (USA) (En,Fr).iso" size="8738846720" crc="141402cc" md5="60c3276a42b0e9ae21a8d03d2491ce95" sha1="d298228af7b717a3ccd6b86536f56d22c233a282"/>
 	</game>
-	<game name="Skylanders - Swap Force (USA) (En,Fr)">
+	<game name="Skylanders - Swap Force (USA, Australia) (En,Fr)">
 		<category>Games</category>
-		<description>Skylanders - Swap Force (USA) (En,Fr)</description>
-		<rom name="Skylanders - Swap Force (USA) (En,Fr).iso" size="8738846720" crc="a542269b" md5="4bba115990832daae470005e39ccbdcc" sha1="c738f4a0def88347c07d7e2f895db9b49a25d4da"/>
+		<description>Skylanders - Swap Force (USA, Australia) (En,Fr)</description>
+		<rom name="Skylanders - Swap Force (USA, Australia) (En,Fr).iso" size="8738846720" crc="a542269b" md5="4bba115990832daae470005e39ccbdcc" sha1="c738f4a0def88347c07d7e2f895db9b49a25d4da"/>
 	</game>
 	<game name="Skylanders - Trap Team (USA) (En,Fr)">
 		<category>Games</category>
