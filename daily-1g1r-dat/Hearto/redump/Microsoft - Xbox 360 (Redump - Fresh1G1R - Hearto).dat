@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,598) (-y) [-aAbBcefkmMoprv] (2026-02-12 04-00-49) (Retool)</description>
-		<version>2026-02-12 04-00-49</version>
-		<date>2026-02-12 04-34-33</date>
+		<description>Microsoft - Xbox 360 (1,599) (-y) [-aAbBcefkmMoprv] (2026-02-13 03-00-45) (Retool)</description>
+		<version>2026-02-13 03-00-45</version>
+		<date>2026-02-13 04-30-20</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -846,45 +846,50 @@
 		<description>Borderlands (World) (En,Fr,De,Es,It)</description>
 		<rom name="Borderlands (World) (En,Fr,De,Es,It).iso" size="7838695424" crc="b18f4035" md5="68ed800e7c58dbad2016bcc1fa0f0578" sha1="4d6322f04fd7aea1fe1ed38e748026519db00869"/>
 	</game>
-	<game name="Borderlands - Double Game Add-On Pack (USA, Europe)">
+	<game name="Borderlands - Double Game Add-On Pack (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Add-Ons</category>
-		<description>Borderlands - Double Game Add-On Pack (USA, Europe)</description>
-		<rom name="Borderlands - Double Game Add-On Pack (USA, Europe).iso" size="7838695424" crc="acacae7a" md5="5607192a104bc4f6ccb020daff4a2505" sha1="58adb3278e377a3f14744b8380034796edd70184"/>
+		<description>Borderlands - Double Game Add-On Pack (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Borderlands - Double Game Add-On Pack (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="acacae7a" md5="5607192a104bc4f6ccb020daff4a2505" sha1="58adb3278e377a3f14744b8380034796edd70184"/>
 	</game>
-	<game name="Borderlands - Game of the Year Edition (Germany) (Expansion Disk)">
+	<game name="Borderlands - Game of the Year Edition (Germany) (En,Fr,De,Es,It) (Expansion Disk)">
 		<category>Add-Ons</category>
-		<description>Borderlands - Game of the Year Edition (Germany) (Expansion Disk)</description>
-		<rom name="Borderlands - Game of the Year Edition (Germany) (Expansion Disk).iso" size="7838695424" crc="007e7e7c" md5="f531b8f7b83f0cd6a4ec79c1a6c93add" sha1="44081804a7e3d3a58fb88a083ed1540c264b8dde"/>
+		<description>Borderlands - Game of the Year Edition (Germany) (En,Fr,De,Es,It) (Expansion Disk)</description>
+		<rom name="Borderlands - Game of the Year Edition (Germany) (En,Fr,De,Es,It) (Expansion Disk).iso" size="7838695424" crc="007e7e7c" md5="f531b8f7b83f0cd6a4ec79c1a6c93add" sha1="44081804a7e3d3a58fb88a083ed1540c264b8dde"/>
 	</game>
 	<game name="Borderlands - The Pre-Sequel! (World) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Borderlands - The Pre-Sequel! (World) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Borderlands - The Pre-Sequel! (World) (En,Ja,Fr,De,Es,It).iso" size="8738846720" crc="a0e23bce" md5="c8ff5b0e76cc77c2e92213fabd7d2070" sha1="ab89a60ebd338e2406f8389c667e20356a8514b8"/>
 	</game>
-	<game name="Borderlands - The Pre-Sequel! Add-On Installation Disc (USA, Europe)">
-		<category>Add-Ons</category>
-		<description>Borderlands - The Pre-Sequel! Add-On Installation Disc (USA, Europe)</description>
-		<rom name="Borderlands - The Pre-Sequel! Add-On Installation Disc (USA, Europe).iso" size="8738846720" crc="102f9232" md5="f2d731dab5cbb3824e159ea59663bfd1" sha1="94a29f3a53af8a3421cb110bf471134f232f637a"/>
-	</game>
-	<game name="Borderlands 2 (USA, Europe) (Add-On Installation Disc)">
-		<category>Add-Ons</category>
-		<description>Borderlands 2 (USA, Europe) (Add-On Installation Disc)</description>
-		<rom name="Borderlands 2 (USA, Europe) (Add-On Installation Disc).iso" size="8738846720" crc="ac2d66e2" md5="d4d44dd13fdca60d7390cebd4e9d73b6" sha1="6b512267a6ef8b7abac6980834c043d2c97cde38"/>
-	</game>
 	<game name="Borderlands 2 (World) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Borderlands 2 (World) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Borderlands 2 (World) (En,Ja,Fr,De,Es,It).iso" size="8738846720" crc="5ca225a5" md5="a235e99787671280708ab6b547715d84" sha1="2e8f971f622a5831331550739699e40fb18dc117"/>
 	</game>
-	<game name="Borderlands 2 - Add-On Content Pack (USA, Europe) (Rev 1)">
+	<game name="Borderlands 2 - Add-On Content Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Rev 1)">
 		<category>Add-Ons</category>
-		<description>Borderlands 2 - Add-On Content Pack (USA, Europe) (Rev 1)</description>
-		<rom name="Borderlands 2 - Add-On Content Pack (USA, Europe) (Rev 1).iso" size="7838695424" crc="d74eb699" md5="8327a4116eabec6dc6d1cc9deb4bbf8d" sha1="80d6c2d89666f8213851bd9062c43b2737fdaac9"/>
+		<description>Borderlands 2 - Add-On Content Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="Borderlands 2 - Add-On Content Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Rev 1).iso" size="7838695424" crc="d74eb699" md5="8327a4116eabec6dc6d1cc9deb4bbf8d" sha1="80d6c2d89666f8213851bd9062c43b2737fdaac9"/>
 	</game>
-	<game name="Borderlands 2 - Game of the Year Edition (World) (Add-On Disc)">
+	<game name="Borderlands 2 - Game of the Year Edition (World) (En,Ja,Fr,De,Es,It) (Add-On Disc)">
 		<category>Add-Ons</category>
-		<description>Borderlands 2 - Game of the Year Edition (World) (Add-On Disc)</description>
-		<rom name="Borderlands 2 - Game of the Year Edition (World) (Add-On Disc).iso" size="7838695424" crc="1b302730" md5="1c7968a1b6154748e6cec9abc0b97063" sha1="7c5571970bab9cc2b1e0aa6dace94bdf9104ce9c"/>
+		<description>Borderlands 2 - Game of the Year Edition (World) (En,Ja,Fr,De,Es,It) (Add-On Disc)</description>
+		<rom name="Borderlands 2 - Game of the Year Edition (World) (En,Ja,Fr,De,Es,It) (Add-On Disc).iso" size="7838695424" crc="1b302730" md5="1c7968a1b6154748e6cec9abc0b97063" sha1="7c5571970bab9cc2b1e0aa6dace94bdf9104ce9c"/>
+	</game>
+	<game name="Borderlands Triple Pack (USA, Europe) (En,Fr,De,Es,It) (Borderlands - Add-On Installation Disc)">
+		<category>Add-Ons</category>
+		<description>Borderlands Triple Pack (USA, Europe) (En,Fr,De,Es,It) (Borderlands - Add-On Installation Disc)</description>
+		<rom name="Borderlands Triple Pack (USA, Europe) (En,Fr,De,Es,It) (Borderlands - Add-On Installation Disc).iso" size="8738846720" crc="2c9bae72" md5="7c42d8a5ebbebcda119ec42f205a6491" sha1="e5cb4b6c7f9ad27eac9463b420af35147932566b"/>
+	</game>
+	<game name="Borderlands Triple Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Borderlands - The Pre-Sequel! - Add-On Installation Disc)">
+		<category>Add-Ons</category>
+		<description>Borderlands Triple Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Borderlands - The Pre-Sequel! - Add-On Installation Disc)</description>
+		<rom name="Borderlands Triple Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Borderlands - The Pre-Sequel! - Add-On Installation Disc).iso" size="8738846720" crc="102f9232" md5="f2d731dab5cbb3824e159ea59663bfd1" sha1="94a29f3a53af8a3421cb110bf471134f232f637a"/>
+	</game>
+	<game name="Borderlands Triple Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Borderlands 2 - Add-On Installation Disc)">
+		<category>Add-Ons</category>
+		<description>Borderlands Triple Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Borderlands 2 - Add-On Installation Disc)</description>
+		<rom name="Borderlands Triple Pack (USA, Europe) (En,Ja,Fr,De,Es,It) (Borderlands 2 - Add-On Installation Disc).iso" size="8738846720" crc="ac2d66e2" md5="d4d44dd13fdca60d7390cebd4e9d73b6" sha1="6b512267a6ef8b7abac6980834c043d2c97cde38"/>
 	</game>
 	<game name="Bound by Flame (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>

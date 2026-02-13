@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari 5200 (Retool)</name>
-		<description>Atari - Atari 5200 (108) (-y) [-aAbBcefkmMoprv] (20260207-020939) (Retool)</description>
-		<version>20260207-020939</version>
-		<date>2026-02-12 04-35-28</date>
+		<description>Atari - Atari 5200 (108) (-y) [-aAbBcefkmMoprv] (20260211-121013) (Retool)</description>
+		<version>20260211-121013</version>
+		<date>2026-02-13 04-31-42</date>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
