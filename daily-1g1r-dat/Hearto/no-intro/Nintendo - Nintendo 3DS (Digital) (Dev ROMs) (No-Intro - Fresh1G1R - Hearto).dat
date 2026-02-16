@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (11) (-y) [-aAbBcefkmMoprv] (20241231-125828) (Retool)</description>
-		<version>20241231-125828</version>
-		<date>2026-02-15 04-32-43</date>
-		<author>Hiccup, rarenight</author>
+		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (11) (-y) [-aAbBcefkmMoprv] (20260214-030555) (Retool)</description>
+		<version>20260214-030555</version>
+		<date>2026-02-16 04-33-05</date>
+		<author>Hiccup, MisterSheeple, rarenight</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>

@@ -36,4 +36,5 @@ VIDEO REMOVES
 =============
 These titles were removed because the user excluded video titles.
 
-- Paper Mario Preview (World) (Beta) (E3 2010 Trailer)
+- Paper Mario Preview (World) (2010-05-28T190436) (Beta) (E3 2010 Trailer)
+- Paper Mario Preview (World) (2010-06-09T182413) (Beta) (E3 2010 Trailer)
