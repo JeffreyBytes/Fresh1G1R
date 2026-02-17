@@ -1631,7 +1631,6 @@ These titles were removed because the user excluded bad dump titles.
 
 - Bionic Commando (USA) (Capcom Classics Mini Mix) [b]
 - Nintendo Campus Challenge 1991 (USA) (Competition Cart) [b]
-- Sonic (Asia) (En) (Pirate) [b]
 
 BIOS AND OTHER CHIP REMOVES
 ===========================
@@ -2261,6 +2260,7 @@ These titles were removed because the user excluded pirate titles.
 - Somari (Asia) (En) (NT-616) (Pirate)
 - Somari (Taiwan) (En) (Pirate)
 - Somari (Taiwan) (En) (v1.1) (Pirate)
+- Sonic (Asia) (En) (Pirate) [b]
 - Sonic 3D Blast 6 (Taiwan) (En) (Pirate)
 - Sonic The Hedgehog (Taiwan) (En) (Pirate)
 - Spider-Man - Return of the Sinister Six (Asia) (En) (FK-8380) (Pirate)
