@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Fujitsu - FM-Towns (Retool)</name>
-		<description>Fujitsu - FM-Towns (590) (-y) [-aAbBcefkmMoprv] (2026-02-09 16-15-00) (Retool)</description>
-		<version>2026-02-09 16-15-00</version>
-		<date>2026-02-15 04-30-25</date>
+		<description>Fujitsu - FM-Towns (590) (-y) [-aAbBcefkmMoprv] (2026-02-17 21-06-26) (Retool)</description>
+		<version>2026-02-17 21-06-26</version>
+		<date>2026-02-18 04-30-30</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1135,12 +1135,12 @@
 		<rom name="Blandia Plus (Japan) (Track 64).bin" size="1046640" crc="1abd7d99" md5="0aa85e9db1e265d4c831fbc73368e054" sha1="3df3c0e1ae45c31fa9679ffb6b26f17487501fa6"/>
 		<rom name="Blandia Plus (Japan).cue" size="6307" crc="eca0b252" md5="cf09eeeefdaa0412bc42d5daaf2f1ef2" sha1="6fa918dc83832829c8b22700cbc9c436ccfdeba6"/>
 	</game>
-	<game name="Blue - Will To Power (Japan)">
+	<game name="Blue - Will to Power (Japan)">
 		<category>Games</category>
-		<description>Blue - Will To Power (Japan)</description>
-		<rom name="Blue - Will To Power (Japan) (Track 1).bin" size="10231200" crc="1b0cb8af" md5="e6acb6007aa245a82dfa9ca24d854da6" sha1="63dc306acc82589db97bf3fe4223858d140b83c5"/>
-		<rom name="Blue - Will To Power (Japan) (Track 2).bin" size="19051200" crc="ea2ac438" md5="06480349e97cb193b2f0241c36c3b170" sha1="354ef352b4f818c46a5c5b33662bbdb39dcce4ad"/>
-		<rom name="Blue - Will To Power (Japan).cue" size="249" crc="b882f7ac" md5="d65951c748d196319038772268d160e0" sha1="fa83b41749c85a7d44547d698019c7a2b14c41db"/>
+		<description>Blue - Will to Power (Japan)</description>
+		<rom name="Blue - Will to Power (Japan) (Track 1).bin" size="10231200" crc="1b0cb8af" md5="e6acb6007aa245a82dfa9ca24d854da6" sha1="63dc306acc82589db97bf3fe4223858d140b83c5"/>
+		<rom name="Blue - Will to Power (Japan) (Track 2).bin" size="19051200" crc="ea2ac438" md5="06480349e97cb193b2f0241c36c3b170" sha1="354ef352b4f818c46a5c5b33662bbdb39dcce4ad"/>
+		<rom name="Blue - Will to Power (Japan).cue" size="249" crc="9c3a7b27" md5="a6e2e88024c53e809664437eb16ecfae" sha1="c4ea73efdadb5cb1d957c21e7b28722165cda215"/>
 	</game>
 	<game name="Bomberman - Panic Bomber (Japan)">
 		<category>Games</category>

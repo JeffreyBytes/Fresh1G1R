@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,931) (-y) [-aAbBcefkmMoprv] (20260207-151334) (Retool)</description>
-		<version>20260207-151334</version>
-		<date>2026-02-17 04-28-57</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,933) (-y) [-aAbBcefkmMoprv] (20260216-115854) (Retool)</description>
+		<version>20260216-115854</version>
+		<date>2026-02-18 04-33-27</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -465,6 +465,12 @@
 		<category>Games</category>
 		<description>Age of Empires - The Age of Kings (USA)</description>
 		<rom name="Age of Empires - The Age of Kings (USA).nds" size="67108864" crc="801ec05c" md5="a53048233d81ef507611c0b614bee6e0" sha1="190693b00c47a05ea3572ddd9e394d920a560583"/>
+	</game>
+	<game name="Agent Hugo - Fly Guyz! (Europe) (Proto)" id="z663">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Agent Hugo - Fly Guyz! (Europe) (Proto)</description>
+		<rom name="Agent Hugo - Fly Guyz! (Europe) (Proto).nds" size="33554432" crc="a4e71c80" md5="4a18aa7b64ab8f20360acce4467fce6c" sha1="641561aec3b15ebe1824fd7c726526f00300f533" sha256="8ec6d28d6d9e7cb31881c6c4f57c98b11d49b9aa27d2b37cb152bf8139fc5393"/>
 	</game>
 	<game name="Aibou DS (Japan)" id="3474">
 		<category>Games</category>
@@ -5797,6 +5803,12 @@
 		<category>Games</category>
 		<description>Generator Rex - Agent of Providence (USA) (En,Fr)</description>
 		<rom name="Generator Rex - Agent of Providence (USA) (En,Fr).nds" size="134217728" crc="7de1df4b" md5="2aa87dbd390c2b2c34da0f6a346ec60a" sha1="07d6352d14d080d92827b96cb34f5abc0d8a35a8"/>
+	</game>
+	<game name="GeoTrip (Europe) (Proto)" id="z664">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>GeoTrip (Europe) (Proto)</description>
+		<rom name="GeoTrip (Europe) (Proto).nds" size="268435456" crc="0c388e22" md5="b92f3445edc66f42a51b5c384216ddef" sha1="d60720c324f7f210bca49cffed8d4d996be47eca" sha256="3de9d44f2e464caf754d0c3935511da976aa04b729d2ae9863d30a45d4768d61"/>
 	</game>
 	<game name="Geomaster (Europe) (En,Fr,De,Es,It)" id="5607">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Palm (Retool)</name>
-		<description>Palm (92) (-y) [-aAbBcefkmMoprv] (2025-08-19 22-26-20) (Retool)</description>
-		<version>2025-08-19 22-26-20</version>
-		<date>2026-02-15 04-31-25</date>
+		<description>Palm (92) (-y) [-aAbBcefkmMoprv] (2026-02-17 21-19-19) (Retool)</description>
+		<version>2026-02-17 21-19-19</version>
+		<date>2026-02-18 04-31-29</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -539,11 +539,11 @@
 		<rom name="Warfare Incorporated (USA).bin" size="396841200" crc="c5ff0ec9" md5="dd8dc1de3714bea802f5b064382b021a" sha1="4598b67f988eb0a89818c2d37dd783201685550b"/>
 		<rom name="Warfare Incorporated (USA).cue" size="92" crc="e9b1f264" md5="94aa9bae32aadc6f2800b2d8495093d8" sha1="6b27d08b875fb39f68aecd333ca6d36ed674066d"/>
 	</game>
-	<game name="Word Games To Go (USA)">
+	<game name="Word Games to Go (USA)">
 		<category>Games</category>
-		<description>Word Games To Go (USA)</description>
-		<rom name="Word Games To Go (USA).bin" size="7589904" crc="aeafd800" md5="1cb1076323b49f3b138cc9416d660c85" sha1="887922def88dcee824e26ee40cd0b8292882f3d9"/>
-		<rom name="Word Games To Go (USA).cue" size="103" crc="2c999044" md5="b8689e77fc9168799c66fae8e18ae909" sha1="8a0478d4800f739e0f1136b150e6859c58f76d6a"/>
+		<description>Word Games to Go (USA)</description>
+		<rom name="Word Games to Go (USA).bin" size="7589904" crc="aeafd800" md5="1cb1076323b49f3b138cc9416d660c85" sha1="887922def88dcee824e26ee40cd0b8292882f3d9"/>
+		<rom name="Word Games to Go (USA).cue" size="103" crc="16878b1c" md5="02208808149a7ed781d5c9c3b4bdb775" sha1="7a5a492ca3344b35384a32d86906b4bb64128ea6"/>
 	</game>
 	<game name="ZIOGolf Special Pack (Japan)">
 		<category>Games</category>

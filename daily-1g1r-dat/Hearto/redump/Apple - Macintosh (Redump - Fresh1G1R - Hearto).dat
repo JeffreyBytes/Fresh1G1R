@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (565) (-y) [-aAbBcefkmMoprv] (2026-02-09 00-25-36) (Retool)</description>
-		<version>2026-02-09 00-25-36</version>
-		<date>2026-02-15 04-30-21</date>
+		<description>Apple - Macintosh (566) (-y) [-aAbBcefkmMoprv] (2026-02-17 10-37-57) (Retool)</description>
+		<version>2026-02-17 10-37-57</version>
+		<date>2026-02-18 04-30-26</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4062,6 +4062,12 @@
 		<rom name="WarCraft II - Tides of Darkness (USA) (Track 17).bin" size="7498176" crc="bf682756" md5="26f734688ff78dd238f8374327ac0e9d" sha1="18e2ab71681f785474dd12c9d24ab287bacca6e5"/>
 		<rom name="WarCraft II - Tides of Darkness (USA) (Track 18).bin" size="8394288" crc="88e4ae46" md5="dcd18576a79f8f0d68af3d15f70d0565" sha1="9ed53c0ca601538f68598af99e60d8ba7a2a90ef"/>
 		<rom name="WarCraft II - Tides of Darkness (USA).cue" size="2013" crc="1cf13614" md5="ae29a4a67a85ac79551dd76f29ef3bd6" sha1="01f09b7d34ecdcc784a5336756b3d9e04ed0caf3"/>
+	</game>
+	<game name="Warlords II (USA)">
+		<category>Games</category>
+		<description>Warlords II (USA)</description>
+		<rom name="Warlords II (USA).bin" size="121643088" crc="7f79005d" md5="530b25a7be1806aa293a209710db4423" sha1="198acfd3f1d154105ba0620954263a6b77250041"/>
+		<rom name="Warlords II (USA).cue" size="83" crc="26e28ad8" md5="5183132d6e6e8a18ceeb1f6c1404553e" sha1="25d6a840351755fc950e2a0d469b81dac2c0cd16"/>
 	</game>
 	<game name="Weekend Warrior (USA) (OEM)">
 		<category>Games</category>

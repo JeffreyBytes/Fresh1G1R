@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn (Retool)</name>
-		<description>Sega - Saturn (1,196) (-y) [-aAbBcdkmMpPuv] (2026-02-09 14-23-43) (Retool)</description>
-		<version>2026-02-09 14-23-43</version>
-		<date>2026-02-15 04-43-40</date>
+		<description>Sega - Saturn (1,196) (-y) [-aAbBcdkmMpPuv] (2026-02-17 00-38-15) (Retool)</description>
+		<version>2026-02-17 00-38-15</version>
+		<date>2026-02-18 04-43-50</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -13852,13 +13852,13 @@
 		<rom name="Shin Seiki Evangelion (Japan) (Track 5).bin" size="3325728" crc="d4508eb9" md5="ba4e2c180f23af483b41db8e3e973a37" sha1="a415bd949ca28695d2a798c97e82d13352be598a"/>
 		<rom name="Shin Seiki Evangelion (Japan).cue" size="625" crc="8c6e7301" md5="2e0d87761e5ebd43c260f23444363568" sha1="c1bc1a58be1e45ab2497891ceef30eb9c0ec67e6"/>
 	</game>
-	<game name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan)">
+	<game name="Shin Seiki Evangelion - 2nd Impression (Japan)">
 		<category>Games</category>
-		<description>Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan)</description>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan) (Track 1).bin" size="81052272" crc="6f800b25" md5="0fe3ac1bc9f62ff8501376f6e8ece82f" sha1="0ab577e80805f69525ab423a1840e662a2605cf5"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan) (Track 2).bin" size="415367904" crc="a08d2b19" md5="1d200391c7133d1628c5802eb16bafc4" sha1="841eb8b0a76a9181dd8801c7bd9d78a79db9939c"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan) (Track 3).bin" size="1312416" crc="42e82508" md5="34393ec8a7e531b5b7ec786b505ad8cf" sha1="8427f9433f1a80b734ba5556dda3f5c415cd9cb8"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan).cue" size="478" crc="2db1bba2" md5="7d484c0a47b2319706f856c232580518" sha1="e25c06341089621f3cfbaf917bf9bda6ff47ac44"/>
+		<description>Shin Seiki Evangelion - 2nd Impression (Japan)</description>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Track 1).bin" size="81052272" crc="6f800b25" md5="0fe3ac1bc9f62ff8501376f6e8ece82f" sha1="0ab577e80805f69525ab423a1840e662a2605cf5"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Track 2).bin" size="415367904" crc="a08d2b19" md5="1d200391c7133d1628c5802eb16bafc4" sha1="841eb8b0a76a9181dd8801c7bd9d78a79db9939c"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Track 3).bin" size="1312416" crc="42e82508" md5="34393ec8a7e531b5b7ec786b505ad8cf" sha1="8427f9433f1a80b734ba5556dda3f5c415cd9cb8"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan).cue" size="430" crc="e29c4475" md5="4f47f3079629212646cf248185434641" sha1="b1dcca03087a43d68f1baa56a8b9f9f4405d31a6"/>
 	</game>
 	<game name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan)">
 		<category>Games</category>
