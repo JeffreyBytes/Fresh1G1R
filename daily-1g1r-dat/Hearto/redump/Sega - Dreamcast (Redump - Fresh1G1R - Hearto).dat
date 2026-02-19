@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-02-17 19-25-39) (Retool)</description>
-		<version>2026-02-17 19-25-39</version>
-		<date>2026-02-18 04-31-35</date>
+		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-02-18 19-25-20) (Retool)</description>
+		<version>2026-02-18 19-25-20</version>
+		<date>2026-02-19 04-34-03</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3132,15 +3132,15 @@
 		<rom name="Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuusha-tachi (Japan) (Track 3).bin" size="1185760800" crc="d213ff9d" md5="ec82276c3c2192bb2f28f79a47b1f048" sha1="0047b2ca0f0003044e68e9667896145b50348d55"/>
 		<rom name="Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuusha-tachi (Japan).cue" size="498" crc="9d5f0809" md5="788096c03bf7aa1ac386fe23eeb0cb12" sha1="933f3c1c7d3349c724983c4960c491a9431d1afc"/>
 	</game>
-	<game name="Giant Killers (Europe) (Beta) (2001-01-09)">
+	<game name="Giant Killers (Europe) (Beta) (2001-01-31)">
 		<category>Preproduction</category>
-		<description>Giant Killers (Europe) (Beta) (2001-01-09)</description>
-		<rom name="Giant Killers (Europe) (Beta) (2001-01-09) (Track 1).bin" size="3478608" crc="a46c1d3d" md5="edbc606dc88c18ab093e918d722e633d" sha1="b65934f323a2b460912ce9483c5f3d509d7165e1"/>
-		<rom name="Giant Killers (Europe) (Beta) (2001-01-09) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
-		<rom name="Giant Killers (Europe) (Beta) (2001-01-09) (Track 3).bin" size="948646272" crc="1ee9393f" md5="ad097bb29b171922a67aeb1b1b4342c1" sha1="193d3ebab38e424c2f3820cbccaaf4bb9ac62e41"/>
-		<rom name="Giant Killers (Europe) (Beta) (2001-01-09) (Track 4).bin" size="13994400" crc="2d9c8342" md5="e2427674658e068c5cc4bde0542e334b" sha1="1953372e0e2c90d4e92b1dc69a2426e439806262"/>
-		<rom name="Giant Killers (Europe) (Beta) (2001-01-09) (Track 5).bin" size="223120128" crc="3f1b1cf8" md5="f65a1549d786e44f648481be4c32fec7" sha1="d731f1b11afd66874e6527c7e63845c270a99005"/>
-		<rom name="Giant Killers (Europe) (Beta) (2001-01-09).cue" size="697" crc="0dd02131" md5="0dda758ad3502f7dd034d56b789b6010" sha1="9d6b56c745ced0ee46464eafc2ed665f9f2e6142"/>
+		<description>Giant Killers (Europe) (Beta) (2001-01-31)</description>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 1).bin" size="3478608" crc="c672926c" md5="be0528df4bbcc9694e8f04bb968ec84c" sha1="810adc472ea07f8222fa834346e1b984cb340264"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 3).bin" size="952750512" crc="e5c60786" md5="2870b1cc2040276610ffa7515748aa92" sha1="adea651a0165d73e936955f56239d8cb96103699"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 4).bin" size="13994400" crc="2d9c8342" md5="e2427674658e068c5cc4bde0542e334b" sha1="1953372e0e2c90d4e92b1dc69a2426e439806262"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 5).bin" size="219015888" crc="aa9ab7c8" md5="11a2e828caee02bd6b21605525b4d7ec" sha1="f099c308cfac0dcb17e26f79395ecea02ee577f5"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31).cue" size="697" crc="94302235" md5="1bd563c34e706ce002d934a98f5d23f5" sha1="6403c80d2c0024d9695783a3927591d773fac746"/>
 	</game>
 	<game name="GigaWing (Japan) (Tentou Taikenban)">
 		<category>Demos</category>
