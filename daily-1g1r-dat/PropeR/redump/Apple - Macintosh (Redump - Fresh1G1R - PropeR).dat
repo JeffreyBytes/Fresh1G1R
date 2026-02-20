@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (612) (-y) [-aAbBcdkmMpPuv] (2026-02-17 10-37-57) (Retool)</description>
-		<version>2026-02-17 10-37-57</version>
-		<date>2026-02-19 04-44-56</date>
+		<description>Apple - Macintosh (613) (-y) [-aAbBcdkmMpPuv] (2026-02-19 09-03-06) (Retool)</description>
+		<version>2026-02-19 09-03-06</version>
+		<date>2026-02-20 04-36-52</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -46,6 +46,12 @@
 		<description>3-D Ultra Pinball - Creep Night (France)</description>
 		<rom name="3-D Ultra Pinball - Creep Night (France).bin" size="301079520" crc="b4cc2ba6" md5="d39da7bda868c01d61f38881cb9c71dc" sha1="43a35809e6240849b847079b783c805759c75d3c"/>
 		<rom name="3-D Ultra Pinball - Creep Night (France).cue" size="106" crc="0bb7a4a5" md5="f89d9617464d87b80c0fa4ca171cfc4f" sha1="db263c6c8f089d512e3fed87e8fa74877ca95afa"/>
+	</game>
+	<game name="3D Bridge Deluxe (USA)">
+		<category>Games</category>
+		<description>3D Bridge Deluxe (USA)</description>
+		<rom name="3D Bridge Deluxe (USA).bin" size="718286688" crc="d93ee4c2" md5="af1834b0899de4b6581eb5685bb0e0ec" sha1="09eb0c61f4276498ff0585ce4fb9edc26ce178bc"/>
+		<rom name="3D Bridge Deluxe (USA).cue" size="88" crc="d1af6aa1" md5="c13a7fbeeaefa139db49b45771ef6d7b" sha1="bdab26c2dbb538d70fa8a039e764ff98946b2a70"/>
 	</game>
 	<game name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects)">
 		<category>Games</category>

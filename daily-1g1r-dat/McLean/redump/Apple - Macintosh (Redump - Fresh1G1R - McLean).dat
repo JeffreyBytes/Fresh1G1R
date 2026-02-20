@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (400) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-17 10-37-57) (Retool)</description>
-		<version>2026-02-17 10-37-57</version>
-		<date>2026-02-19 04-39-11</date>
+		<description>Apple - Macintosh (401) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-19 09-03-06) (Retool)</description>
+		<version>2026-02-19 09-03-06</version>
+		<date>2026-02-20 04-31-13</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -40,6 +40,12 @@
 		<description>3-D Ultra Pinball &amp; Trophy Bass (USA)</description>
 		<rom name="3-D Ultra Pinball &amp; Trophy Bass (USA).bin" size="424653600" crc="7cf64ea7" md5="2ac6c3cb51f35ea27e29e003958a6be5" sha1="a872d2a52edd29ce147444225e0dcda8197fdad5"/>
 		<rom name="3-D Ultra Pinball &amp; Trophy Bass (USA).cue" size="126" crc="42b27032" md5="c86223f6492434169a850cf1fcd20923" sha1="d94d8c9033d16545d10cdb1a88ea3f272fedc134"/>
+	</game>
+	<game name="3D Bridge Deluxe (USA)">
+		<category>Games</category>
+		<description>3D Bridge Deluxe (USA)</description>
+		<rom name="3D Bridge Deluxe (USA).bin" size="718286688" crc="d93ee4c2" md5="af1834b0899de4b6581eb5685bb0e0ec" sha1="09eb0c61f4276498ff0585ce4fb9edc26ce178bc"/>
+		<rom name="3D Bridge Deluxe (USA).cue" size="88" crc="d1af6aa1" md5="c13a7fbeeaefa139db49b45771ef6d7b" sha1="bdab26c2dbb538d70fa8a039e764ff98946b2a70"/>
 	</game>
 	<game name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects)">
 		<category>Games</category>

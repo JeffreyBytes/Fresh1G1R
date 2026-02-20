@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (951) (-y) [-aAbBcdkmMpPuv] (20260210-195717) (Retool)</description>
-		<version>20260210-195717</version>
-		<date>2026-02-19 04-50-09</date>
+		<description>Sega - Mega Drive - Genesis (952) (-y) [-aAbBcdkmMpPuv] (20260218-012224) (Retool)</description>
+		<version>20260218-012224</version>
+		<date>2026-02-20 04-39-10</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2835,6 +2835,11 @@
 		<category>Games</category>
 		<description>Outworld 2375 A.D. (USA) (HeartBeat Catalyst)</description>
 		<rom name="Outworld 2375 A.D. (USA) (HeartBeat Catalyst).md" size="1048576" crc="69412ae8" md5="e38e9e8b3086fad6987917df075cf999" sha1="8e0ab87e7d56d8782d01c4f744ea57c793c04325" sha256="27c641729f17d795615aec7539369e971c0f7cabb57b8ebcaba81aeb6f3f7735"/>
+	</game>
+	<game name="P-47 II MD (USA, Europe)" id="3620">
+		<category>Games</category>
+		<description>P-47 II MD (USA, Europe)</description>
+		<rom name="P-47 II MD (USA, Europe).md" size="1048576" crc="2fe6bf42" md5="8538243d591452261bf419581dd89ce5" sha1="683b61343a6cf9c37213c6d21e5922d0cc41cee5" sha256="853853c4345f31fef39ed27423d5bbd28cc073c8e4f638a2b45f61f2dbd43bc1"/>
 	</game>
 	<game name="P.T.O. - Pacific Theater of Operations (USA)" id="0969">
 		<category>Games</category>
