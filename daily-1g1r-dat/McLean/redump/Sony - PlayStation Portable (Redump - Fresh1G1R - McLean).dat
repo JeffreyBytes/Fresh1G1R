@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (735) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-13 22-44-57) (Retool)</description>
-		<version>2026-02-13 22-44-57</version>
-		<date>2026-02-20 04-32-47</date>
+		<description>Sony - PlayStation Portable (735) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-21 03-24-00) (Retool)</description>
+		<version>2026-02-21 03-24-00</version>
+		<date>2026-02-21 04-24-17</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -86,10 +86,10 @@
 		<description>Aedis Eclipse - Generation of Chaos (USA)</description>
 		<rom name="Aedis Eclipse - Generation of Chaos (USA).iso" size="668991488" crc="24767759" md5="2e80e2ef6d8b85c6a522eae32525a04b" sha1="0311898a53261fd837751d1acd4bb932c06e3c52"/>
 	</game>
-	<game name="After Burner - Black Falcon (USA) (En,Fr,Es,It,Nl)">
+	<game name="After Burner - Black Falcon (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>After Burner - Black Falcon (USA) (En,Fr,Es,It,Nl)</description>
-		<rom name="After Burner - Black Falcon (USA) (En,Fr,Es,It,Nl).iso" size="427360256" crc="b0c2d6a2" md5="c419bd2610e2c2044fd669e11f48088c" sha1="d0cef4378316b4d27c4ac5b0e7969f358e79a926"/>
+		<description>After Burner - Black Falcon (USA) (En,Fr,De,Es,It)</description>
+		<rom name="After Burner - Black Falcon (USA) (En,Fr,De,Es,It).iso" size="427360256" crc="b0c2d6a2" md5="c419bd2610e2c2044fd669e11f48088c" sha1="d0cef4378316b4d27c4ac5b0e7969f358e79a926"/>
 	</game>
 	<game name="Air Conflicts - Aces of World War II (USA)">
 		<category>Games</category>
@@ -161,10 +161,10 @@
 		<description>Astonishia Story (USA)</description>
 		<rom name="Astonishia Story (USA).iso" size="115539968" crc="3b9b8bfa" md5="d4c00fae1fbc9dd2cd2a6bceabe82543" sha1="5c3e701a66210057ba162545ff6833161b72e6f4"/>
 	</game>
-	<game name="Astro Boy - The Video Game (USA) (En,Fr,Es,It,Nl)">
+	<game name="Astro Boy - The Video Game (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Astro Boy - The Video Game (USA) (En,Fr,Es,It,Nl)</description>
-		<rom name="Astro Boy - The Video Game (USA) (En,Fr,Es,It,Nl).iso" size="1147731968" crc="11979e2d" md5="8dc1aa2c19c04997859b712dd25c4153" sha1="6693ae4bdc6aa799d736fd9f89243209064ca8e5"/>
+		<description>Astro Boy - The Video Game (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Astro Boy - The Video Game (USA) (En,Fr,De,Es,It).iso" size="1147731968" crc="11979e2d" md5="8dc1aa2c19c04997859b712dd25c4153" sha1="6693ae4bdc6aa799d736fd9f89243209064ca8e5"/>
 	</game>
 	<game name="Atari Classics Evolved (USA)">
 		<category>Games</category>
