@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (ByteSwapped) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (ByteSwapped) (307) (-ly) [-aAbBcdDefkmMopPruv] (20260219-202415) (Retool)</description>
-		<version>20260219-202415</version>
-		<date>2026-02-21 04-24-29</date>
+		<description>Nintendo - Nintendo 64 (ByteSwapped) (308) (-ly) [-aAbBcdDefkmMopPruv] (20260220-211431) (Retool)</description>
+		<version>20260220-211431</version>
+		<date>2026-02-22 04-37-57</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20,6 +20,11 @@
 		<category>Games</category>
 		<description>1080 Snowboarding (Japan, USA) (En,Ja)</description>
 		<rom name="1080 Snowboarding (Japan, USA) (En,Ja).v64" size="16777216" crc="d1744951" md5="18381c8f37e2b29f5940eea9b5f96814" sha1="5f837c13a2fb3c8cdfd6fb720bd4a963ab515632"/>
+	</game>
+	<game name="40 Winks (USA) (Piko Interactive)" id="1066">
+		<category>Games</category>
+		<description>40 Winks (USA) (Piko Interactive)</description>
+		<rom name="40 Winks (USA) (Piko Interactive).v64" size="33554432" crc="15a0118f" md5="bc3c22ca31182ba8274b4cda793a1469" sha1="83f02505f7383ba89cd03ca1aaa0e4019ac714ec" sha256="23407b95d66db836640088da8a26493d90022d82b239185f51a92c29a4e793f7"/>
 	</game>
 	<game name="AeroFighters Assault (USA)" id="0022">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (BigEndian) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (BigEndian) (307) (-ly) [-aAbBcdDefkmMopPruv] (20260219-202415) (Retool)</description>
-		<version>20260219-202415</version>
-		<date>2026-02-21 04-25-09</date>
+		<description>Nintendo - Nintendo 64 (BigEndian) (308) (-ly) [-aAbBcdDefkmMopPruv] (20260220-211431) (Retool)</description>
+		<version>20260220-211431</version>
+		<date>2026-02-22 04-36-51</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20,6 +20,11 @@
 		<category>Games</category>
 		<description>1080 Snowboarding (Japan, USA) (En,Ja)</description>
 		<rom name="1080 Snowboarding (Japan, USA) (En,Ja).z64" size="16777216" crc="08fe81c7" md5="fa27089c425dbab99f19245c5c997613" sha1="79cd1166c365e5809dec9b62e6d40d6032d5db3a" sha256="5e9d7168e5786ba1bd4b643431ba7100ff3d7a09e558acae15438d426c0f34df"/>
+	</game>
+	<game name="40 Winks (USA) (Piko Interactive)" id="1066">
+		<category>Games</category>
+		<description>40 Winks (USA) (Piko Interactive)</description>
+		<rom name="40 Winks (USA) (Piko Interactive).z64" size="33554432" crc="31c19633" md5="b88c172ed14f4acb43c4a352d71cc640" sha1="420f0ed3b67f802b5f3ab4bd17167c266f8f36ce" sha256="057232ef7618e25f5645df50d3cd45f08cb5a2cccb3e2fdf48faa8755c4ddb1a"/>
 	</game>
 	<game name="AeroFighters Assault (USA)" id="0022">
 		<category>Games</category>
