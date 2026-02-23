@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (ByteSwapped) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (ByteSwapped) (437) (-y) [-aAbBcefkmMoprv] (20260220-211431) (Retool)</description>
-		<version>20260220-211431</version>
-		<date>2026-02-22 04-31-52</date>
+		<description>Nintendo - Nintendo 64 (ByteSwapped) (437) (-y) [-aAbBcefkmMoprv] (20260221-192824) (Retool)</description>
+		<version>20260221-192824</version>
+		<date>2026-02-23 04-34-08</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

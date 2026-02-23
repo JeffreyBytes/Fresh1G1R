@@ -3152,7 +3152,6 @@ BAD DUMP REMOVES
 ================
 These titles were removed because the user excluded bad dump titles.
 
-- Disney Cart (USA) (Unl) [b]
 - Pocket Monsters Diamond - Tomodachi to Issho ni! - Present Campaign Senyou Cartridge (Japan) [b]
 - Pocket Monsters Pearl - Tomodachi to Issho ni! - Present Campaign Senyou Cartridge (Japan) [b]
 
@@ -3531,6 +3530,7 @@ These titles were removed because the user excluded unlicensed titles.
 - Digimon - Ruby and Sapphire (USA) (Unl)
 - Digimon Rury (USA) (Unl)
 - Digimon Sapphire (USA) (Unl)
+- Disney Cart (USA) (Unl) [b]
 - Dog Trainer (Europe) (DS Cheat Cartridge) (Unl)
 - Dog Trainer 2 (Europe) (DS Cheat Cartridge) (Unl)
 - Donkey Kong 2 (USA) (Unl)

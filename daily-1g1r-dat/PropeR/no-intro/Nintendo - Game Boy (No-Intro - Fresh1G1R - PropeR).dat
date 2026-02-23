@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,048) (-y) [-aAbBcdkmMpPuv] (20260113-102506) (Retool)</description>
-		<version>20260113-102506</version>
-		<date>2026-02-22 04-42-31</date>
+		<description>Nintendo - Game Boy (1,050) (-y) [-aAbBcdkmMpPuv] (20260221-052816) (Retool)</description>
+		<version>20260221-052816</version>
+		<date>2026-02-23 04-44-30</date>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -85,6 +85,11 @@
 		<category>Games</category>
 		<description>After Burst (Japan) (En)</description>
 		<rom name="After Burst (Japan) (En).gb" size="65536" crc="c0049d77" md5="b5c541c765fd3a5767b3fa1cfc821587" sha1="459cb97524669b0de6cd7cfada61ad67339232f1" sha256="c7e2c34315b6186608a2fb9468bafe448def49824fe5ecb868fe6a316455ca69"/>
+	</game>
+	<game name="Airaki! (World)" id="2475">
+		<category>Games</category>
+		<description>Airaki! (World)</description>
+		<rom name="Airaki! (World).gb" size="32768" crc="b8da7094" md5="b61797b4b092545189d709c5a9c06303" sha1="6258873c62beefcfd8f660387021f56e40984f8f" sha256="45d2136dff7a4b51bd1a5a7ef428763be61baa2d91e48beef2be8c6c6c3735f6"/>
 	</game>
 	<game name="Akazukin Chacha (Japan) (SGB Enhanced)" id="0024">
 		<category>Games</category>
@@ -1185,6 +1190,11 @@
 		<category>Games</category>
 		<description>DragonHeart (USA, Europe)</description>
 		<rom name="DragonHeart (USA, Europe).gb" size="524288" crc="5129a518" md5="f9e94b9a134d900a3b971e206f4e826c" sha1="1800ceeba6ed491e5f85997c945ab52b09f6e4ba" sha256="498d2fc2b818207b3ccde17e203f765cff469e04bd5597b5f4814f4f9a12442a"/>
+	</game>
+	<game name="Dragonborne (World)" id="2476">
+		<category>Games</category>
+		<description>Dragonborne (World)</description>
+		<rom name="Dragonborne (World).gb" size="2097152" crc="0ec224bb" md5="e72b27a9f7f3c1ea81f30eac58aeb50e" sha1="1ba5077f2a10a7822c45eac29050806011073629" sha256="3fa94d02a2339b336949c6d1a4ffac3e905f19fa56f7a3eb39d7f4d72941195d"/>
 	</game>
 	<game name="Dropzone (Europe)" id="0343">
 		<category>Games</category>
