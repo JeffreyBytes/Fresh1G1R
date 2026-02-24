@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (11) (-y) [-aAbBcefkmMoprv] (20260220-050125) (Retool)</description>
-		<version>20260220-050125</version>
-		<date>2026-02-23 04-32-51</date>
-		<author>Gefflon, Hiccup, MisterSheeple, rarenight</author>
+		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (19) (-y) [-aAbBcefkmMoprv] (20260222-044610) (Retool)</description>
+		<version>20260222-044610</version>
+		<date>2026-02-24 04-35-16</date>
+		<author>Gefflon, Hiccup, MisterSheeple, rarenight, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -32,15 +32,50 @@
 		<description>Big Hero 6 Battle in the Bay (USA) (Beta)</description>
 		<rom name="1P_BH6_3DS_FirstPlayable_24APRIL2014.cia" size="29541376" crc="9309849f" md5="29fd6494e1a38301afe74dd8e3f4a89b" sha1="eee1a58c6e5a825673b39debfc38fd21a0e91700" sha256="2977629e7873f9d4de120715c2ac735fef1d238d51ade8601b7f2da8fb48db84"/>
 	</game>
-	<game name="Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)" id="0012">
+	<game name="Camera Demo (World) (2010-05-31T195500) (E3 2010 Tech Demo)" id="0022">
 		<category>Demos</category>
-		<description>Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)</description>
-		<rom name="00000000.app" size="3264108" crc="0d8abc13" md5="89eec42c0ac6d11b319f61cc4f200cf8" sha1="ac4e09951fdaa0021ec671fbb7e7ddcb7a6c80fa" sha256="43e562d638dfa8fede380fe19e74d203b065eba8c3cefdf11455b1499b0f545f"/>
+		<category>Preproduction</category>
+		<description>Camera Demo (World) (2010-05-31T195500) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="3261052" crc="6e7fbb30" md5="90531f71e7508a0abf7edcece1eb678e" sha1="f3cc09b0884c2cd21d1957d10629bb2371fb19ad" sha256="7558459fb01a21183e01cf7f8d3854491ad72757e5759abb5e7d3e8e07ba5bed"/>
+	</game>
+	<game name="Classic Collection (World) (E3 2010 Tech Demo)" id="0019">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Classic Collection (World) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="49585728" crc="ade30932" md5="10bb28fbb417114357a678dc7cc4f7bf" sha1="b37eb98e875820ccf1408dd81bc920a5b19ec410" sha256="af3a37f63be552b01aeda21c37061ea5b9cf749162ebd360e661f2515add78b9"/>
+	</game>
+	<game name="Mario Kart Preview (World) (2010-06-03T192442) (E3 2010 Autodemo)" id="0025">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Mario Kart Preview (World) (2010-06-03T192442) (E3 2010 Autodemo)</description>
+		<rom name="00000000.app" size="54247136" crc="f63e9d44" md5="272d2160b77e772b3f92accba55ea2fb" sha1="a27777255a86cf50b5b9e5e465d748d47a0c7a97" sha256="51e2896af3a84b5ad0255a8513599f485ad3a52e83e7aecf8923e321789f7722"/>
 	</game>
 	<game name="Photo Dojo DX (World) (2010-06-07T103141) (E3 2010 Tech Demo)" id="0007">
 		<category>Demos</category>
 		<description>Photo Dojo DX (World) (2010-06-07T103141) (E3 2010 Tech Demo)</description>
 		<rom name="00000000.app" size="36424800" crc="e940bf93" md5="38b295a20cf65439240ec257cdf3a7dd" sha1="2afefb0df241ef199333797b18a3b4c9df3121ca" sha256="0829884853682b575b6717cf4c189f3cc4ca1a0f73057b596ddd943a1562de42"/>
+	</game>
+	<game name="Pilotwings Resort (World) (2010-06-04T181201) (Beta)" id="0020">
+		<category>Preproduction</category>
+		<description>Pilotwings Resort (World) (2010-06-04T181201) (Beta)</description>
+		<rom name="00000000.app" size="46869116" crc="ab224409" md5="60a69b57c6e888424683ac07b025819d" sha1="9c752df20f0040205b7064352f21823ddf40e910" sha256="19d8f5015ef137066e12e3b25e3f1453d032005c5d3a506eaf3d09ed0c92dd99"/>
+	</game>
+	<game name="Pilotwings Resort (World) (2010-06-08T142622) (E3 2010 Demo)" id="0021">
+		<category>Demos</category>
+		<description>Pilotwings Resort (World) (2010-06-08T142622) (E3 2010 Demo)</description>
+		<rom name="00000000.app" size="52679820" crc="68e571de" md5="441e6abfaa00ec8b662a6b431bb7ec5d" sha1="223ddc157bd307e7de90161c69f52d469f992201" sha256="4f9114a582d4fc97e58fbd248b872d0c31dc508c112c5146f0038c29c1ffe19e"/>
+	</game>
+	<game name="Star Fox 64 3D (World) (2010-06-02T150249) (Beta) (E3 2010 Demo)" id="0018">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Star Fox 64 3D (World) (2010-06-02T150249) (Beta) (E3 2010 Demo)</description>
+		<rom name="00000000.app" size="68192800" crc="2603774c" md5="9121eacbc99b92cffc2468f04e7dc19b" sha1="603d30369656010209db9a8ecf905ac0d3726d77" sha256="1108b4ab48e1e24ebcd162d41e43a67a6a7ffce5d45fcdc0670eb84cedc35d28"/>
+	</game>
+	<game name="Steel Diver (World) (2010-06-03T103645) (E3 2010 Demo)" id="0026">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Steel Diver (World) (2010-06-03T103645) (E3 2010 Demo)</description>
+		<rom name="00000000.app" size="82450228" crc="f2e886fa" md5="5e1f4027c9d1cb1797c6450462161227" sha1="78f925e013f8a9db37191bf7dd64a5fd156d871e" sha256="15c9c5c9139b44a3f5b317019779d7aa922177569b7dc17093d65a4ae9c08469"/>
 	</game>
 	<game name="Tech Demo - 3D Hopper (World) (2010-06-07T113916) (E3 2010 Tech Demo)" id="0008">
 		<category>Demos</category>
@@ -66,5 +101,16 @@
 		<category>Preproduction</category>
 		<description>Wan Nyan Pet Shop (Japan) (Beta)</description>
 		<rom name="Wan Nyan Pet Shop (Japan) (Beta).cia" size="114717696" crc="177867e2" md5="d8221dbe08c77e7c2ff9c9e5f77d6aa4" sha1="8f98ba1d54632d9e03fc283663207dc577e5ccaf" sha256="0e36703682084d9a6ad1d0e8105de612c07aa79dda2c47e25428a437e064b355"/>
+	</game>
+	<game name="Xevious (World) (2010-06-07T170424) (Beta)" id="0023">
+		<category>Preproduction</category>
+		<description>Xevious (World) (2010-06-07T170424) (Beta)</description>
+		<rom name="00000000.app" size="12957492" crc="108d58bd" md5="ca2b43b8f093d4e914c4fa63c7446610" sha1="18d64ed6493dd441f9dcbf9a8db7fca54dc1a58e" sha256="09304e5506603963ac54583983a31b5ec76fe30434f7cb83566a54baf229a408"/>
+	</game>
+	<game name="Xevious (World) (2010-06-10T190530) (E3 2010 Demo)" id="0024">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Xevious (World) (2010-06-10T190530) (E3 2010 Demo)</description>
+		<rom name="00000000.app" size="12964724" crc="fbf001c3" md5="eca723520a649bbf1bebcd908dca979b" sha1="98aaae0d071baf9eb995512eadb8939f3c815812" sha256="3a3d3c28e3a86cc1c3fd58c2ffedbebe93f66954c169f8443670d2bec37a6a25"/>
 	</game>
 </datafile>

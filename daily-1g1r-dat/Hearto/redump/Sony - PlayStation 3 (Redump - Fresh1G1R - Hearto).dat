@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,693) (-y) [-aAbBcefkmMoprv] (2026-02-21 15-51-44) (Retool)</description>
-		<version>2026-02-21 15-51-44</version>
-		<date>2026-02-22 04-29-51</date>
+		<description>Sony - PlayStation 3 (1,693) (-y) [-aAbBcefkmMoprv] (2026-02-24 03-53-56) (Retool)</description>
+		<version>2026-02-24 03-53-56</version>
+		<date>2026-02-24 04-34-07</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2441,10 +2441,10 @@
 		<description>Far Cry - The Wild Expedition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
 		<rom name="Far Cry - The Wild Expedition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).iso" size="11097473024" crc="3bf2abbc" md5="e0b2ecf8432b4ab60e215e2ac6aed011" sha1="681efcb749f55d0d239827bc39aa7ef26c30dd92"/>
 	</game>
-	<game name="Far Cry 2 (USA) (En,Fr,De,Es,It)">
+	<game name="Far Cry 2 (USA, Asia) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Far Cry 2 (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Far Cry 2 (USA) (En,Fr,De,Es,It).iso" size="4359323648" crc="b984a5d0" md5="24414fbdd3bd951665b0c0edc48926f0" sha1="ebca95f227be2bb1018ca1d9597d584123a17676"/>
+		<description>Far Cry 2 (USA, Asia) (En,Fr,De,Es,It)</description>
+		<rom name="Far Cry 2 (USA, Asia) (En,Fr,De,Es,It).iso" size="4359323648" crc="b984a5d0" md5="24414fbdd3bd951665b0c0edc48926f0" sha1="ebca95f227be2bb1018ca1d9597d584123a17676"/>
 	</game>
 	<game name="Far Cry 3 (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>
