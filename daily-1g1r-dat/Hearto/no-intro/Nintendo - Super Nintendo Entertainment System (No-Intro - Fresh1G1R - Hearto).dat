@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260217-051904) (Retool)</description>
-		<version>20260217-051904</version>
-		<date>2026-02-26 04-37-43</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,855) (-y) [-aAbBcefkmMoprv] (20260225-213748) (Retool)</description>
+		<version>20260225-213748</version>
+		<date>2026-02-27 04-32-30</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4312,11 +4312,6 @@
 		<category>Games</category>
 		<description>Mario to Wario (Japan) (En)</description>
 		<rom name="Mario to Wario (Japan) (En).sfc" size="1048576" crc="c6695e34" md5="b1774f03700dfc311bfd86411db629c3" sha1="68b307fa7fdfd91a190fa0148178473aa2406b41" sha256="c51c5930b344f553415d54c3c964c050e1eb6355b10f5966deabb686e70e1750"/>
-	</game>
-	<game name="Mario's Time Machine (USA)" id="1569">
-		<category>Games</category>
-		<description>Mario's Time Machine (USA)</description>
-		<rom name="Mario's Time Machine (USA).sfc" size="1048576" crc="5e7397e0" md5="f20ee859055845bffd2b3d1b2e9a4ec6" sha1="e5140776ed65480ace64deb0b8cbba23295a9a25" sha256="4b69d4958e099c3b3f6ae45e153ced9b24755d8c161dfee06c9f67886a7c0f09"/>
 	</game>
 	<game name="Mark Davis' The Fishing Master (USA)" id="1570">
 		<category>Games</category>

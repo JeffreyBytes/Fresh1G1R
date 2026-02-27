@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (301) (-y) [-aAbBcdkmMpPuv] (20260221-104816) (Retool)</description>
-		<version>20260221-104816</version>
-		<date>2026-02-26 04-48-34</date>
+		<description>Nintendo - Satellaview (303) (-y) [-aAbBcdkmMpPuv] (20260225-110424) (Retool)</description>
+		<version>20260225-110424</version>
+		<date>2026-02-27 04-41-43</date>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -221,10 +221,15 @@
 		<description>BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-20) (SoundLink)</description>
 		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-20) (SoundLink).bs" size="1048576" crc="67568b74" md5="9dfd7cfe35e6df67a28197c68213ecab" sha1="e88c6f7c140c57d6388c18a4c2e9d241779800d1" sha256="0779a32b31809c32dec351884f2fab7d55e70512635f9d167bce01ad5e459e69"/>
 	</game>
-	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (6-22) (SoundLink)" id="3939">
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink)" id="3971">
 		<category>Games</category>
-		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (6-22) (SoundLink)</description>
-		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (6-22) (SoundLink).bs" size="1048576" crc="b5fd446d" md5="cbd73501db873b78c73a6886df49bec4" sha1="2beec53e0f69e51168d5916100ce41176c7e65a8" sha256="3a9f819cc0576bc23f9e2e85c6fbe5f3f0d36d5fc6042050371449328189c835"/>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink).bs" size="1048576" crc="78336cd9" md5="de2d8f871ac7e7dd9b209dacd690a0bb" sha1="8ac1ae61dc9094eab79b69ddbd9a38deca0f2ddf" sha256="b6639b06a678aba6e1cbd1c262b647b4c9f842d2315632c52decfc22f5735a00"/>
+	</game>
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink)" id="3939">
+		<category>Games</category>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink).bs" size="1048576" crc="b5fd446d" md5="cbd73501db873b78c73a6886df49bec4" sha1="2beec53e0f69e51168d5916100ce41176c7e65a8" sha256="3a9f819cc0576bc23f9e2e85c6fbe5f3f0d36d5fc6042050371449328189c835"/>
 	</game>
 	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (Premiere) (1997-2-23) (SoundLink)" id="3771">
 		<category>Games</category>
@@ -872,6 +877,11 @@
 		<category>Games</category>
 		<description>Organic Stone - Honpen (Japan) (Data Pack)</description>
 		<rom name="Organic Stone - Honpen (Japan) (Data Pack).bs" size="131072" crc="722a5b28" md5="f3bba1020841e4151063abb16d11157e" sha1="8bfc59dd5eeb70def66151dabef4f444a2d90ca4" sha256="213b268c69f61238dac595acc45f6938a4b0262fb0ac1a018b893f33b7a43ce8"/>
+	</game>
+	<game name="Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine)" id="3972">
+		<category>Magazines</category>
+		<description>Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine)</description>
+		<rom name="Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine).bs" size="1048576" crc="c3c1e7bb" md5="f3c14849ec70af1ec53339ff85c7717e" sha1="2e7b8997f96c8e6060983c0688a82779548b16dd" sha256="a5dac4d8941b62406e1ce508997bb1fa266976bdefee37d55f2f2d71e8120b5b"/>
 	</game>
 	<game name="Panel de Pon - BS Ban (Japan)" id="3818">
 		<category>Games</category>
