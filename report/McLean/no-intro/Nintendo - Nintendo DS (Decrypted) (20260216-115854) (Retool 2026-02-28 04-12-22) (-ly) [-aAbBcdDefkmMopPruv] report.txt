@@ -4061,6 +4061,7 @@ These titles were removed because the user excluded application titles.
 - Board Checker RVL (World) (V13.2) (2011-08-09) (Program)
 - Board Checker RVL (World) (V7.2) (2007-06-29) (Program)
 - Board Checker TWL (World) (V3.0) (2010-02-04) (Program)
+- Cartridge Construction Kit (World) (v1.22) (Unl)
 - CodeBreaker DS (World) (v1.0.0) (Unl) [b]
 - CodeBreaker DS (World) (v1.0.1) (Unl) [b]
 - CodeBreaker DS Lite (World) (Unl)
@@ -4069,6 +4070,7 @@ These titles were removed because the user excluded application titles.
 - CycloDS Evolution (World) (v1.1) (Unl)
 - DSTT (World) (Unl)
 - DSTTi (World) (Unl)
+- Data Max (World) (Unl)
 - EDGE (World) (Unl)
 - EZ-Flash V (World) (Unl)
 - EZ-Flash Vi (World) (Unl)
@@ -4445,6 +4447,10 @@ These titles were removed because the user excluded preproduction titles.
 - Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta 4)
 - Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr) (Beta)
 - Drake & Josh - Talent Showdown (USA) (En,Fr) (Beta)
+- Drawn to Life (Unknown) (Beta 1)
+- Drawn to Life (Unknown) (Beta 2)
+- Drawn to Life (Unknown) (Beta) (Milestone 5)
+- Drawn to Life (Unknown) (Beta) (Milestone 6, 2006-12-04)
 - Duke Nukem - Critical Mass (USA) (v0.9.5219) (Beta) (Debug)
 - EA Create - Snap (USA) (Proto)
 - EA Playground (USA) (Beta)
@@ -4551,6 +4557,7 @@ These titles were removed because the user excluded preproduction titles.
 - Tiny the Mole (Europe) (Proto) (2009-06-03)
 - Tom Clancy's Splinter Cell - Conviction (USA) (Proto)
 - Touch Detective (USA) (Beta)
+- Toy Golf Extreme (Unknown) (Proto)
 - Ultimate Band (Europe) (En,Fr,De,Es,It,Nl) (Beta)
 - Virtual Piano (USA) (Proto 1)
 - Virtual Piano (USA) (Proto 2)
@@ -4602,12 +4609,16 @@ These titles were removed because the user excluded unlicensed titles.
 - Invasion (World) (Datel Games n' Music) (Unl)
 - JoggleDS (World) (Datel Games n' Music) (Unl)
 - London Underground (World) (Datel Games n' Music) (Unl)
+- MK6-Motion (World) (Unl) [b]
 - Ninjapass Evolution X9 TransFlash (World) (v1.1) (Unl) [b]
 - Ninjapass Junior 512M (World) (Unl) [b]
 - Ninjapass Media Launcher (World) (Unl) [b]
 - NumberMinds (World) (Datel Games n' Music) (Unl)
 - Paddle Battle (World) (Datel Games n' Music) (Unl)
 - Pop the Balls (World) (Datel Games n' Music) (Unl)
+- Pro Action Replay EZ (Japan) (Unl) [b]
+- Pro Action Replay MAX (Japan) (v1.54) (Unl) [b]
+- Pro Action Replay MAX (World) (Unl) [b]
 - R4 Upgrade (World) (Unl)
 - Solitaire DS (World) (Datel Games n' Music) (Unl)
 - Squash DS (World) (Datel Games n' Music) (Unl)

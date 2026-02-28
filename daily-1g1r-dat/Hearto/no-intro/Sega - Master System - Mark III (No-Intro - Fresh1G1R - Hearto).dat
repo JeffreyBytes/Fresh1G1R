@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Master System - Mark III (Retool)</name>
-		<description>Sega - Master System - Mark III (450) (-y) [-aAbBcefkmMoprv] (20260225-205935) (Retool)</description>
-		<version>20260225-205935</version>
-		<date>2026-02-27 04-34-05</date>
+		<description>Sega - Master System - Mark III (449) (-y) [-aAbBcefkmMoprv] (20260226-210802) (Retool)</description>
+		<version>20260226-210802</version>
+		<date>2026-02-28 04-08-48</date>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, ChuckD, fuzzball, Gefflon, gigadeath, Hiccup, kazumi213, nnssxx, NovaAurora, omonim2007, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -146,11 +146,6 @@
 		<category>Games</category>
 		<description>Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)</description>
 		<rom name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1).sms" size="131072" crc="aed9aac4" md5="f43e74ffec58ddf62f0b8667d31f22c0" sha1="6d052e0cca3f2712434efd856f733c03011be41c" sha256="6667e133818e36a214c81003e543f2c4c3ab5fa018ca313e3ac222a5a6e361c5"/>
-	</game>
-	<game name="Alex Kidd in Miracle World 2 (World) (Unl)" id="0621">
-		<category>Games</category>
-		<description>Alex Kidd in Miracle World 2 (World) (Unl)</description>
-		<rom name="Alex Kidd in Miracle World 2 (World) (Unl).sms" size="524288" crc="7de172ff" md5="e9b53d893bf8fc94015de722f610c7eb" sha1="d85aba7a276d751302f6a076ab2beb32cd654497"/>
 	</game>
 	<game name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)" id="0017">
 		<category>Games</category>
@@ -299,11 +294,11 @@
 		<description>Battle Out Run (Europe, Brazil) (En)</description>
 		<rom name="Battle Out Run (Europe, Brazil) (En).sms" size="262144" crc="c19430ce" md5="83609eb760c3af64915fd6e73ee7d99e" sha1="cfa8721d4fc71b1f14e9a06f2db715a6f88be7dd" sha256="478a931997ade2a6f487a181a9d527cecf4668b0129ae55f634347f5186a160d"/>
 	</game>
-	<game name="Battle Wings (World) (Beta) (1988-09-07)" id="0624">
+	<game name="Battle Wings (World) (Beta)" id="0624">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Battle Wings (World) (Beta) (1988-09-07)</description>
-		<rom name="Battle Wings (World) (Beta) (1988-09-07).sms" size="262144" crc="fae0ade7" md5="4535b1616c9f8ad54348fadb1abb439c" sha1="99fef1cca416df8586d3aaf76d147e86e69dbdad" sha256="87de4f016d2b7f76a53369720912369b619f16bd52c1addd4a223fd758f63614"/>
+		<description>Battle Wings (World) (Beta)</description>
+		<rom name="Battle Wings (World) (Beta).sms" size="262144" crc="fae0ade7" md5="4535b1616c9f8ad54348fadb1abb439c" sha1="99fef1cca416df8586d3aaf76d147e86e69dbdad" sha256="87de4f016d2b7f76a53369720912369b619f16bd52c1addd4a223fd758f63614"/>
 	</game>
 	<game name="Battlemaniacs (Brazil) (En)" id="0052">
 		<category>Games</category>
@@ -1082,11 +1077,11 @@
 		<description>Lemmings (Europe, Brazil) (En)</description>
 		<rom name="Lemmings (Europe, Brazil) (En).sms" size="262144" crc="f369b2d8" md5="b190f17a46ba9cc66676e7174209c24e" sha1="f3a853cce1249a0848bfc0344f3ee2db6efa4c01" sha256="0b7e8f3ecd357c8129a214ea9b5723c4191b9550a0e94b120f70954fd668ad0c"/>
 	</game>
-	<game name="Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)" id="0571">
+	<game name="Lemmings 2 - The Tribes (Europe) (Proto)" id="0571">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)</description>
-		<rom name="Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).sms" size="524288" crc="cf5aecca" md5="3da5f5122f3d94360de61bcb8478e169" sha1="30b97f8afac0044ceda2722f5fddd31ba30de571" sha256="f41412a9a3a28d4f32ba54ffd695571856b70d2462378eea97717612dbf01a8c"/>
+		<description>Lemmings 2 - The Tribes (Europe) (Proto)</description>
+		<rom name="Lemmings 2 - The Tribes (Europe) (Proto).sms" size="524288" crc="cf5aecca" md5="3da5f5122f3d94360de61bcb8478e169" sha1="30b97f8afac0044ceda2722f5fddd31ba30de571" sha256="f41412a9a3a28d4f32ba54ffd695571856b70d2462378eea97717612dbf01a8c"/>
 	</game>
 	<game name="Line of Fire (Europe, Brazil) (En)" id="0213">
 		<category>Games</category>
@@ -1532,11 +1527,11 @@
 		<description>Renegade (Europe, Brazil) (En)</description>
 		<rom name="Renegade (Europe, Brazil) (En).sms" size="262144" crc="3be7f641" md5="bbce8b8ac26e2f582defe0056346f035" sha1="c07a04f3ab811b52c97b9bf850670057148de6f0" sha256="914ae3cf43a62437b0be3858f9e8879808a2a9c7ce3602aba3c542ffbe469fff"/>
 	</game>
-	<game name="Rental Car (World) (v0.06) (Proto) (Unl)" id="1001">
+	<game name="Rental Car (World) (Proto) (Unl)" id="1001">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Rental Car (World) (v0.06) (Proto) (Unl)</description>
-		<rom name="Rental Car (World) (v0.06) (Proto) (Unl).sms" size="65536" crc="bc6ac56d" md5="9c0b15e19bdc0c52c325e23658465ced" sha1="4eeee41bc085c8acf540c363d749b507475b47bd" sha256="0062557348a625bd0bee4259b0ebfc7641b96735f1606f631f4d983e7c404163"/>
+		<description>Rental Car (World) (Proto) (Unl)</description>
+		<rom name="Rental Car (World) (Proto) (Unl).sms" size="65536" crc="bc6ac56d" md5="9c0b15e19bdc0c52c325e23658465ced" sha1="4eeee41bc085c8acf540c363d749b507475b47bd" sha256="0062557348a625bd0bee4259b0ebfc7641b96735f1606f631f4d983e7c404163"/>
 	</game>
 	<game name="Rescue Mission (USA, Europe, Brazil) (En)" id="0301">
 		<category>Games</category>
