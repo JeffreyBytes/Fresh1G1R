@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,599) (-y) [-aAbBcefkmMoprv] (2026-02-26 17-09-42) (Retool)</description>
-		<version>2026-02-26 17-09-42</version>
-		<date>2026-02-27 04-28-43</date>
+		<description>Microsoft - Xbox 360 (1,601) (-y) [-aAbBcefkmMoprv] (2026-03-01 02-01-10) (Retool)</description>
+		<version>2026-03-01 02-01-10</version>
+		<date>2026-03-01 04-51-31</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6261,10 +6261,20 @@
 		<description>Scene It Bright Lights! Big Screen! (USA)</description>
 		<rom name="Scene It Bright Lights! Big Screen! (USA).iso" size="7838695424" crc="bdd35035" md5="c2658f9c35b210405ac3748f82ed5e1a" sha1="afb37b67ccc8c03ef3d99c3721a37310e5dbea13"/>
 	</game>
+	<game name="Scene It Cinema en folie (France)">
+		<category>Games</category>
+		<description>Scene It Cinema en folie (France)</description>
+		<rom name="Scene It Cinema en folie (France).iso" size="7835492352" crc="2af47850" md5="576ba62c08eecccc2bb8ed19b5e76421" sha1="39f858b91184e3d27b8e715fe0ab645c82fb08c3"/>
+	</game>
 	<game name="Scene It Lights, Camera, Action (USA)">
 		<category>Games</category>
 		<description>Scene It Lights, Camera, Action (USA)</description>
 		<rom name="Scene It Lights, Camera, Action (USA).iso" size="7835492352" crc="a960cea0" md5="24f4e4b21bad37b64bc80010bd6bae17" sha1="812f82c1fb39ad585f4b4e368852d808964eed92"/>
+	</game>
+	<game name="Scene It Luci, Camera, Azione! (Italy)">
+		<category>Games</category>
+		<description>Scene It Luci, Camera, Azione! (Italy)</description>
+		<rom name="Scene It Luci, Camera, Azione! (Italy).iso" size="7835492352" crc="5b696aed" md5="5ca77932b99c0ae368cb8e7a2e99192d" sha1="58abd4933dcf854330ef4bccd69b6d031159186a"/>
 	</game>
 	<game name="ScreamRide (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)">
 		<category>Games</category>

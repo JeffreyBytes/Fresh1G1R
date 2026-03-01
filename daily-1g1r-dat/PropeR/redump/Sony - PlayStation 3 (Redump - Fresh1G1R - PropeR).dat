@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,627) (-y) [-aAbBcdkmMpPuv] (2026-02-27 03-33-16) (Retool)</description>
-		<version>2026-02-27 03-33-16</version>
-		<date>2026-02-27 04-41-35</date>
+		<description>Sony - PlayStation 3 (1,624) (-y) [-aAbBcdkmMpPuv] (2026-03-01 04-23-44) (Retool)</description>
+		<version>2026-03-01 04-23-44</version>
+		<date>2026-03-01 05-02-57</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2476,11 +2476,6 @@
 		<description>Folklore (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Folklore (USA) (En,Fr,De,Es,It).iso" size="15854731264" crc="e59859ee" md5="934c40f9d6f56d7aea5816367ef5d92f" sha1="20697fca5a17769c73de84d49b25a6160ab7e31c"/>
 	</game>
-	<game name="FolksSoul - Ilheobeorin Jeonseung (Korea) (En,Ko)">
-		<category>Games</category>
-		<description>FolksSoul - Ilheobeorin Jeonseung (Korea) (En,Ko)</description>
-		<rom name="FolksSoul - Ilheobeorin Jeonseung (Korea) (En,Ko).iso" size="12570066944" crc="e2ba8f88" md5="8928daef8e71f357c08625f864013c81" sha1="c9d1a23b932723fcfe6ce52d54b89365ec8a4388"/>
-	</game>
 	<game name="Formula One - Championship Edition (USA)">
 		<category>Games</category>
 		<description>Formula One - Championship Edition (USA)</description>
@@ -4351,11 +4346,6 @@
 		<description>Mini Ninjas (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Mini Ninjas (USA) (En,Fr,De,Es,It,Nl).iso" size="7127236608" crc="1ec6572e" md5="0547f4b67fc958d97d27c9c80e5cf5f7" sha1="bb41dca8c51da14aa4a857a15fad0bddcc9572bb"/>
 	</game>
-	<game name="Minna no Golf 5 (Japan) (v02.00)">
-		<category>Games</category>
-		<description>Minna no Golf 5 (Japan) (v02.00)</description>
-		<rom name="Minna no Golf 5 (Japan) (v02.00).iso" size="9500033024" crc="739ea16b" md5="eb029128f813635893f96ebef730b0d1" sha1="334c2a1b172a51d9704c43188e41ec6d21be435e"/>
-	</game>
 	<game name="Mirror's Edge (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
 		<description>Mirror's Edge (USA, Canada) (En,Fr,Es)</description>
@@ -5630,11 +5620,6 @@
 		<category>Games</category>
 		<description>Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).iso" size="10218897408" crc="4f11d75f" md5="42f2268b381cffadedb9a1da120da9f6" sha1="95b2f6ae36df32bb47a63c365fa842b02bb10394"/>
-	</game>
-	<game name="Red Dead Redemption - Undead Nightmare (USA) (En,Fr,De,Es,It)">
-		<category>Games</category>
-		<description>Red Dead Redemption - Undead Nightmare (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Red Dead Redemption - Undead Nightmare (USA) (En,Fr,De,Es,It).iso" size="10928979968" crc="237b1e18" md5="66d8a7911ef228024943dc77b87ad778" sha1="daab5566189c90f7e75c622b7f5cb3d76d79a0bb"/>
 	</game>
 	<game name="Red Faction - Armageddon (USA, Korea) (En,Fr)">
 		<category>Games</category>

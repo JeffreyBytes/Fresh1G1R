@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,855) (-y) [-aAbBcefkmMoprv] (20260225-213748) (Retool)</description>
-		<version>20260225-213748</version>
-		<date>2026-02-28 04-07-37</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,852) (-y) [-aAbBcefkmMoprv] (20260227-023459) (Retool)</description>
+		<version>20260227-023459</version>
+		<date>2026-03-01 04-54-44</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3236,16 +3236,6 @@
 		<category>Games</category>
 		<description>JB The Super Bass (Japan)</description>
 		<rom name="JB The Super Bass (Japan).sfc" size="2621440" crc="d85c1c8f" md5="98b85b43c6fe3dfb5565fcf1df7f389f" sha1="a371bc4af113bb5824fa333f5bfca50802cc1972" sha256="8791379533fd9b5668d1127eb48e473e40dfe17df76220dc2912ff7993e60f9f"/>
-	</game>
-	<game name="JRA PAT (Japan) (TJCJ)" id="3678">
-		<category>Games</category>
-		<description>JRA PAT (Japan) (TJCJ)</description>
-		<rom name="JRA PAT (Japan) (TJCJ).sfc" size="1048576" crc="a1684685" md5="604824109beef87781fcacd68c024eea" sha1="4eba91631fc33b804d548499ff33f56b79129353" sha256="dbc88d8ba3c2de24005e94186d51046094722ee68027412d8797eff23d6d95bb"/>
-	</game>
-	<game name="JRA PAT - Wide Taiouban (Japan) (TJEJ)" id="1256">
-		<category>Games</category>
-		<description>JRA PAT - Wide Taiouban (Japan) (TJEJ)</description>
-		<rom name="JRA PAT - Wide Taiouban (Japan) (TJEJ).sfc" size="1048576" crc="673468c8" md5="5595a1051d085f7d88713b625b5111f0" sha1="f3344c19bccca1cf1647a72c1a113a702b5bdf8b" sha256="6a7cc9d71d96c5567b1c53e344544e888cb9f3382802314497ff2fb655f6acae"/>
 	</game>
 	<game name="JWP Joshi Pro Wres - Pure Wrestle Queens (Japan)" id="1289">
 		<category>Games</category>
@@ -9306,11 +9296,6 @@
 		<category>Games</category>
 		<description>Yuuyu no Quiz de Go! Go! (Japan)</description>
 		<rom name="Yuuyu no Quiz de Go! Go! (Japan).sfc" size="1048576" crc="d7e68d2e" md5="a88b23fed024f6b7312b4e317b81d23f" sha1="a9fd8dd63ca6488f24aceceb482a13631122bd6d" sha256="8aafec911dffec6e8fc62b165c147d042ad65240d83db54304626aaabfd203ab"/>
-	</game>
-	<game name="Zaitaku Touhyou System - SPAT4-Wide (Japan) (TOBJ)" id="3404">
-		<category>Games</category>
-		<description>Zaitaku Touhyou System - SPAT4-Wide (Japan) (TOBJ)</description>
-		<rom name="Zaitaku Touhyou System - SPAT4-Wide (Japan) (TOBJ).sfc" size="1048576" crc="798a252f" md5="5632dfdbf37de6756be5458cb0d8b225" sha1="01e4d23294dfb6c471ec6555c29fe7afd85b73f9" sha256="b23cc3a057964ef61fa18ee671d12eca6a34113919f4b7843bd20705c6fc284e"/>
 	</game>
 	<game name="Zakuro no Aji (Japan)" id="3405">
 		<category>Games</category>

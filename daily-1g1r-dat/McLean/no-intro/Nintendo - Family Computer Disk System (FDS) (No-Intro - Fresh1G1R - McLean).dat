@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Family Computer Disk System (FDS) (Retool)</name>
-		<description>Nintendo - Family Computer Disk System (FDS) (7) (-ly) [-aAbBcdDefkmMopPruv] (20260118-023845) (Retool)</description>
-		<version>20260118-023845</version>
-		<date>2026-02-28 04-12-06</date>
+		<description>Nintendo - Family Computer Disk System (FDS) (8) (-ly) [-aAbBcdDefkmMopPruv] (20260227-093648) (Retool)</description>
+		<version>20260227-093648</version>
+		<date>2026-03-01 05-00-01</date>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -27,6 +27,11 @@
 		<category>Games</category>
 		<description>Pro Wres (Japan) (En)</description>
 		<rom name="Pro Wres (Japan) (En).fds" size="65500" crc="d6ce8ac6" md5="4123185940971b3b5f3bbd00cbe1fdf7" sha1="1ce6b58ec4ee95856012478687b6038279772b42"/>
+	</game>
+	<game name="Super Mario Bros. (Japan) (En)" id="0119">
+		<category>Games</category>
+		<description>Super Mario Bros. (Japan) (En)</description>
+		<rom name="Super Mario Bros. (Japan) (En).fds" size="65500" crc="e0890cf2" md5="293303fe565de2333bc1e4115d38fa3f" sha1="383ad8e3890a95de9595f0a6087648f51177da13"/>
 	</game>
 	<game name="Super Mario Bros. 2 (Japan) (En) (DV 2)" id="0297">
 		<category>Games</category>

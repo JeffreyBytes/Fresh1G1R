@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (402) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-26 12-18-09) (Retool)</description>
-		<version>2026-02-26 12-18-09</version>
-		<date>2026-02-27 04-34-09</date>
+		<description>Apple - Macintosh (402) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-27 09-57-22) (Retool)</description>
+		<version>2026-02-27 09-57-22</version>
+		<date>2026-03-01 04-56-55</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1814,11 +1814,11 @@
 		<description>Prince of Persia (USA)</description>
 		<rom name="Prince of Persia (USA).iso" size="8373534720" crc="f6bda138" md5="d44d0031f058c29253bb46da8e4d864c" sha1="576edc72d1d06e7785fd3c0898dabae0b76daa02"/>
 	</game>
-	<game name="Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)">
+	<game name="Prisoner of Ice (USA) (En,Es)">
 		<category>Games</category>
-		<description>Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)</description>
-		<rom name="Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount).bin" size="645224160" crc="e7a6b097" md5="f11f01cd8f88b961c20849042f651cc9" sha1="d40c11d03eab672ad4f974cd2b89a5303eb6ad44"/>
-		<rom name="Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount).cue" size="143" crc="9e075bd5" md5="af3ad06e186a6e4eecbf296d9b0eb809" sha1="08e7d0fd28e73d10a0733d540aa87eb06a55036d"/>
+		<description>Prisoner of Ice (USA) (En,Es)</description>
+		<rom name="Prisoner of Ice (USA) (En,Es).bin" size="467706960" crc="813efdcb" md5="b1a308f968846937fd6f3230377abf7f" sha1="b2072ae1fad707862bf01e6320110faf68e0bdce"/>
+		<rom name="Prisoner of Ice (USA) (En,Es).cue" size="95" crc="3df96038" md5="6c8df50018875ddc3b978ab763155d23" sha1="10e484d49e5289fd2a6546c3c07aa80f48b1f9ce"/>
 	</game>
 	<game name="Pro Pinball - The Web (Europe)">
 		<category>Games</category>
