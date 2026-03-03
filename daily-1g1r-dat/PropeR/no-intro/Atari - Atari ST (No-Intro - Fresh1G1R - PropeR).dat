@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari ST (Retool)</name>
-		<description>Atari - Atari ST (314) (-y) [-aAbBcdkmMpPuv] (20260222-121844) (Retool)</description>
+		<description>Atari - Atari ST (315) (-y) [-aAbBcdkmMpPuv] (20260222-121844) (Retool)</description>
 		<version>20260222-121844</version>
-		<date>2026-03-02 04-36-34</date>
+		<date>2026-03-03 04-45-18</date>
 		<author>Connie, FakeShemp, Gefflon, nnssxx, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1166,6 +1166,11 @@
 		<category>Games</category>
 		<description>Puzznic (Europe)</description>
 		<rom name="Puzznic (Europe).ipf" size="1022242" crc="bf30e373" md5="b4649aff27aee5092c738b45aa80674f" sha1="f0d0ea8620bc19e988af26c99fda87cae0372535"/>
+	</game>
+	<game name="Quartz (Europe)" id="3684">
+		<category>Games</category>
+		<description>Quartz (Europe)</description>
+		<rom name="Quartz (Europe).ipf" size="562172" crc="707b1264" md5="db806c871b3949a82da56d4f3d55b33b" sha1="344b5f187fae76d716231afc74f61cfbe045eb2a" sha256="7751cb8296fcb0614bb84c7883477ef75798f17280366df5285e586cbe10f564"/>
 	</game>
 	<game name="Quink (USA)" id="3397">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>LeapFrog - Explorer (Retool)</name>
-		<description>LeapFrog - Explorer (76) (-y) [-aAbBcdkmMpPuv] (20260224-025116) (Retool)</description>
+		<description>LeapFrog - Explorer (80) (-y) [-aAbBcdkmMpPuv] (20260224-025116) (Retool)</description>
 		<version>20260224-025116</version>
-		<date>2026-03-02 04-34-23</date>
+		<date>2026-03-03 04-43-08</date>
 		<author>Gefflon, nnssxx, relax, TeamEurope</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -76,10 +76,20 @@
 		<description>Disney Princess - Cinderella - The Heart that Believes (USA) (v1.0.7.13799)</description>
 		<rom name="Disney Princess - Cinderella - The Heart that Believes (USA) (v1.0.7.13799).bin" size="67108864" crc="13cabdb5" md5="e8c43b8e9a9cffe56b97c4d4748cebef" sha1="8b9a2069781ea3b700f5231fffaaba9d5fd0a63c" sha256="58aaf9c02eec2e2cab5729e123cd795439d639572bbd12c5cf568199f8d563df"/>
 	</game>
+	<game name="Disney Princess - Pop-Up Story Adventures! (USA) (v1.0.3.0)" id="0002">
+		<category>Games</category>
+		<description>Disney Princess - Pop-Up Story Adventures! (USA) (v1.0.3.0)</description>
+		<rom name="Disney Princess - Pop-Up Story Adventures! (USA) (v1.0.3.0).bin" size="67108864" crc="f0f37c2e" md5="0fd5ba52e14ea06acc12638ad743da26" sha1="83dc83c0318c1a43c5aa49d2a0b727696ca5ec96" sha256="94297ecb428e00a6ee0583082276589bdfd4fee60565c45f1021aee450007440"/>
+	</game>
 	<game name="Disney Princess - The Little Mermaid - Princess Adventures (USA) (v1.0.1.0)" id="0082">
 		<category>Games</category>
 		<description>Disney Princess - The Little Mermaid - Princess Adventures (USA) (v1.0.1.0)</description>
 		<rom name="Disney Princess - The Little Mermaid - Princess Adventures (USA) (v1.0.1.0).bin" size="67108864" crc="a999b1a9" md5="0ba62ea161601ac5396236a2f5b2f028" sha1="f12a338aa09ab8e9ec36e1c2431e014f753f9b73" sha256="3ee8ab4e4e553fbdca8b76fa129a09e6c1d2575571419b8e907af02c3f2d41d3"/>
+	</game>
+	<game name="Disney Princess - The Princess and the Frog (USA) (v1.0.5.0)" id="0004">
+		<category>Games</category>
+		<description>Disney Princess - The Princess and the Frog (USA) (v1.0.5.0)</description>
+		<rom name="Disney Princess - The Princess and the Frog (USA) (v1.0.5.0).bin" size="67108864" crc="bb007611" md5="d1f863e99ac543073a3188399f6271c4" sha1="6c0cb5506e2d2ecd9c896f5a81dcc0b88c2b1304" sha256="e55338b0d1065c991e509a28a71d3983f8cd67f4818d711f1c9a6c5eebfda6c7"/>
 	</game>
 	<game name="Disney Princesses - Histoires et Aventures en Livre Anime ! (Canada) (Fr) (v1.0.3.0)" id="0042">
 		<category>Games</category>
@@ -311,6 +321,11 @@
 		<description>Rusty Rivets - Fix-it Adventures (USA) (v1.0.3.51)</description>
 		<rom name="Rusty Rivets - Fix-it Adventures (USA) (v1.0.3.51).bin" size="134217728" crc="49ba6254" md5="a11766218f42a26b2ef27f668bd544a0" sha1="1d7e2494b9642a286b3d98f7170b9f8620aa3d7d" sha256="c27d16a1bfd1d602783f645a62f332d3ec860a67d8a36f1e0166de26232ad881"/>
 	</game>
+	<game name="Scooby-Doo! - Pirate Ghost of the Barbary Coast (USA) (v1.0.2.0)" id="0006">
+		<category>Games</category>
+		<description>Scooby-Doo! - Pirate Ghost of the Barbary Coast (USA) (v1.0.2.0)</description>
+		<rom name="Scooby-Doo! - Pirate Ghost of the Barbary Coast (USA) (v1.0.2.0).bin" size="67108864" crc="27f7bdb4" md5="073bfc45d675cb97a416d36511756505" sha1="c279f40e1165c9f4576db239cf8d12fea856e36f" sha256="9f2d8665d40bda1da49be369ff41dedbbba5a0720f3e7225dba8b22c1653f17b"/>
+	</game>
 	<game name="Sesame Street - Solve it with Elmo, Abby and Super Grover 2.0 (USA) (v1.0.0.0)" id="0079">
 		<category>Games</category>
 		<description>Sesame Street - Solve it with Elmo, Abby and Super Grover 2.0 (USA) (v1.0.0.0)</description>
@@ -375,6 +390,11 @@
 		<category>Games</category>
 		<description>Toy Story 3 (USA) (v1.0.0.0)</description>
 		<rom name="Toy Story 3 (USA) (v1.0.0.0).bin" size="67108864" crc="a442c71d" md5="ccc79733a2f6270f453c8eb03fbaa576" sha1="bbef5ac5988728e5126347bdc3c06495781ef0bd" sha256="a1756be642020c2203765b49a85c34272b3a269dd3926822f1392f7ba809ecea"/>
+	</game>
+	<game name="Transformers Rescue Bots - Race to the Rescue (USA) (v1.0.1.9589)" id="0012">
+		<category>Games</category>
+		<description>Transformers Rescue Bots - Race to the Rescue (USA) (v1.0.1.9589)</description>
+		<rom name="Transformers Rescue Bots - Race to the Rescue (USA) (v1.0.1.9589).bin" size="67108864" crc="35f73959" md5="8e402cb0a83b7b03b2decb54f2decf7b" sha1="253bc751ab973d375ab701d7523c306c122c9a4c" sha256="0806ce6d91b611f30a9c859dfb2a603847676900c0ab773ebdf5b67ac72da5db"/>
 	</game>
 	<game name="Trolls (USA) (v1.0.3.20)" id="0086">
 		<category>Games</category>

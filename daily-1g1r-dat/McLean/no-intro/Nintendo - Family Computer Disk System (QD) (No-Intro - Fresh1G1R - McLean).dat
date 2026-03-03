@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Family Computer Disk System (QD) (Retool)</name>
-		<description>Nintendo - Family Computer Disk System (QD) (8) (-ly) [-aAbBcdDefkmMopPruv] (20260227-093648) (Retool)</description>
-		<version>20260227-093648</version>
-		<date>2026-03-02 04-32-12</date>
+		<description>Nintendo - Family Computer Disk System (QD) (9) (-ly) [-aAbBcdDefkmMopPruv] (20260301-103145) (Retool)</description>
+		<version>20260301-103145</version>
+		<date>2026-03-03 04-37-23</date>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -27,6 +27,11 @@
 		<category>Games</category>
 		<description>Pro Wres (Japan) (En)</description>
 		<rom name="Pro Wres (Japan) (En).qd" size="65536" crc="fa073482" md5="d3b48f6d6a07b9bd65cb9cedf056d242" sha1="da6c4fcf8dd93f285fef40f6a3a67188b3a8363f"/>
+	</game>
+	<game name="Soccer (Japan) (En)" id="0116">
+		<category>Games</category>
+		<description>Soccer (Japan) (En)</description>
+		<rom name="Soccer (Japan) (En).qd" size="65536" crc="325f38e3" md5="d04bc38fb45caae440069e09ca971046" sha1="f9d4d060cc274296fd22e8ac446333179f0ad733" sha256="390f5aa23fab9932ffa95db179f2232833d849e9d549c8cdca8592eb17dec06c"/>
 	</game>
 	<game name="Super Mario Bros. (Japan) (En)" id="0119">
 		<category>Games</category>

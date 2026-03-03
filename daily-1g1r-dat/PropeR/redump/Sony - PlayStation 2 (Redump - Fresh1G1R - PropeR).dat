@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (4,464) (-y) [-aAbBcdkmMpPuv] (2026-03-01 03-16-57) (Retool)</description>
-		<version>2026-03-01 03-16-57</version>
-		<date>2026-03-01 05-02-52</date>
+		<description>Sony - PlayStation 2 (4,465) (-y) [-aAbBcdkmMpPuv] (2026-03-03 01-03-23) (Retool)</description>
+		<version>2026-03-03 01-03-23</version>
+		<date>2026-03-03 04-41-25</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -23323,6 +23323,12 @@
 		<description>Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan)</description>
 		<rom name="Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan).bin" size="150109344" crc="ef708d57" md5="17aae54c5253df372767256c6f284e6e" sha1="1096186679f9fc6f03b2422da04274fb0251b975"/>
 		<rom name="Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan).cue" size="140" crc="dfe23cc1" md5="38d05f192e68dbd2b2a9ea41cb3648fc" sha1="9116194c46f8e0fcc6bc76a56501cdd92a9e9036"/>
+	</game>
+	<game name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)">
+		<category>Games</category>
+		<description>Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)</description>
+		<rom name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan).bin" size="150109344" crc="cfa95c8a" md5="0382ae76c43c7865e865210b59d7461e" sha1="95c7df653c90acd774bce07418707b772a7b1cb2"/>
+		<rom name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan).cue" size="143" crc="be00bc4f" md5="75a2dfddd9ac3f91a01a372fc450eb54" sha1="d14e04d5c8083dc10854a2b880196037b07e9e67"/>
 	</game>
 	<game name="Yamasa Digi World 3 - Time Park, King Pulsar, Cyber Dragon (Japan)">
 		<category>Games</category>

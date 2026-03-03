@@ -5,7 +5,7 @@
 		<name>Apple - Macintosh (Retool)</name>
 		<description>Apple - Macintosh (614) (-y) [-aAbBcdkmMpPuv] (2026-02-27 09-57-22) (Retool)</description>
 		<version>2026-02-27 09-57-22</version>
-		<date>2026-03-01 05-02-02</date>
+		<date>2026-03-03 04-39-52</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3088,11 +3088,11 @@
 		<rom name="Princess Maker 2 (Japan).bin" size="294317520" crc="034fc944" md5="560cbd919716a15e89265c112b527d56" sha1="21431e2469f0cc0c4b9b2df301c0eeb8d28b0754"/>
 		<rom name="Princess Maker 2 (Japan).cue" size="90" crc="473da025" md5="ffb4848364cef80120a56b0c76c92b98" sha1="e767635f37a266de3e1d8af6c6f73233e52ccf0c"/>
 	</game>
-	<game name="Prisoner of Ice (USA) (En,Es)">
+	<game name="Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)">
 		<category>Games</category>
-		<description>Prisoner of Ice (USA) (En,Es)</description>
-		<rom name="Prisoner of Ice (USA) (En,Es).bin" size="467706960" crc="813efdcb" md5="b1a308f968846937fd6f3230377abf7f" sha1="b2072ae1fad707862bf01e6320110faf68e0bdce"/>
-		<rom name="Prisoner of Ice (USA) (En,Es).cue" size="95" crc="3df96038" md5="6c8df50018875ddc3b978ab763155d23" sha1="10e484d49e5289fd2a6546c3c07aa80f48b1f9ce"/>
+		<description>Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)</description>
+		<rom name="Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount).bin" size="645224160" crc="e7a6b097" md5="f11f01cd8f88b961c20849042f651cc9" sha1="d40c11d03eab672ad4f974cd2b89a5303eb6ad44"/>
+		<rom name="Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount).cue" size="143" crc="9e075bd5" md5="af3ad06e186a6e4eecbf296d9b0eb809" sha1="08e7d0fd28e73d10a0733d540aa87eb06a55036d"/>
 	</game>
 	<game name="Pro Pinball - The Web (Europe)">
 		<category>Games</category>

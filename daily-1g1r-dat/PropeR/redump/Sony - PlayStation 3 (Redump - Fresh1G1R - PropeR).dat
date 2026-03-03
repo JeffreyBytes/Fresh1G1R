@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,624) (-y) [-aAbBcdkmMpPuv] (2026-03-01 04-23-44) (Retool)</description>
-		<version>2026-03-01 04-23-44</version>
-		<date>2026-03-01 05-02-57</date>
+		<description>Sony - PlayStation 3 (1,625) (-y) [-aAbBcdkmMpPuv] (2026-03-03 03-03-33) (Retool)</description>
+		<version>2026-03-03 03-03-33</version>
+		<date>2026-03-03 04-41-29</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -791,10 +791,10 @@
 		<description>Bodycount (USA) (En,Fr,Es)</description>
 		<rom name="Bodycount (USA) (En,Fr,Es).iso" size="5243928576" crc="e2b2d105" md5="3bae57af1801628c98586f8e333a89b6" sha1="2ae1ccd4355c4e53caa37dc848f8c4b597d03c4c"/>
 	</game>
-	<game name="Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan)">
+	<game name="Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan) (v02.00)">
 		<category>Games</category>
-		<description>Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan)</description>
-		<rom name="Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan).iso" size="4243324928" crc="ff677a9c" md5="2751a5180f021a932ace2006097f580c" sha1="260055bbe39d9060d1867925a720842b56bae5b5"/>
+		<description>Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan) (v02.00)</description>
+		<rom name="Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan) (v02.00).iso" size="4243324928" crc="77394e44" md5="f04af920dab30b52aeb87fd71083f984" sha1="e23cc7fe0b46bffb64f2a12e37612614df9ef8f7"/>
 	</game>
 	<game name="Borderlands - Game of the Year Edition (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -1790,6 +1790,11 @@
 		<category>Games</category>
 		<description>Dragon Age - Origins - Ultimate Edition (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Dragon Age - Origins - Ultimate Edition (USA) (En,Fr,De,Es,It).iso" size="16226713600" crc="0c6ff1d9" md5="e3fca218d65282054769c4c7032d1b01" sha1="f3afe72105f91c3530703278be7ef124c3409227"/>
+	</game>
+	<game name="Dragon Age - Poczatek (Poland)">
+		<category>Games</category>
+		<description>Dragon Age - Poczatek (Poland)</description>
+		<rom name="Dragon Age - Poczatek (Poland).iso" size="7124942848" crc="0eec1dfb" md5="c50c55d1fdcb4671afd7765a98f9f397" sha1="0ef0b7eae8dd73ff67f3348b908e7c3359d80a6e"/>
 	</game>
 	<game name="Dragon Age II (USA, Asia) (En,Fr,De,Es,It,Pl,Ru)">
 		<category>Games</category>

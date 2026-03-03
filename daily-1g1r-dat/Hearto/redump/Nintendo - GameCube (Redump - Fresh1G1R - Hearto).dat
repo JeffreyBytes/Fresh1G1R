@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-02-24 03-31-56) (Retool)</description>
-		<version>2026-02-24 03-31-56</version>
-		<date>2026-03-01 04-51-37</date>
+		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-03 04-21-54) (Retool)</description>
+		<version>2026-03-03 04-21-54</version>
+		<date>2026-03-03 04-28-54</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -286,10 +286,10 @@
 		<description>Biohazard 4 (Japan) (En,Ja) (Taikenban)</description>
 		<rom name="Biohazard 4 (Japan) (En,Ja) (Taikenban).iso" size="1459978240" crc="496e2b76" md5="a3fba779dbc1e2dca59b92a12d391c6b" sha1="6e6e7661443141150526bdbe95cfc710301f172a"/>
 	</game>
-	<game name="Biohazard Zero - Trial Edition (Japan)">
+	<game name="Biohazard Zero - Trial Edition (Japan) (Jitsuen-you Sample)">
 		<category>Demos</category>
-		<description>Biohazard Zero - Trial Edition (Japan)</description>
-		<rom name="Biohazard Zero - Trial Edition (Japan).iso" size="1459978240" crc="c089501e" md5="c899ff60d41eaa5acc3e79d95264ae19" sha1="4bdeef939026e8eef36802703c29b5f77281a18c"/>
+		<description>Biohazard Zero - Trial Edition (Japan) (Jitsuen-you Sample)</description>
+		<rom name="Biohazard Zero - Trial Edition (Japan) (Jitsuen-you Sample).iso" size="1459978240" crc="c089501e" md5="c899ff60d41eaa5acc3e79d95264ae19" sha1="4bdeef939026e8eef36802703c29b5f77281a18c"/>
 	</game>
 	<game name="Bionicle (USA)">
 		<category>Games</category>
@@ -1116,10 +1116,10 @@
 		<description>Gakuen Toshi Varanoir - Roses (Japan)</description>
 		<rom name="Gakuen Toshi Varanoir - Roses (Japan).iso" size="1459978240" crc="cf6d0aa5" md5="364f6513ce08ebbfc312e7a05a6b4225" sha1="d403770cba0c71520df8fd853275508130ac04f4"/>
 	</game>
-	<game name="Galleon (USA) (Proto)">
+	<game name="Galleon (USA) (Proto) (2002-06-19)">
 		<category>Preproduction</category>
-		<description>Galleon (USA) (Proto)</description>
-		<rom name="Galleon (USA) (Proto).iso" size="1459978240" crc="5dc67d47" md5="92c4519d2eb10fdd2eccf81e49f28ef3" sha1="872a81cd803c6b3b23ab47247bfc2840296c5aa1"/>
+		<description>Galleon (USA) (Proto) (2002-06-19)</description>
+		<rom name="Galleon (USA) (Proto) (2002-06-19).iso" size="1459978240" crc="5dc67d47" md5="92c4519d2eb10fdd2eccf81e49f28ef3" sha1="872a81cd803c6b3b23ab47247bfc2840296c5aa1"/>
 	</game>
 	<game name="Gauntlet - Dark Legacy (USA) (Rev 1)">
 		<category>Games</category>
