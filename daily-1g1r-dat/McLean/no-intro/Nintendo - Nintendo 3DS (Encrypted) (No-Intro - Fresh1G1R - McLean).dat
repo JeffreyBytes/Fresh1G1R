@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260220-060811) (Retool)</description>
-		<version>20260220-060811</version>
-		<date>2026-03-03 04-36-03</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260303-073829) (Retool)</description>
+		<version>20260303-073829</version>
+		<date>2026-03-04 04-32-38</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1382,11 +1382,10 @@
 		<game_id>0004000000081000</game_id>
 		<rom name="Junior Classic Games 3D (USA) (En,Fr,Es).3ds" size="134217728" crc="2470bd10" md5="4ed281feaa53216222312a38122aa9ab" sha1="dfb7c9b37b12a3a03e7d1d172835deb0d4212bc0"/>
 	</game>
-	<game name="Kid Icarus - Uprising (USA) (En,Fr,Es)" id="0143">
+	<game name="Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)" id="z220">
 		<category>Games</category>
-		<description>Kid Icarus - Uprising (USA) (En,Fr,Es)</description>
-		<game_id>0004000000030100</game_id>
-		<rom name="Kid Icarus - Uprising (USA) (En,Fr,Es).3ds" size="2147483648" crc="5ca21c01" md5="5011267b411ff09f799a837d012d3411" sha1="e9f350b0081b6ae032ba9aa6a47a84c12d257bad" sha256="98f6f752b14c5491b2cbfb91824887c51cde7d846f487a4b8f14bb1fcc1c48ca"/>
+		<description>Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1).enc" size="2147483648" crc="cc305ef2" md5="17ffadd640ef5f5108c33d14b7316025" sha1="05c6818fb64fb42d35c33279f33b5494f613c744" sha256="cfb4fdb15375449249d991b2e57611e449b0a7e37c55499349665b0577c4e07a"/>
 	</game>
 	<game name="Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr)" id="0258">
 		<category>Games</category>
