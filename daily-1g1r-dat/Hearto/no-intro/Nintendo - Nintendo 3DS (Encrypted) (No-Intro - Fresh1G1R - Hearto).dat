@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (975) (-y) [-aAbBcefkmMoprv] (20260303-073829) (Retool)</description>
-		<version>20260303-073829</version>
-		<date>2026-03-04 04-26-32</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (975) (-y) [-aAbBcefkmMoprv] (20260303-225226) (Retool)</description>
+		<version>20260303-225226</version>
+		<date>2026-03-05 04-27-23</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2422,7 +2422,7 @@
 	<game name="Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)" id="z220">
 		<category>Games</category>
 		<description>Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)</description>
-		<rom name="Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1).enc" size="2147483648" crc="cc305ef2" md5="17ffadd640ef5f5108c33d14b7316025" sha1="05c6818fb64fb42d35c33279f33b5494f613c744" sha256="cfb4fdb15375449249d991b2e57611e449b0a7e37c55499349665b0577c4e07a"/>
+		<rom name="Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1).3ds" size="2147483648" crc="cc305ef2" md5="17ffadd640ef5f5108c33d14b7316025" sha1="05c6818fb64fb42d35c33279f33b5494f613c744" sha256="e7956345382598748fca0b1af34d034146bcca69495ab3f86903f068da60df6e"/>
 	</game>
 	<game name="Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr)" id="0258">
 		<category>Games</category>
