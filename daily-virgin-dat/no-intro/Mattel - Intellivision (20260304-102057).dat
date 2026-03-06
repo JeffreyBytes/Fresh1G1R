@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>105</id>
+		<name>Mattel - Intellivision</name>
+		<description>Mattel - Intellivision</description>
+		<version>20260304-102057</version>
+		<author>Aringon, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, RetroUprising, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+</datafile>

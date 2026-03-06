@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,625) (-y) [-aAbBcdkmMpPuv] (2026-03-03 12-58-50) (Retool)</description>
-		<version>2026-03-03 12-58-50</version>
-		<date>2026-03-05 04-37-29</date>
+		<description>Sony - PlayStation 3 (1,626) (-y) [-aAbBcdkmMpPuv] (2026-03-06 02-08-07) (Retool)</description>
+		<version>2026-03-06 02-08-07</version>
+		<date>2026-03-06 04-33-29</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -335,6 +335,11 @@
 		<category>Games</category>
 		<description>Armored Core - Verdict Day (USA) (En,Fr,Es)</description>
 		<rom name="Armored Core - Verdict Day (USA) (En,Fr,Es).iso" size="6083510272" crc="84e71e66" md5="9a40b9da02e05057eaac51b604ebcf53" sha1="34525a8bcce78b16c0332c7d1930fff85ece61f1"/>
+	</game>
+	<game name="Armored Core 4 (Japan) (The Best Collection)">
+		<category>Games</category>
+		<description>Armored Core 4 (Japan) (The Best Collection)</description>
+		<rom name="Armored Core 4 (Japan) (The Best Collection).iso" size="14278262784" crc="06d4add0" md5="cfffc8dcd7e45d22b9b7d2afe28bffb5" sha1="12ebe37f52875a8d4f1a2c468fdb09316d825495"/>
 	</game>
 	<game name="Armored Core 4 (USA)">
 		<category>Games</category>
