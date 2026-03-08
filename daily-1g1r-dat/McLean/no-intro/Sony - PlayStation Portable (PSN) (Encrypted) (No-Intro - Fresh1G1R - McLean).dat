@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Portable (PSN) (Encrypted) (Retool)</name>
-		<description>Sony - PlayStation Portable (PSN) (Encrypted) (744) (-ly) [-aAbBcdDefkmMopPruv] (20251223-124222) (Retool)</description>
-		<version>20251223-124222</version>
-		<date>2026-03-07 04-19-43</date>
+		<description>Sony - PlayStation Portable (PSN) (Encrypted) (742) (-ly) [-aAbBcdDefkmMopPruv] (20260306-065333) (Retool)</description>
+		<version>20260306-065333</version>
+		<date>2026-03-08 04-30-08</date>
 		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3641,11 +3641,11 @@
 		<rom name="9p1aHeKDC7LooEe4B6i19LjO1DJT3Jhr3nMVVwCbGL8ijHUjCWYOjSfpfDQIvwwvjQhEnDOoVK47eatRtIfC5FUmPmWD6nVYauQ8s.pkg" size="183296448" crc="9ac36c00" md5="9ec01f85473bda7756c929e7497eeef1" sha1="410f04f38302ca6053050f2631470587c002f26f" sha256="ab090afdae96ede52123cb2a7d6309648ab0334a9d2477c006ef63941d597587"/>
 		<rom name="EP1001-ULES00688_00-GPCSIDMEIE000001.rap" size="16" crc="a485053f" md5="908be30152a7abdc431650988295f0eb" sha1="62bed63f003a462047e8d3d8b29330fa12f87b50" sha256="1fd8cf6d0614a114a7804e58d07eadefc725727167eeda1eab676657f736073a"/>
 	</game>
-	<game name="Silent Hill - Origins (Europe) (En,Fr,De,Es,It)" id="4730">
+	<game name="Silent Hill - Origins (USA)" id="2991">
 		<category>Games</category>
-		<description>Silent Hill - Origins (Europe) (En,Fr,De,Es,It)</description>
-		<game_id>EP0101-ULES00869_00-GPCSILENTH000001</game_id>
-		<rom name="GqtssiMrhJXXaxrbCnmctiWdipwwDyQcUozcvVyElmaaWuEOmQmyCYoWdLoUGQyR.pkg" size="746805696" crc="4914ebe6" md5="cad44de54f5f50079e6ccc3352fe82f5" sha1="f535682cffba030dbe546b59db80b4a20c75f4cb" sha256="5f4a50437c21d6a8a7704f517c889267e6a7ca3b8fc96ccf65cfa8ba6391b1b8"/>
+		<description>Silent Hill - Origins (USA)</description>
+		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
+		<rom name="GyNG5GT71QBvtgHg0MIc43hd4PYOvWpG5kxS9VS2Yc1j4LRiYpiT5T9XHMAPcoIlQaEovt4aDMVVxKpBu55nqAuOQdFufMMYvtEVL.pkg" size="758777168" crc="950e0054" md5="fe01092899469ab18976060a48cfe01d" sha1="7aa346e6977cb466a781a957cec3f45fdaf43498" sha256="31c1250e8668515ebe595cf50d99555369c8cbd270219bb2b34bf8810cb33717"/>
 	</game>
 	<game name="Silent Hill - Shattered Memories (USA) (En,Fr,Es)" id="2993">
 		<category>Games</category>
@@ -3653,12 +3653,6 @@
 		<game_id>UP0101-ULUS10450_00-SILENTHILLSMDUSA</game_id>
 		<rom name="KVVmUys1Yta0GXNIDyyyRVTDocy31Oj9QRcfdQUAd8k1IBsg9bC7SU7kedW1joJ7HdMeIpQFvM2PoP7wRiuiOkBKWh44FGkmeoRGN.pkg" size="797641584" crc="09751665" md5="b79f3827625fa598741271927b08bee8" sha1="290a06b1f52543171500548cd585a9508ddc66a3" sha256="6239b53dd5529d7a4164ebb354555cd9860aec6f5badc26e9a0faee23aaf83e2"/>
 		<rom name="UP0101-ULUS10450_00-SILENTHILLSMDUSA.rap" size="16" crc="52374f87" md5="8034daa42ba1dbdd448b3b3c81923b87" sha1="b536744c43e69752e46cfa07102fc83b3e78a348" sha256="9b704e498cb239c60b85072418af3f879eba273fc7e6e106f17f6364b0194309"/>
-	</game>
-	<game name="Silent Hill Origins (USA)" id="2991">
-		<category>Games</category>
-		<description>Silent Hill Origins (USA)</description>
-		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
-		<rom name="GyNG5GT71QBvtgHg0MIc43hd4PYOvWpG5kxS9VS2Yc1j4LRiYpiT5T9XHMAPcoIlQaEovt4aDMVVxKpBu55nqAuOQdFufMMYvtEVL.pkg" size="758777168" crc="950e0054" md5="fe01092899469ab18976060a48cfe01d" sha1="7aa346e6977cb466a781a957cec3f45fdaf43498" sha256="31c1250e8668515ebe595cf50d99555369c8cbd270219bb2b34bf8810cb33717"/>
 	</game>
 	<game name="Sims 2, The (USA)" id="3045">
 		<category>Games</category>
@@ -4636,13 +4630,6 @@
 		<game_id>UP0005-ULUS10368_00-YGGDRAUNIONDLG01</game_id>
 		<rom name="IWcsNbT2c9xuT3AmmpkTVVyQOaMoYpL9083B5bNORkAdHE0RBPGvkWMXL47vdGy42MbqWomWy8GPRYfDSGFadmSyg3r429peGGlYr.pkg" size="560047728" crc="d7778c97" md5="9db0e5dc270870521de91f7d18a714a8" sha1="01be7a5dc1131528350abc630c78a7a0648a2f1a" sha256="fb237e39469fc9281d8b3c7077bd0c7be8d1a376490fb24804f12dbdb362411c"/>
 	</game>
-	<game name="Ys - Seven (Europe)" id="3799">
-		<category>Games</category>
-		<description>Ys - Seven (Europe)</description>
-		<game_id>EP1023-NPEH00065_00-0000000000000000</game_id>
-		<rom name="EP1023-NPEH00065_00-0000000000000000.rap" size="16" crc="1bd54673" md5="1cefbffacbcc53c996b3865f6709cc8b" sha1="6e2bfe12eb0badc07834e9bc57de705854bcc7ae" sha256="2eaf634aa5585ad75002f079c5b4baa046c3f670be5d74a7821d6a76816b9b1f"/>
-		<rom name="KxXoWFnNcxCmcuTSRPLYnsgQDXjhlEVpNvgIdSlxnBKGxpikUbIqVifrMRbXOAqP.pkg" size="454756656" crc="c5a252a3" md5="049a7a332f5cf13288186d778d795811" sha1="ce0db1d6b65051a041ba4dfb41d282d081f76086" sha256="f83804825b07ab6ee3e38164bb1572f3d22920ad7eab6508e6053bf673114984"/>
-	</game>
 	<game name="Ys - The Oath in Felghana (USA)" id="3803">
 		<category>Games</category>
 		<description>Ys - The Oath in Felghana (USA)</description>
@@ -4670,9 +4657,9 @@
 		<game_id>EP0101-ULES01474_00-GPCYUGIOH5000001</game_id>
 		<rom name="OCHkkRDqIkBQQSOuqKLkSuueKLcNygRKlKYXPZLHOHFptgmWKzfNklUVksPrkbdI.pkg" size="1013331088" crc="eaa7a10d" md5="f95c12e8dda8633abd1061fb04e8636b" sha1="205f8bf4571d0c290cfe7ad99ea6d3b7db084031" sha256="f0fdf69ba03497815eee8ad52b81b75b037cd7ffd7237af1c2875ee923d11b44"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)" id="3834">
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)" id="3834">
 		<category>Games</category>
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)</description>
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)</description>
 		<game_id>UP1063-ULUS10559_00-ZHP0000000000001</game_id>
 		<rom name="dUpSOfNM3RepoE7JDfXMVuvixo9GsiwKqecp4YBTnY28qM1NB81sNblkbqv7EaNf0EbtPa364WBcJtkdnG5Mgt9dUdbt9nCJYjD3w.pkg" size="596178720" crc="89ce46cd" md5="8991fedf02e017c83f2fd59abdecc0d0" sha1="3f3b9dc7030a43c54afb24346b30313704bab41c" sha256="054b8e23a54e1273b910f42821a7fec772840aa88fad819aa0a0cd0c2a6d6230"/>
 	</game>

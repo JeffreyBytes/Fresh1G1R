@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Portable (PSN) (Decrypted) (Retool)</name>
-		<description>Sony - PlayStation Portable (PSN) (Decrypted) (744) (-ly) [-aAbBcdDefkmMopPruv] (20251223-124222) (Retool)</description>
-		<version>20251223-124222</version>
-		<date>2026-03-07 04-19-24</date>
+		<description>Sony - PlayStation Portable (PSN) (Decrypted) (742) (-ly) [-aAbBcdDefkmMopPruv] (20260306-065333) (Retool)</description>
+		<version>20260306-065333</version>
+		<date>2026-03-08 04-32-52</date>
 		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3609,23 +3609,17 @@
 		<game_id>EP1001-ULES00688_00-GPCSIDMEIE000001</game_id>
 		<rom name="Sid Meier's Pirates! (Europe).iso" size="333512704" crc="d0d2ff81" md5="0b403a3e408fbcaff3569f649b803826" sha1="d3c1fbdae3cae0cab12ddfbabec0a748a430568a" sha256="a8e0488a3904270f55d2a0196a43e6625709e7300cb27c3d24d578e4a4d6c17f"/>
 	</game>
-	<game name="Silent Hill - Origins (Europe) (En,Fr,De,Es,It)" id="4730">
+	<game name="Silent Hill - Origins (USA)" id="2991">
 		<category>Games</category>
-		<description>Silent Hill - Origins (Europe) (En,Fr,De,Es,It)</description>
-		<game_id>EP0101-ULES00869_00-GPCSILENTH000001</game_id>
-		<rom name="Silent Hill - Origins (Europe) (En,Fr,De,Es,It).iso" size="804683776" crc="f86ac1de" md5="8f271d671ba6b7a7eec87746564af71e" sha1="fecb6d9e26be2237b962f343ba4a5690478a03b7" sha256="7e980df65bc01350dc9b38b5e3ae5139b64738e6000c6feca95223f927449e2c"/>
+		<description>Silent Hill - Origins (USA)</description>
+		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
+		<rom name="Silent Hill - Origins (USA).iso" size="804683776" crc="4e5d4fcf" md5="9e7da03dadb07403a1091e28053576d0" sha1="96c1b41e2924559668650266188e683e5dd6a5aa" sha256="7617d96110eeb1d4f5934e3aa5ef54bc1fa3166c4a3c682e450350f96167e8df"/>
 	</game>
 	<game name="Silent Hill - Shattered Memories (USA) (En,Fr,Es)" id="2993">
 		<category>Games</category>
 		<description>Silent Hill - Shattered Memories (USA) (En,Fr,Es)</description>
 		<game_id>UP0101-ULUS10450_00-SILENTHILLSMDUSA</game_id>
 		<rom name="Silent Hill - Shattered Memories (USA) (En,Fr,Es).iso" size="1014005760" crc="1651d8de" md5="c3fa3308ad4267bb1681ddce5b0d04d7" sha1="c0cf68bf796c9e790a781755146bf8e75b8a0d2e" sha256="707ed9796d5e1917a8c7025b6fea1cb652aa4d01b2750cefa8868c6f93157083"/>
-	</game>
-	<game name="Silent Hill Origins (USA)" id="2991">
-		<category>Games</category>
-		<description>Silent Hill Origins (USA)</description>
-		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
-		<rom name="Silent Hill Origins (USA).iso" size="804683776" crc="4e5d4fcf" md5="9e7da03dadb07403a1091e28053576d0" sha1="96c1b41e2924559668650266188e683e5dd6a5aa" sha256="7617d96110eeb1d4f5934e3aa5ef54bc1fa3166c4a3c682e450350f96167e8df"/>
 	</game>
 	<game name="Sims 2, The (USA)" id="3045">
 		<category>Games</category>
@@ -4587,12 +4581,6 @@
 		<game_id>UP0005-ULUS10368_00-YGGDRAUNIONDLG01</game_id>
 		<rom name="Yggdra Union (USA).iso" size="768671744" crc="52482a18" md5="88875965389e57a0b17baf36a9b17b6d" sha1="3e72227c824080d77839c257679c00ae05db6afb" sha256="c162ec49df3ac205b9ad79ca3c41ce4d750a928351a85a2598b9d3f6758bd116"/>
 	</game>
-	<game name="Ys - Seven (Europe)" id="3799">
-		<category>Games</category>
-		<description>Ys - Seven (Europe)</description>
-		<game_id>EP1023-NPEH00065_00-0000000000000000</game_id>
-		<rom name="Ys - Seven (Europe).iso" size="763756544" crc="53bd6c43" md5="a64316cb7ad3d41ed65475f3eff00bc6" sha1="619d3a75b57956197db3472697748a73c3134d53" sha256="0aaea680ba1b0a28e70a7c4de9875e718b1db3050e9cda3bfff435c739b32810"/>
-	</game>
 	<game name="Ys - The Oath in Felghana (USA)" id="3803">
 		<category>Games</category>
 		<description>Ys - The Oath in Felghana (USA)</description>
@@ -4617,11 +4605,11 @@
 		<game_id>EP0101-ULES01474_00-GPCYUGIOH5000001</game_id>
 		<rom name="Yu-Gi-Oh! 5D's Tag Force 5 (Europe).iso" size="1660289024" crc="d0f2db41" md5="ed083b3ad1f971e99113dfb5abed7674" sha1="064b6bab2b24359b50c740c7b403ad9367462d84" sha256="f27e637df68e3621822df1df8abcf465da6ecf434093f1f83e3d28ce0fe1fbff"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)" id="3834">
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)" id="3834">
 		<category>Games</category>
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)</description>
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)</description>
 		<game_id>UP1063-ULUS10559_00-ZHP0000000000001</game_id>
-		<rom name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA).iso" size="863272960" crc="e8fdcc88" md5="1775e0e2c00f5033fb65f74c2436e0f5" sha1="12fa416a8b08d3ff0ce19e078fd64ead318992bc" sha256="0ffe989578afb7559eaa894f1af1fee20c0342264dc12160ec2bf067bc99f5dd"/>
+		<rom name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA).iso" size="863272960" crc="e8fdcc88" md5="1775e0e2c00f5033fb65f74c2436e0f5" sha1="12fa416a8b08d3ff0ce19e078fd64ead318992bc" sha256="0ffe989578afb7559eaa894f1af1fee20c0342264dc12160ec2bf067bc99f5dd"/>
 	</game>
 	<game name="Zuma (USA)" id="5820">
 		<category>Games</category>
