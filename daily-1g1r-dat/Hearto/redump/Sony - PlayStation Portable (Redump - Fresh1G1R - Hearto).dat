@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,815) (-y) [-aAbBcefkmMoprv] (2026-02-21 19-24-23) (Retool)</description>
-		<version>2026-02-21 19-24-23</version>
-		<date>2026-03-08 04-23-06</date>
+		<description>Sony - PlayStation Portable (1,815) (-y) [-aAbBcefkmMoprv] (2026-03-09 01-35-55) (Retool)</description>
+		<version>2026-03-09 01-35-55</version>
+		<date>2026-03-09 04-29-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -8926,10 +8926,10 @@
 		<description>Yarudora Portable - Kisetsu o Dakishimete (Japan)</description>
 		<rom name="Yarudora Portable - Kisetsu o Dakishimete (Japan).iso" size="1249771520" crc="e83e2ecb" md5="8759e970bfca865e959fc2d762f2faeb" sha1="9c630a4c291659b8e87ad10c5940fdbcbf26c862"/>
 	</game>
-	<game name="Yarudora Portable - Sampaguita (Asia)">
+	<game name="Yarudora Portable - Sampaguita (Japan)">
 		<category>Games</category>
-		<description>Yarudora Portable - Sampaguita (Asia)</description>
-		<rom name="Yarudora Portable - Sampaguita (Asia).iso" size="1250885632" crc="202e8f43" md5="5ba775f1b6a8947c4eded44c909279e9" sha1="b246d7b9b2b8d9daf345e933decc5e589b05ca42"/>
+		<description>Yarudora Portable - Sampaguita (Japan)</description>
+		<rom name="Yarudora Portable - Sampaguita (Japan).iso" size="1244135424" crc="643064d6" md5="86c931eae2f19995d6ceb21302d998e9" sha1="7d25298bcade489fdcb772c62c4da46601af35e7"/>
 	</game>
 	<game name="Yarudora Portable - Yukiwari no Hana (Japan)">
 		<category>Games</category>

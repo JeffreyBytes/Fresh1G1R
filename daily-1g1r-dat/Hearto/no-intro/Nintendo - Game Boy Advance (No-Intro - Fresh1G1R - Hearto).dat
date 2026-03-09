@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,685) (-y) [-aAbBcefkmMoprv] (20260227-200742) (Retool)</description>
-		<version>20260227-200742</version>
-		<date>2026-03-08 04-24-35</date>
+		<description>Nintendo - Game Boy Advance (1,701) (-y) [-aAbBcefkmMoprv] (20260307-091901) (Retool)</description>
+		<version>20260307-091901</version>
+		<date>2026-03-09 04-31-22</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4594,85 +4594,155 @@
 		<description>Meet the Robinsons (USA)</description>
 		<rom name="Meet the Robinsons (USA).gba" size="8388608" crc="3787c93c" md5="cfbf47949426a8f44ecdc832d06d09a9" sha1="58ad2756f1985430e1ef605bdcba82564099a030"/>
 	</game>
-	<game name="Megaman &amp; Bass (USA)" id="0886">
+	<game name="Mega Man &amp; Bass (USA)" id="0886">
 		<category>Games</category>
-		<description>Megaman &amp; Bass (USA)</description>
-		<rom name="Megaman &amp; Bass (USA).gba" size="8388608" crc="eea68c2e" md5="88792ae1fbc74f4a5425d0c6f0482023" sha1="7610847b331870d4338e5ac894b36e55e2bec5a0" sha256="bac48ba865906942884540d86ce2f652a32583af69d04f063aba30778026bb35"/>
+		<description>Mega Man &amp; Bass (USA)</description>
+		<rom name="Mega Man &amp; Bass (USA).gba" size="8388608" crc="eea68c2e" md5="88792ae1fbc74f4a5425d0c6f0482023" sha1="7610847b331870d4338e5ac894b36e55e2bec5a0" sha256="bac48ba865906942884540d86ce2f652a32583af69d04f063aba30778026bb35"/>
 	</game>
-	<game name="Megaman - Battle Chip Challenge (USA)" id="1384">
+	<game name="Mega Man - Battle Chip Challenge (USA)" id="1384">
 		<category>Games</category>
-		<description>Megaman - Battle Chip Challenge (USA)</description>
-		<rom name="Megaman - Battle Chip Challenge (USA).gba" size="8388608" crc="26be44fd" md5="d996f6cbb36eb15063b290d8f00ad654" sha1="72309736f3820470c6f372d6a05ad1f16bc5a946" sha256="e38da6e5dcdaf565ec1969ef6cbd95c4a307d87d3c853e23926ff2ce4497feb4"/>
+		<description>Mega Man - Battle Chip Challenge (USA)</description>
+		<rom name="Mega Man - Battle Chip Challenge (USA).gba" size="8388608" crc="26be44fd" md5="d996f6cbb36eb15063b290d8f00ad654" sha1="72309736f3820470c6f372d6a05ad1f16bc5a946" sha256="e38da6e5dcdaf565ec1969ef6cbd95c4a307d87d3c853e23926ff2ce4497feb4"/>
 	</game>
-	<game name="Megaman - Battle Network (USA)" id="0164">
+	<game name="Mega Man - Battle Network (USA)" id="0164">
 		<category>Games</category>
-		<description>Megaman - Battle Network (USA)</description>
-		<rom name="Megaman - Battle Network (USA).gba" size="8388608" crc="1d347971" md5="9ff40cf640575211202b7bda5487abbb" sha1="a4fbae389654a6611d0597b1e9109cbbd32a132f" sha256="87bc7257f2f9ed0acc9f4874177e474e3d339d1e23a0b621d2d8edd73c1a09ed"/>
+		<description>Mega Man - Battle Network (USA)</description>
+		<rom name="Mega Man - Battle Network (USA).gba" size="8388608" crc="1d347971" md5="9ff40cf640575211202b7bda5487abbb" sha1="a4fbae389654a6611d0597b1e9109cbbd32a132f" sha256="87bc7257f2f9ed0acc9f4874177e474e3d339d1e23a0b621d2d8edd73c1a09ed"/>
 	</game>
-	<game name="Megaman - Battle Network 2 (USA)" id="0454">
+	<game name="Mega Man - Battle Network 2 (USA)" id="0454">
 		<category>Games</category>
-		<description>Megaman - Battle Network 2 (USA)</description>
-		<rom name="Megaman - Battle Network 2 (USA).gba" size="8388608" crc="6d961f82" md5="39f8a42133df444eeb7bf0b2194d6286" sha1="601b5012f77001d2c5c11b31304afafc45a70d0b" sha256="61a8324c5179f0f8f6b0078aaa1237ea7ac0b3c5a8370c5ba8136c513a22cf2d"/>
+		<description>Mega Man - Battle Network 2 (USA)</description>
+		<rom name="Mega Man - Battle Network 2 (USA).gba" size="8388608" crc="6d961f82" md5="39f8a42133df444eeb7bf0b2194d6286" sha1="601b5012f77001d2c5c11b31304afafc45a70d0b" sha256="61a8324c5179f0f8f6b0078aaa1237ea7ac0b3c5a8370c5ba8136c513a22cf2d"/>
 	</game>
-	<game name="Megaman - Battle Network 3 - Blue Version (USA)" id="1061">
+	<game name="Mega Man - Battle Network 3 - Blue Version (USA)" id="1061">
 		<category>Games</category>
-		<description>Megaman - Battle Network 3 - Blue Version (USA)</description>
-		<rom name="Megaman - Battle Network 3 - Blue Version (USA).gba" size="8388608" crc="c0c780f9" md5="6fe31df0144759b34ad666badaacc442" sha1="3d21905b6e860d39a00ba643779776de4c73c411" sha256="8c6767788f99dc9e2af0c9d75513b227c7c42d6d452d6165c8e08850af78e273"/>
+		<description>Mega Man - Battle Network 3 - Blue Version (USA)</description>
+		<rom name="Mega Man - Battle Network 3 - Blue Version (USA).gba" size="8388608" crc="c0c780f9" md5="6fe31df0144759b34ad666badaacc442" sha1="3d21905b6e860d39a00ba643779776de4c73c411" sha256="8c6767788f99dc9e2af0c9d75513b227c7c42d6d452d6165c8e08850af78e273"/>
 	</game>
-	<game name="Megaman - Battle Network 3 - White Version (USA)" id="1063">
+	<game name="Mega Man - Battle Network 3 - White Version (USA)" id="1063">
 		<category>Games</category>
-		<description>Megaman - Battle Network 3 - White Version (USA)</description>
-		<rom name="Megaman - Battle Network 3 - White Version (USA).gba" size="8388608" crc="0be4410a" md5="68817204a691449e655cba739dbb0165" sha1="ff45038ae6d01cde4eae25a02dcb8bed29e07a6f" sha256="a161aa80e9ee7e07e85bda5d1c93ad3d1415e35aee88380fe117997ebaf6c1c2"/>
+		<description>Mega Man - Battle Network 3 - White Version (USA)</description>
+		<rom name="Mega Man - Battle Network 3 - White Version (USA).gba" size="8388608" crc="0be4410a" md5="68817204a691449e655cba739dbb0165" sha1="ff45038ae6d01cde4eae25a02dcb8bed29e07a6f" sha256="a161aa80e9ee7e07e85bda5d1c93ad3d1415e35aee88380fe117997ebaf6c1c2"/>
 	</game>
-	<game name="Megaman - Battle Network 4 - Blue Moon (USA)" id="1535">
+	<game name="Mega Man - Battle Network 4 - Blue Moon (USA)" id="1535">
 		<category>Games</category>
-		<description>Megaman - Battle Network 4 - Blue Moon (USA)</description>
-		<rom name="Megaman - Battle Network 4 - Blue Moon (USA).gba" size="8388608" crc="758a46e9" md5="e9dfe02b283e29d67c224ab6f86c3b9c" sha1="5e017c803ddc768efb8010314b46bc17e9757f71" sha256="63ea187c792f4bfcd077f92c3a509fa09ed422993aee9480c39dfdf6a561c5c1"/>
+		<description>Mega Man - Battle Network 4 - Blue Moon (USA)</description>
+		<rom name="Mega Man - Battle Network 4 - Blue Moon (USA).gba" size="8388608" crc="758a46e9" md5="e9dfe02b283e29d67c224ab6f86c3b9c" sha1="5e017c803ddc768efb8010314b46bc17e9757f71" sha256="63ea187c792f4bfcd077f92c3a509fa09ed422993aee9480c39dfdf6a561c5c1"/>
 	</game>
-	<game name="Megaman - Battle Network 4 - Red Sun (USA)" id="1534">
+	<game name="Mega Man - Battle Network 4 - Red Sun (USA)" id="1534">
 		<category>Games</category>
-		<description>Megaman - Battle Network 4 - Red Sun (USA)</description>
-		<rom name="Megaman - Battle Network 4 - Red Sun (USA).gba" size="8388608" crc="2120695c" md5="d0dee5c06972cb072391cd968a248d52" sha1="a97e96a7da03abd70f7953328e511b9fa29179f1" sha256="b04adfca9cae47fc9241e70c88e49b16ee9e75d796ab4ee90940401a6c1d5514"/>
+		<description>Mega Man - Battle Network 4 - Red Sun (USA)</description>
+		<rom name="Mega Man - Battle Network 4 - Red Sun (USA).gba" size="8388608" crc="2120695c" md5="d0dee5c06972cb072391cd968a248d52" sha1="a97e96a7da03abd70f7953328e511b9fa29179f1" sha256="b04adfca9cae47fc9241e70c88e49b16ee9e75d796ab4ee90940401a6c1d5514"/>
 	</game>
-	<game name="Megaman - Battle Network 5 - Team Colonel (USA)" id="2007">
+	<game name="Mega Man - Battle Network 5 - Team Colonel (USA)" id="2007">
 		<category>Games</category>
-		<description>Megaman - Battle Network 5 - Team Colonel (USA)</description>
-		<rom name="Megaman - Battle Network 5 - Team Colonel (USA).gba" size="8388608" crc="a552f683" md5="68d79f7c8f41f7c8009f3b85119cb1c6" sha1="5f472f78d8de2df01d5039e045c043cb40969a39"/>
+		<description>Mega Man - Battle Network 5 - Team Colonel (USA)</description>
+		<rom name="Mega Man - Battle Network 5 - Team Colonel (USA).gba" size="8388608" crc="a552f683" md5="68d79f7c8f41f7c8009f3b85119cb1c6" sha1="5f472f78d8de2df01d5039e045c043cb40969a39"/>
 	</game>
-	<game name="Megaman - Battle Network 5 - Team Protoman (USA)" id="2010">
+	<game name="Mega Man - Battle Network 5 - Team Protoman (USA)" id="2010">
 		<category>Games</category>
-		<description>Megaman - Battle Network 5 - Team Protoman (USA)</description>
-		<rom name="Megaman - Battle Network 5 - Team Protoman (USA).gba" size="8388608" crc="a73e83a4" md5="71b00ba406c522d3cec48311bd7bc760" sha1="b3774e96b1f107bb8b1db79b216be41b9bc5bac0" sha256="b35f5890f54784c9d90a896dc5ac4831d43acc9f94e8c42816742fcfa6b41a7b"/>
+		<description>Mega Man - Battle Network 5 - Team Protoman (USA)</description>
+		<rom name="Mega Man - Battle Network 5 - Team Protoman (USA).gba" size="8388608" crc="a73e83a4" md5="71b00ba406c522d3cec48311bd7bc760" sha1="b3774e96b1f107bb8b1db79b216be41b9bc5bac0" sha256="b35f5890f54784c9d90a896dc5ac4831d43acc9f94e8c42816742fcfa6b41a7b"/>
 	</game>
-	<game name="Megaman - Battle Network 6 - Cybeast Falzar (USA)" id="2406">
+	<game name="Mega Man - Battle Network 6 - Cybeast Falzar (USA)" id="2406">
 		<category>Games</category>
-		<description>Megaman - Battle Network 6 - Cybeast Falzar (USA)</description>
-		<rom name="Megaman - Battle Network 6 - Cybeast Falzar (USA).gba" size="8388608" crc="dee6f2a9" md5="1e8c774ba210d1c55113531c7360c737" sha1="0676ecd4d58a976af3346caebb44b9b6489ad099" sha256="a37c1028adb72082b51e142321fa437967bc54b6f46730a53f6581ad455ad670"/>
+		<description>Mega Man - Battle Network 6 - Cybeast Falzar (USA)</description>
+		<rom name="Mega Man - Battle Network 6 - Cybeast Falzar (USA).gba" size="8388608" crc="dee6f2a9" md5="1e8c774ba210d1c55113531c7360c737" sha1="0676ecd4d58a976af3346caebb44b9b6489ad099" sha256="a37c1028adb72082b51e142321fa437967bc54b6f46730a53f6581ad455ad670"/>
 	</game>
-	<game name="Megaman - Battle Network 6 - Cybeast Gregar (USA)" id="2397">
+	<game name="Mega Man - Battle Network 6 - Cybeast Gregar (USA)" id="2397">
 		<category>Games</category>
-		<description>Megaman - Battle Network 6 - Cybeast Gregar (USA)</description>
-		<rom name="Megaman - Battle Network 6 - Cybeast Gregar (USA).gba" size="8388608" crc="79452182" md5="5acc75848bb1ffd3d6d8705554ee333d" sha1="89fe0bac4fd3d2ab1d2ca35e87ef8b1294a84cd6"/>
+		<description>Mega Man - Battle Network 6 - Cybeast Gregar (USA)</description>
+		<rom name="Mega Man - Battle Network 6 - Cybeast Gregar (USA).gba" size="8388608" crc="79452182" md5="5acc75848bb1ffd3d6d8705554ee333d" sha1="89fe0bac4fd3d2ab1d2ca35e87ef8b1294a84cd6"/>
 	</game>
-	<game name="Megaman Zero (USA, Europe)" id="0573">
+	<game name="Mega Man Zero (USA, Europe)" id="0573">
 		<category>Games</category>
-		<description>Megaman Zero (USA, Europe)</description>
-		<rom name="Megaman Zero (USA, Europe).gba" size="8388608" crc="9707d2a1" md5="b24a17d080a01a404cbf018ba42b9803" sha1="193b14120119162518a73c70876f0b8bffdbd96e"/>
+		<description>Mega Man Zero (USA, Europe)</description>
+		<rom name="Mega Man Zero (USA, Europe).gba" size="8388608" crc="9707d2a1" md5="b24a17d080a01a404cbf018ba42b9803" sha1="193b14120119162518a73c70876f0b8bffdbd96e"/>
 	</game>
-	<game name="Megaman Zero 2 (USA)" id="1188">
+	<game name="Mega Man Zero 2 (USA)" id="1188">
 		<category>Games</category>
-		<description>Megaman Zero 2 (USA)</description>
-		<rom name="Megaman Zero 2 (USA).gba" size="8388608" crc="ce1e37bb" md5="182363b0698322e1864ced6e9eed7ead" sha1="c4d93a58f0f82c526dec8a3fdbda170336303689"/>
+		<description>Mega Man Zero 2 (USA)</description>
+		<rom name="Mega Man Zero 2 (USA).gba" size="8388608" crc="ce1e37bb" md5="182363b0698322e1864ced6e9eed7ead" sha1="c4d93a58f0f82c526dec8a3fdbda170336303689"/>
 	</game>
-	<game name="Megaman Zero 3 (USA)" id="1679">
+	<game name="Mega Man Zero 3 (USA)" id="1679">
 		<category>Games</category>
-		<description>Megaman Zero 3 (USA)</description>
-		<rom name="Megaman Zero 3 (USA).gba" size="8388608" crc="2784f3f2" md5="aa1d5eeffcd5e4577db9ee6d9b1100f9" sha1="403a78f2cad93d41e4b0f2e520ce08026531664b"/>
+		<description>Mega Man Zero 3 (USA)</description>
+		<rom name="Mega Man Zero 3 (USA).gba" size="8388608" crc="2784f3f2" md5="aa1d5eeffcd5e4577db9ee6d9b1100f9" sha1="403a78f2cad93d41e4b0f2e520ce08026531664b"/>
 	</game>
-	<game name="Megaman Zero 4 (USA)" id="2140">
+	<game name="Mega Man Zero 4 (USA)" id="2140">
 		<category>Games</category>
-		<description>Megaman Zero 4 (USA)</description>
-		<rom name="Megaman Zero 4 (USA).gba" size="16777216" crc="7ee24793" md5="0d1e88bdb09ff68adf9877a121325f9c" sha1="596993205a1895a6f51e80749407fb069b907628"/>
+		<description>Mega Man Zero 4 (USA)</description>
+		<rom name="Mega Man Zero 4 (USA).gba" size="16777216" crc="7ee24793" md5="0d1e88bdb09ff68adf9877a121325f9c" sha1="596993205a1895a6f51e80749407fb069b907628"/>
+	</game>
+	<game name="Megaman - Battle Chip Challenge (Europe)" id="1399">
+		<category>Games</category>
+		<description>Megaman - Battle Chip Challenge (Europe)</description>
+		<rom name="Megaman - Battle Chip Challenge (Europe).gba" size="8388608" crc="5b4631f9" md5="e42148c3e79f7d5f7a9f3b63939b68c2" sha1="f54486c8a0bb22cf0ece4297fb052d0a0f11e56d"/>
+	</game>
+	<game name="Megaman - Battle Network (Europe)" id="0243">
+		<category>Games</category>
+		<description>Megaman - Battle Network (Europe)</description>
+		<rom name="Megaman - Battle Network (Europe).gba" size="8388608" crc="1a7fb4fa" md5="62e32a9ccf6c31850041555cb8151440" sha1="b017b6054ffafc012be9adee785819b17706cabc"/>
+	</game>
+	<game name="Megaman - Battle Network 2 (Europe)" id="0678">
+		<category>Games</category>
+		<description>Megaman - Battle Network 2 (Europe)</description>
+		<rom name="Megaman - Battle Network 2 (Europe).gba" size="8388608" crc="66341f3b" md5="833e55b181ac9b4da56b6341c1f4e09a" sha1="13d8c1978cbcd9ca2a127168544fda176e0a4d6c"/>
+	</game>
+	<game name="Megaman - Battle Network 3 - Blue Version (Europe)" id="1185">
+		<category>Games</category>
+		<description>Megaman - Battle Network 3 - Blue Version (Europe)</description>
+		<rom name="Megaman - Battle Network 3 - Blue Version (Europe).gba" size="8388608" crc="1f036cba" md5="c1f7ade0ebce39a97c6efcad33661e20" sha1="9cb052728cae18864a012e7598119ca7b93eea67"/>
+	</game>
+	<game name="Megaman - Battle Network 3 - White Version (Europe)" id="1168">
+		<category>Games</category>
+		<description>Megaman - Battle Network 3 - White Version (Europe)</description>
+		<rom name="Megaman - Battle Network 3 - White Version (Europe).gba" size="8388608" crc="23d0a981" md5="dea8cb17074798c5123422836024d4c8" sha1="2942a890c369569e163a60f831150305ca0828fc"/>
+	</game>
+	<game name="Megaman - Battle Network 4 - Blue Moon (Europe)" id="1870">
+		<category>Games</category>
+		<description>Megaman - Battle Network 4 - Blue Moon (Europe)</description>
+		<rom name="Megaman - Battle Network 4 - Blue Moon (Europe).gba" size="8388608" crc="48758316" md5="6c653de4749981579252e59fcae956d5" sha1="a05e8dce26b5134001337e193d49958be2081598" sha256="7eb12321dd8af8d768186868c4949f1e2a9bb7661b6d451d967833496de5fc0a"/>
+	</game>
+	<game name="Megaman - Battle Network 4 - Red Sun (Europe)" id="1860">
+		<category>Games</category>
+		<description>Megaman - Battle Network 4 - Red Sun (Europe)</description>
+		<rom name="Megaman - Battle Network 4 - Red Sun (Europe).gba" size="8388608" crc="0cb136c2" md5="ac9b62069b180da5ddf1646d4e142d59" sha1="21af9f7805a27729e770928f939acedd6ae27c1c"/>
+	</game>
+	<game name="Megaman - Battle Network 5 - Team Colonel (Europe)" id="1990">
+		<category>Games</category>
+		<description>Megaman - Battle Network 5 - Team Colonel (Europe)</description>
+		<rom name="Megaman - Battle Network 5 - Team Colonel (Europe).gba" size="8388608" crc="8fc8cf73" md5="17ff0b3af041f31b6c6924726c2642b8" sha1="d15bcb7c351252a8890c29a2eaac25ff621635c9"/>
+	</game>
+	<game name="Megaman - Battle Network 5 - Team Protoman (Europe)" id="1991">
+		<category>Games</category>
+		<description>Megaman - Battle Network 5 - Team Protoman (Europe)</description>
+		<rom name="Megaman - Battle Network 5 - Team Protoman (Europe).gba" size="8388608" crc="79f45ed8" md5="a1b8d71fa43915d37b955a2b1a0ed80a" sha1="3d017ed23535e42174299ff89fff44678eb553c3"/>
+	</game>
+	<game name="Megaman - Battle Network 6 - Cybeast Falzar (Europe)" id="2399">
+		<category>Games</category>
+		<description>Megaman - Battle Network 6 - Cybeast Falzar (Europe)</description>
+		<rom name="Megaman - Battle Network 6 - Cybeast Falzar (Europe).gba" size="8388608" crc="13183967" md5="56d29cad9e26f1d7465f803ed1d1426b" sha1="1f3037b33878fc66b79b4e2dcf1bb83202fa1b90"/>
+	</game>
+	<game name="Megaman - Battle Network 6 - Cybeast Gregar (Europe)" id="2398">
+		<category>Games</category>
+		<description>Megaman - Battle Network 6 - Cybeast Gregar (Europe)</description>
+		<rom name="Megaman - Battle Network 6 - Cybeast Gregar (Europe).gba" size="8388608" crc="25c29efb" md5="5383a0d8c214f3fa64e5d8f672f6c4aa" sha1="4d2e441b1bcb8438c0bef2ae61d937de7d04af02"/>
+	</game>
+	<game name="Megaman Zero 2 (Europe)" id="1209">
+		<category>Games</category>
+		<description>Megaman Zero 2 (Europe)</description>
+		<rom name="Megaman Zero 2 (Europe).gba" size="8388608" crc="29a14b59" md5="55dcbe18e02f7d2934c537508de532b6" sha1="c55eca8f2c31fdf772f2605181d0b29815ea37a0"/>
+	</game>
+	<game name="Megaman Zero 3 (Europe)" id="1619">
+		<category>Games</category>
+		<description>Megaman Zero 3 (Europe)</description>
+		<rom name="Megaman Zero 3 (Europe).gba" size="8388608" crc="b099577f" md5="9ce73ff9aa1473f250d103c1bdbbd738" sha1="edfcb606136951374f24aa8fd7e5b4e710300301"/>
+	</game>
+	<game name="Megaman Zero 4 (Europe)" id="2104">
+		<category>Games</category>
+		<description>Megaman Zero 4 (Europe)</description>
+		<rom name="Megaman Zero 4 (Europe).gba" size="16777216" crc="b7f022b9" md5="d3a76f1c92e3044b1a21f1aae84d21ab" sha1="8e13b9ee89a2ed665212daa401ba9331ad11bda9"/>
 	</game>
 	<game name="Meitantei Conan - Akatsuki no Monument (Japan)" id="1949">
 		<category>Games</category>
@@ -6177,10 +6247,20 @@
 		<description>Rockman &amp; Crystal (USA) (Unl)</description>
 		<rom name="Rockman &amp; Crystal (USA) (Unl).gba" size="4194304" crc="9dc4dc05" md5="8bb88f20d166d7f6c3806c0c761fb54d" sha1="755c686ad485055a2ab884a42fe56fce26180049" sha256="130665b55d41081f5e9b34da23758c10b00bfa2d7edf2d1f6d3c6e650c793e1e"/>
 	</game>
+	<game name="Rockman &amp; Forte (Japan)" id="0521">
+		<category>Games</category>
+		<description>Rockman &amp; Forte (Japan)</description>
+		<rom name="Rockman &amp; Forte (Japan).gba" size="8388608" crc="ce2b48c4" md5="93d1ba78096704c5dcfa993337469542" sha1="f8eb056745e8b58c1ef4bfef995c77a27aadc57a"/>
+	</game>
 	<game name="Rockman EXE 4.5 - Real Operation (Japan)" id="1584">
 		<category>Games</category>
 		<description>Rockman EXE 4.5 - Real Operation (Japan)</description>
 		<rom name="Rockman EXE 4.5 - Real Operation (Japan).gba" size="8388608" crc="a646601b" md5="0f82bb24585c9ec64e99394c9d316315" sha1="f89ef4ca8ec1823eb75fa184f2d0f9e66cc78a59"/>
+	</game>
+	<game name="Rockman Zero (Japan)" id="0397">
+		<category>Games</category>
+		<description>Rockman Zero (Japan)</description>
+		<rom name="Rockman Zero (Japan).gba" size="8388608" crc="ff2a67b1" md5="a8110c3928caffb9a73b48a009f9044f" sha1="b07dfd200c49739d33598f6142157d659997e097"/>
 	</game>
 	<game name="Rocky (USA) (En,Fr,De,Es,It)" id="0725">
 		<category>Games</category>

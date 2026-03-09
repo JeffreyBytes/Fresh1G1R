@@ -4,17 +4,17 @@
 		<name>VTech - V.Smile (Retool)</name>
 		<description>VTech - V.Smile (89) (-y) [-aAbBcdkmMpPuv] (20260106-005848) (Retool)</description>
 		<version>20260106-005848</version>
-		<date>2026-03-08 04-35-48</date>
+		<date>2026-03-09 04-43-05</date>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.8</retool>
 	</header>
-	<game name="Action Mania (USA) (Rev 3) (V.Smile Motion)" id="0261">
+	<game name="Action Mania (USA) (Rev 4) (V.Smile Motion)" id="0193">
 		<category>Educational</category>
-		<description>Action Mania (USA) (Rev 3) (V.Smile Motion)</description>
-		<rom name="Action Mania (USA) (Rev 3) (V.Smile Motion).bin" size="8388608" crc="9732d6c4" md5="7e9ccd41697ba91d2d79978bc5b50d0b" sha1="6973e473fc9b274fe8e1151a27bdd02df67a23eb" sha256="e663f40cf031df03edabd1175d0453411716c982c76cfd175bfec728afbc49e5"/>
+		<description>Action Mania (USA) (Rev 4) (V.Smile Motion)</description>
+		<rom name="Action Mania (USA) (Rev 4) (V.Smile Motion).bin" size="8388608" crc="790f097f" md5="6b1baa26c4f6df2d77406f6e1e4c477c" sha1="d1ff028837b4190173a0823ac518a58deee171b8" sha256="737b81e84d57f35e3bc1686c1d702fb92e10a416dd66d532e91d642502f7689a"/>
 	</game>
 	<game name="Adventures of Little Red Riding Hood, The (USA)" id="0187">
 		<category>Games</category>
