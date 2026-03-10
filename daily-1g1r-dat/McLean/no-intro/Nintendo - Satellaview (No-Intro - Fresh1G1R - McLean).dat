@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (15) (-ly) [-aAbBcdDefkmMopPruv] (20260306-143422) (Retool)</description>
-		<version>20260306-143422</version>
-		<date>2026-03-09 04-37-00</date>
+		<description>Nintendo - Satellaview (16) (-ly) [-aAbBcdDefkmMopPruv] (20260308-135852) (Retool)</description>
+		<version>20260308-135852</version>
+		<date>2026-03-10 04-24-28</date>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -25,6 +25,11 @@
 		<category>Games</category>
 		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26)</description>
 		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26).bs" size="1048576" crc="592da4c3" md5="7aa01ad1f142f18f446d921567b99a76" sha1="e0de9533b3b9577bd7ce7eca5064ca6fa53913d8" sha256="42e5ddc17795f6c6e303aab4077700fec128620002bdc33ef19fd8fd7ddeff72"/>
+	</game>
+	<game name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)" id="3715">
+		<category>Games</category>
+		<description>Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En).bs" size="1048576" crc="62b6016d" md5="15ccc1ff74b8a737f92f3f3b406d8068" sha1="f65f5b5090ea8ec1bbf6660186b4050f2472ed67" sha256="5324cdd64868d9ad8c4a04c315dc3e3c6026c5f76ba5223f979c0d0b86323806"/>
 	</game>
 	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (12-19)" id="3855">
 		<category>Games</category>
