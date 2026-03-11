@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,818) (-y) [-aAbBcefkmMoprv] (20260308-204417) (Retool)</description>
-		<version>20260308-204417</version>
-		<date>2026-03-10 04-18-55</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,818) (-y) [-aAbBcefkmMoprv] (20260309-070052) (Retool)</description>
+		<version>20260309-070052</version>
+		<date>2026-03-11 04-23-19</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4611,10 +4611,10 @@
 		<description>Little Ninja Brothers (USA)</description>
 		<rom name="Little Ninja Brothers (USA).unh" size="262144" crc="bc7fedb9" md5="a25f3cae44cabbbb4b4e36f07ff53645" sha1="153baf5815ce17e6d094d59246844078e6d49c9a" sha256="50badb618accf0ca28966c05ca4ff159aa9afa2fccd7f0354b8eff6af105a8f0"/>
 	</game>
-	<game name="Little Red Hood (Australia) (Unl)" id="1276">
+	<game name="Little Red Hood (Europe, Australia) (Unl)" id="1276">
 		<category>Games</category>
-		<description>Little Red Hood (Australia) (Unl)</description>
-		<rom name="Little Red Hood (Australia) (Unl).unh" size="40960" crc="71c01b19" md5="05a7d49a3135274c152d5e16ff9abca4" sha1="fa1c3508673f0b7050a982597923f53991a31093" sha256="85d0d99b72f420335a7d91ac8d0751124f279eeca7133b124340cfbf78336192"/>
+		<description>Little Red Hood (Europe, Australia) (Unl)</description>
+		<rom name="Little Red Hood (Europe, Australia) (Unl).unh" size="40960" crc="71c01b19" md5="05a7d49a3135274c152d5e16ff9abca4" sha1="fa1c3508673f0b7050a982597923f53991a31093" sha256="85d0d99b72f420335a7d91ac8d0751124f279eeca7133b124340cfbf78336192"/>
 	</game>
 	<game name="Little Samson (USA)" id="1279">
 		<category>Games</category>

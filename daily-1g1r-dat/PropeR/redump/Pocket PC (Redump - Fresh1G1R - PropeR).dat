@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Pocket PC (Retool)</name>
-		<description>Pocket PC (38) (-y) [-aAbBcdkmMpPuv] (2026-01-28 23-43-38) (Retool)</description>
-		<version>2026-01-28 23-43-38</version>
-		<date>2026-03-09 04-41-54</date>
+		<description>Pocket PC (40) (-y) [-aAbBcdkmMpPuv] (2026-03-10 22-04-05) (Retool)</description>
+		<version>2026-03-10 22-04-05</version>
+		<date>2026-03-11 04-33-55</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -58,6 +58,12 @@
 		<description>G-Prime (Germany)</description>
 		<rom name="G-Prime (Germany).bin" size="4948608" crc="cc6addff" md5="f6430cfaa66728ea6eb138b21ed008bc" sha1="c8492b2bc59d818461e595c8a91e6a841264c219"/>
 		<rom name="G-Prime (Germany).cue" size="83" crc="78af3b9d" md5="5e6e326204042324b998d4a526a20f77" sha1="47c651fd17cbbc8cbd74b8f2ac711027cff216ae"/>
+	</game>
+	<game name="Get Away for Windows CE (Japan)">
+		<category>Games</category>
+		<description>Get Away for Windows CE (Japan)</description>
+		<rom name="Get Away for Windows CE (Japan).bin" size="2312016" crc="ee68cdf2" md5="82a03df754ef336ce573b00e6a11517c" sha1="4e05693c87487abdf0c492c84c2f1c7b9ac589a6"/>
+		<rom name="Get Away for Windows CE (Japan).cue" size="97" crc="549f7a24" md5="44a26861e9182a477d5da50e815d546a" sha1="3f77a9c71bcb8a57050fa53b10d1f127aae5555c"/>
 	</game>
 	<game name="Graduate Chess (Europe) (En,Fr,De)">
 		<category>Games</category>
@@ -160,6 +166,12 @@
 		<description>Pow Wow - Animalcraft (Japan)</description>
 		<rom name="Pow Wow - Animalcraft (Japan).bin" size="17287200" crc="be14e6c8" md5="af4c418c7dcb0e66ab54ee99452fdd66" sha1="9b2f431dfbe2200b096163d26ccf6d8163a4f9db"/>
 		<rom name="Pow Wow - Animalcraft (Japan).cue" size="95" crc="c42ce5af" md5="e027945993e12343ed37deb712ab4be5" sha1="53abc412a03fbacb751720db626a9d30309848f6"/>
+	</game>
+	<game name="Puyo Puyo for CE2 (Japan) (v1.1)">
+		<category>Games</category>
+		<description>Puyo Puyo for CE2 (Japan) (v1.1)</description>
+		<rom name="Puyo Puyo for CE2 (Japan) (v1.1).bin" size="14782320" crc="8c3c2e0c" md5="78c0874fa6d09afe5a124876320bedda" sha1="b9f66b60e258dd4b3ffcfc64c4cd32cc37d84216"/>
+		<rom name="Puyo Puyo for CE2 (Japan) (v1.1).cue" size="98" crc="586b0ffd" md5="cb97547dc8386203028b30f7cb7debd8" sha1="2e23ce4b892d25a9a3f8ddf42406192b6255494b"/>
 	</game>
 	<game name="Rayman (Europe)">
 		<category>Games</category>

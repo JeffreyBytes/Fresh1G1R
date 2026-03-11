@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,626) (-y) [-aAbBcdkmMpPuv] (2026-03-06 02-08-07) (Retool)</description>
-		<version>2026-03-06 02-08-07</version>
-		<date>2026-03-09 04-42-25</date>
+		<description>Sony - PlayStation 3 (1,626) (-y) [-aAbBcdkmMpPuv] (2026-03-11 01-34-47) (Retool)</description>
+		<version>2026-03-11 01-34-47</version>
+		<date>2026-03-11 04-34-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2166,10 +2166,10 @@
 		<description>Eureka Seven AO - Jungfrau no Hanabana-tachi - Game &amp; OVA Hybrid Disc (Japan)</description>
 		<rom name="Eureka Seven AO - Jungfrau no Hanabana-tachi - Game &amp; OVA Hybrid Disc (Japan).iso" size="33177075712" crc="fadb4c80" md5="48006fc6a4cdb90d9b8ab469489413aa" sha1="30d7deddba950294daef58a2a09d691001efd5cd"/>
 	</game>
-	<game name="Everybody Dance (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+	<game name="Everybody Dance (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
 		<category>Games</category>
-		<description>Everybody Dance (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
-		<rom name="Everybody Dance (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="19850395648" crc="2bd84bbc" md5="1c806609bb3eed4002659df14d8c07bc" sha1="7222f88dffac211773e5bfd530aeacbdaf96d05d"/>
+		<description>Everybody Dance (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<rom name="Everybody Dance (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="19850395648" crc="2bd84bbc" md5="1c806609bb3eed4002659df14d8c07bc" sha1="7222f88dffac211773e5bfd530aeacbdaf96d05d"/>
 	</game>
 	<game name="Everybody Dance 2 (Latin America) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
 		<category>Games</category>

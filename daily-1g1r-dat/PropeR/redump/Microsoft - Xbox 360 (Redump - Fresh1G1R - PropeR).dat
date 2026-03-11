@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,556) (-y) [-aAbBcdkmMpPuv] (2026-03-08 15-16-23) (Retool)</description>
-		<version>2026-03-08 15-16-23</version>
-		<date>2026-03-09 04-41-38</date>
+		<description>Microsoft - Xbox 360 (1,556) (-y) [-aAbBcdkmMpPuv] (2026-03-11 01-05-45) (Retool)</description>
+		<version>2026-03-11 01-05-45</version>
+		<date>2026-03-11 04-33-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2631,10 +2631,10 @@
 		<description>Family Game Night 4 - The Game Show (USA)</description>
 		<rom name="Family Game Night 4 - The Game Show (USA).iso" size="7838695424" crc="60cb5ace" md5="005a0e4456dde4bc6a861a8b6f8cab69" sha1="9e9da7088ee3b6dcd4572b2792b226342005a43b"/>
 	</game>
-	<game name="Family Guy - Back to the Multiverse (USA) (En,De,Es,It)">
+	<game name="Family Guy - Back to the Multiverse (USA, Europe) (En,De,Es,It)">
 		<category>Games</category>
-		<description>Family Guy - Back to the Multiverse (USA) (En,De,Es,It)</description>
-		<rom name="Family Guy - Back to the Multiverse (USA) (En,De,Es,It).iso" size="8738846720" crc="68ff3a76" md5="24723489a41a2ac6545e75916ccfb5fc" sha1="30c54b8f45c2507ea19b1e636943569f5d99e99b"/>
+		<description>Family Guy - Back to the Multiverse (USA, Europe) (En,De,Es,It)</description>
+		<rom name="Family Guy - Back to the Multiverse (USA, Europe) (En,De,Es,It).iso" size="8738846720" crc="68ff3a76" md5="24723489a41a2ac6545e75916ccfb5fc" sha1="30c54b8f45c2507ea19b1e636943569f5d99e99b"/>
 	</game>
 	<game name="Fantastic Four - Rise of the Silver Surfer (USA)">
 		<category>Games</category>
@@ -7631,10 +7631,10 @@
 		<description>X Factor, The (Europe)</description>
 		<rom name="X Factor, The (Europe).iso" size="7838695424" crc="364c1dba" md5="17b5227a9e07b2fdcd2139471ee7cbbe" sha1="a2108922e6b3d466242689f7a8062fe0214db733"/>
 	</game>
-	<game name="X-Blades (USA) (En,Fr,Es)">
+	<game name="X-Blades (USA, Europe) (En,Fr,Es)">
 		<category>Games</category>
-		<description>X-Blades (USA) (En,Fr,Es)</description>
-		<rom name="X-Blades (USA) (En,Fr,Es).iso" size="7835492352" crc="5a8e3bff" md5="2d99e292702aead005ea3dcc07ff7fdf" sha1="dc3f542dd6355b42d819ec1f9abacc116f0ba0f4"/>
+		<description>X-Blades (USA, Europe) (En,Fr,Es)</description>
+		<rom name="X-Blades (USA, Europe) (En,Fr,Es).iso" size="7835492352" crc="5a8e3bff" md5="2d99e292702aead005ea3dcc07ff7fdf" sha1="dc3f542dd6355b42d819ec1f9abacc116f0ba0f4"/>
 	</game>
 	<game name="X-Men - Destiny (USA, Europe) (En,De)">
 		<category>Games</category>
