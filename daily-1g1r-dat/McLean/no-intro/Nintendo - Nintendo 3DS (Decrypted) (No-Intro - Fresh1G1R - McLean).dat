@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260303-225226) (Retool)</description>
-		<version>20260303-225226</version>
-		<date>2026-03-11 04-31-13</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260310-150248) (Retool)</description>
+		<version>20260310-150248</version>
+		<date>2026-03-12 04-37-11</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -710,7 +710,7 @@
 		<category>Games</category>
 		<description>Dragon Quest VIII - Journey of the Cursed King (USA)</description>
 		<game_id>000400000018F100</game_id>
-		<rom name="Dragon Quest VIII - Journey of the Cursed King (USA).3ds" size="4294967296" crc="762478d0" md5="a668bd80061963c05a6bd41f5f3dbb10" sha1="d723ff7a7b74d5de6ab6849bc95f33dee3cd9a32"/>
+		<rom name="Dragon Quest VIII - Journey of the Cursed King (USA).3ds" size="4294967296" crc="762478d0" md5="a668bd80061963c05a6bd41f5f3dbb10" sha1="d723ff7a7b74d5de6ab6849bc95f33dee3cd9a32" sha256="589ab3eedfb872136a99c23407c9dff45cd9ce1d31ed24c5ecb196fa8657c4fc"/>
 	</game>
 	<game name="Dream Trigger 3D (USA) (En,Fr,Es)" id="0095">
 		<category>Games</category>
