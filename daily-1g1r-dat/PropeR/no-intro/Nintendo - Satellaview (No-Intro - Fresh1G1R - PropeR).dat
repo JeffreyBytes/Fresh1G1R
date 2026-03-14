@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (304) (-y) [-aAbBcdkmMpPuv] (20260312-005432) (Retool)</description>
-		<version>20260312-005432</version>
-		<date>2026-03-13 04-42-00</date>
+		<description>Nintendo - Satellaview (305) (-y) [-aAbBcdkmMpPuv] (20260312-113724) (Retool)</description>
+		<version>20260312-113724</version>
+		<date>2026-03-14 04-40-55</date>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -647,10 +647,10 @@
 		<description>Kaizou Choujin Shubibinman Zero (Japan) (6-8)</description>
 		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (6-8).bs" size="1048576" crc="772c6234" md5="cff0c7c32adea7ca7c7598a8eb538200" sha1="2aba8629ab87a76aa79167a15caa02c52709c4ee" sha256="3b0cbc988c7356feb42e5c978ff66eed7aa4f4e5a89aaa7b4e7b13db0c0d6615"/>
 	</game>
-	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan)" id="3487">
+	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (8-3)" id="3487">
 		<category>Games</category>
-		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan)</description>
-		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan).bs" size="1048576" crc="e6a2e0d8" md5="9cb2fb499d440cb687a02d9c94b7621e" sha1="a40d9dedeff858fca2a549fadb2cbe7f0a84fc44" sha256="396c65057edd1a18fefe89c420e3a7b3a402e80345e7e72e60e159a40fbbedc5"/>
+		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (8-3)</description>
+		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (8-3).bs" size="1048576" crc="e6a2e0d8" md5="9cb2fb499d440cb687a02d9c94b7621e" sha1="a40d9dedeff858fca2a549fadb2cbe7f0a84fc44" sha256="396c65057edd1a18fefe89c420e3a7b3a402e80345e7e72e60e159a40fbbedc5"/>
 	</game>
 	<game name="Kid Klown no Crazy Chase (Japan) (8-19)" id="3933">
 		<category>Games</category>
@@ -1499,20 +1499,25 @@
 		<description>Yuuki Nae no GE-MU no Tsubo (1996-6-2) + Game Tora no Chou Ooana (1996-6-2, Part 1) (Japan) (SoundLink Magazine)</description>
 		<rom name="Yuuki Nae no GE-MU no Tsubo (1996-6-2) + Game Tora no Chou Ooana (1996-6-2, Part 1) (Japan) (SoundLink Magazine).bs" size="1048576" crc="792a304d" md5="1dd5f37932e47a3787396bee42e98e5c" sha1="2ab557fc9b3f749b7f1a5737c59d4344e1faa4ba" sha256="530c80001f50110ea88d79deb55eb097c33d7b2c9731c0a2da38c9cefcdfbbe8"/>
 	</game>
+	<game name="Yuuki Nae no GE-MU no Tsubo (1997-3-16) + Yuuki Nae no GE-MU no Tsubo (1997-3-23) (Japan) (SoundLink Magazine)" id="3981">
+		<category>Magazines</category>
+		<description>Yuuki Nae no GE-MU no Tsubo (1997-3-16) + Yuuki Nae no GE-MU no Tsubo (1997-3-23) (Japan) (SoundLink Magazine)</description>
+		<rom name="Yuuki Nae no GE-MU no Tsubo (1997-3-16) + Yuuki Nae no GE-MU no Tsubo (1997-3-23) (Japan) (SoundLink Magazine).bs" size="1048576" crc="5ba302f7" md5="ab0a343ed71abba78786c314cb10f672" sha1="ecd6df596fb36bfdb54117b51149d95bdebab964" sha256="1db08e92bbf8caa2689cbe33771335cebc8522d20784ae98ee8e74f7c93858ad"/>
+	</game>
 	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1996-12-22) (SoundLink Magazine)" id="3698">
 		<category>Magazines</category>
 		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1996-12-22) (SoundLink Magazine)</description>
 		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1996-12-22) (SoundLink Magazine).bs" size="1048576" crc="36107e52" md5="b84dd128922e2e6d9117d21bab0bba2f" sha1="0729b7a01ecf6778aedb132dff6e5b4fa2914742" sha256="ea0389106d1afc4bf83899b533695b7728b79e438c76d9bddfd1fe3cf7bf0668"/>
 	</game>
-	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine)" id="3674">
+	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine) (Standalone Fix)" id="3674">
 		<category>Magazines</category>
-		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine)</description>
-		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine).bs" size="524288" crc="e7e921f0" md5="c0ad98a0173d857dd3ec29089c8fbbf8" sha1="d34ac12350a1e969c1f00958ff38146aa22d964b" sha256="bb79a2cc76f0cb20409504729136173309a7bf40eb2bc70173756d2d43b19d87"/>
+		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine) (Standalone Fix)</description>
+		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine) (Standalone Fix).bs" size="524288" crc="e7e921f0" md5="c0ad98a0173d857dd3ec29089c8fbbf8" sha1="d34ac12350a1e969c1f00958ff38146aa22d964b" sha256="bb79a2cc76f0cb20409504729136173309a7bf40eb2bc70173756d2d43b19d87"/>
 	</game>
-	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine)" id="3464">
+	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine) (Standalone Fix)" id="3464">
 		<category>Magazines</category>
-		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine)</description>
-		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine).bs" size="524288" crc="33044905" md5="add1530e3d8f5b2ca78804d566fc97ce" sha1="acfc1de960c4ed8523cd20eacb75a61a2e5f3ff9" sha256="ea5741c3cd6f9d656996f804a5478d1a1f9e1c42c94316b0fd094e4bc6d3aa89"/>
+		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine) (Standalone Fix)</description>
+		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine) (Standalone Fix).bs" size="524288" crc="33044905" md5="add1530e3d8f5b2ca78804d566fc97ce" sha1="acfc1de960c4ed8523cd20eacb75a61a2e5f3ff9" sha256="ea5741c3cd6f9d656996f804a5478d1a1f9e1c42c94316b0fd094e4bc6d3aa89"/>
 	</game>
 	<game name="Zapping Gekijou Zenpen + Zapping Gekijou Kouhen + Sofcon Remake (Japan) (Game, Data)" id="3886">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (794) (-ly) [-aAbBcdDefkmMopPruv] (20260311-093721) (Retool)</description>
-		<version>20260311-093721</version>
-		<date>2026-03-13 04-35-47</date>
+		<description>Nintendo - Super Nintendo Entertainment System (795) (-ly) [-aAbBcdDefkmMopPruv] (20260312-052357) (Retool)</description>
+		<version>20260312-052357</version>
+		<date>2026-03-14 04-35-05</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1470,6 +1470,11 @@
 		<category>Games</category>
 		<description>Justice League Task Force (USA)</description>
 		<rom name="Justice League Task Force (USA).sfc" size="2621440" crc="31cf46d1" md5="2078b064bdf300eb656971946c26430f" sha1="5f42f74a03e8a7c0145751a6563dec707cbbe37c" sha256="7f05959f423bc656091ea3bddfbc89c877ae243dca346f63233e27973f34e0eb"/>
+	</game>
+	<game name="Justice Ninja Casey (World) (Ratalaika Games)" id="4566">
+		<category>Games</category>
+		<description>Justice Ninja Casey (World) (Ratalaika Games)</description>
+		<rom name="Justice Ninja Casey (World) (Ratalaika Games).sfc" size="2097152" crc="b4923e4a" md5="fef11cd50a9ad09eabb3e0b04bf8513a" sha1="b12bcfd423757209033f8db7dad4bc03f3985f07" sha256="7c67ed36e37ce1a268b16c8e56c30a4a9621977c412cffce52598719fc858736"/>
 	</game>
 	<game name="Ka-blooey (USA)" id="1292">
 		<category>Games</category>
