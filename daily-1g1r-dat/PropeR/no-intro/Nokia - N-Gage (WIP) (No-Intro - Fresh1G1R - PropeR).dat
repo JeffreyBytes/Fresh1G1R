@@ -4,12 +4,12 @@
 		<name>Nokia - N-Gage (WIP) (Retool)</name>
 		<description>Nokia - N-Gage (WIP) (1) (-y) [-aAbBcdkmMpPuv] (20220220-010530) (Retool)</description>
 		<version>20220220-010530</version>
-		<date>2026-03-14 04-38-21</date>
+		<date>2026-03-15 04-59-11</date>
 		<author>SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Worms World Party (USA) (En,Fr,De,Es,It)" id="0001">
 		<category>Games</category>

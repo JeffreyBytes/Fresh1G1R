@@ -4,12 +4,12 @@
 		<name>Bandai - WonderSwan Color (Retool)</name>
 		<description>Bandai - WonderSwan Color (92) (-y) [-aAbBcdkmMpPuv] (20251104-101041) (Retool)</description>
 		<version>20251104-101041</version>
-		<date>2026-03-14 04-38-12</date>
+		<date>2026-03-15 04-59-02</date>
 		<author>Arctic Circle System, C. V. Reynolds, Gefflon, Goratrix, Hiccup, nnssxx, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Alchemist Marie &amp; Elie - Futari no Atelier (Japan)" id="0001">
 		<category>Games</category>

@@ -4,12 +4,12 @@
 		<name>IBM - PC and Compatibles (Digital) (Steam) (Hentai) (Retool)</name>
 		<description>IBM - PC and Compatibles (Digital) (Steam) (Hentai) (4) (-y) [-aAbBcefkmMoprv] (20230424-174742) (Retool)</description>
 		<version>20230424-174742</version>
-		<date>2026-03-14 04-29-03</date>
+		<date>2026-03-15 04-50-17</date>
 		<author>MeguCocoa</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="1412310 - Girls! Girls! Girls! (World) (En) (Windows)" id="0003">
 		<category>Games</category>

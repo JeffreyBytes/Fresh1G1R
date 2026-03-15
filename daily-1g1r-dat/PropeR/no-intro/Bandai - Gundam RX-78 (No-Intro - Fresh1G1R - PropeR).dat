@@ -4,12 +4,12 @@
 		<name>Bandai - Gundam RX-78 (Retool)</name>
 		<description>Bandai - Gundam RX-78 (10) (-y) [-aAbBcdkmMpPuv] (20211124-013520) (Retool)</description>
 		<version>20211124-013520</version>
-		<date>2026-03-14 04-39-39</date>
+		<date>2026-03-15 05-00-24</date>
 		<author>MeguCocoa</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="BS Basic (Japan)" id="0011">
 		<category>Games</category>

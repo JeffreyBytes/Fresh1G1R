@@ -4,12 +4,12 @@
 		<name>NEC - PC Engine SuperGrafx (Retool)</name>
 		<description>NEC - PC Engine SuperGrafx (4) (-ly) [-aAbBcdDefkmMopPruv] (20250913-112105) (Retool)</description>
 		<version>20250913-112105</version>
-		<date>2026-03-14 04-34-26</date>
+		<date>2026-03-15 04-55-27</date>
 		<author>bikerspade, Hiccup, kazumi213, omonim2007, psykopat, rarenight, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Aldynes - The Misson Code for Rage Crisis (Japan) (En)" id="0003">
 		<category>Games</category>

@@ -5,11 +5,11 @@
 		<name>Fujitsu - FM-Towns (Retool)</name>
 		<description>Fujitsu - FM-Towns (590) (-y) [-aAbBcefkmMoprv] (2026-02-17 21-06-26) (Retool)</description>
 		<version>2026-02-17 21-06-26</version>
-		<date>2026-03-14 04-23-29</date>
+		<date>2026-03-15 04-44-45</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3x3 Eyes - Sanjiyan Henjou (Japan)">
 		<category>Games</category>

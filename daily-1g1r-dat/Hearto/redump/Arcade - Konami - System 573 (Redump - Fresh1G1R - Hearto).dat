@@ -5,11 +5,11 @@
 		<name>Arcade - Konami - System 573 (Retool)</name>
 		<description>Arcade - Konami - System 573 (39) (-y) [-aAbBcefkmMoprv] (2024-04-22 19-05-57) (Retool)</description>
 		<version>2024-04-22 19-05-57</version>
-		<date>2026-03-14 04-24-12</date>
+		<date>2026-03-15 04-45-29</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Bass Angler (Japan)">
 		<category>Games</category>

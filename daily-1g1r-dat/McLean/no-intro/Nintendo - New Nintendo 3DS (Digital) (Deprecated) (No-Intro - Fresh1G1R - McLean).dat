@@ -4,12 +4,12 @@
 		<name>Nintendo - New Nintendo 3DS (Digital) (Deprecated) (Retool)</name>
 		<description>Nintendo - New Nintendo 3DS (Digital) (Deprecated) (47) (-ly) [-aAbBcdDefkmMopPruv] (20211118-112910) (Retool)</description>
 		<version>20211118-112910</version>
-		<date>2026-03-14 04-31-33</date>
+		<date>2026-03-15 04-52-41</date>
 		<author>aci68, C. V. Reynolds, Hiccup, jimmsu, MeguCocoa, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Binding of Isaac - Rebirth, The (USA) (v3120) (eShop)" id="z003">
 		<category>Games</category>

@@ -4,12 +4,12 @@
 		<name>Fairchild - Channel F (Retool)</name>
 		<description>Fairchild - Channel F (26) (-ly) [-aAbBcdDefkmMopPruv] (20120223-000000) (Retool)</description>
 		<version>20120223-000000</version>
-		<date>2026-03-14 04-32-57</date>
+		<date>2026-03-15 04-54-01</date>
 		<author>Unknown</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Alien Invasion (USA)" id="0004">
 		<category>Games</category>

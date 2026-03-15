@@ -4,12 +4,12 @@
 		<name>Atari - 8-bit Family (Retool)</name>
 		<description>Atari - 8-bit Family (34) (-y) [-aAbBcefkmMoprv] (20260222-023943) (Retool)</description>
 		<version>20260222-023943</version>
-		<date>2026-03-14 04-25-12</date>
+		<date>2026-03-15 04-46-29</date>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3-D Tic-Tac-Toe (USA)" id="0002">
 		<category>Games</category>

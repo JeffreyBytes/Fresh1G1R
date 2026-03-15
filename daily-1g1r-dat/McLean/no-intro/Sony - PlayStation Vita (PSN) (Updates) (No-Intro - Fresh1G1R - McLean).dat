@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Updates) (604) (-ly) [-aAbBcdDefkmMopPruv] (20250724-193756) (Retool)</description>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (601) (-ly) [-aAbBcdDefkmMopPruv] (20250724-193756) (Retool)</description>
 		<version>20250724-193756</version>
-		<date>2026-03-14 04-31-46</date>
+		<date>2026-03-15 04-52-54</date>
 		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="10 Second Ninja X (USA) (v1.01) (Update)" id="01416">
 		<category>Games</category>
@@ -2525,12 +2525,6 @@
 		<game_id>HP0106-PCSH00152_00-APPLICATION00000</game_id>
 		<rom name="HP0106-PCSH00152_00-APPLICATION00000-A0101-V0100-8070527185451e1308fb60d42219cbf4c2a3f1a4-PE.pkg" size="2536256" crc="68838c72" md5="f83832abc27570ccc778eb8b9f7a279f" sha1="48e6f81a8b9cae72bfdecc2806769e3f311f7569"/>
 	</game>
-	<game name="Senran Kagura - Estival Versus (Asia) (v1.21) (PCSH00163) (Update)" id="02151">
-		<category>Games</category>
-		<description>Senran Kagura - Estival Versus (Asia) (v1.21) (PCSH00163) (Update)</description>
-		<game_id>HP0507-PCSH00163_00-0000000000000000</game_id>
-		<rom name="HP0507-PCSH00163_00-0000000000000000-A0121-V0100-c511682adbca5a06b21d3459c89c24cad882915c-PE.pkg" size="2450288848" crc="edd2c366" md5="8e651a73e556dd5201e30b63a903374a" sha1="b730ec2c5d3204fd651921a82597ba0d6154956d"/>
-	</game>
 	<game name="Senran Kagura - Estival Versus (USA) (v1.21) (Update)" id="01560">
 		<category>Games</category>
 		<description>Senran Kagura - Estival Versus (USA) (v1.21) (Update)</description>
@@ -2674,12 +2668,6 @@
 		<description>Slain - Back from Hell (USA) (v1.02) (Update)</description>
 		<game_id>UP2187-PCSE00974_00-0000000000000000</game_id>
 		<rom name="UP2187-PCSE00974_00-0000000000000000-A0102-V0100-0f888880fc7a027f7588afa0ea95d0706301daeb-PE.pkg" size="44516064" crc="c2c7fd15" md5="2b6410adac430555f57e2fb0056b2a61" sha1="10c89ec83bcdd88fa22ed5f68ebdbb5fd51b2642"/>
-	</game>
-	<game name="Sly Cooper - Thieves in Time (Europe) (v1.01) (PCSF00206) (Update)" id="01119">
-		<category>Games</category>
-		<description>Sly Cooper - Thieves in Time (Europe) (v1.01) (PCSF00206) (Update)</description>
-		<game_id>EP9000-PCSF00206_00-0000000000000000</game_id>
-		<rom name="EP9000-PCSF00206_00-0000000000000000-A0101-V0100-ca6dccaaa48cbdbc2396a8b1579c5f786af06ac6-PE.pkg" size="26882480" crc="e62d3544" md5="ef70a855ebf6c4108afef14ca6eeec9b" sha1="59749db564616c74106c70ffb5b4833ce598bf73"/>
 	</game>
 	<game name="Sly Cooper - Thieves in Time (USA) (En,Fr,Es,Pt) (v1.01) (Update)" id="01122">
 		<category>Games</category>
@@ -3178,12 +3166,6 @@
 		<description>Toukiden (Asia) (v1.03) (Update)</description>
 		<game_id>HP0106-PCSH00045_00-PKGTOUKIDEN00000</game_id>
 		<rom name="HP0106-PCSH00045_00-PKGTOUKIDEN00000-A0103-V0100-5287429e49e16eefd9f1d133f3024a8a26396ed0-PE.pkg" size="78333424" crc="be1e9103" md5="dad157aee53a3166911e7605d592ffdb" sha1="74f4541e70eb26dd373dd0928178eb6732fed30e"/>
-	</game>
-	<game name="Toukiden - Kiwami (Asia) (v1.01) (PCSH00103) (Update)" id="01271">
-		<category>Games</category>
-		<description>Toukiden - Kiwami (Asia) (v1.01) (PCSH00103) (Update)</description>
-		<game_id>HP0106-PCSH00103_00-PKGTOUKIDEN00000</game_id>
-		<rom name="HP0106-PCSH00103_00-PKGTOUKIDEN00000-A0101-V0101-0dd329dc07646618149b8715d5baa007bcf00db8-PE.pkg" size="66998656" crc="b12481d9" md5="bc10c7b4d43d081e26d7e08da210a174" sha1="4706ae7903e1c7b47afdff4023ea225eceef3a25"/>
 	</game>
 	<game name="Toukiden - Kiwami (Asia) (v1.02) (PCSH00110) (Patch)" id="02166">
 		<category>Games</category>

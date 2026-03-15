@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo GameCube (Memory Card) (Retool)</name>
 		<description>Nintendo - Nintendo GameCube (Memory Card) (8) (-y) [-aAbBcefkmMoprv] (20250808-204836) (Retool)</description>
 		<version>20250808-204836</version>
-		<date>2026-03-14 04-29-13</date>
+		<date>2026-03-15 04-50-27</date>
 		<author>Eastward2559, Gefflon, NovaAurora, xprism</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Action Replay Memory Card (USA) (v1.14)" id="0024">
 		<category>Games</category>

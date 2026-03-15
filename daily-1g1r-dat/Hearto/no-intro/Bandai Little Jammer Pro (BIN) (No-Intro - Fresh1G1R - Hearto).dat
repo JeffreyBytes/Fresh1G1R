@@ -4,12 +4,12 @@
 		<name>Bandai Little Jammer Pro (BIN) (Retool)</name>
 		<description>Bandai Little Jammer Pro (BIN) (23) (-y) [-aAbBcefkmMoprv] (20250421-130426) (Retool)</description>
 		<version>20250421-130426</version>
-		<date>2026-03-14 04-25-56</date>
+		<date>2026-03-15 04-47-15</date>
 		<author>SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="HIBARI - JAZZ&amp;STANDARDS (World)" id="0021">
 		<category>Games</category>

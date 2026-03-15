@@ -4,12 +4,12 @@
 		<name>Nintendo - Wii (Starlight Fun Center) (Retool)</name>
 		<description>Nintendo - Wii (Starlight Fun Center) (11) (-ly) [-aAbBcdDefkmMopPruv] (20251121-174654) (Retool)</description>
 		<version>20251121-174654</version>
-		<date>2026-03-14 04-34-28</date>
+		<date>2026-03-15 04-55-35</date>
 		<author>NovaAurora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Big Brain Academy - Wii Degree (USA) (Starlight) (Big Brain Academy 0.0 ENG)" id="0007">
 		<category>Games</category>

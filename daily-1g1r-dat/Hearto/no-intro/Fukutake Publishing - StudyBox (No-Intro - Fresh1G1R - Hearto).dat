@@ -4,12 +4,12 @@
 		<name>Fukutake Publishing - StudyBox (Retool)</name>
 		<description>Fukutake Publishing - StudyBox (12) (-y) [-aAbBcefkmMoprv] (20200113-140743) (Retool)</description>
 		<version>20200113-140743</version>
-		<date>2026-03-14 04-29-09</date>
+		<date>2026-03-15 04-50-23</date>
 		<author>relax, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Enjoy English 01 Gou (Japan) (Unl)" id="0001">
 		<category>Games</category>

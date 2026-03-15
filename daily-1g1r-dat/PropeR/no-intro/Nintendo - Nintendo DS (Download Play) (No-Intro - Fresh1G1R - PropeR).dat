@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo DS (Download Play) (Retool)</name>
 		<description>Nintendo - Nintendo DS (Download Play) (129) (-y) [-aAbBcdkmMpPuv] (20240712-120512) (Retool)</description>
 		<version>20240712-120512</version>
-		<date>2026-03-14 04-39-50</date>
+		<date>2026-03-15 05-00-35</date>
 		<author>Arctic Circle System, baldjared, Gefflon, Hiccup, Larsenv, Lesserkuma, rarenight, SonGoku, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="8BallAllstars (Europe) (En,Fr,De,Es,It) (Multiplayer) (DS Broadcast)" id="0511">
 		<category>Games</category>

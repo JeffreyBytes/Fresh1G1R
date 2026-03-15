@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (822) (-ly) [-aAbBcdDefkmMopPruv] (20260312-212117) (Retool)</description>
-		<version>20260312-212117</version>
-		<date>2026-03-14 04-35-39</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (818) (-ly) [-aAbBcdDefkmMopPruv] (20260314-052625) (Retool)</description>
+		<version>20260314-052625</version>
+		<date>2026-03-15 04-54-43</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="10-Yard Fight (USA, Europe)" id="0003">
 		<category>Games</category>
@@ -2156,11 +2156,6 @@
 		<description>Legend of Zelda, The (USA) (Rev 1)</description>
 		<rom name="Legend of Zelda, The (USA) (Rev 1).unh" size="131072" crc="eaf7ed72" md5="d3f453931146e95b04a31647de80fdab" sha1="be2f5dc8c5ba8ec1a344a71f9fb204750af24fe7" sha256="ec0d4ebf6d2fcecd1d95fef7329954efe79676959bc281ea908b226459bc6dc2"/>
 	</game>
-	<game name="Legend of Zelda, The (USA) (Zelda Collection)" id="2655">
-		<category>Games</category>
-		<description>Legend of Zelda, The (USA) (Zelda Collection)</description>
-		<rom name="Legend of Zelda, The (USA) (Zelda Collection).unh" size="131072" crc="34540318" md5="0b32851acecf93212b198e074c5e59bc" sha1="2ff3122a9d499920bdeeac9f3033fbd74ff5d94a" sha256="4106807e662d661621bf1cda90c24f29b6560bb8f19354f23154a769f10c9039"/>
-	</game>
 	<game name="Legendary Wings (USA)" id="1256">
 		<category>Games</category>
 		<description>Legendary Wings (USA)</description>
@@ -2390,11 +2385,6 @@
 		<category>Games</category>
 		<description>Metal Gear (USA)</description>
 		<rom name="Metal Gear (USA).unh" size="131072" crc="817431ec" md5="9ce6af110eeac2eb1ba8db803d15391b" sha1="2783bef3cc207e9bf57a65eea5ab9b68e2214af0" sha256="f6d29afbd7ddad33672852232791a396695de2e77dccb83088a8d6b139d8c9cb"/>
-	</game>
-	<game name="Metal Gear (USA) (Metal Gear Solid Collection)" id="6242">
-		<category>Games</category>
-		<description>Metal Gear (USA) (Metal Gear Solid Collection)</description>
-		<rom name="Metal Gear (USA) (Metal Gear Solid Collection).unh" size="131072" crc="f3ef8b1d" md5="cfb4f8f5687897718d50563f798e6c7b" sha1="119a2f6e027b91b464ec2d12c15185f2c450f721" sha256="034f37ff8e281cc059c29104bb1f0a52fefce7a0c9373996decbc50e19e663db"/>
 	</game>
 	<game name="Metal Storm (USA)" id="1432">
 		<category>Games</category>
@@ -3215,11 +3205,6 @@
 		<category>Games</category>
 		<description>Snake's Revenge (USA)</description>
 		<rom name="Snake's Revenge (USA).unh" size="262144" crc="48e904d0" md5="c381ae61ca0f76cbc68f9f6b71afe140" sha1="1b2f59243d2b076369de163d2a52e7077166cd9e" sha256="c85ed147e6da0da5ef02c930cc52621ae38d66971a332d168bf31126a3a740ce"/>
-	</game>
-	<game name="Snake's Revenge (USA) (Metal Gear Solid Collection)" id="6243">
-		<category>Games</category>
-		<description>Snake's Revenge (USA) (Metal Gear Solid Collection)</description>
-		<rom name="Snake's Revenge (USA) (Metal Gear Solid Collection).unh" size="262144" crc="2ea84217" md5="8873f1369a6d46d8af8c53d6880b2fa7" sha1="cdf2ff6447f428529dc7ab8486a47ed4aaabdc8f" sha256="99cfc87c6ec797651c62ceed755a7e79d033d4dcdc31bc0138363d21f3422490"/>
 	</game>
 	<game name="Snoopy's Silly Sports Spectacular! (USA)" id="2022">
 		<category>Games</category>
@@ -4095,11 +4080,6 @@
 		<category>Games</category>
 		<description>Zelda II - The Adventure of Link (USA)</description>
 		<rom name="Zelda II - The Adventure of Link (USA).unh" size="262144" crc="ba322865" md5="88c0493fb1146834836c0ff4f3e06e45" sha1="11333adb723a5975e0ecca3aee8f4747aa8d2d26" sha256="4cfc55e1521e58039d502f2a5ff16c233b84c0a05b1048185c75c971f3814c16"/>
-	</game>
-	<game name="Zelda II - The Adventure of Link (USA) (Zelda Collection)" id="2656">
-		<category>Games</category>
-		<description>Zelda II - The Adventure of Link (USA) (Zelda Collection)</description>
-		<rom name="Zelda II - The Adventure of Link (USA) (Zelda Collection).unh" size="262144" crc="262f31ac" md5="039256a05556fb689ae3c04503381de4" sha1="6168ddc77c8703ea0a034f79ad0025bc420d634b" sha256="a73c3a7ac26cf0f142a497f2b897ad19df2ad67f7b20e75ea2c66a0178ce1c31"/>
 	</game>
 	<game name="Zen - Intergalactic Ninja (USA)" id="2552">
 		<category>Games</category>

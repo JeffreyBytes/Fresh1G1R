@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (2,591) (-y) [-aAbBcdkmMpPuv] (20251230-064409) (Retool)</description>
+		<description>Sony - PlayStation 3 (PSN) (Content) (2,542) (-y) [-aAbBcdkmMpPuv] (20251230-064409) (Retool)</description>
 		<version>20251230-064409</version>
-		<date>2026-03-14 04-40-18</date>
+		<date>2026-03-15 05-01-07</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="#Killallzombies (USA)" id="19382">
 		<category>Games</category>
@@ -233,13 +233,6 @@
 		<rom name="EP4541-NPEB02323_00-GAMEPURCHASE0002.rap" size="16" crc="047305a7" md5="f20a3b0cc9ce459f0546415052e79bf4" sha1="4229d2cc502da122f20be180c6c9265730927a34" sha256="57f6069d7dde8629daccff62e603506009eff165763bf6228807edeac518fd86"/>
 		<rom name="EP4541-NPEB02323_00-GAMEPURCHASE0002_bg_2_b33f49bfda78facd632ef130743228b862fe8aee.pkg" size="6080" crc="49760633" md5="3eff3980ad18b8f90972c01435e92080" sha1="d5b9b30768672aaf5e94e2194b8653eecf6c53a5" sha256="a7750516b2ebf3ae1dd0c5589beaa5f065a4a840ab70043774927b739df0f41a"/>
 	</game>
-	<game name="Adam's Venture Chronicles (USA) (Soundtrack)" id="34216">
-		<category>Games</category>
-		<description>Adam's Venture Chronicles (USA) (Soundtrack)</description>
-		<game_id>UP4005-NPUB31379_00-SOUNDTRACKSU0001</game_id>
-		<rom name="UP4005-NPUB31379_00-SOUNDTRACKSU0001.rap" size="16" crc="c0a0f840" md5="7286d91e27752cd93f0f48386e021859" sha1="189a216183ba8cb9ffc07b610e2a2afcde522f4d" sha256="b8b6a48e9e30dbb215f5d73f9d1ecf420b7b75ea87013ff87066cf76e3604c1f"/>
-		<rom name="lXkgEPQggSAkbLkVcfleSfTDErkotQGIZXSrkSmrWfrAbJOsMFgaCazwpjZmJbLI.pkg" size="97804144" crc="27a4c419" md5="a92bc3a29e60942ca9090286078fbcb9" sha1="f54594317d25720076eb013e21dfa7f0c775d9e4" sha256="7646d4946164199c93bb2c36a14bf7ee5413c6285b2436b42e0967a0e5b7dd1b"/>
-	</game>
 	<game name="Adam's Venture Chronicles (USA) (Unlock Key)" id="18812">
 		<category>Games</category>
 		<description>Adam's Venture Chronicles (USA) (Unlock Key)</description>
@@ -320,26 +313,12 @@
 		<rom name="EP4015-NPEB00982_00-HDDGAME000000001.rap" size="16" crc="73c86d56" md5="a1d066eaf13f4d2d922fa5957beb9c8e" sha1="5198786eab0f964da6ad4261bb28058419d53cd2"/>
 		<rom name="FZNkDPchXVkYTTskJltnFjEbPsBRjAOHBIgdyvUxsReqjqzfMCbibcjOFadIIaMw.pkg" size="14702238368" crc="a9d97ede" md5="d9dc1594215fbfd78823586012771e30" sha1="39894274fe72f4d80170cbf4412000316e37e6ed"/>
 	</game>
-	<game name="Agarest - Generations of War 2 (Europe) (Soundtrack)" id="41388">
-		<category>Games</category>
-		<description>Agarest - Generations of War 2 (Europe) (Soundtrack)</description>
-		<game_id>EP4015-NPEB01366_00-PAGARESTGE000002</game_id>
-		<rom name="EP4015-NPEB01366_00-PAGARESTGE000002.rap" size="16" crc="19da531d" md5="f73e8493748dfe1cc889d5bc1f0978aa" sha1="16cb30387d6c79d0818fbfa579b397ef814780b6" sha256="45b205550f37a391f606f543bb57f7eb0e59ba4906d0793946399d9defb16ee5"/>
-		<rom name="SSDvsGaSuQqtQWkcMqFDlTLkLlKKxUyGZSVNXMAqDbTSgkRluoPQikReVJzTQytd.pkg" size="124218960" crc="1cdad977" md5="7cc8a774efd59f47507c371476798093" sha1="1b9f50f095eef07a905dc1cbdc990210eeb9b41e" sha256="b22e49185bd271809012b409a75de781ebcd98b6732fdb66480eb8e5f7132fdc"/>
-	</game>
 	<game name="Agarest - Generations of War Zero (Europe)" id="41383">
 		<category>Games</category>
 		<description>Agarest - Generations of War Zero (Europe)</description>
 		<game_id>EP4015-NPEB00983_00-HDDGAME000000001</game_id>
 		<rom name="EP4015-NPEB00983_00-HDDGAME000000001.rap" size="16" crc="eca4d15b" md5="4b988ad4515d1e5357a1b1badfa6f6b0" sha1="7b9e737d7f403527cd56ef6dc872a060f886ef6b" sha256="7b2b43f8c8ffdcb5d8248dd332b65ee95e900a71bb3030b81bb671d813f37668"/>
 		<rom name="VuZKodHISzPnYHmtpsMuuZeuKdPryYuPqEpdETsljzvJfvIbGGPAdAgPnKAxaOUz.pkg" size="14665484832" crc="1def4ad0" md5="f74c29568a235a16919fd8835450b01c" sha1="2043c7d5417cbe6c0f2c7d61f2f889cfd719c191" sha256="9e74782c0f849f097d3e7958b8fe72f1e0da0f7aedadc920b2b2899de5881e39"/>
-	</game>
-	<game name="Agarest - Generations of War Zero (Europe) (Soundtrack)" id="41387">
-		<category>Games</category>
-		<description>Agarest - Generations of War Zero (Europe) (Soundtrack)</description>
-		<game_id>EP4015-NPEB01362_00-PAGARESTGE000002</game_id>
-		<rom name="EP4015-NPEB01362_00-PAGARESTGE000002.rap" size="16" crc="15b09bce" md5="94b20d3654f64199a8303ee65a561f92" sha1="af6d408a8eebfe0107e53a6f53aebfc84e817da3" sha256="8804435ed49c321e35f31e5392cf4197d395e4654f229d31eb4697476b425bc0"/>
-		<rom name="jtKtmvzMayRQubWoEpMGKkqXpAIfFDVyeWcmStyTboMZZAiWTHJOqCMVPgsaghIk.pkg" size="135944336" crc="634ced33" md5="ae3e7f021e9aaae85fb9ffa199127917" sha1="f07c847d5877da34c53c3eb0e7b2b32efeb73b7c" sha256="94dece8480fb94fcc2b091e74f1ceee2fd824f5ee20a675d2ec4f2add1316220"/>
 	</game>
 	<game name="Age of Booty (Europe)" id="34734">
 		<category>Games</category>
@@ -1362,27 +1341,6 @@
 		<rom name="FViZXlGFfPRaltxJSvLHBHPFwctOgQoglGEQkYDxORbGOAZLLeQxBSiCupOOtfLk.pkg" size="26825404160" crc="f3bcb023" md5="714e52b2cee5680efa263f793b1fbfad" sha1="6cb2c99bc36c214922a0e835ed6de0e04f4f6582"/>
 		<rom name="UP9000-NPUA81087_00-GBEYONDTWO000001.rap" size="16" crc="c6b17a5e" md5="ec4221fbbbbc2659b8c2087f83ebf225" sha1="86ddd7f736df7cb0a18d18718cdc591166780db8"/>
 	</game>
-	<game name="Beyond - Two Souls (USA) (Soundtrack)" id="30324">
-		<category>Games</category>
-		<description>Beyond - Two Souls (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30170_00-GBEYONDTWO000001</game_id>
-		<rom name="TIeJvElqBuJQhVbkQwVNpPSeGJAcwpLEVzBAUmOtIgAURkZcsIYZaPTpvByEZTMI.pkg" size="102560688" crc="72665089" md5="63f4ed6d6a7f707f2fc0cece401180ea" sha1="777afca8eb3573fc56335113faa0d742a4a9f36e"/>
-		<rom name="UP9000-NPUA30170_00-GBEYONDTWO000001.rap" size="16" crc="e888a327" md5="05fa44ba6ed4672b05b44d39d31436a6" sha1="4c8521b9f417879be0e81d767c9263802a3e5c33"/>
-	</game>
-	<game name="Beyond - Two Souls - Extended Soundtrack (USA) (Soundtrack)" id="01629">
-		<category>Games</category>
-		<description>Beyond - Two Souls - Extended Soundtrack (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA81045_00-GBEYONDTWO000001</game_id>
-		<rom name="BInpbzahahgyuynZBNYqaWNsgCZmEVHWNUXzHKlBhrIQGacEiHWNVyOHmijBofUH.pkg" size="1092047216" crc="2387ca3b" md5="870eb8644a292913d4c83f5495628dc8" sha1="3fa6bab4b7c12e65ae859f2abb7c09fde1d247b4"/>
-		<rom name="UP9000-NPUA81045_00-GBEYONDTWO000001.rap" size="16" crc="0d78605f" md5="c5d488546c1dea88b87209539e9dba81" sha1="28a48309dd3db16550b4f2280e5254af567bd36b"/>
-	</game>
-	<game name="Beyond - Two Souls - Soundtrack (USA) (Soundtrack)" id="01627">
-		<category>Games</category>
-		<description>Beyond - Two Souls - Soundtrack (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30166_00-GBEYONDTWO000001</game_id>
-		<rom name="UP9000-NPUA30166_00-GBEYONDTWO000001.rap" size="16" crc="1a862de7" md5="181089497c1a084221cc675a14504615" sha1="ea7dce33b6496aa696ce5536c149e80fc994a3fd"/>
-		<rom name="vNRYQVuaeFUFObuJtQxbINwZinVwakowPsxjjbSKJjoJaFtybpMXAOTFqJgifxZH.pkg" size="45555968" crc="3b106af5" md5="b6f2fbaa23c25371d1a5c4ede13ff85a" sha1="ff9fe5c6a882bd2085306a2cd44c64a5580556b1"/>
-	</game>
 	<game name="Beyond Good &amp; Evil HD (USA) (Unlock Key)" id="01632">
 		<category>Games</category>
 		<description>Beyond Good &amp; Evil HD (USA) (Unlock Key)</description>
@@ -2108,13 +2066,6 @@
 		<game_id>UP0002-NPUB30584_00-CODBLOPSFULLDL00</game_id>
 		<rom name="UP0002-NPUB30584_00-CODBLOPSFULLDL00.rap" size="16" crc="c43c378c" md5="8ed5c2318c6730fb5350478bc98de52a" sha1="2fb94d87218a4a8e53f12f68a78a91b5ebef8dee"/>
 		<rom name="flrULpWnBbsktvenaJaTTrGCgyKsxpwJiooqOIpYTjWsHRanejPGOpXmefQbTAVwAimwzuqQttythjHgdpBvzMYXnDfGEJJOXIHnI.pkg" size="19098335216" crc="9c2cacd5" md5="3d7f169cc8e63534f3431f8ec23ac3fb" sha1="90293c13fa7aefd809e5b870de9ff3ddd3c37327"/>
-	</game>
-	<game name="Call of Duty - Black Ops - Zombies Soundtrack (USA) (Soundtrack)" id="13823">
-		<category>Games</category>
-		<description>Call of Duty - Black Ops - Zombies Soundtrack (USA) (Soundtrack)</description>
-		<game_id>UP0002-NPUB30604_00-CODBOSNDTRK00000</game_id>
-		<rom name="BTewiCufjVOeyjalwGPomdEaPwZJWxnmMdwywvEiebdsxwXheUKUIpPOXlBASDAalzfsCslRuGSDCrgrjfeahuoeDXTVxTwiGSoRp.pkg" size="95689664" crc="420f5d17" md5="2342c8ea2d82fa5ee1deeefb9e751577" sha1="88f56517c29e50f93489f9542facd3d3dd2f3bf4"/>
-		<rom name="UP0002-NPUB30604_00-CODBOSNDTRK00000.rap" size="16" crc="9502fcb9" md5="ab61ea2eba15c4ee4fbee1592ade64a2" sha1="55c98d024f6834ca3fc3d4550459450671aecaa4"/>
 	</game>
 	<game name="Call of Duty - Black Ops II (USA) (En,Pt)" id="18888">
 		<category>Games</category>
@@ -2991,20 +2942,6 @@
 		<rom name="UP1005-NPUB30979_00-DARKSIDERS2DIGIT.rap" size="16" crc="83dd4d2d" md5="6ce7f9754126e30e629030b3467deb26" sha1="f284b48322935ca24f48ed993c08b663074f953f"/>
 		<rom name="kDGoZyFjmKBxqusFPguKBcioxLrrMeyAnaOjQlsFUShGbyTiHuVczDYQeChZTOZD.pkg" size="6044577424" crc="ff1c1181" md5="2649dc41e0978d84aeb12e8030ab2211" sha1="d4c9e392b1e1abd2fee3cdadbacd20493ecfaa59"/>
 	</game>
-	<game name="Darksiders II (USA) (Soundtrack)" id="18922">
-		<category>Games</category>
-		<description>Darksiders II (USA) (Soundtrack)</description>
-		<game_id>UP1005-NPUB31061_00-DARKSIDERS2SOUND</game_id>
-		<rom name="UP1005-NPUB31061_00-DARKSIDERS2SOUND.rap" size="16" crc="cb00999b" md5="4b8ddb62b529c36d47228ad314d9e682" sha1="1c58171a566af571b2a9a4ce92d14bd6d921d41f"/>
-		<rom name="poZQqpdiKmLyFVtTfKKjkjwHtPNcvbGdKGDQbqjWQzABIAcvehJoHaleeJImSOxH.pkg" size="191911216" crc="38af4637" md5="26542498a62db26854b73f560d470b48" sha1="67c924f9ee48acc3c0c24a478792b0940dbe57e8"/>
-	</game>
-	<game name="Darksiders II - Official Soundtrack (Europe) (Soundtrack)" id="02953">
-		<category>Games</category>
-		<description>Darksiders II - Official Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP1005-NPEB01180_00-DARKSIDERS2SOUND</game_id>
-		<rom name="EP1005-NPEB01180_00-DARKSIDERS2SOUND.rap" size="16" crc="1eaff34d" md5="a708e9c50e77446d4258ba55e3891727" sha1="ea94196df89cdb895f179ad97700a5fbc61ff38d"/>
-		<rom name="QRwlRsiATDeTmPEXvgfWsNPIwhxxRTqFqmIZMOVzgTFsyyldiTWolizPZvQQcKBV.pkg" size="191911216" crc="b83c44b4" md5="63ae7641a3c120a65b4f3e348b8a7802" sha1="8c6ab87a2cc8dec0cc3d0735e14cb10edc728ebf"/>
-	</game>
 	<game name="Darkstalkers Resurreciton (Europe) (Unlock Key)" id="18923">
 		<category>Games</category>
 		<description>Darkstalkers Resurreciton (Europe) (Unlock Key)</description>
@@ -3025,20 +2962,6 @@
 		<game_id>UP9000-NPUA80694_00-0DATURADATURADAT</game_id>
 		<rom name="PkkDrVrnAiVKnXBIvKHnwHBJaRfxCRpgzyyOGvhIxqYVsDXRdxhDCojpClbfndLEJHqrSqkFJTpzQcGmZMhUYiVgmIcLFmhEVyfGF.pkg" size="921290704" crc="f9d9fb9b" md5="2fad8e17cf50b2f763dfd5fc0f7701ff" sha1="014c01455a501263eeccb61171656c69881a6c6a"/>
 		<rom name="UP9000-NPUA80694_00-0DATURADATURADAT.rap" size="16" crc="09514cac" md5="9d121c5c8a35592b0f0c1b75bebf34e1" sha1="3548ab0a77657eebab55e8f1155878bb3555b202"/>
-	</game>
-	<game name="Datura (USA) (Soundtrack)" id="19609">
-		<category>Games</category>
-		<description>Datura (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30114_00-098216SNDTRACK01</game_id>
-		<rom name="UP9000-NPUA30114_00-098216SNDTRACK01.rap" size="16" crc="b1e0f7b2" md5="45ac8f94ab3fd03ad8aba472b007aa99" sha1="244ecd7150715ab5f1790d092c3c3af209e60907"/>
-		<rom name="XHeiHxviboMshdkvitrEDFATbzhScDHuuiHEfhCyGTIuzAQLSCwxHbzaOQYDrRXsiroRWduOqHKZnuIRDEJIAmkSVyxIqLvsGZLHL.pkg" size="94017360" crc="664c1826" md5="580b318274f33a6cc6c84401221e7fbc" sha1="fecbfecf425437c862043ffdae475fa7f8ce0b5f"/>
-	</game>
-	<game name="Datura - Soundtrack (Europe) (Soundtrack)" id="13390">
-		<category>Games</category>
-		<description>Datura - Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00434_00-GDATURAORI000001</game_id>
-		<rom name="EP9000-NPEA00434_00-GDATURAORI000001.rap" size="16" crc="dfee92a6" md5="02e57d1313251f2f9fe208c9937569da" sha1="701a5a7175bb82642ecf4b90ae91f956ceccffff"/>
-		<rom name="tQFGMlULVSZHqsYmvgSrEqQfzypZCCZRiMRFngrWRudQcsOKfgtcWpOAZXCYIYsu.pkg" size="96402352" crc="49061e85" md5="76366a43ad68f628050230cf836dccce" sha1="2bd4205380905b84d0d8d9694bb894df9b74b524"/>
 	</game>
 	<game name="Daytona USA (USA)" id="02968">
 		<category>Games</category>
@@ -5545,25 +5468,11 @@
 		<rom name="MPPevp2xcECLo9l0GCFR64QaY5HL18EtceFPDA1mXmlXUincH9p8RSxb61ws5inEwpGTnnnk9VUDAcjgKPPkQHQdksxAU0h84GlK6.pkg" size="657547424" crc="741b1b47" md5="6d855348694f2be344e3888ee1be79c1" sha1="b324f2d017c49d7ecd008d386d9a15aa328afe4c"/>
 		<rom name="UP9000-NPUA80083_00-FLOWERPS3PRIVATE.rap" size="16" crc="fc9ab0b2" md5="1f4bc4ea4330edb503f4055b1db7a8ef" sha1="9d9e76f0b6fe8f32424218bf0338dd8d0487f9b9"/>
 	</game>
-	<game name="Flower (USA) (Soundtrack)" id="41424">
-		<category>Games</category>
-		<description>Flower (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA80418_00-380083SNDTRACK01</game_id>
-		<rom name="QWfghPBhoJa9eMvYuOjgmwG0NV2d8LJTUiPJ4JH5Su2DjrAYqClhtnpfkaCfAFL86kACnoWMOXio8NkTPlNGnGe7KOvVwd7q8gB0T.pkg" size="131817472" crc="7dedb47e" md5="d81c37b82c2e53e3cc60d1360c7193d2" sha1="b3fffe1aa8e4cbc497950d5b634b8ac05652c5cd" sha256="6494138cf431bab49b995c4471a798b530b7f2f7c49f1d5ad81a77ee0a026982"/>
-		<rom name="UP9000-NPUA80418_00-380083SNDTRACK01.rap" size="16" crc="3461ebdf" md5="1ac500fb53880e53027afb42c1412a48" sha1="45549a94b7bf14c1116bd7b5504d682dc9695f41" sha256="dfe6401d125293d8559b86e0adfcc4f29dc266bc6443e062f117de498ae60e0f"/>
-	</game>
 	<game name="Flower (USA) (Unlock Key)" id="37819">
 		<category>Games</category>
 		<description>Flower (USA) (Unlock Key)</description>
 		<game_id>UP9000-NPUA70098_00-DFLOWERUNLOCK001</game_id>
 		<rom name="BOChMjfQRjPtIYnMWLeOQkSGph7TKlOGO9J3LVdLwPc1hb1WJaeSaNUChlSx1EkoD0T3cx8YcHg0yR4k0v9i8vcWNifMBLtFmc0re.pkg" size="102400" crc="3b44180d" md5="0fffc96b09434594a3e8582f5822df3c" sha1="f93e1df9e58daf0e4e6cbfa5297c7fbc7c1e1537" sha256="4591008308116a288008c1dd89605e1d594cd95cb1b9c1905759e17047e58c96"/>
-	</game>
-	<game name="Flower - Original Soundtrack from the Video Game (Europe) (Soundtrack)" id="35468">
-		<category>Games</category>
-		<description>Flower - Original Soundtrack from the Video Game (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00185_00-380083SNDTRACK04</game_id>
-		<rom name="EP9000-NPEA00185_00-380083SNDTRACK04.rap" size="16" crc="c782cb74" md5="68059cb0cab2b29f4bbc7d6908074c89" sha1="9cbb305955f457c39b252059e8a53fb01e5b7827"/>
-		<rom name="jV3m9woD3AI8cgvc8FU8d0p90haEV6g61qDqSA0FTKHouUOusM7j6TRnS1eNk5wNFBLylvHvHruGoMQYYCeDCGqPLyJ7haPhFneEw.pkg" size="128001360" crc="aa2d67c0" md5="72d119e24b43195232979520ba76773f" sha1="713eab5195026ee85bc4197440eac6fe9e535f6e"/>
 	</game>
 	<game name="Flowery (Japan)" id="19009">
 		<category>Games</category>
@@ -6014,20 +5923,6 @@
 		<rom name="CeOvzDdDsBlXxMLySmhFiqvweBfKTKFUrKsZUjHNojmbkNKpjHetAQykAclglBSM.pkg" size="36532824272" crc="ea5d2098" md5="d29edd10b821f6ff64dc1403a4c848cc" sha1="556f04709c264aa9ecebe7c1bc99bd4b0b5f2c24"/>
 		<rom name="UP9000-NPUA80918_00-GOWADIGITALVERS1.rap" size="16" crc="905be8d2" md5="c7a0a6439b358193609d4c4744abe76f" sha1="32e53a9d983697cd28440f4a399668181f933e64"/>
 	</game>
-	<game name="God of War - Ascension (USA) (Soundtrack)" id="19021">
-		<category>Games</category>
-		<description>God of War - Ascension (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30124_00-098232SNDTRACK02</game_id>
-		<rom name="LkbtDaGZEtGNgNZPNOiZDIRdJuaiwwgiHZKKhyROLVkeJTVISsEQDOjuPmNeshjZcfZkCwmFnFJRjfsNdaCjvxudAhJdEdmoBVuDJ.pkg" size="135944832" crc="5b11002f" md5="76864016986d01f6f95cbdd7b00a989c" sha1="fce941d2fd56fc5211f112aab767efad6d7f51bd"/>
-		<rom name="UP9000-NPUA30124_00-098232SNDTRACK02.rap" size="16" crc="a6c8c22f" md5="c6c2e534bc7509ae708d9e1a15c4c115" sha1="73ebaa3ac09be88c0e94c5acfc7e8bc291bd43a9"/>
-	</game>
-	<game name="God of War - Ascension - Original Soundtrack (Europe) (Soundtrack)" id="09254">
-		<category>Games</category>
-		<description>God of War - Ascension - Original Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00441_00-GGODOFWARA000001</game_id>
-		<rom name="EP9000-NPEA00441_00-GGODOFWARA000001.rap" size="16" crc="bf32a8a8" md5="9aeb9d1603aaa7eccd5d0392b6ac578d" sha1="737eb0907e49fb40c292e2b4c386929b02bc87da"/>
-		<rom name="IVppFOhWPeCiVVsmRVGCdXOYDFOtjEslAqqmYfVDfLvpEODUoIxipunMoVRSEkvH.pkg" size="135462320" crc="bc032dfe" md5="4c563ed6dbb9fcdd36e7e8860d5a4eb6" sha1="4560046d71607f7c943a9c99ad8246bf2b66416b"/>
-	</game>
 	<game name="God of War - Chains of Olympus (USA)" id="09257">
 		<category>Games</category>
 		<description>God of War - Chains of Olympus (USA)</description>
@@ -6042,13 +5937,6 @@
 		<rom name="UP9000-NPUA80636_00-GOWGHOSTOFSPARTA.rap" size="16" crc="c01d27ed" md5="3b88418b5095bca53147c44e7c71e24a" sha1="420587da90afb42de4e1b2ede770fec14908c675"/>
 		<rom name="jAmmbyVGchttYyfaMPRCyjmjirocbegklMcKsjKDNgGExiXZkXBhsMOzRFTwZTpWjNBWXBjPbdgpJqQtjIsWSxkmBJPMByarFIjUz.pkg" size="9757283824" crc="34cdbc1c" md5="9d8dbc30db40b12e4e2a1fe29a1ef8b0" sha1="0fbbeb8067394b5066ebed1f0f0727c729f8fc18"/>
 	</game>
-	<game name="God of War - Ghost of Sparta (USA) (Soundtrack)" id="41437">
-		<category>Games</category>
-		<description>God of War - Ghost of Sparta (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA80508_00-098737SNDTRACK03</game_id>
-		<rom name="UP9000-NPUA80508_00-098737SNDTRACK03.rap" size="16" crc="d2d0bc5c" md5="e3bd6cdd91f441b89840ab8fa4d1d3ac" sha1="940e60a2e74d6af768d629a1b1266c1bc5e5d387" sha256="c3da6ff9ae245bec40eb1b2575a43b4ba7958b76f6bd0354fee7a389a8539b9e"/>
-		<rom name="pxKnnbUtk8n9MBv9Nq9nhlxW8fSeHLbn6hOMO4CcnlDk6y2yqP7OHyNGTEPSmAFSyN4j7QWFQO7wFmBMauxrk34MOSHyHgqhPkVfh.pkg" size="84541920" crc="10f92981" md5="ad5d34f925916ad235f0eb2a87851ad1" sha1="733654a7804fbfb9baf9ff0db957cfb7b00dd305" sha256="be8274d37345d6243894cd17a30de5e40b912754c6b34ffa688732c34cf71dc6"/>
-	</game>
 	<game name="God of War HD (USA)" id="09269">
 		<category>Games</category>
 		<description>God of War HD (USA)</description>
@@ -6062,13 +5950,6 @@
 		<game_id>UP9000-NPUA80491_00-GODOFWARIIHDUS00</game_id>
 		<rom name="8N8Bfnr6KkJK1AEE4ScNR5PK4PAS6IddadTdGb4nKy9Og3oNlPT1MlN8Vf9cDIrBoMlH7r2T7eQC1jBfLMX1IhxKeIKXIl39LO5Ov.pkg" size="6996309584" crc="73ccabf0" md5="2b15ba32b1b5de0823c63dc285ed7e24" sha1="f708f941204f1e40d9d4e25535f4c6995d60d052"/>
 		<rom name="UP9000-NPUA80491_00-GODOFWARIIHDUS00.rap" size="16" crc="9a78b90c" md5="72a16d1aa3803f9c2cef949bfd2d7f8d" sha1="1b2d534fa786e8cd81c0ca021f2b4f94df140982"/>
-	</game>
-	<game name="God of War III - Blood and Metal Soundtrack (Europe) (Soundtrack)" id="31793">
-		<category>Games</category>
-		<description>God of War III - Blood and Metal Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00186_00-000000GOWMETALEP</game_id>
-		<rom name="EP9000-NPEA00186_00-000000GOWMETALEP.rap" size="16" crc="220b3761" md5="fcac993a9127f6faa4af3a0254244978" sha1="ce607508f4d231862ba7d5307a5f46fe6a93bd0b" sha256="caad974fa119a48798be5b51a8fea4724b255b93ed33799e887905fdb063f777"/>
-		<rom name="fPh3wF22RvnfgNLlLuk6tDberk03QgnO02cu3YhXek5L8HcB8naiWKM6dsypOyoTv8M37lSHy6RAkvfPsadxysWUUCSVh0WPhPFIH.pkg" size="77830080" crc="d6e97378" md5="4b374ce01ad4fc5f86cab97b4a69924d" sha1="8eec06582b6dce93dadef11ca14d7c1003ca3eb2" sha256="66e23cc3b1da8e57f1a33c890afc16b2b6eddb7445fa9f598e261dbc75e2f752"/>
 	</game>
 	<game name="Godzilla (USA)" id="19866">
 		<category>Games</category>
@@ -6355,13 +6236,6 @@
 		<rom name="UP9000-NPUD21571_00-0000000000000000.rap" size="16" crc="c14ff00a" md5="ad2f1cb77fdcbfe6880a96801f55f006" sha1="aa4d15f48e758dd5ac762f4f2271c19cab46c392"/>
 		<rom name="ygDzSrRJUPZelRMgRnyynTmAFvvoxAIfyNzsGivIRdeKuaZvTqmGXQuDpCHqhIkHSXOhYBfVGVvSeJktsTRibzBSHInusCcMfXvvK.pkg" size="4123690368" crc="37ae0ac9" md5="14c2843433d9416fcbb1d51244559374" sha1="9478dc67c2f46a3810d085b05e88108ea39961cb"/>
 	</game>
-	<game name="Guacamelee! (USA) (Soundtrack)" id="30360">
-		<category>Games</category>
-		<description>Guacamelee! (USA) (Soundtrack)</description>
-		<game_id>UP2045-NPUB31402_00-GUACAMELEESNDTRK</game_id>
-		<rom name="PaNsoZdFDzvxuJIbXThsBUHQpcLdwCKjSpQVxxqUNILUEbsKFJjqcflxqyjHFfNe.pkg" size="196978240" crc="d30f71c7" md5="58c21e6d5e025cbe87d549d443004c85" sha1="f40d54f0938a552dca755167af5838a5f7a058b7"/>
-		<rom name="UP2045-NPUB31402_00-GUACAMELEESNDTRK.rap" size="16" crc="52e38361" md5="81063b98ee96034ac61fa0f8cd06c256" sha1="f9cd9290e180e6acc0ec8c811c55279871d15f0e"/>
-	</game>
 	<game name="Guacamelee! (USA) (Unlock Key)" id="09749">
 		<category>Games</category>
 		<description>Guacamelee! (USA) (Unlock Key)</description>
@@ -6583,19 +6457,6 @@
 		<game_id>UP1059-NPUB31147_00-HF4USPSN00000001</game_id>
 		<rom name="UP1059-NPUB31147_00-HF4USPSN00000001.rap" size="16" crc="6a8ebcb8" md5="c9781d7ab4d14ba7253f16aa4f2719c3" sha1="b8f05b5f89f3a95b4fda0ee079faf31eddad52ec"/>
 		<rom name="ZcSrsTzzuPQJusOFDkGZrsGSdypsEcXqyrBTWpCCTslcIcVtYQEpxkdWIdvtObym.pkg" size="1493410976" crc="f14560c7" md5="785f07c219862adae3b576ff729fe6a3" sha1="bc6265db53ffe1db34b15dff2fb8bf4888ed5e07"/>
-	</game>
-	<game name="Heavy Rain - Official Soundtrack (Europe) (Soundtrack)" id="35482">
-		<category>Games</category>
-		<description>Heavy Rain - Official Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00183_00-GHEAVYRAIN000001</game_id>
-		<rom name="EP9000-NPEA00183_00-GHEAVYRAIN000001.rap" size="16" crc="861734b7" md5="4802da1fef4ce8a0584afdb6242f7f25" sha1="8d381ab9eb3f937afd274740372887380bea497a"/>
-		<rom name="cuvebc1pUpR52hI93cGBecf7RiAWbaEF5TFbH4JjKbT9AN6n8nKc8Gw2iGKcp93SJiMepfbgv5WvuU5SSVu2Ae22nLgKJmpVpuoOB.pkg" size="82464896" crc="4910e173" md5="3c600367c6b42558e4fc43acd15941ce" sha1="9585851c71e6a62e70b22126abc8d18c34417a08"/>
-	</game>
-	<game name="Heavy Rain - Original Videogame Score - Surround Sound Version (Europe) (Soundtrack)" id="19046">
-		<category>Games</category>
-		<description>Heavy Rain - Original Videogame Score - Surround Sound Version (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00184_00-GHEAVYRAIN000001</game_id>
-		<rom name="PIAMNlu8OGRnle94bcE9c9h2LarrotbjLUyLxjLfAC6Iod5sfk5qLW7XUkR058ohDQmBWcJInwwf9fB9C1BuVt7VPlshsaLbRXJLc.pkg" size="61907248" crc="e3d4040d" md5="5fa1fa4a6e767f3c131074a5aac42619" sha1="2cc76810190e86ae77b9e19de0516fa9b9a56425"/>
 	</game>
 	<game name="Heavy Weapon (USA) (Unlock Key)" id="19047">
 		<category>Games</category>
@@ -7590,13 +7451,6 @@
 		<game_id>UP9000-NPUA98116_00-GKILLZONE2000001</game_id>
 		<rom name="euISG9WdbhRgw3UpdFWmLe8dYus9QT9sAAt9O30grIG0HN7WrI0cIu7oLQ13nwgIy7DwmpuwRX9RLwubwAGam2NakQa2l9el2hOBa.pkg" size="480525392" crc="cb68c039" md5="b17cb43732b294b69ecf3f36ceae1fc2" sha1="9cde85fae88c9dfa4a56ecafd115d0559bd819f0"/>
 	</game>
-	<game name="Killzone 3 (USA) (Soundtrack)" id="19072">
-		<category>Games</category>
-		<description>Killzone 3 (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30067_00-GKILLZONE3000002</game_id>
-		<rom name="UP9000-NPUA30067_00-GKILLZONE3000002.rap" size="16" crc="9d61e53c" md5="c9ef892c4ae6b6cf4ac4cc6f3c25cad1" sha1="4cd6025086ef65dc92c288e15f5f48f06c81a21d"/>
-		<rom name="oIwuaBxAMtrYKHXiTdbtRWIkmaIPmXFrpTDSoWjbHKzcRysSLBqoWKrJWPFjpoWeqyjjeyFGENfdBwAQZiHHpwuyejtwhtBDwQEpc.pkg" size="172995264" crc="f157882b" md5="8bb8f972051a62472bc1f4ad4988f003" sha1="011666f3df7c70ff57db0c15d9c78bb3f4c9a984"/>
-	</game>
 	<game name="Killzone 3 - Multiplayer (USA) (Unlock Key)" id="41004">
 		<category>Games</category>
 		<description>Killzone 3 - Multiplayer (USA) (Unlock Key)</description>
@@ -7802,13 +7656,6 @@
 		<game_id>UP2070-NPUB30820_00-UKNYTTUNDE000001</game_id>
 		<rom name="UP2070-NPUB30820_00-UKNYTTUNDE000001.rap" size="16" crc="55106079" md5="1243a9d5b7509512af6076ce75eac89f" sha1="f5a190de2fe761c49fbc7d4f248995b37edef864"/>
 		<rom name="wjDqigCuJRlBRvCAwHUPvxCvVLTUousZYvGxjitkIJRMRSWcuNZvIpqbZgNQPPdg.pkg" size="898959600" crc="8550d750" md5="47e17f8feeb7c0ab467909cf4562c836" sha1="e08978b09eb24506487a5efaf0f723a99586dc56"/>
-	</game>
-	<game name="Knytt Underground (USA) (Soundtrack)" id="10577">
-		<category>Games</category>
-		<description>Knytt Underground (USA) (Soundtrack)</description>
-		<game_id>UP2070-NPUB31158_00-KUSOUNDTRACK0001</game_id>
-		<rom name="UP2070-NPUB31158_00-KUSOUNDTRACK0001.rap" size="16" crc="1928d216" md5="63804b3cd388b79fa4a13ec60aa1a4c9" sha1="7fb37d1accf4cad1ae771b5e42a956d0f1e3b162"/>
-		<rom name="nzSLjRZPHtOFMpijiLvWUJawmuNivqLiKuqGBmFToFmxrbnBzAjoQNiQShQTBOQa.pkg" size="328271888" crc="c0f9c3b9" md5="96dc6b4989b9dc8a106aab1ef1ad39cf" sha1="2acc227186a19052eac1d0b95e2403b40a6752b6"/>
 	</game>
 	<game name="Koi-hime Enbu (Japan)" id="36168">
 		<category>Games</category>
@@ -8018,26 +7865,12 @@
 		<rom name="HP9000-NPHA80243_00-THELASTOFUSDIG01.rap" size="16" crc="bab24be4" md5="9a52a1ae5f57a58bb149673b43c243f0" sha1="308b3b957cf43e2671b09c77d3e3322fafe2ea96" sha256="984ab694cb233e60230834455df3b38aa1c1a81b2b97503e2a5ee95520a786e5"/>
 		<rom name="WcOTwENouKaDuzeLPwSnAVgemDveblxhblgZCxPNMYgQHIermsjlaSbkBSfTrnINQZmBCaLtveUiYzxeWzKyuRNOlCzLwlWcYMWHd.pkg" size="143116208" crc="b498eb1f" md5="d6a03a0f210e8b5977954215b7aee7be" sha1="841e22177fd510a085e8b45f0be03efc53cb13eb" sha256="457bf08afa7f41929110308bc5573ce8f1820d277958631c66d75a56910caced"/>
 	</game>
-	<game name="Last of Us, The (USA) (Soundtrack)" id="10689">
-		<category>Games</category>
-		<description>Last of Us, The (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30134_00-098174SNDTRACK01</game_id>
-		<rom name="ESkPhXMJuQVZUBOkUiSfKTADnBYKMqKTrOkXHdSLdbmVPpxHsiMuwiNxgbJFVekfwTHBbDjMvQkVkukQTChGmIQriaUaTwWjwsyQC.pkg" size="143567632" crc="d220e7e7" md5="7f3c954eea86a5f441a4189258492d21" sha1="e534d823d7112ed3aa9aed4694f9a3e37e121773"/>
-		<rom name="UP9000-NPUA30134_00-098174SNDTRACK01.rap" size="16" crc="5ff5e0f7" md5="5f3066425c16330c09215c8b5d3012e0" sha1="86e5df6f3569691eb1aa54f8c7152e4c5aa25936"/>
-	</game>
 	<game name="Last of Us, The - Left Behind (USA)" id="19968">
 		<category>Games</category>
 		<description>Last of Us, The - Left Behind (USA)</description>
 		<game_id>UP9000-NPUA81175_00-THELASTOFUSDIG01</game_id>
 		<rom name="UP9000-NPUA81175_00-THELASTOFUSDIG01.rap" size="16" crc="fff7fd39" md5="e96c21a30d281fc2d78f0de093c74008" sha1="c520be9523d7592e04294d2430a0453b72a7b15f"/>
 		<rom name="UP9000-NPUA81175_00-THELASTOFUSDIG01_bg_1_a747d441df8483e991d3a9af79df68e68e963f07.pkg" size="154835360" crc="7a70f872" md5="925978ee7e79621f2a2523ee2f4bcf97" sha1="0201c2f6d9176e182a677c434ec3abb35745c7f2"/>
-	</game>
-	<game name="Last of Us, The - Original Soundtrack (Europe) (Soundtrack)" id="10684">
-		<category>Games</category>
-		<description>Last of Us, The - Original Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00454_00-GTHELASTOF000001</game_id>
-		<rom name="EP9000-NPEA00454_00-GTHELASTOF000001.rap" size="16" crc="1a2cb0f5" md5="ab89baba86e7147df1988ec09d30b70a" sha1="158782c3c547a883df8dcb2871c336e76dd8b444"/>
-		<rom name="jtnxfxmBZQVJzLgVHpBBhAQLCdkHWbOdvZfUdthYXsxbqCkKoLlTJokowzJUXWhJ.pkg" size="139971024" crc="fc3e1c20" md5="72db55f169f5b52256144a4bb7a63dc3" sha1="ec2c5fc6a61df3e3839ef120a1e8f3ff9f7f548c"/>
 	</game>
 	<game name="Last of Us, The - Survivor Guide (USA)" id="10690">
 		<category>Guides</category>
@@ -9393,12 +9226,6 @@
 		<rom name="BipQdWFQKbMAnJYuTENGAZJzDUYgPJfrhRCYzmxEUzrAqSiXwmIvPthNoBxpYUCuCsJZnVjdPsBAksdcIofPZhHZVcxfYTqASBFIu.pkg" size="102400" crc="39ddfc36" md5="39cae42dd10016d85c1a73c837afd8bf" sha1="25bdbf4d2a91b4cf4ed4cdf7e7975b7cd90a1c48"/>
 		<rom name="UP9000-NPUA80678_00-MSRCUPGRADE00000.rap" size="16" crc="e10d0c97" md5="4411912707fe81ba14dcd9b26223ef24" sha1="d30ff3da825e6bc05f15c1055bbfc6c8b8dda357" sha256="bd055d08753835f7b686d5b87fa7876882b0ef6e8c5f1aaff9a7c1a6337e3fee"/>
 	</game>
-	<game name="MotorStorm RC - Music from the Game (Europe) (Soundtrack)" id="46009">
-		<category>Games</category>
-		<description>MotorStorm RC - Music from the Game (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00428_00-MSRCDLCMUSIC0000</game_id>
-		<rom name="ywHTyySPgZMFGIwyBjdOdCYTLDohOIQYEZMFBTiAvuusWONLtqRgZoNbqXePDEyw.pkg" size="73960416" crc="c3028781" md5="d1047a348889139fdf1c86628bedde4e" sha1="ce00ba4280689f6da78d9b114190f6101bc7dc3d"/>
-	</game>
 	<game name="Motorbike (USA)" id="04398">
 		<category>Games</category>
 		<description>Motorbike (USA)</description>
@@ -10277,13 +10104,6 @@
 		<rom name="LOcZOjVwCwTcYoWTVgMAVOoTeSlFnXacOqTfAWHOgcnLgYqRtwLEMqnOlrosEVNS.pkg" size="2112804768" crc="ae344ed6" md5="118672b4377774ef8b1c6d0bf21e3aeb" sha1="1c361d24526b274dd37995ffd2624c44ace6849a"/>
 		<rom name="UP4389-NPUB31259_00-PPAINKILLERFULL1.rap" size="16" crc="11ede2cd" md5="a3e7a74f8301094083f9b5e0d1891a65" sha1="ec8fabc9cec1552e8c317ada1e792bee26dbf4fb"/>
 	</game>
-	<game name="Papo &amp; Yo (Europe) (Soundtrack)" id="41389">
-		<category>Games</category>
-		<description>Papo &amp; Yo (Europe) (Soundtrack)</description>
-		<game_id>EP2055-NPEB01265_00-MINORITYPPYOMUS0</game_id>
-		<rom name="EP2055-NPEB01265_00-MINORITYPPYOMUS0.rap" size="16" crc="a278398d" md5="438c5f4414a24efae56e634ccb21a617" sha1="2de47661c0097983999585978530260beb072789" sha256="900cbda08b91e6001c7bd96ad83d3fb9d5fd9ef3c95c6bc04af7c2366c9505d9"/>
-		<rom name="PDWwkvOyjYiZrJLcyMvGBxvQSTJaWdJCbMwtGYDYerUxSBHxQaCcJxKSLzSrxwIu.pkg" size="137705280" crc="a6070668" md5="06b052661d110e43b1cb8347729df812" sha1="05396e37c19d8708cd058377799d8b5462047691" sha256="88be446e22bb0cff2c1479593c253baab88ba2d27a07cc5ac6b77d0d58c22c98"/>
-	</game>
 	<game name="Papo &amp; Yo (USA) (Unlock Key)" id="19143">
 		<category>Games</category>
 		<description>Papo &amp; Yo (USA) (Unlock Key)</description>
@@ -10477,25 +10297,12 @@
 		<rom name="UP9000-NPUA80538_00-PJ4AMLICENSE0001.rap" size="16" crc="1c41e3dd" md5="91c69957dcada9b25dea43b468ee098b" sha1="299c1aadd3993f4b929315958bc2d04bbb818567" sha256="281e173dae1c2a775d6f1407f18272bed6519a503371d219ec1a8e38fb3fce06"/>
 		<rom name="tUyvCmtPJDnEaOlsvkEyLWknIhNDogAvJzvbEDaInpRPmXlpvdmSBKvzUmVlGJSAnWBikKIDhzmYlzCHwpXHEvVzETSpujZJFRNSq.pkg" size="6080" crc="23236acc" md5="bcdd86558b05297d0cadfeef48e8639d" sha1="75be3e2b8fe5342e54d29af87ba207bac6afb592" sha256="63e81656a09a9be6def6e1cb12089d136e2c7ac44403d5929ad8dde2258eb650"/>
 	</game>
-	<game name="PixelJunk Eden (USA) (Soundtrack)" id="20073">
-		<category>Games</category>
-		<description>PixelJunk Eden (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA80222_00-PIXJEDENMUSI0001</game_id>
-		<rom name="UP9000-NPUA80222_00-PIXJEDENMUSI0001.rap" size="16" crc="1bd89a94" md5="7bad05b9b8a97ec893afc6ea5769b2cd" sha1="97abf2fd9fe7adba70c86bfa9e8903859a0fc370"/>
-		<rom name="YrKsETUyRqDOPwGVaNxTrN9gqiKgrOKe0v6Jn2af3IrJdO9IQJdyh3ITU0KjBFFQPEP1NqGLMIpA97NVlKDxYXbbIRf5minkOxcpt.pkg" size="199074512" crc="6e4be22a" md5="c7c12a06a6dc93a74676318d10e07b35" sha1="fb71e1f4e87fffe9902a8ab906dc72db67d94096"/>
-	</game>
 	<game name="PixelJunk Eden (USA) (v2.01)" id="19149">
 		<category>Games</category>
 		<description>PixelJunk Eden (USA) (v2.01)</description>
 		<game_id>UP9000-NPUA80160_00-PIXJEDENFULL0001</game_id>
 		<rom name="PtbGfdWh7sElf5FYfaf2MqQKpuHqpLma3WsMUQTw6dM9RGTTl3TAVaP6k3Nx4uDec1OSRVbVoL2DAhFj8plG6hA2182Tw8vYsfLNj.pkg" size="112028928" crc="24b56b02" md5="12c80a5372c8b1019f9f33d8d5b6f4b4" sha1="50cfe4ba784c5a59f9b6531b416b95855e2952af"/>
 		<rom name="UP9000-NPUA80160_00-PIXJEDENFULL0001.rap" size="16" crc="2cec9cf6" md5="70f496b931a07e087204e4dd5c0cf166" sha1="36656de7fe1f05f88f29ad3eb79ed830e59b7883"/>
-	</game>
-	<game name="PixelJunk Monsters (Japan) (Soundtrack)" id="45595">
-		<category>Games</category>
-		<description>PixelJunk Monsters (Japan) (Soundtrack)</description>
-		<game_id>JP0743-NPJN00001_00-PJMONSTSMUSI0001</game_id>
-		<rom name="a25lfgxYxIFYIlma4bFXqNFAHup124oRuukVuIEK6e5QG5Eg5RN1q1K3V4uLUUd7irghUdMIi5aNnqEGTib9xaWRfSmQYXXQ0wb7H.pkg" size="65493088" crc="bbe4e4d1" md5="8722b59199e207a0c5b37cc273fe6645" sha1="822bf363f5fae0de9d071c7e73d3f8afb5183488" sha256="4057b354828e597711fe7be37994071227e242daffdceff3640e039c901a4e01"/>
 	</game>
 	<game name="PixelJunk Monsters (USA) (v2.00)" id="05469">
 		<category>Games</category>
@@ -10958,12 +10765,6 @@
 		<rom name="UP9000-NPUA80959_00-THEAMERICAS00000.rap" size="16" crc="24cd9f57" md5="b373dab117c55ef0c66e8532f0633b70" sha1="8fe8742b7e88a8f39c4c8e478aedc94e41377357"/>
 		<rom name="vuXlSLDRmywNwZZUpCJCqLjMOWqibqcpXyLZcynyjaNtodBKVhcXykBlIOtmafbe.pkg" size="6751082576" crc="5bcf5d7a" md5="02064adbe1e6f0c02d19414acbd34dfe" sha1="d38ff28e0f23d0f205141a9bf55707ea374122b6"/>
 	</game>
-	<game name="Puppeteer (USA) (Soundtrack)" id="34721">
-		<category>Games</category>
-		<description>Puppeteer (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30133_00-098227SNDTRACK01</game_id>
-		<rom name="COfAuitZLJsxQqVFmiFBrFVYeAjPQxZjpKFrrprQBZeRtMLeJAZAAdkgNPjedBrh.pkg" size="87073856" crc="36731bb7" md5="5db8a141eb989a1bc2e035c43be3fdf0" sha1="58398478cfb013b074f8b02ae69f9fe2e12a6f7a" sha256="d57392fea329f76ad885af019a632a9eb5607942be842817ffec24502d4baf3f"/>
-	</game>
 	<game name="Puppeteer - Rehearsal Version (Japan)" id="46011">
 		<category>Games</category>
 		<description>Puppeteer - Rehearsal Version (Japan)</description>
@@ -10976,13 +10777,6 @@
 		<game_id>UP1082-NPUB30449_00-PUREPS3DIGITAL01</game_id>
 		<rom name="UAoaGpuZsnRgwWViwqJPOlSsWRRtFceUqGhUKASjXaaOFRFtDbelDoYkesnUBgWVWwxqUsZuhHYDiqTBPqNCfGGbDzJiocJomkOUG.pkg" size="4914422080" crc="fe37d037" md5="70649038ef2a49e1cddff7a469441570" sha1="8be496b8479ae26c64c487779b521f068695f943"/>
 		<rom name="UP1082-NPUB30449_00-PUREPS3DIGITAL01.rap" size="16" crc="20bebdd9" md5="058cb8aa3567be1474eaee45808ec425" sha1="346b69c86ff19f1775774fabc24d4954eb32b1fb"/>
-	</game>
-	<game name="Pure Chess (USA) (Soundtrack)" id="34160">
-		<category>Games</category>
-		<description>Pure Chess (USA) (Soundtrack)</description>
-		<game_id>UP2070-NPUB31058_00-PURECHESSOST0001</game_id>
-		<rom name="UP2070-NPUB31058_00-PURECHESSOST0001.rap" size="16" crc="52809e35" md5="aab88fedda9ac984cddfeb54a653d97c" sha1="f9532bc69823ac532faf320c18d093466d1ddead" sha256="b0d64c5a022ab9264198b12fde7190c1796ce13b08c84a51ba031633c2c6a6e8"/>
-		<rom name="vUFjIuvGqefURizcWZGZlMAQjOzQobHlcDaqOJUbSaMuzDpTSgZRXCIEsdlLXaNW.pkg" size="139026128" crc="54232270" md5="4f8cb21971736b11533657adaa1d793d" sha1="7de35f8f7dd1e85948beb3c34cb7f73ff06b4213" sha256="5f55921fe5e0923f0fbc7986300cf92fe564a8d007ee6b22113c6233f85b8dbb"/>
 	</game>
 	<game name="Pure Chess (USA) (Unlock Key)" id="31823">
 		<category>Games</category>
@@ -11782,26 +11576,6 @@
 		<rom name="UP9000-NPUA80719_00-RAIN000000000001.rap" size="16" crc="9d8a25e0" md5="dd67081b11d9649143107ec905259ef7" sha1="58a8b165a0a4610b228605b15965155d73d55345"/>
 		<rom name="ngzXLjtxHoYtNDLuvdJNHkrIxAJZhnrYGXCnCmFmTiCKLcxlwMwccWozyUMItggZ.pkg" size="2211321792" crc="4a69c65b" md5="fd0f5c2fb62d3a16cf03a4fbcb8d951b" sha1="0881bccebf29be058f016b402255cbf6b1b1e41d"/>
 	</game>
-	<game name="Rain - Chiisana Ame no Melody (Japan) (Soundtrack)" id="45592">
-		<category>Games</category>
-		<description>Rain - Chiisana Ame no Melody (Japan) (Soundtrack)</description>
-		<game_id>JP9000-NPJM00005_00-MINISOUNDTRACK01</game_id>
-		<rom name="gcknqOCFVTodQmefwgFAFJYEidJUkjNmXjERNDcXKkHHvnGVqDuSrKJbpzdfUZHqbqtErFLuYdasdezfztsdwLuwawBZDgVUIcYMn.pkg" size="21697760" crc="1a16e967" md5="6e292446db1c5a3511e1d2b4580cedb1" sha1="fb9a18c290957b6f0c7cd58d7106acf2915a43a6" sha256="7d413950248bde5859d4005fb67e8d3b376751e95eef4106424081cb8e8cefef"/>
-	</game>
-	<game name="Rain - Music Montage (Europe) (Soundtrack)" id="19185">
-		<category>Games</category>
-		<description>Rain - Music Montage (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00467_00-GRAINSOUND000001</game_id>
-		<rom name="EP9000-NPEA00467_00-GRAINSOUND000001.rap" size="16" crc="966fc3ba" md5="2cb16390a1f3d038d727234d01501884" sha1="dd3e390390243750389cc84091fff3ce87f64923"/>
-		<rom name="JEAQSvDlFXJTqavquvsZPyPBTiRzOPFperubxZTgKYQfnwsyyHLwzDFpUiyNOWsQvPFTFeOgCAyaTYxzeLCOvjLpQQciKxbEnitVB.pkg" size="26807856" crc="ad755bf6" md5="5d8db22d8794c0c909e5efce0f891d92" sha1="3f4ed88c3d2ddb70dc3edd84dbbeb506a4918be9"/>
-	</game>
-	<game name="Rain - Musical Montage (USA) (Soundtrack)" id="19186">
-		<category>Games</category>
-		<description>Rain - Musical Montage (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30151_00-RAINMNSNDTRACK01</game_id>
-		<rom name="UP9000-NPUA30151_00-RAINMNSNDTRACK01.rap" size="16" crc="f9d53d9e" md5="8740f2d8c9664dd2e88e14693b70d915" sha1="8207b4d80e81487793b69a3f89fae1c83f436924"/>
-		<rom name="YVKqRCGZbBBEnhlpaqNvoAbQYtvseIPGIAKKmnGdDKdlAsdkMklmIvbScNbMtEZD.pkg" size="21408624" crc="a837c5aa" md5="77defdf37917791d984fe1bbeeb40126" sha1="f656231673eb139c1e87335e60dd901a6666a183"/>
-	</game>
 	<game name="Rainbow Moon (USA) (Unlock Key)" id="05958">
 		<category>Games</category>
 		<description>Rainbow Moon (USA) (Unlock Key)</description>
@@ -12321,13 +12095,6 @@
 		<game_id>UP2077-NPUB31616_00-RETROCITYRAMPAGE</game_id>
 		<rom name="UP2077-NPUB31616_00-RETROCITYRAMPAGE.rap" size="16" crc="8fa4d73d" md5="34b58a7ec5c2d2b4ff54239ea6ab2f3e" sha1="64253ea59b0c4e0e5d825537510572d06e205e9f"/>
 		<rom name="ZSYLzDIsvDvTFRidmtnlDwzEUAvBFakGYDWDQxyuRUbhdmLrpyumLOmgLYonSsMY.pkg" size="19676320" crc="0a8af5cd" md5="07383bc22ea90e8e6b7e20bcf8d5f46f" sha1="ffeda19195d05f64a76247b70f572e6bad6ee009"/>
-	</game>
-	<game name="Retro-Grade (USA) (Soundtrack)" id="19203">
-		<category>Games</category>
-		<description>Retro-Grade (USA) (Soundtrack)</description>
-		<game_id>UP2036-NPUB30884_00-RETROGRADEMUSIC1</game_id>
-		<rom name="UP2036-NPUB30884_00-RETROGRADEMUSIC1.rap" size="16" crc="95704802" md5="2974d47521453499c7168d5de1a21b35" sha1="8f6d49a48a5db5917673c7cb95a4eea34531bd09"/>
-		<rom name="tFWAAVqzEjOFzfqldkUCkMMTbNjfjPSccUhxQIHiHqlagNnTITGZtkNKonTVzGORGrPNFYDIlNbCVKfmYRUOxYKnXXdkvvtSRPGfR.pkg" size="147980480" crc="dbdc8268" md5="a796bb3676e9d2c4a36c47ab8eb189bd" sha1="83fb8ab198d40f52aec67d35bd8d0f878a7500e4"/>
 	</game>
 	<game name="Retro-Grade (USA) (Unlock Key)" id="06349">
 		<category>Games</category>
@@ -13322,12 +13089,6 @@
 		<game_id>UP0006-NPUB30646_00-SHANK2HDDGKEY001</game_id>
 		<rom name="UP0006-NPUB30646_00-SHANK2HDDGKEY001.rap" size="16" crc="db498698" md5="9837c2cb70ae5658ceefc14733336085" sha1="14a18ba33fd5ca072bebe4cc71f0adf46eed7839"/>
 		<rom name="WJivUhLBXIopZAPtoWFUeepsoWANcEVCnjHgxbwJAauQJnYBxFzxqhskJXtbSJTvOjQffJGGpXyIQdIFFyLWDdCykryAXlWGEzcVs.pkg" size="6080" crc="1d130370" md5="e3f7c816ca88986d3b2c8462f5a29d39" sha1="7e94f9ae5fa30c16264f05fcaaf15094f59bcf42"/>
-	</game>
-	<game name="Shatter (Europe) (Soundtrack)" id="19229">
-		<category>Games</category>
-		<description>Shatter (Europe) (Soundtrack)</description>
-		<game_id>EP4051-NPEB00202_00-SHATTERSOUNDTRAK</game_id>
-		<rom name="J8G335SXQMT8EWOPULeNl31LQpffNvNPDYyI1SwoGUcyEhrxkg4qr9buL9bfTwdPVMbdUYUm5P3vhNnUFMgchrgpOYcGHbjxICxr7.pkg" size="217127872" crc="fe545cfb" md5="44753758f32edd1d736fce17b7a31db7" sha1="0ff59eb5648ca5e571a682f04dad6c7037c1b48a"/>
 	</game>
 	<game name="Shatter (USA)" id="07139">
 		<category>Games</category>
@@ -14542,26 +14303,12 @@
 		<rom name="EP9000-NPEA00411_00-STARHAWKPKG00001.rap" size="16" crc="c154d590" md5="5231eeeecad5629f2e87d49a6e1d8283" sha1="86f0e497234cb9d1d947aa7eb626dd63639b7baa" sha256="3ce5c1fcbaa549e9ea2d9cb920157ed6b29fb276ada3ac1dbc87f112e560310b"/>
 		<rom name="zOuqGCMnnwthwEYOCbyLSsejODrFSPkWhtLDMePhPDRuRHCDLTqZGjPdvtpcxsui.pkg" size="13202651808" crc="c0dbbfc1" md5="c20d90274ce340a31842b9743aab9ee2" sha1="65a97ce3cd75e7b923653a2ed3a5e91d298563e6" sha256="caccae2d9f816e7a6ae1dfee82c3618578bd077e8e81946ae9a5f25859c24725"/>
 	</game>
-	<game name="Starhawk (Europe) (Soundtrack)" id="41460">
-		<category>Games</category>
-		<description>Starhawk (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00398_00-GSTARHAWKS000001</game_id>
-		<rom name="EP9000-NPEA00398_00-GSTARHAWKS000001.rap" size="16" crc="d4d5b3f3" md5="b8b3d665ba30208800e15949203d8e44" sha1="fec9254f6bcb6d12f401a210cb3f0fc8a34ac10a" sha256="6a6048f46cad802503cc989b870b7af32c4ec5f8b6c783d0e75c2e30084d5754"/>
-		<rom name="IhLaSmfvSfwvZmvlTKDjcSyRdNRuleXBiIoYfTmPAPSmGmVsqsECsgZVVTsuIDsE.pkg" size="95950528" crc="02f58b87" md5="78b3a0ca5cc974ef22433db4d220b766" sha1="36202548fdd48f18c6814e9e694cbf3aca5b162c" sha256="e763d4cb8c84ca711dbecd7e8e06c2667a77fff052b31a115b7ded945de048b9"/>
-	</game>
 	<game name="Starhawk (USA)" id="11445">
 		<category>Games</category>
 		<description>Starhawk (USA)</description>
 		<game_id>UP9000-NPUA80812_00-STARHAWKSPPKG001</game_id>
 		<rom name="UP9000-NPUA80812_00-STARHAWKSPPKG001.rap" size="16" crc="ed08840c" md5="41ac7f5ab2d927c94c9b1a95a9cdbbf7" sha1="8023cbdd2b5133955637aebf82ca0baee959a2d4"/>
 		<rom name="akkzQsccHTcuAFkiPkCIKYScNnZAyqBtbethLfMCsThYDpCUtsWqNmlvzAkOuxBMGIwqAuZasmMVOIESRYCyFVKDkKmSDbhuwdVaX.pkg" size="9811050144" crc="2637be29" md5="5f60f9f67934bdb1ec302d0b078b1860" sha1="dd89d16cf938997ee7453bbd4b2da3c2aeaae6f6"/>
-	</game>
-	<game name="Starhawk - Original Soundtrack (USA) (Soundtrack)" id="11465">
-		<category>Games</category>
-		<description>Starhawk - Original Soundtrack (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30100_00-098181SNDTRACK01</game_id>
-		<rom name="UP9000-NPUA30100_00-098181SNDTRACK01.rap" size="16" crc="295a7f95" md5="e0a4e659fc3189c5528d358f477d0fcf" sha1="603b4c1bf43a33c03c9013a28b932360dccad9aa"/>
-		<rom name="zcMNwiiwwpuWDiSOLjoBjqMfSINIFEGrhhybaQlpzQqZBjjfsPwOktYkJCBWzCmznVMaEzYzmgVsbkUkMHtEsLNLrAJNPwxbOQDMY.pkg" size="95400352" crc="40235f89" md5="e5dfd6a452c86c72b5d9444dcffd9241" sha1="6e964a4bb0f1554c3786ec6cfacd688295f29da7"/>
 	</game>
 	<game name="Starlight Inception (USA)" id="11476">
 		<category>Games</category>
@@ -14963,13 +14710,6 @@
 		<rom name="TTQxkKBrSQqVnlrFPItyMtpfbvdFutKTFSSFuMXxFSXFzYNZmwClRvdSptWzIQiKsdWncQGYUCCPnvJiIoeyDdHMIioTQlFiEVQoq.pkg" size="14338624" crc="61547544" md5="c6bbe8fa325cafa8f3fb75ba0ca0a261" sha1="a6a230b8b8e72d9c608d4ee0cbf0bde16550ff0c" sha256="0129cff66d0f1981e0bc03dab5a7cec7b17bac7ddb81e06d4a659a608a16123c"/>
 		<rom name="UP0555-NPUF30010_00-SUPERSTARSOLEH06.rap" size="16" crc="88491c16" md5="98b28ad6bb1622feae461f4d8e0f581b" sha1="aba71721b7ed412149ecb2eed4ded5abccb37648"/>
 	</game>
-	<game name="Super Stardust - HD Soundtrack (Europe) (Soundtrack)" id="35618">
-		<category>Games</category>
-		<description>Super Stardust - HD Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00238_00-SSHDSOUNDTRACK01</game_id>
-		<rom name="EP9000-NPEA00238_00-SSHDSOUNDTRACK01.rap" size="16" crc="0710eabd" md5="bff61c4a1d617dde2dbc59b957f3400f" sha1="a390baee43a03fe49022a3c2d9f889df9945ab29"/>
-		<rom name="O1GgEpPIQyr928fSlNwVWco3Oyog6vtawyb0tEPCAU7IotosKflYMWT8NIi7ptcR.pkg" size="143053904" crc="9639acdf" md5="cf396789f5048f4c2a7f8e6be2f550b4" sha1="1174430971df8a678c4726042efbf9ea5804f2f7"/>
-	</game>
 	<game name="Super Stardust HD (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (v7.00)" id="11642">
 		<category>Games</category>
 		<description>Super Stardust HD (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (v7.00)</description>
@@ -15195,13 +14935,6 @@
 		<rom name="UP2045-NPUB30311_00-ABOUTABLOB000002.rap" size="16" crc="741b917a" md5="a6ad54c1d079edcb670e32ece3dc18c4" sha1="8607c7408601b4b5d173a746c78e18ab20cbb026" sha256="4a2f3db4e890bf668a7825f83b0c99c49dfb9a330cecba833bede2f2b5be35cb"/>
 		<rom name="vHswaTctxzyGiinkEbWNKpVQZJwQgfoVyZeHZyNfgeAfpvfeZGpqjHctYlgWHkYxWLrLGAjZFVuyiYnqPSAKaIDIEcSxSpXEDfeVf.pkg" size="6080" crc="e712bed8" md5="d53b40f5c46b3bba970c67e05370a1d6" sha1="d6bd3f93543e0298a857f27672b14784de0272c4"/>
 	</game>
-	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (Soundtrack)" id="11755">
-		<category>Games</category>
-		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (Soundtrack)</description>
-		<game_id>UP2045-NPUB31380_00-MUTANTBLOBSOST00</game_id>
-		<rom name="BBLTEyrHQlTJKsKFaFJMttXKEEVaTszfbotsYNGIkJcEFIihLBxenQIHdcjaNMHj.pkg" size="72720528" crc="4cda9c86" md5="6f8037651649c9e3daa22f7c969d0910" sha1="a835124517dc67b2a882033e0266f7ce76497222"/>
-		<rom name="UP2045-NPUB31380_00-MUTANTBLOBSOST00.rap" size="16" crc="e750f553" md5="0b26bd596414a4f65de402fa7a9ea803" sha1="79882ff5a37bacde345f15de58a7ab70aa6588af" sha256="0af78897ee45d03f4cd83daa61970d84653f62c4242b3c1f97c00b2a97f2aec3"/>
-	</game>
 	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)" id="19303">
 		<category>Games</category>
 		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)</description>
@@ -15370,13 +15103,6 @@
 		<rom name="EP9000-NPEA00351_00-VICOSHADOW000UK2.rap" size="16" crc="24c3ce4f" md5="71006fc2077bd34cbc772009d58019e8" sha1="95b72834601adf082ce8fa9d39c2e79f805c7a6d" sha256="4340feda5db5abe40fb8a10d48778fc882ef56f23a23de6bd61e253ec53b3d4a"/>
 		<rom name="zjltutFvdSzHwpDXSdFYyMIxzeImXJpqikTpCuTDgQJSRleezXysxUcQpzpfVfNK.pkg" size="933162016" crc="3f4b8eaf" md5="a096faf68204a5132994cc77f966af40" sha1="21c0026084b2703f61b873df3b1129e94d2c4e92" sha256="9fb5b691553cbbab8126b11d3068542a9383c3539fa212d2fecc7dd37b7c5cd1"/>
 	</game>
-	<game name="Tearaway (USA) (Soundtrack)" id="34722">
-		<category>Games</category>
-		<description>Tearaway (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30173_00-GTEARAWAYSOUND01</game_id>
-		<rom name="UP9000-NPUA30173_00-GTEARAWAYSOUND01.rap" size="16" crc="29e216cf" md5="6628bb68cbddeabf40e6cba84b450bbd" sha1="ea15183717000601efa985e6528503a33a143ec6" sha256="fe75505206b20af5c88dcd3d4e65749705abf895fe4f14f8351ba0143332d0b3"/>
-		<rom name="mJCdqsqtGbLIIaBJhBWWEZzMtSdvhKuvUyuMxEnHQRfCKYddeGdFAArsCUzLrcjL.pkg" size="209962176" crc="ed70c021" md5="a5458d446f53c17e87969dab0be51ab9" sha1="864dc2800a79d4e09b6b47c03ef9d3d79f4329b7" sha256="d12093ad48c26d21e84deac3b9d33ad09f361d2507bcfa7689452bf0e329d94e"/>
-	</game>
 	<game name="Tears to Tiara II - Heir of the Overlord (USA)" id="19304">
 		<category>Games</category>
 		<description>Tears to Tiara II - Heir of the Overlord (USA)</description>
@@ -15500,13 +15226,6 @@
 		<game_id>UP4040-NPUB30943_00-TERRARIA00000002</game_id>
 		<rom name="UP4040-NPUB30943_00-TERRARIA00000002.rap" size="16" crc="c026b3ec" md5="0b4dbde8a0aa95f9ece7348663b50aa2" sha1="236ab014327351e6f8994a923118babf2551fb51"/>
 		<rom name="eJETHZkOPGPlHkivgSqBBaceeIMvqeuBTNWobOfpsSTiBxlchXJQGMHhFCeUntvO.pkg" size="6080" crc="78d0962a" md5="707ab882295dc345dfee4b25a32764f7" sha1="16186659527fc3ea2fc14579635c8ae31152c955"/>
-	</game>
-	<game name="Teslagrad (Korea) (Soundtrack)" id="28992">
-		<category>Games</category>
-		<description>Teslagrad (Korea) (Soundtrack)</description>
-		<game_id>HP5036-NPHB00735_00-TESLAGRADMUSIC01</game_id>
-		<rom name="HP5036-NPHB00735_00-TESLAGRADMUSIC01.rap" size="16" crc="cbd60733" md5="a2d56ceca3a5f8ec48ecd836e2964fb0" sha1="106abb34b2d56a8f5f761301313e93398a331722"/>
-		<rom name="HP5036-NPHB00735_00-TESLAGRADMUSIC01_bg_1_baa6b80c01401982cf061f1939a9a55dd7c4c43e.pkg" size="114637872" crc="acc9246c" md5="c3da2ac213f0c0303692de075fb75ca8" sha1="2dd7eafa77a60752c24d70274d52a4c52764d09c"/>
 	</game>
 	<game name="Teslagrad (USA)" id="11871">
 		<category>Games</category>
@@ -16087,12 +15806,6 @@
 		<rom name="GtTZfhzMYZNVXjMBineZrIXtxYUeVBBRALXsNTPgukIfnCGrQQaXpZYPxhXHZMkYFdqoPTHOJZSahnbfFEynrMvHxURefGiAKpwQP.pkg" size="13146646192" crc="f4a33f12" md5="911268f9df32669b50c6b250ef1ed1e4" sha1="b217e558b8f60dad6a71af0ef4f69af83009fcaa"/>
 		<rom name="UP9000-NPUA80079_00-TWISTEDMETAL0100.rap" size="16" crc="ea6fc50e" md5="853955851929d3ce65218a74a5ab05bd" sha1="3a2a10199e1232cf1cbe203194dccd9607ad8a7e"/>
 	</game>
-	<game name="Twisted Metal (USA) (Soundtrack)" id="45540">
-		<category>Games</category>
-		<description>Twisted Metal (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30091_00-380079SNDTRACK01</game_id>
-		<rom name="ZJXYRHXTzuZAOAeafkbdILUTXvWUisEzavLLvRJtPYjGZfIvSVvUDvHmBIELTnzXlnXgjAXrDSqnNFzXaIsmNblcuKeKljriPhMld.pkg" size="124597840" crc="08b98766" md5="2a23623c3f989669b949a3587c306a9d" sha1="5d004b3c8c7c133ea7a22abf61c23e5918177e6f" sha256="65eb9acd91b9f9159c88c3136722e1c86e36d840b6a38399b85ceaf405851d2f"/>
-	</game>
 	<game name="Twisted Metal - Black (USA) (PS2 Classics)" id="12278">
 		<category>Games</category>
 		<description>Twisted Metal - Black (USA) (PS2 Classics)</description>
@@ -16202,13 +15915,6 @@
 		<description>Uncharted 2 - Among Thieves - Digital Treasure Map (USA)</description>
 		<game_id>UP9000-NPUA80343_00-UNCHARTED2MAP001</game_id>
 		<rom name="sFm9k7eYVtGK5292SxkkF1OSrxeYMhtw8CnbjYLbv97C1pKyYWOV2YKF9xBELnsuKL66iTOwiJ9CfKWVBFikNWFEjWfiboSAmryEN.pkg" size="809038592" crc="cbcc2d0d" md5="662c2c7e719102e44e703e93b03bebee" sha1="7b2be673c709538c2b4024f7b6bfa3f70a9a61e7" sha256="666f59acc1223d49aee290681c7e950d47711049acfee82ef3f82f874435fd28"/>
-	</game>
-	<game name="Uncharted 3 - Drake's Deception (Europe) (Soundtrack)" id="19333">
-		<category>Games</category>
-		<description>Uncharted 3 - Drake's Deception (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00330_00-GUNCHARTED000001</game_id>
-		<rom name="EP9000-NPEA00330_00-GUNCHARTED000001.rap" size="16" crc="28b224c1" md5="844f1cb7f81d0fd3d6083ed6fa25b732" sha1="85b10d6bb2b4be2e3ad0d85ca4e8093d4592a219"/>
-		<rom name="HOGeIzyJOQtCdkAZXOvSDyNoFsKteixuFCpBYubyqiEHRUmIgdTNCuGxnHfYbFEp.pkg" size="164995968" crc="4d2b5fc2" md5="b6b378a0ff8331e2eb272ea0ab1baa08" sha1="e40f61ac72dee1f7b794dbead41878fdd7b35aa1"/>
 	</game>
 	<game name="Uncharted 3 - Drake's Deception - Multiplayer (USA)" id="12520">
 		<category>Games</category>
@@ -17172,13 +16878,6 @@
 		<rom name="UP4108-NPUB31256_00-NINJAYAIBA000001.rap" size="16" crc="9f513273" md5="635ef095e4f4a0fa8ba01f4dda8e05d9" sha1="e3a2654cebbd5f37f60dc974b085615f647c5e53"/>
 		<rom name="XawPtPbhiSjEtLjBPdlauOGZaUlLCzkrsBhowDhQcbkjECtCJPWakhVwDRmXItsM.pkg" size="5551285776" crc="411e5f2c" md5="06e78b58ba1f221fb157ac19878c914b" sha1="fc49a6cb6e1b284bbd03d2aac7cba8a78fe8f66a"/>
 	</game>
-	<game name="Yaiba - Ninja Gaiden Z (USA) (Soundtrack)" id="34166">
-		<category>Games</category>
-		<description>Yaiba - Ninja Gaiden Z (USA) (Soundtrack)</description>
-		<game_id>UP4108-NPUB31487_00-SOUNDTRACK000001</game_id>
-		<rom name="UP4108-NPUB31487_00-SOUNDTRACK000001.rap" size="16" crc="adab89e9" md5="0599f155b4cac22dfdfc3abdb0a930df" sha1="dba4b012a946f4a7886a000fe1d9427dcbe75d2b" sha256="da46d9d51dc36d28ba8e78b17c52c07768a279309e43a1b1cd6d5f82616a7755"/>
-		<rom name="iVfTCNqjMwhwlzjprhgPCrlDOrndHqKmJtUqzLBHPNKZgjIGvRwGOTmYMtuKvbiW.pkg" size="109940384" crc="4141ad5c" md5="86961535658d19d12d3ef8e46756f63e" sha1="05a45e3b70c7ce2868ae3f2485b6bfeb96acdc87" sha256="ef3923f6c6aab2106a729ff97cd1623296a617cf4568e435e16ffe14b266ce4d"/>
-	</game>
 	<game name="Yakuza - Dead Souls (USA)" id="13110">
 		<category>Games</category>
 		<description>Yakuza - Dead Souls (USA)</description>
@@ -17651,13 +17350,6 @@
 		<rom name="UP0101-NPUB30506_00-ZOMBIAPCLYPS2KEY.rap" size="16" crc="c545c1df" md5="04545b6caa0c4eb90c8f787b7ec1757e" sha1="edc59cf4bbf1ed0d5397083bfa2f735380ef1caf"/>
 		<rom name="ertNXXirnWamjCmKNQuadyVyRNdWqOkOeHFArixozkfvPARuwrCWbzvUdtEFvdYPiiHWEkmcgZKSehwzUYIixQasuPChcrtklAGcx.pkg" size="6080" crc="3a022a85" md5="9a37d8b467060475b3d3f91ef3d99f55" sha1="8a25c1c3ad16f45493d91a5f9aca6e2b903b79a2"/>
 	</game>
-	<game name="Zombie Driver HD (USA) (Soundtrack)" id="19378">
-		<category>Games</category>
-		<description>Zombie Driver HD (USA) (Soundtrack)</description>
-		<game_id>UP4380-NPUB31116_00-ZDHDSOUNDTRACK01</game_id>
-		<rom name="GscKmXrBFKEmvAAXYCIBMymTOWKSTRnpHqQlVSYKjgQNWhiiyfhYsBaOPPPVdMCd.pkg" size="135968064" crc="8d1d9d96" md5="dbcaaf6b2b1a8f789a4c80e828738980" sha1="f352685edd18522de56b81ee40cfe57bd0dee033"/>
-		<rom name="UP4380-NPUB31116_00-ZDHDSOUNDTRACK01.rap" size="16" crc="103861bd" md5="f55141906f5a99b32321b5773fd8058e" sha1="40b53977e27b4b57aa5ef32d3e640c1191338fbe"/>
-	</game>
 	<game name="Zombie Driver HD (USA) (Unlock Key)" id="19379">
 		<category>Games</category>
 		<description>Zombie Driver HD (USA) (Unlock Key)</description>
@@ -17727,20 +17419,6 @@
 		<game_id>EP8840-NPEB02451_00-GBEINCONNE000001</game_id>
 		<rom name="EP8840-NPEB02451_00-GBEINCONNE000001_bg_1_4ac4a26af335b57e4be54c8f81e2c167c5adc377.pkg" size="53705136" crc="4a973116" md5="a771068e5334d158258dbaa9b793b47e" sha1="8c9df3eeeff8bc8cbd8d5c71d3124ed1cd4d3d77" sha256="74050d0932dcb6f47b161155d6e2d9cbad0ba99871255c30ec650f7f1e2cdd55"/>
 	</game>
-	<game name="echochrome - Piano Remixes (USA) (Soundtrack)" id="35426">
-		<category>Games</category>
-		<description>echochrome - Piano Remixes (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30047_00-380134SNDTRACK05</game_id>
-		<rom name="G8LU52FHJ53ScEae9jdaFUT7iSCPStppeoKqaXt3dhixwg6Je4R68nDKLyBr72cOKjnHmT2SnV1NgmbbCrm8f5my8O18F3PCFI5k5.pkg" size="46247280" crc="8fa914bd" md5="fb4ccb7af757391f6ce6690a20eb3d74" sha1="46cd8f9fe9e5201f2e2a7989742a2580ae3d223f"/>
-		<rom name="UP9000-NPUA30047_00-380134SNDTRACK05.rap" size="16" crc="81e87f0f" md5="e71880abbe92aa574b0ffb3e1b9cd678" sha1="61af3e172c7f4ca43e514987ac1a9d6935fb5e2c"/>
-	</game>
-	<game name="echochrome - Soundtrack (USA) (Soundtrack)" id="35427">
-		<category>Games</category>
-		<description>echochrome - Soundtrack (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30046_00-380134SNDTRACK05</game_id>
-		<rom name="UP9000-NPUA30046_00-380134SNDTRACK05.rap" size="16" crc="e96dc91c" md5="30bd40eafc52b5e0e2810f4cb36bdc1b" sha1="fb953761350410bea0ad2b3ce715be5fe5d17e74"/>
-		<rom name="i5wDib83jvCqid3yI9mVfIr8PhfchseCc8F2U6T7uomHN8gBNnADu0CRydC0cL9X685aw9PQ5ngKWeRm9qpQRcGyyQlc7o8ctiWcW.pkg" size="73498352" crc="7347a575" md5="1ac0856597122518bc7a1c1628416cc3" sha1="746b6daa758d22caf812a48fa9e9fc47123d0691"/>
-	</game>
 	<game name="inFamous (Europe) (NPEA00252)" id="13523">
 		<category>Games</category>
 		<description>inFamous (Europe) (NPEA00252)</description>
@@ -17775,20 +17453,6 @@
 		<game_id>UP9000-NPUA80638_00-TRIALSHP06111244</game_id>
 		<rom name="UP9000-NPUA80638_00-TRIALSHP06111244.rap" size="16" crc="2ec2a5d3" md5="0fc0e86851a7c304727ef17efb5927a1" sha1="81dad0eb29f995227d57b62f8215d50dd46a6169"/>
 		<rom name="gMxSOPbAdDfSFZAaZTjNIfBmsudlfqPBmumpwEqnbHYExdlkeXPxHxsAzSZwEqVuKiSLQemfittEXmXaIqRwPQWtjjLwmawBtehUW.pkg" size="15078312496" crc="370b275d" md5="3b0cc5d5a1c5630b783580040ad30548" sha1="5051daa49b49554d3ee22ffd33611254b4befd35"/>
-	</game>
-	<game name="inFamous 2 - The Blue Soundtrack (Europe) (Soundtrack)" id="45500">
-		<category>Games</category>
-		<description>inFamous 2 - The Blue Soundtrack (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00313_00-GINFAMOUS2000002</game_id>
-		<rom name="EP9000-NPEA00313_00-GINFAMOUS2000002.rap" size="16" crc="1114002d" md5="0529299030c57edb54d9d5c520a509d6" sha1="845aee96ce2552913aaee64374acb6c8504195fd" sha256="e0a36b7a7392fbda875055b376e1547ea018d608cc196174a1446853ee7b363c"/>
-		<rom name="RRgwYFrlrvAPOnWCeLxcwRdxdzDNhRVYzVuhdybdaIyGDwBjLJTRsyiOpuUMAsxA.pkg" size="270047376" crc="3a746850" md5="dccda2beb77e3c65ec8fb3bbcd895e15" sha1="7711ff5caa337907a9df8b4e1bb13624ddc2f946" sha256="ebf4462629fe0ce981cb66d136cc3027582f30d6278211a33d6b12329b3a1608"/>
-	</game>
-	<game name="inFamous 2 - The Red Soundtrack (USA) (Soundtrack)" id="19057">
-		<category>Games</category>
-		<description>inFamous 2 - The Red Soundtrack (USA) (Soundtrack)</description>
-		<game_id>UP9000-NPUA30070_00-098125SNDTRACKB2</game_id>
-		<rom name="UP9000-NPUA30070_00-098125SNDTRACKB2.rap" size="16" crc="f8c27855" md5="8f542243e3f30067360079a7e6540628" sha1="b997de71c1a035411990b50a2f64cce88745ef58"/>
-		<rom name="sGPWwwfeszyfcfCxFAViBhToxOgXCNWipNaAzuoijNOCuSftsbVWpuhwCTNuRNkXpYkJLvxjbdPHHUlClMuhjsyHgykLmpFhercbP.pkg" size="156575568" crc="1adee45d" md5="0203cfbfa0940971ca5ec87b8fff4a68" sha1="b644559217dff74aeb3e0fd16dc9e06af056391e"/>
 	</game>
 	<game name="inFamous Collection (USA)" id="10241">
 		<category>Games</category>

@@ -4,12 +4,12 @@
 		<name>Sony - PlayStation 3 (PSN) (Updates) (Retool)</name>
 		<description>Sony - PlayStation 3 (PSN) (Updates) (2,231) (-y) [-aAbBcefkmMoprv] (20251013-105502) (Retool)</description>
 		<version>20251013-105502</version>
-		<date>2026-03-14 04-27-46</date>
+		<date>2026-03-15 04-49-04</date>
 		<author>baldjared, bsbt, buckwheat, emstan784, Landcross, norkmetnoil577, rarenight, SonGoku, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="007 - Quantum of Solace (USA) (En,Fr) (v1.20) (Collector's Edition) (Disc) (Update)" id="02732">
 		<category>Games</category>

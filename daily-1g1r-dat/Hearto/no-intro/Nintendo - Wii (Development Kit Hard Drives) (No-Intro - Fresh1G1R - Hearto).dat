@@ -4,12 +4,12 @@
 		<name>Nintendo - Wii (Development Kit Hard Drives) (Retool)</name>
 		<description>Nintendo - Wii (Development Kit Hard Drives) (82) (-y) [-aAbBcefkmMoprv] (20250827-140352) (Retool)</description>
 		<version>20250827-140352</version>
-		<date>2026-03-14 04-27-01</date>
+		<date>2026-03-15 04-48-16</date>
 		<author>Hiccup, NovaAurora, rarenight, relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (1247d98e00)" id="0168">
 		<category>Demos</category>

@@ -4,12 +4,12 @@
 		<name>Tiger - Gizmondo (Retool)</name>
 		<description>Tiger - Gizmondo (15) (-y) [-aAbBcdkmMpPuv] (20070531-125518) (Retool)</description>
 		<version>20070531-125518</version>
-		<date>2026-03-14 04-39-35</date>
+		<date>2026-03-15 05-00-21</date>
 		<author>SolidSnake</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Classic Compendium (Europe) (Multi6) (Cracked by SHiZMO)" id="0007">
 		<category>Games</category>

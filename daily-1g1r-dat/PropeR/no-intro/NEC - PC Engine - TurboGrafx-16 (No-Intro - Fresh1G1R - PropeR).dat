@@ -4,12 +4,12 @@
 		<name>NEC - PC Engine - TurboGrafx-16 (Retool)</name>
 		<description>NEC - PC Engine - TurboGrafx-16 (293) (-y) [-aAbBcdkmMpPuv] (20260124-120557) (Retool)</description>
 		<version>20260124-120557</version>
-		<date>2026-03-14 04-41-08</date>
+		<date>2026-03-15 05-01-59</date>
 		<author>Arctic Circle System, bikerspade, C. V. Reynolds, fuzzball, Gefflon, Hiccup, kazumi213, Lesserkuma, MeguCocoa, Money_114, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, Rifu, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="1943 Kai (Japan)" id="0001">
 		<category>Games</category>

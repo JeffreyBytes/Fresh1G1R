@@ -5,11 +5,11 @@
 		<name>Nintendo - GameCube (Retool)</name>
 		<description>Nintendo - GameCube (682) (-y) [-aAbBcdkmMpPuv] (2026-03-08 23-06-21) (Retool)</description>
 		<version>2026-03-08 23-06-21</version>
-		<date>2026-03-14 04-36-47</date>
+		<date>2026-03-15 04-57-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="007 - Agent Under Fire (USA) (Rev 1)">
 		<category>Games</category>

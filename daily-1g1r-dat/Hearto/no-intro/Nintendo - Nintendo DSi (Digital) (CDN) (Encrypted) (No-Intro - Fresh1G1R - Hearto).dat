@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo DSi (Digital) (CDN) (Encrypted) (Retool)</name>
 		<description>Nintendo - Nintendo DSi (Digital) (CDN) (Encrypted) (1,213) (-y) [-aAbBcefkmMoprv] (20260228-234052) (Retool)</description>
 		<version>20260228-234052</version>
-		<date>2026-03-14 04-28-25</date>
+		<date>2026-03-15 04-49-36</date>
 		<author>baldjared, buckwheat, Hiccup, Hiccup and zedseven, Icyelut, jimmsu, Liam, norkmetnoil577, root, SonGoku, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="10 Second Run - GO Series (USA)" id="0827">
 		<category>Games</category>

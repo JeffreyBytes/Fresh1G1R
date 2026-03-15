@@ -4,12 +4,12 @@
 		<name>Sharp - X1 (Waveform) (Retool)</name>
 		<description>Sharp - X1 (Waveform) (3) (-ly) [-aAbBcdDefkmMopPruv] (20220720-115216) (Retool)</description>
 		<version>20220720-115216</version>
-		<date>2026-03-14 04-35-11</date>
+		<date>2026-03-15 04-56-12</date>
 		<author>FakeShemp</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Bousou Tokkyuu SOS (Japan) (En)" id="0006">
 		<category>Games</category>

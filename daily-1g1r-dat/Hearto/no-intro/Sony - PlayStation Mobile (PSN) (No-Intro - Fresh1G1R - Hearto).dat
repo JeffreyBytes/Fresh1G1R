@@ -4,12 +4,12 @@
 		<name>Sony - PlayStation Mobile (PSN) (Retool)</name>
 		<description>Sony - PlayStation Mobile (PSN) (677) (-y) [-aAbBcefkmMoprv] (20200524-163740) (Retool)</description>
 		<version>20200524-163740</version>
-		<date>2026-03-14 04-27-03</date>
+		<date>2026-03-15 04-48-18</date>
 		<author>Landcross, norkmetnoil577</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="0War (Japan) (En,Ja) (v9.00)" id="0009">
 		<category>Games</category>

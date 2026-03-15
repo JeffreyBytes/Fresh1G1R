@@ -4,12 +4,12 @@
 		<name>Toshiba - Pasopia (BIN) (Retool)</name>
 		<description>Toshiba - Pasopia (BIN) (9) (-y) [-aAbBcdkmMpPuv] (20220726-115432) (Retool)</description>
 		<version>20220726-115432</version>
-		<date>2026-03-14 04-39-18</date>
+		<date>2026-03-15 05-00-02</date>
 		<author>FakeShemp, MeguCocoa</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Golf, The (Japan)" id="0001">
 		<category>Games</category>

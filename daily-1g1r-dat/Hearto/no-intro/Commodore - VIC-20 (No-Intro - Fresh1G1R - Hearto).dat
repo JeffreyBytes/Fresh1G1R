@@ -4,12 +4,12 @@
 		<name>Commodore - VIC-20 (Retool)</name>
 		<description>Commodore - VIC-20 (174) (-y) [-aAbBcefkmMoprv] (20231226-072946) (Retool)</description>
 		<version>20231226-072946</version>
-		<date>2026-03-14 04-27-47</date>
+		<date>2026-03-15 04-49-05</date>
 		<author>C. V. Reynolds, relax, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="A.E. (World)" id="0057">
 		<category>Games</category>

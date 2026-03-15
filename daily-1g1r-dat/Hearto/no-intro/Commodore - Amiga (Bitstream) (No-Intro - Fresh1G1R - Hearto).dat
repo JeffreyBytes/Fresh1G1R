@@ -4,12 +4,12 @@
 		<name>Commodore - Amiga (Bitstream) (Retool)</name>
 		<description>Commodore - Amiga (Bitstream) (8) (-y) [-aAbBcefkmMoprv] (20240604-172503) (Retool)</description>
 		<version>20240604-172503</version>
-		<date>2026-03-14 04-29-40</date>
+		<date>2026-03-15 04-50-53</date>
 		<author>C. V. Reynolds, Connie, FakeShemp, Gefflon, Hiccup, Money_114, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Hugo (Disk 1) (Sweden)" id="3778">
 		<category>Games</category>

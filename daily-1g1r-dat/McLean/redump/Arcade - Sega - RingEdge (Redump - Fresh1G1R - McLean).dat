@@ -5,11 +5,11 @@
 		<name>Arcade - Sega - RingEdge (Retool)</name>
 		<description>Arcade - Sega - RingEdge (3) (-ly) [-aAbBcdDefkmMopPruv] (2025-11-09 01-52-37) (Retool)</description>
 		<version>2025-11-09 01-52-37</version>
-		<date>2026-03-14 04-31-03</date>
+		<date>2026-03-15 04-52-12</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Let's Go Island 3D (World)">
 		<category>Games</category>

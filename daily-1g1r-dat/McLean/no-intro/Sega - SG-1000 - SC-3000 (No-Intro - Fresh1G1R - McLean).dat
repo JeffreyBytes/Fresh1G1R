@@ -4,12 +4,12 @@
 		<name>Sega - SG-1000 - SC-3000 (Retool)</name>
 		<description>Sega - SG-1000 - SC-3000 (12) (-ly) [-aAbBcdDefkmMopPruv] (20231205-110448) (Retool)</description>
 		<version>20231205-110448</version>
-		<date>2026-03-14 04-34-35</date>
+		<date>2026-03-15 04-55-43</date>
 		<author>BigFred, C. V. Reynolds, omonim2007, rarenight, relax, RetroUprising, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Borderline (Japan, Europe, Australia, New Zealand) (En)" id="0008">
 		<category>Games</category>

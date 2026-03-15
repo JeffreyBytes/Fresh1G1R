@@ -3,13 +3,13 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,556) (-y) [-aAbBcdkmMpPuv] (2026-03-14 01-32-36) (Retool)</description>
-		<version>2026-03-14 01-32-36</version>
-		<date>2026-03-14 04-36-40</date>
+		<description>Microsoft - Xbox 360 (1,557) (-y) [-aAbBcdkmMpPuv] (2026-03-15 02-39-56) (Retool)</description>
+		<version>2026-03-15 02-39-56</version>
+		<date>2026-03-15 04-57-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="007 - Blood Stone (USA, Europe) (En,Fr,De)">
 		<category>Games</category>
@@ -7595,6 +7595,11 @@
 		<category>Games</category>
 		<description>World Snooker Championship 2007 (Europe)</description>
 		<rom name="World Snooker Championship 2007 (Europe).iso" size="7834892288" crc="bca7030a" md5="02053ae296711adbcd49a6c5239d3278" sha1="6779e62b808772aed80d94d4c9ef639f1396774a"/>
+	</game>
+	<game name="World Soccer Winning Eleven 2012 (Asia) (En,Zh)">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven 2012 (Asia) (En,Zh)</description>
+		<rom name="World Soccer Winning Eleven 2012 (Asia) (En,Zh).iso" size="7838695424" crc="d519e515" md5="4fa30743658cfdda52238aece016c96a" sha1="e981a4a5f17ed9926dcadd186bd0a96584619916"/>
 	</game>
 	<game name="World of Outlaws - Sprint Cars (USA)">
 		<category>Games</category>

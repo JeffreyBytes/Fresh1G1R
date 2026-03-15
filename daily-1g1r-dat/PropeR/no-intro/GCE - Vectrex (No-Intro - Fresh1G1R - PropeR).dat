@@ -4,12 +4,12 @@
 		<name>GCE - Vectrex (Retool)</name>
 		<description>GCE - Vectrex (29) (-y) [-aAbBcdkmMpPuv] (20251117-141044) (Retool)</description>
 		<version>20251117-141044</version>
-		<date>2026-03-14 04-39-27</date>
+		<date>2026-03-15 05-00-10</date>
 		<author>Arctic Circle System, C. V. Reynolds, Gefflon, Hiccup, kazumi213, Money_114, nnssxx, Psychofox11, psykopat, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3D Crazy Coaster (USA)" id="0001">
 		<category>Games</category>

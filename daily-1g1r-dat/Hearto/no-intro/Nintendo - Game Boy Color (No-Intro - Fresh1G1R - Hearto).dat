@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (1,200) (-y) [-aAbBcefkmMoprv] (20260313-004034) (Retool)</description>
-		<version>20260313-004034</version>
-		<date>2026-03-14 04-25-59</date>
+		<description>Nintendo - Game Boy Color (1,201) (-y) [-aAbBcefkmMoprv] (20260314-052110) (Retool)</description>
+		<version>20260314-052110</version>
+		<date>2026-03-15 04-49-14</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="007 - The World Is Not Enough (USA, Europe)" id="0001">
 		<category>Games</category>
@@ -911,6 +911,11 @@
 		<category>Games</category>
 		<description>Croc (USA, Europe)</description>
 		<rom name="Croc (USA, Europe).gbc" size="1048576" crc="4664a167" md5="0552078f981c2ef3977f2dfeee19510a" sha1="dac6de548743c6b51a3daa5903c28b7fccdb6cb2"/>
+	</game>
+	<game name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)" id="2653">
+		<category>Games</category>
+		<description>Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)</description>
+		<rom name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic).gbc" size="1048576" crc="90b4b954" md5="1ed809bf88154614185382f0dc73cc5a" sha1="fd83a04af47f7071c348f9431e7ef6b41add5a95" sha256="2e207517a58f4d6333d7ccac9a6b34e690bac4a0b437248c41e34768657f6285"/>
 	</game>
 	<game name="Croc 2 (USA, Europe)" id="0207">
 		<category>Games</category>
@@ -2198,10 +2203,10 @@
 		<description>Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De)</description>
 		<rom name="Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).gbc" size="1048576" crc="7fff1142" md5="4adc91b001cf02dc42d2c0339535b8f9" sha1="6d568438aa3b9b67c55aded582cec136b15c46d7" sha256="42568dbaba8e8e62d14154e023adc6719ddf30081b47fdb8d87c45065af09d64"/>
 	</game>
-	<game name="Infinity (USA) (Proto) (2001-03-22)" id="1450">
-		<category>Preproduction</category>
-		<description>Infinity (USA) (Proto) (2001-03-22)</description>
-		<rom name="Infinity (USA) (Proto) (2001-03-22).gbc" size="2097152" crc="4ade94aa" md5="6d6507bd38c76a9baa90b8e305ebea13" sha1="fdfd6d4cbebbf64fc7d1264f0450be270be89823" sha256="a5c7b34dbc1a6be0c2ec7ff5943f0e2bef24de9e9624d06604e7d60971a94330"/>
+	<game name="Infinity (World) (v1.1) (Incube8 Games)" id="2661">
+		<category>Games</category>
+		<description>Infinity (World) (v1.1) (Incube8 Games)</description>
+		<rom name="Infinity (World) (v1.1) (Incube8 Games).gbc" size="4194304" crc="7384cfcc" md5="577564721cdcb0efb4734120bc328a67" sha1="cd997304b5803d331979fdde8f7820d5f6a2ad43" sha256="5d6b40d51dacaf8fbb366ee585043bac2547141cf11a753a6e8bb41b49b089b7"/>
 	</game>
 	<game name="Inspector Gadget - Operation Madkactus (USA)" id="0502">
 		<category>Games</category>

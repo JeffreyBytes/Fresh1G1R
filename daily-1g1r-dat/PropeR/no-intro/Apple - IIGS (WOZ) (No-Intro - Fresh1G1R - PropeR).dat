@@ -4,12 +4,12 @@
 		<name>Apple - IIGS (WOZ) (Retool)</name>
 		<description>Apple - IIGS (WOZ) (241) (-y) [-aAbBcdkmMpPuv] (20220727-120719) (Retool)</description>
 		<version>20220727-120719</version>
-		<date>2026-03-14 04-39-17</date>
+		<date>2026-03-15 05-00-01</date>
 		<author>FakeShemp, MeguCocoa</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 1)" id="0093">
 		<category>Games</category>

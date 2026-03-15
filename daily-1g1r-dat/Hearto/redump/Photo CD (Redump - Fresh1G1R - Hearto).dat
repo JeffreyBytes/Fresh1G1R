@@ -5,11 +5,11 @@
 		<name>Photo CD (Retool)</name>
 		<description>Photo CD (17) (-y) [-aAbBcefkmMoprv] (2026-03-08 15-42-43) (Retool)</description>
 		<version>2026-03-08 15-42-43</version>
-		<date>2026-03-14 04-24-33</date>
+		<date>2026-03-15 04-45-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Dark Chaser (Japan)">
 		<category>Games</category>

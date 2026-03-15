@@ -4,12 +4,12 @@
 		<name>Benesse - Pocket Challenge W (Retool)</name>
 		<description>Benesse - Pocket Challenge W (34) (-y) [-aAbBcefkmMoprv] (20241116-140635) (Retool)</description>
 		<version>20241116-140635</version>
-		<date>2026-03-14 04-27-54</date>
+		<date>2026-03-15 04-49-13</date>
 		<author>Gefflon, Hiccup, Icyelut, psykopat, rarenight, relax, SonGoku, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Eiken Jun 2-kyuu + 3-kyuu (Japan) (2BK922)" id="0075">
 		<category>Games</category>

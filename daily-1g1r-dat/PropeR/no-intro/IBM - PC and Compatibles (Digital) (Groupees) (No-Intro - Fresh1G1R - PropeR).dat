@@ -4,12 +4,12 @@
 		<name>IBM - PC and Compatibles (Digital) (Groupees) (Retool)</name>
 		<description>IBM - PC and Compatibles (Digital) (Groupees) (1,741) (-y) [-aAbBcdkmMpPuv] (20220803-071205) (Retool)</description>
 		<version>20220803-071205</version>
-		<date>2026-03-14 04-38-03</date>
+		<date>2026-03-15 04-58-52</date>
 		<author>ajshell1, FakeShemp, Hiccup, norkmetnoil577, proffrink, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="12 Labours of Hercules (World) (v2013-11-12) (Mac)" id="0519">
 		<category>Games</category>

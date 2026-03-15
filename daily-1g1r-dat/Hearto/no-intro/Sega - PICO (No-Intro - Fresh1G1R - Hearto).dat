@@ -4,12 +4,12 @@
 		<name>Sega - PICO (Retool)</name>
 		<description>Sega - PICO (330) (-y) [-aAbBcefkmMoprv] (20250220-080006) (Retool)</description>
 		<version>20250220-080006</version>
-		<date>2026-03-14 04-27-00</date>
+		<date>2026-03-15 04-48-15</date>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Connie, FakeShemp, fuzzball, Gefflon, Hiccup, Money_114, omonim2007, Powerpuff, relax, scorp256, TeamEurope, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="101-piki Wan-chan - Wan-chan Daikoushin! (Japan)" id="0020">
 		<category>Games</category>

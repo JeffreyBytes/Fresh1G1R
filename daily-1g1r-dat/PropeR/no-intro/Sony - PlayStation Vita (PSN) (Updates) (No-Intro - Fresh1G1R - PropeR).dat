@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Updates) (1,183) (-y) [-aAbBcdkmMpPuv] (20250724-193756) (Retool)</description>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (1,174) (-y) [-aAbBcdkmMpPuv] (20250724-193756) (Retool)</description>
 		<version>20250724-193756</version>
-		<date>2026-03-14 04-37-51</date>
+		<date>2026-03-15 04-58-41</date>
 		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="10 Second Ninja X (USA) (v1.01) (Update)" id="01416">
 		<category>Games</category>
@@ -3509,12 +3509,6 @@
 		<game_id>JP9000-PCSC00001_00-0011223344556677</game_id>
 		<rom name="JP9000-PCSC00001_00-0011223344556677-A0136-V0100-ac39c56a15b1c8a30980dcd54cec0a94b60cd232-PE.pkg" size="616051968" crc="f4172fc5" md5="5e1de5915c920f8095a3443b19924782" sha1="3b3e5e547cceaeaf44ae4702b0bbd9008407bd06"/>
 	</game>
-	<game name="Minna to Issho (Japan) (v1.06) (PCSC00055) (Update)" id="00711">
-		<category>Games</category>
-		<description>Minna to Issho (Japan) (v1.06) (PCSC00055) (Update)</description>
-		<game_id>JP9002-PCSC00055_00-0000000000000001</game_id>
-		<rom name="JP9002-PCSC00055_00-0000000000000001-A0106-V0100-09d38293b7db4c80f755f2203266de1de16f0eb0-PE.pkg" size="172070496" crc="ce67e429" md5="62dca448aad93ecd6d1693c370a15e3a" sha1="4b967a4d4f17e6c796cc747e71d30bb0065a6886"/>
-	</game>
 	<game name="Minna to Issho (Japan) (v2.62) (PCSC00004) (Update)" id="00712">
 		<category>Games</category>
 		<description>Minna to Issho (Japan) (v2.62) (PCSC00004) (Update)</description>
@@ -5045,12 +5039,6 @@
 		<game_id>JP1070-PCSG00983_00-0000000000000001</game_id>
 		<rom name="JP1070-PCSG00983_00-0000000000000001-A0102-V0100-b0b4792784f7ccdda27134bd09fca7e4bf4971e2-PE.pkg" size="4205680" crc="1d8f6834" md5="b7c23e76132de80c7e2fc8caac2d2fb7" sha1="3cea0f23e633c7863fcba09b2f1b126cc9c1b3d4" sha256="eaec21b48bef1a47c1b6e67b680ef4c513799d3410d0f8a4bec3eda645893f39"/>
 	</game>
-	<game name="Senran Kagura - Estival Versus (Asia) (v1.21) (PCSH00163) (Update)" id="02151">
-		<category>Games</category>
-		<description>Senran Kagura - Estival Versus (Asia) (v1.21) (PCSH00163) (Update)</description>
-		<game_id>HP0507-PCSH00163_00-0000000000000000</game_id>
-		<rom name="HP0507-PCSH00163_00-0000000000000000-A0121-V0100-c511682adbca5a06b21d3459c89c24cad882915c-PE.pkg" size="2450288848" crc="edd2c366" md5="8e651a73e556dd5201e30b63a903374a" sha1="b730ec2c5d3204fd651921a82597ba0d6154956d"/>
-	</game>
 	<game name="Senran Kagura - Estival Versus (USA) (v1.21) (Update)" id="01560">
 		<category>Games</category>
 		<description>Senran Kagura - Estival Versus (USA) (v1.21) (Update)</description>
@@ -5374,12 +5362,6 @@
 		<description>Slotter Mania V - Gakuen Mokushiroku - Highschool of the Dead (Japan) (v1.01) (Update)</description>
 		<game_id>JP0369-PCSG00237_00-SLOTMANIAV000002</game_id>
 		<rom name="JP0369-PCSG00237_00-SLOTMANIAV000002-A0101-V0101-018683aea6d347debe66dc44847438bdeec88d00-PE.pkg" size="21650112" crc="373ca482" md5="a0044129cff5721faff8f34f8e43fee2" sha1="37724d41d50268ab197f501d7576e3b844c6cf20"/>
-	</game>
-	<game name="Sly Cooper - Thieves in Time (Europe) (v1.01) (PCSF00206) (Update)" id="01119">
-		<category>Games</category>
-		<description>Sly Cooper - Thieves in Time (Europe) (v1.01) (PCSF00206) (Update)</description>
-		<game_id>EP9000-PCSF00206_00-0000000000000000</game_id>
-		<rom name="EP9000-PCSF00206_00-0000000000000000-A0101-V0100-ca6dccaaa48cbdbc2396a8b1579c5f786af06ac6-PE.pkg" size="26882480" crc="e62d3544" md5="ef70a855ebf6c4108afef14ca6eeec9b" sha1="59749db564616c74106c70ffb5b4833ce598bf73"/>
 	</game>
 	<game name="Sly Cooper - Thieves in Time (USA) (En,Fr,Es,Pt) (v1.01) (Update)" id="01122">
 		<category>Games</category>
@@ -6263,30 +6245,6 @@
 		<game_id>JP0106-PCSG00193_00-PKGTOUKIDEN00000</game_id>
 		<rom name="JP0106-PCSG00193_00-PKGTOUKIDEN00000-A0107-V0101-aa0072663e74ec3ed32f1d6fd2dfb3f87f9662da-PE.pkg" size="78512656" crc="9eb11214" md5="4a3f6ae4d46227bb7681506e2e4b8657" sha1="819de4c4e2c7fad7b3a8de721c1207193317ed6a"/>
 	</game>
-	<game name="Toukiden - Kiwami (Asia) (v1.01) (PCSH00103) (Update)" id="01271">
-		<category>Games</category>
-		<description>Toukiden - Kiwami (Asia) (v1.01) (PCSH00103) (Update)</description>
-		<game_id>HP0106-PCSH00103_00-PKGTOUKIDEN00000</game_id>
-		<rom name="HP0106-PCSH00103_00-PKGTOUKIDEN00000-A0101-V0101-0dd329dc07646618149b8715d5baa007bcf00db8-PE.pkg" size="66998656" crc="b12481d9" md5="bc10c7b4d43d081e26d7e08da210a174" sha1="4706ae7903e1c7b47afdff4023ea225eceef3a25"/>
-	</game>
-	<game name="Toukiden - Kiwami (Asia) (v1.01) (PCSH00110) (Update)" id="01272">
-		<category>Games</category>
-		<description>Toukiden - Kiwami (Asia) (v1.01) (PCSH00110) (Update)</description>
-		<game_id>HP0106-PCSH00110_00-PKGTOUKIDEN00000</game_id>
-		<rom name="HP0106-PCSH00110_00-PKGTOUKIDEN00000-A0101-V0100-69d3b72a5c784e3b743265edacc56d8327041156-PE.pkg" size="3136480" crc="1ad1faa2" md5="0f3b174f0a4e2ecf8969edeccced7673" sha1="b3153d508d32db95d255c1749d9d5393c8c4d3c9"/>
-	</game>
-	<game name="Toukiden - Kiwami (Asia) (v1.02) (PCSH00110) (Patch)" id="02166">
-		<category>Games</category>
-		<description>Toukiden - Kiwami (Asia) (v1.02) (PCSH00110) (Patch)</description>
-		<game_id>HP0106-PCSH00110_00-PKGTOUKIDEN00000</game_id>
-		<rom name="HP0106-PCSH00110_00-PKGTOUKIDEN00000-A0102-V0101-3e798c1929f2060e2e8b57108aa965f840c4fccd-SP-PE.pkg" size="13085632" crc="1a10e9b0" md5="f3c2b7eb80d28562d7057a64c5876e39" sha1="1dd089ab50a863c608bb525db844c163a815205b"/>
-	</game>
-	<game name="Toukiden - Kiwami (Asia) (v1.02) (PCSH00110) (Update)" id="02167">
-		<category>Games</category>
-		<description>Toukiden - Kiwami (Asia) (v1.02) (PCSH00110) (Update)</description>
-		<game_id>HP0106-PCSH00110_00-PKGTOUKIDEN00000</game_id>
-		<rom name="HP0106-PCSH00110_00-PKGTOUKIDEN00000-A0102-V0101-f9a4ca991f1182b95e341bfe88d723c257518b39-PE.pkg" size="13101248" crc="a9627e48" md5="da54bf3c66814d774c5aba3acd86c634" sha1="0dbb32f8a71dffd2b21d688a55d56258b2ae5d11"/>
-	</game>
 	<game name="Toukiden - Kiwami (Japan) (v1.07) (Patch)" id="01276">
 		<category>Games</category>
 		<description>Toukiden - Kiwami (Japan) (v1.07) (Patch)</description>
@@ -6994,18 +6952,6 @@
 		<description>Yuusha no Kiroku (Japan) (v1.04) (Update)</description>
 		<game_id>JP9002-PCSC00003_00-YUUSHAMAINAPP001</game_id>
 		<rom name="JP9002-PCSC00003_00-YUUSHAMAINAPP001-A0104-V0100-291f2e9396b879f4d5620acc5ea314fd9447b085-PE.pkg" size="28240560" crc="dd234325" md5="8387eeaa791bde0f403362413f83cea6" sha1="8551caec0d917579175fb411be550650191342ed"/>
-	</game>
-	<game name="Yuusha no Kuse ni Konamaikida. G (Japan) (v2.02) (PCSC00047) (Patch)" id="01393">
-		<category>Games</category>
-		<description>Yuusha no Kuse ni Konamaikida. G (Japan) (v2.02) (PCSC00047) (Patch)</description>
-		<game_id>JP9000-PCSC00047_00-KONAMAPKGJPN0001</game_id>
-		<rom name="JP9000-PCSC00047_00-KONAMAPKGJPN0001-A0202-V0100-9e9bbf400eef7369150b5db6065f4b5766b8e777-SP-PE.pkg" size="1683728" crc="822cfbfa" md5="73af04a68b3b9d756d287a7fea815fc5" sha1="c1458ada23abc652de803a9db4dac49db4556ae2"/>
-	</game>
-	<game name="Yuusha no Kuse ni Konamaikida. G (Japan) (v2.02) (PCSC00047) (Update)" id="01395">
-		<category>Games</category>
-		<description>Yuusha no Kuse ni Konamaikida. G (Japan) (v2.02) (PCSC00047) (Update)</description>
-		<game_id>JP9000-PCSC00047_00-KONAMAPKGJPN0001</game_id>
-		<rom name="JP9000-PCSC00047_00-KONAMAPKGJPN0001-A0202-V0100-aad4e0a54e945d56c84196df7db2fc2a23975d6d-PE.pkg" size="2771824" crc="f6e16646" md5="5bb3822c5d9a02c156be47fc0c28f521" sha1="9d10e29221b7b638aaf4bff53373fd8fa33e9e06"/>
 	</game>
 	<game name="Yuusha no Kuse ni Konamaikida. G (Japan) (v2.02) (PCSC00082) (Patch)" id="01394">
 		<category>Games</category>

@@ -4,12 +4,12 @@
 		<name>Atari - Atari Lynx (LNX) (Retool)</name>
 		<description>Atari - Atari Lynx (LNX) (15) (-y) [-aAbBcefkmMoprv] (20251222-090626) (Retool)</description>
 		<version>20251222-090626</version>
-		<date>2026-03-14 04-25-51</date>
+		<date>2026-03-15 04-47-10</date>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Awesome Golf (World) (Atari Lynx Collection 1) (Unl)" id="0404">
 		<category>Games</category>

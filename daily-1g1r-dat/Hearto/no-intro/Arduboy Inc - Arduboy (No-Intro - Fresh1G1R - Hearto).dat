@@ -4,12 +4,12 @@
 		<name>Arduboy Inc - Arduboy (Retool)</name>
 		<description>Arduboy Inc - Arduboy (428) (-y) [-aAbBcefkmMoprv] (20230528-053947) (Retool)</description>
 		<version>20230528-053947</version>
-		<date>2026-03-14 04-27-12</date>
+		<date>2026-03-15 04-48-28</date>
 		<author>EggmanPEI, Hiccup, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="101 Starships (World) (Erwin's Collection)" id="0001">
 		<category>Games</category>

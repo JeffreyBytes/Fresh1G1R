@@ -4,12 +4,12 @@
 		<name>Nintendo - Game Boy Advance (e-Reader) (Retool)</name>
 		<description>Nintendo - Game Boy Advance (e-Reader) (3,007) (-y) [-aAbBcefkmMoprv] (20260209-122907) (Retool)</description>
 		<version>20260209-122907</version>
-		<date>2026-03-14 04-26-41</date>
+		<date>2026-03-15 04-47-58</date>
 		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Animal Crossing-e - Series 1 - A-001 - K.K. Slider (USA)" id="0038">
 		<category>Games</category>

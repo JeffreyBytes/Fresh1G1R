@@ -4,12 +4,12 @@
 		<name>Sega - Game Gear (Retool)</name>
 		<description>Sega - Game Gear (391) (-y) [-aAbBcefkmMoprv] (20260124-122308) (Retool)</description>
 		<version>20260124-122308</version>
-		<date>2026-03-14 04-27-08</date>
+		<date>2026-03-15 04-48-25</date>
 		<author>Arctic Circle System, Aringon, BigFred, BitLooter, C. V. Reynolds, fuzzball, Gefflon, Hiccup, jimmsu, kazumi213, nnssxx, omonim2007, Powerpuff, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="5 in One FunPak (USA)" id="0001">
 		<category>Games</category>

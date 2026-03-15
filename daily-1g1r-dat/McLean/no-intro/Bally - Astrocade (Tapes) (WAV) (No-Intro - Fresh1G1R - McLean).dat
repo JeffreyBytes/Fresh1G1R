@@ -4,12 +4,12 @@
 		<name>Bally - Astrocade (Tapes) (WAV) (Retool)</name>
 		<description>Bally - Astrocade (Tapes) (WAV) (1) (-ly) [-aAbBcdDefkmMopPruv] (20220914-145554) (Retool)</description>
 		<version>20220914-145554</version>
-		<date>2026-03-14 04-32-01</date>
+		<date>2026-03-15 04-53-08</date>
 		<author>MeguCocoa</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3D Tic-Tac-Toe (USA)" id="0002">
 		<category>Games</category>

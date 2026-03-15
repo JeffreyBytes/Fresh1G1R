@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,741) (-y) [-aAbBcdkmMpPuv] (20260312-052357) (Retool)</description>
+		<description>Nintendo - Super Nintendo Entertainment System (1,740) (-y) [-aAbBcdkmMpPuv] (20260312-052357) (Retool)</description>
 		<version>20260312-052357</version>
-		<date>2026-03-14 04-41-36</date>
+		<date>2026-03-15 05-02-21</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="'96 Zenkoku Koukou Soccer Senshuken (Japan)" id="0001">
 		<category>Games</category>
@@ -2670,11 +2670,6 @@
 		<category>Games</category>
 		<description>Hiouden - Mamono-tachi to no Chikai (Japan)</description>
 		<rom name="Hiouden - Mamono-tachi to no Chikai (Japan).sfc" size="1572864" crc="1d4ae6ab" md5="64b9b14ba3a44d720deefc50cf8c2540" sha1="9a7b6fa34a07abbd9b9485b6ab9c2cd6d4d7051b" sha256="aba9d3b590c06883a5e1f59eefc04f59343db4b1e6a5881a4d85bd36211ab7cc"/>
-	</game>
-	<game name="Hiryuu no Ken S - Golden Fighter (Japan)" id="1055">
-		<category>Games</category>
-		<description>Hiryuu no Ken S - Golden Fighter (Japan)</description>
-		<rom name="Hiryuu no Ken S - Golden Fighter (Japan).sfc" size="1572864" crc="1b113c99" md5="b200d75d25416445f844e5443c928bc8" sha1="d6bef210466b5ad7bff454b607dd221e991049e0" sha256="b65d952163dc12a21a391c7778e2700fe943f8d3e06196ae781420d16958be41"/>
 	</game>
 	<game name="Hissatsu Pachinko Collection (Japan)" id="1057">
 		<category>Games</category>

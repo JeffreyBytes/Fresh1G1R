@@ -4,12 +4,12 @@
 		<name>Nintendo - amiibo (Retool)</name>
 		<description>Nintendo - amiibo (946) (-y) [-aAbBcdkmMpPuv] (20251202-114031) (Retool)</description>
 		<version>20251202-114031</version>
-		<date>2026-03-14 04-39-36</date>
+		<date>2026-03-15 05-00-22</date>
 		<author>Bumpfi, kyndigs, rarenight, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="100 - Animal Crossing - Bill (World) (Animal Crossing) (Card)" id="0004">
 		<category>Games</category>

@@ -5,11 +5,11 @@
 		<name>Commodore - Amiga CD (Retool)</name>
 		<description>Commodore - Amiga CD (74) (-y) [-aAbBcdkmMpPuv] (2026-02-21 04-12-09) (Retool)</description>
 		<version>2026-02-21 04-12-09</version>
-		<date>2026-03-14 04-35-46</date>
+		<date>2026-03-15 04-56-43</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Amiga CD-Sensation - Golden Games (Germany)">
 		<category>Games</category>

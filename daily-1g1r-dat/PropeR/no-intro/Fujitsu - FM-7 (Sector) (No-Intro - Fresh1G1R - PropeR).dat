@@ -4,12 +4,12 @@
 		<name>Fujitsu - FM-7 (Sector) (Retool)</name>
 		<description>Fujitsu - FM-7 (Sector) (222) (-y) [-aAbBcdkmMpPuv] (20240623-225430) (Retool)</description>
 		<version>20240623-225430</version>
-		<date>2026-03-14 04-41-25</date>
+		<date>2026-03-15 05-02-14</date>
 		<author>FakeShemp, MeguCocoa, rarenight</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="1942 (Japan)" id="0027">
 		<category>Games</category>

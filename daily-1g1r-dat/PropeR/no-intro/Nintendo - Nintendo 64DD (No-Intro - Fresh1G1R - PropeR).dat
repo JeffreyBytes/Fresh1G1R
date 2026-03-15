@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo 64DD (Retool)</name>
 		<description>Nintendo - Nintendo 64DD (7) (-y) [-aAbBcdkmMpPuv] (20260221-121754) (Retool)</description>
 		<version>20260221-121754</version>
-		<date>2026-03-14 04-38-16</date>
+		<date>2026-03-15 04-59-06</date>
 		<author>Arctic Circle System, chillerecke, einstein95, Hiccup, relax, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="F-Zero X - Expansion Kit (Japan)" id="0011">
 		<category>Games</category>

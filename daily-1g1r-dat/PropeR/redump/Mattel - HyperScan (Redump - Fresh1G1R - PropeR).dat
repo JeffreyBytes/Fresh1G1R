@@ -5,11 +5,11 @@
 		<name>Mattel - HyperScan (Retool)</name>
 		<description>Mattel - HyperScan (6) (-y) [-aAbBcdkmMpPuv] (2024-02-26 19-18-13) (Retool)</description>
 		<version>2024-02-26 19-18-13</version>
-		<date>2026-03-14 04-36-34</date>
+		<date>2026-03-15 04-57-30</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Ben 10 (USA) (USE2)">
 		<category>Games</category>

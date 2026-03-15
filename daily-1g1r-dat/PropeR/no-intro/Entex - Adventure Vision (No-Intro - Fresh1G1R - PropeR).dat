@@ -4,12 +4,12 @@
 		<name>Entex - Adventure Vision (Retool)</name>
 		<description>Entex - Adventure Vision (4) (-y) [-aAbBcdkmMpPuv] (20081125-031450) (Retool)</description>
 		<version>20081125-031450</version>
-		<date>2026-03-14 04-39-00</date>
+		<date>2026-03-15 04-59-47</date>
 		<author>Unknown</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Defender (USA, Europe)" id="0002">
 		<category>Games</category>

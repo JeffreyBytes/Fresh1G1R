@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo 3DS (Digital) (Deprecated) (Retool)</name>
 		<description>Nintendo - Nintendo 3DS (Digital) (Deprecated) (522) (-y) [-aAbBcdkmMpPuv] (20240623-225059) (Retool)</description>
 		<version>20240623-225059</version>
-		<date>2026-03-14 04-41-12</date>
+		<date>2026-03-15 05-02-03</date>
 		<author>aci68, C. V. Reynolds, coraz, Densetsu, einstein95, Gefflon, Hiccup, Jack, jimmsu, MeguCocoa, norkmetnoil577, rarenight, relax, Rifu, SonGoku, Xenirina, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="10-in-1 - Arcade Collection (USA) (eShop)" id="0098">
 		<category>Games</category>
@@ -1547,7 +1547,7 @@
 		<rom name="Mysterious Murasame Castle, The (Europe) (NES) (Virtual Console).3ds" size="134217728" crc="101db197" md5="238e580160b217919eaa6c50fcca382b" sha1="a96409ce10cebf6ee684d3c71493293f0bf8d2f3"/>
 	</game>
 	<game name="NES Jumping Mario (Europe) (Theme)" id="0161">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>NES Jumping Mario (Europe) (Theme)</description>
 		<rom name="NES Jumping Mario (Europe) (Theme).cia" size="3684672" crc="96457200" md5="acdf42550953519e0c9f0a17bfcd4416" sha1="1d706539e0bf55b4ff4a441d860aa50856bb4345"/>
 	</game>

@@ -4,12 +4,12 @@
 		<name>Nintendo - Misc (Retool)</name>
 		<description>Nintendo - Misc (305) (-y) [-aAbBcdkmMpPuv] (20260116-154229) (Retool)</description>
 		<version>20260116-154229</version>
-		<date>2026-03-14 04-41-15</date>
+		<date>2026-03-15 05-02-07</date>
 		<author>ajshell1, Arctic Circle System, Hiccup, Larsenv, MeguCocoa, NovaAurora, PPLToast, rarenight, relax, SonGoku, www2, xprism</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="4chan Eurocom and THQ leak 2022-11-09 no. 1 - Deadspace.7z (World)" id="0271">
 		<category>Games</category>

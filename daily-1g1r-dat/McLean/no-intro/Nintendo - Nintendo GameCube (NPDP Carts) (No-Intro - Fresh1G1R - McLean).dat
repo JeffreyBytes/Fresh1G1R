@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo GameCube (NPDP Carts) (Retool)</name>
-		<description>Nintendo - Nintendo GameCube (NPDP Carts) (3) (-ly) [-aAbBcdDefkmMopPruv] (20251231-024351) (Retool)</description>
-		<version>20251231-024351</version>
-		<date>2026-03-14 04-34-59</date>
+		<description>Nintendo - Nintendo GameCube (NPDP Carts) (3) (-ly) [-aAbBcdDefkmMopPruv] (20260313-183736) (Retool)</description>
+		<version>20260313-183736</version>
+		<date>2026-03-15 04-55-19</date>
 		<author>Hiccup, NovaAurora, relax, togemet2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Memory Card Utility Program (USA) (v1.1.0)" id="0029">
 		<category>Games</category>

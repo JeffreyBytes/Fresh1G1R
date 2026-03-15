@@ -4,12 +4,12 @@
 		<name>Benesse - Pocket Challenge V2 (Retool)</name>
 		<description>Benesse - Pocket Challenge V2 (32) (-y) [-aAbBcdkmMpPuv] (20251024-084348) (Retool)</description>
 		<version>20251024-084348</version>
-		<date>2026-03-14 04-39-33</date>
+		<date>2026-03-15 05-00-19</date>
 		<author>Arctic Circle System, Gefflon, Hiccup, Icyelut, omonim2007, psykopat, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Challenge Eiwa Jiten (Japan) (6FQ410)" id="0056">
 		<category>Games</category>

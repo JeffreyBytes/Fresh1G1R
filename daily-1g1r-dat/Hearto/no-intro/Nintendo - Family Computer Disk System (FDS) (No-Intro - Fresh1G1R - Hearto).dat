@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Family Computer Disk System (FDS) (Retool)</name>
-		<description>Nintendo - Family Computer Disk System (FDS) (286) (-y) [-aAbBcefkmMoprv] (20260301-103145) (Retool)</description>
+		<description>Nintendo - Family Computer Disk System (FDS) (285) (-y) [-aAbBcefkmMoprv] (20260301-103145) (Retool)</description>
 		<version>20260301-103145</version>
-		<date>2026-03-14 04-27-00</date>
+		<date>2026-03-15 04-48-14</date>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Adian no Tsue (Japan)" id="0151">
 		<category>Games</category>
@@ -858,10 +858,11 @@
 		<description>Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03)</description>
 		<rom name="Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03).fds" size="131000" crc="3438794b" md5="38078e2e3b6a01473874608f1362c35a" sha1="f94f3385dacf10bde040494742657bf44e764eb3"/>
 	</game>
-	<game name="Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition)" id="0338">
+	<game name="Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)" id="0081">
 		<category>Games</category>
-		<description>Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition)</description>
-		<rom name="Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition).fds" size="131000" crc="d9d60599" md5="ba67bb9631be2dc9591df42f623e382a" sha1="f4b5f7594be7625f568bfcb1650288c977a07051"/>
+		<description>Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)</description>
+		<game_id>FMC-LNK</game_id>
+		<rom name="Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1).fds" size="131000" crc="3024cad5" md5="4673e288b392efc26326d8fc00c18b26" sha1="9d29fd1e38993ae67564262434b775e0a7da1de2" sha256="e700ded6700405654ea4c127d502effc1beda1a669822edb5ae2d36949fac64f"/>
 	</game>
 	<game name="Lipstick #1 - Lolita Hen (Japan) (Unl)" id="0082">
 		<category>Games</category>
@@ -1401,11 +1402,6 @@
 		<game_id>FMC-SMB</game_id>
 		<rom name="Super Mario Bros. 2 (Japan) (En) (DV 2).fds" size="65500" crc="5c419ee8" md5="f62909ad7125ed94ef0fc1d44164a518" sha1="08927227b6ff67f42e759505d176cd924931bd14"/>
 	</game>
-	<game name="Super Mario Bros. 2 (Japan) (En) (Game &amp; Watch - Super Mario Bros.)" id="0422">
-		<category>Games</category>
-		<description>Super Mario Bros. 2 (Japan) (En) (Game &amp; Watch - Super Mario Bros.)</description>
-		<rom name="Super Mario Bros. 2 (Japan) (En) (Game &amp; Watch - Super Mario Bros.).fds" size="65500" crc="42b63ca5" md5="2a322bd3832945cf8d5f71644a9e2135" sha1="cb9fb99b7731ed05b81d4b6bae06e0fbf8d21fa8"/>
-	</game>
 	<game name="Tama &amp; Friends - Sanchoume Daibouken (Japan)" id="0272">
 		<category>Games</category>
 		<description>Tama &amp; Friends - Sanchoume Daibouken (Japan)</description>
@@ -1614,9 +1610,10 @@
 		<description>Zatsugaku Olympic Quiz Part II (Japan) (Unl)</description>
 		<rom name="Zatsugaku Olympic Quiz Part II (Japan) (Unl).fds" size="131000" crc="d69a4d87" md5="a7f5cab4367f60dfe1844bbda5c3add6" sha1="89771a0409372da56b7df65b246e6686518da42d"/>
 	</game>
-	<game name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)" id="0337">
+	<game name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)" id="0135">
 		<category>Games</category>
-		<description>Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)</description>
-		<rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition).fds" size="131000" crc="b64b1456" md5="659c5f15e548cd4075091c6e9b7f4893" sha1="eb72c80fef3f55395ad3fc9a0f845935593cfd61"/>
+		<description>Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)</description>
+		<game_id>FMC-ZEL</game_id>
+		<rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1).fds" size="131000" crc="8f2202bf" md5="18d20a07fd107d9db045451578914c94" sha1="1429fbe3e62059994b6ff7c5e5e2a330831faf63"/>
 	</game>
 </datafile>

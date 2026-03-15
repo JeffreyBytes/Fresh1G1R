@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo DSi (Encrypted) (Retool)</name>
 		<description>Nintendo - Nintendo DSi (Encrypted) (9) (-y) [-aAbBcefkmMoprv] (20251108-084929) (Retool)</description>
 		<version>20251108-084929</version>
-		<date>2026-03-14 04-28-35</date>
+		<date>2026-03-15 04-49-55</date>
 		<author>aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Face Training (Europe) (En,Fr,De,Es,It)" id="0009">
 		<category>Games</category>

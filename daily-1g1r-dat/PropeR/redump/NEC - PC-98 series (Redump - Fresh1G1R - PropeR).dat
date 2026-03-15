@@ -5,11 +5,11 @@
 		<name>NEC - PC-98 series (Retool)</name>
 		<description>NEC - PC-98 series (107) (-y) [-aAbBcdkmMpPuv] (2026-01-25 02-55-54) (Retool)</description>
 		<version>2026-01-25 02-55-54</version>
-		<date>2026-03-14 04-36-44</date>
+		<date>2026-03-15 04-57-39</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Akai Shizuku - The Legend of Heroes IV (Japan)">
 		<category>Games</category>

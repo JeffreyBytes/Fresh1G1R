@@ -5,11 +5,11 @@
 		<name>Arcade - Namco - System 246 (Retool)</name>
 		<description>Arcade - Namco - System 246 (12) (-y) [-aAbBcdkmMpPuv] (2025-09-28 21-11-36) (Retool)</description>
 		<version>2025-09-28 21-11-36</version>
-		<date>2026-03-14 04-36-41</date>
+		<date>2026-03-15 04-57-37</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Kidou Senshi Gundam - Gundam vs. Gundam (Japan) (NS256)">
 		<category>Games</category>

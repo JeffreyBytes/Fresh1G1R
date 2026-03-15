@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo 3DS (Digital) (Pre-Install) (Retool)</name>
 		<description>Nintendo - Nintendo 3DS (Digital) (Pre-Install) (3) (-y) [-aAbBcdkmMpPuv] (20250422-073339) (Retool)</description>
 		<version>20250422-073339</version>
-		<date>2026-03-14 04-41-32</date>
+		<date>2026-03-15 05-02-17</date>
 		<author>Hiccup, rarenight, togemet2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3D Xiaoguo Xinshang (China)" id="0002">
 		<category>Games</category>

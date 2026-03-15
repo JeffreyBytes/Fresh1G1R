@@ -4,12 +4,12 @@
 		<name>Fujitsu - FM-7 (Flux) (Retool)</name>
 		<description>Fujitsu - FM-7 (Flux) (9) (-y) [-aAbBcefkmMoprv] (20240623-225430) (Retool)</description>
 		<version>20240623-225430</version>
-		<date>2026-03-14 04-26-58</date>
+		<date>2026-03-15 04-48-12</date>
 		<author>FakeShemp, MeguCocoa, rarenight</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="4th Unit 2, The (Japan) (Disk 1) (KryoFlux)" id="0355">
 		<category>Games</category>

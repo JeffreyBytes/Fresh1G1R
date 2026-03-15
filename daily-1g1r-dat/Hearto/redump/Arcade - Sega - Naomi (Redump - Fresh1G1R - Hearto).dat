@@ -5,11 +5,11 @@
 		<name>Arcade - Sega - Naomi (Retool)</name>
 		<description>Arcade - Sega - Naomi (27) (-y) [-aAbBcefkmMoprv] (2025-11-08 20-06-27) (Retool)</description>
 		<version>2025-11-08 20-06-27</version>
-		<date>2026-03-14 04-24-38</date>
+		<date>2026-03-15 04-45-54</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)">
 		<category>Games</category>

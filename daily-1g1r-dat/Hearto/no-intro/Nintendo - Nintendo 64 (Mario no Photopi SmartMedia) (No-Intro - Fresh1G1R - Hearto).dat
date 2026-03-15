@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo 64 (Mario no Photopi SmartMedia) (Retool)</name>
 		<description>Nintendo - Nintendo 64 (Mario no Photopi SmartMedia) (5) (-y) [-aAbBcefkmMoprv] (20210514-090046) (Retool)</description>
 		<version>20210514-090046</version>
-		<date>2026-03-14 04-28-30</date>
+		<date>2026-03-15 04-49-48</date>
 		<author>Hiccup, relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Characters collection - Bomberman (Japan)" id="0003">
 		<category>Games</category>

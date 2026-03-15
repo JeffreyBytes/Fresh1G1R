@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>VTech - V.Smile (Retool)</name>
-		<description>VTech - V.Smile (89) (-y) [-aAbBcdkmMpPuv] (20260106-005848) (Retool)</description>
-		<version>20260106-005848</version>
-		<date>2026-03-14 04-38-07</date>
+		<description>VTech - V.Smile (85) (-y) [-aAbBcdkmMpPuv] (20260314-052645) (Retool)</description>
+		<version>20260314-052645</version>
+		<date>2026-03-15 05-02-13</date>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Action Mania (USA) (Rev 5) (V.Smile Motion)" id="0262">
 		<category>Educational</category>
@@ -31,10 +31,10 @@
 		<description>Alphabet Park Adventure (USA) (Rev 3)</description>
 		<rom name="Alphabet Park Adventure (USA) (Rev 3).bin" size="8388608" crc="d8583aa2" md5="5295fa35b2aef72be934a8f786bade66" sha1="5b83f4c7fed4f86182ae3cd2b25ec403d129b81b" sha256="ab0099e749e61879aa9ba1b5361e6a2ce1f0a369cb1957bc9bcb47bcee06980b"/>
 	</game>
-	<game name="Baby Einstein - World of Discoveries (USA) (V.Smile Baby)" id="0202">
+	<game name="Baby Einstein - World of Discoveries (USA) (Rev 1) (V.Smile Baby)" id="0203">
 		<category>Educational</category>
-		<description>Baby Einstein - World of Discoveries (USA) (V.Smile Baby)</description>
-		<rom name="Baby Einstein - World of Discoveries (USA) (V.Smile Baby).bin" size="8388608" crc="d8f964e4" md5="c149b61e1eb170e7f96228eb820e3cf1" sha1="b3bb1be91e51b9d19f2d03aeff7d8c3d05f38d74" sha256="3ebcb3c4a31021f7e1b298783615cb69f0e908ca891a35487e3c5a709efcb01f"/>
+		<description>Baby Einstein - World of Discoveries (USA) (Rev 1) (V.Smile Baby)</description>
+		<rom name="Baby Einstein - World of Discoveries (USA) (Rev 1) (V.Smile Baby).bin" size="8388608" crc="9510fdba" md5="831742b7b690286dde8a81909026b82e" sha1="ab7790b26b17fe000b9cef716e9c2aaa95b570f6" sha256="5475a70ad1c6a956e8c413a54dad714fabdd33b2d7348eeb55c8ba37c9bb2862"/>
 	</game>
 	<game name="Backyardigans, The - Big Backyard Adventures (USA) (V.Smile Baby)" id="0326">
 		<category>Educational</category>
@@ -81,15 +81,15 @@
 		<description>Care Bears - A Lesson in Caring (USA)</description>
 		<rom name="Care Bears - A Lesson in Caring (USA).bin" size="8388608" crc="7d711a0e" md5="a232f50ebeca526b53f4b4e4e5653cf2" sha1="6bd5ec6407f8c450293f18095d2d3474245f7817" sha256="24107caffe392c32e4aa4e434b8390e9f5f4cdf689b700d4c82d6f05722b5444"/>
 	</game>
-	<game name="Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion)" id="0275">
+	<game name="Cars - Rev It Up in Radiator Springs (USA) (Rev 1)" id="0137">
 		<category>Games</category>
-		<description>Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion)</description>
-		<rom name="Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion).bin" size="8388608" crc="1e6363ef" md5="b45f02c52fb94156603766acf21ce24c" sha1="5db9fe5626ebae102ee0ec8e6b42c7987c7df686" sha256="80878d4d4b2bde9f77f4a42400de365eba814b13fd6675426772f5bc87d7a2d0"/>
+		<description>Cars - Rev It Up in Radiator Springs (USA) (Rev 1)</description>
+		<rom name="Cars - Rev It Up in Radiator Springs (USA) (Rev 1).bin" size="8388608" crc="35ff7474" md5="de454530ed268c6d1bfe68a41daf67da" sha1="2c401f64cf510e40a0def1b47de0031d548e0fe9" sha256="98494c017d142d3b5dfaa26ea1d261a6af186022184b18673cac28cf8f0f7b20"/>
 	</game>
-	<game name="Cars 2 (USA) (V.Smile Motion)" id="0458">
+	<game name="Cars 2 (USA) (Rev 1) (V.Smile Motion) (Pocket Version)" id="0194">
 		<category>Educational</category>
-		<description>Cars 2 (USA) (V.Smile Motion)</description>
-		<rom name="Cars 2 (USA) (V.Smile Motion).bin" size="16777216" crc="d695994b" md5="eb01e72c532df222516663e9c329ebdd" sha1="bcb17d8381a90d0c587dd03d530331b25fbacca4" sha256="6ac30cb745e7d054bc9047a75db0cf5987ec47e541a93888ed7152dac24f90bd"/>
+		<description>Cars 2 (USA) (Rev 1) (V.Smile Motion) (Pocket Version)</description>
+		<rom name="Cars 2 (USA) (Rev 1) (V.Smile Motion) (Pocket Version).bin" size="16777216" crc="d19699cf" md5="1ed97198e1c12f68fee184e0cd80d370" sha1="15bcd9b8209e89058d09ee24c8b9f07b294efd66" sha256="11abff74046a7ae5f57211e06ca076a0ab7b6f76c0346681ce5570f75edd5044"/>
 	</game>
 	<game name="Cranium - Partyland Park - A Carnival of Play-and-Learn Fun (USA) (Rev 1)" id="0036">
 		<category>Games</category>
@@ -131,10 +131,10 @@
 		<description>Disney Mickey - Mickey a la recherche de Pluto (France)</description>
 		<rom name="Disney Mickey - Mickey a la recherche de Pluto (France).bin" size="8388608" crc="223f11b1" md5="d883a11b8dee9c938d228e52951140b6" sha1="a212a6e78d9563aff2850d60299c92e525368bac" sha256="16e4f73c5850b0ef0fe157a6f2fec30caa5309886c65a32b76130d4d312d2f9a"/>
 	</game>
-	<game name="Disney Mickey Mouse Clubhouse (USA) (V.Smile Motion)" id="0269">
+	<game name="Disney Mickey Mouse Clubhouse (USA) (Rev 1) (V.Smile Motion)" id="0270">
 		<category>Games</category>
-		<description>Disney Mickey Mouse Clubhouse (USA) (V.Smile Motion)</description>
-		<rom name="Disney Mickey Mouse Clubhouse (USA) (V.Smile Motion).bin" size="8388608" crc="2538c1d2" md5="73f113963bc61460461735911d88b050" sha1="481af1fe5de995854068329aabf08ae9c197d175" sha256="de0f3b6a9d04a71946cfc5456d4125eac96641c2b88eb65a3277a63ddcb6939f"/>
+		<description>Disney Mickey Mouse Clubhouse (USA) (Rev 1) (V.Smile Motion)</description>
+		<rom name="Disney Mickey Mouse Clubhouse (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="2ac1da77" md5="0b4dd819881c77411aca9e9600a8de30" sha1="6f6cc0a67e0a0392658c5062bffa581ffe715c1c" sha256="de0800ca0a80db7e099502f19b4228fb4c69dc16dc13874ae5f0fd399d3d9153"/>
 	</game>
 	<game name="Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2007)" id="0168">
 		<category>Educational</category>
@@ -231,10 +231,10 @@
 		<description>Handy Manny (USA) (Rev 1) (V.Smile Motion)</description>
 		<rom name="Handy Manny (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="a6ee705b" md5="ec31796b7a53eea66c639697357ccf09" sha1="50a94ca17efbeb3a69decab948c945df272f9c69" sha256="fbd54998e5eb80a1dee5df7cba4da039488330e48cdd2de67cd8c79f5b7d9d74"/>
 	</game>
-	<game name="Kung Fu Panda - Path of the Panda (USA) (V.Smile Motion)" id="0293">
+	<game name="Kung Fu Panda - Path of the Panda (USA, United Kingdom)" id="0106">
 		<category>Games</category>
-		<description>Kung Fu Panda - Path of the Panda (USA) (V.Smile Motion)</description>
-		<rom name="Kung Fu Panda - Path of the Panda (USA) (V.Smile Motion).bin" size="8388608" crc="bcfdfdf6" md5="3896ee6193855a2fc9f4fd30552d07f1" sha1="759645680e63624b773c569f15b360c0079db839" sha256="9ca0eb05984aa2454cd9977503b57ac163c07d183f1f08f5197aa2a2eee852af"/>
+		<description>Kung Fu Panda - Path of the Panda (USA, United Kingdom)</description>
+		<rom name="Kung Fu Panda - Path of the Panda (USA, United Kingdom).bin" size="8388608" crc="0a56ba7b" md5="1439f62f45d222d130a5a5362acc45f2" sha1="04afc9bb216154c91fa3ef92b6bbcc88a9a2a43e" sha256="e5bdc87b7a7ac1921fabfd47d278f45e75cde378e44a3cbe6eab47f22859300f"/>
 	</game>
 	<game name="Learnin' Wheels (USA)" id="0177">
 		<category>Educational</category>
@@ -246,10 +246,10 @@
 		<description>Lil' Bratz - Dressed-Up - Friends, Fashion and Fun (USA)</description>
 		<rom name="Lil' Bratz - Dressed-Up - Friends, Fashion and Fun (USA).bin" size="8388608" crc="f8e3beac" md5="84cff15fd1f2e8392ed78685b2b4ed6c" sha1="4874bdf5a437ab26cf7418ea9ffb4ee9e167316a" sha256="d3ae56f1186d5da0d104bb83c335f4792c5a5c2f2fe4d821f545a07b3c655663"/>
 	</game>
-	<game name="Little Einsteins (USA) (V.Smile Motion)" id="0288">
+	<game name="Little Einsteins (USA) (Rev 1) (V.Smile Motion)" id="0289">
 		<category>Educational</category>
-		<description>Little Einsteins (USA) (V.Smile Motion)</description>
-		<rom name="Little Einsteins (USA) (V.Smile Motion).bin" size="8388608" crc="add7cc23" md5="8797da47d764224784c5acc3f4ab5fd8" sha1="561e496ecbbc1e387ec343069ac19ae9aa2f234e" sha256="d2baea0ae6f47eea72202747b8b364a790a53df93a0130ccea74f8bce7be74f5"/>
+		<description>Little Einsteins (USA) (Rev 1) (V.Smile Motion)</description>
+		<rom name="Little Einsteins (USA) (Rev 1) (V.Smile Motion).bin" size="8388608" crc="e81159c9" md5="a2ffe612e14996f80ebda8fa079f707a" sha1="dc96120d27de83e37edae6620ac40ab11b56d871" sha256="89677d5e0ea36afc5dcfc09fa4cac193363ad9d5d668c91e6868e6eb7ac28b0a"/>
 	</game>
 	<game name="Maison Des Animaux, La (France) (V.Smile Baby)" id="0322">
 		<category>Games</category>
@@ -301,10 +301,10 @@
 		<description>Scooby-Doo! - A Night of Fright is no Delight (USA) (Rev 1) (Smartbook)</description>
 		<rom name="Scooby-Doo! - A Night of Fright is no Delight (USA) (Rev 1) (Smartbook).bin" size="8388608" crc="4bf757be" md5="9fd59a4bcb6b22b7443c08441afb2c6b" sha1="8436b8e1e0cf20c93dbc9d0e887d4a3f28612aac" sha256="89179c6603a0d3e96b5fd94a701cfb8d6d03754ec11d0c5d2ff86cdb6af189bf"/>
 	</game>
-	<game name="Scooby-Doo! - Funland Frenzy (USA) (V.Smile Motion)" id="0313">
-		<category>Games</category>
-		<description>Scooby-Doo! - Funland Frenzy (USA) (V.Smile Motion)</description>
-		<rom name="Scooby-Doo! - Funland Frenzy (USA) (V.Smile Motion).bin" size="8388608" crc="aaa1293d" md5="9810a73839078f5da4340fa01d47c27b" sha1="bef9409a1045c1a4367006b75c0dfc80da052372" sha256="1d279cf9e139fc7b583b0d0dbcdc52471e04c3ae9a554f26de98def46371d2e1"/>
+	<game name="Scooby-Doo! - Funland Frenzy (USA) (Rev 3)" id="0180">
+		<category>Educational</category>
+		<description>Scooby-Doo! - Funland Frenzy (USA) (Rev 3)</description>
+		<rom name="Scooby-Doo! - Funland Frenzy (USA) (Rev 3).bin" size="8388608" crc="5d190acf" md5="11665c113e83301859d74d5a2cb8cbe8" sha1="68b69330c7d60db82e39f8f0423ea135ad90c783" sha256="38c47be3141a8d8329e2634e899980b96dd42952adcc7d4665378c2ae3010779"/>
 	</game>
 	<game name="Sesame Street - Bert &amp; Ernie's Imagination Adventure (USA)" id="0181">
 		<category>Educational</category>
@@ -336,20 +336,15 @@
 		<description>Snow Park Challenge (USA) (V.Smile Motion)</description>
 		<rom name="Snow Park Challenge (USA) (V.Smile Motion).bin" size="8388608" crc="67b2d1c4" md5="dc9de6411375b280f70e210eb6e035f8" sha1="9991f60711c533276a4cae451202881033c2b1a8" sha256="727371d4b25403f7a3fa66ad08aafb931bfab70c85068de52e0d50f1374dce8c"/>
 	</game>
-	<game name="Soccer Challenge (USA) (V.Smile Motion)" id="0263">
-		<category>Games</category>
-		<description>Soccer Challenge (USA) (V.Smile Motion)</description>
-		<rom name="Soccer Challenge (USA) (V.Smile Motion).bin" size="8388608" crc="4d0dd939" md5="cf15cdf04c0b725fe6fb8c4b9268ebf9" sha1="b5411b036fa91daf56f654be4ce71b4ac15541ca" sha256="e04df4ae7af85cf692b43dca535638de0b1ac93e2bbcee3466ec87550544e6c5"/>
-	</game>
 	<game name="Spider-Man &amp; Friends - Doc Ock's Challenge (USA)" id="0184">
 		<category>Educational</category>
 		<description>Spider-Man &amp; Friends - Doc Ock's Challenge (USA)</description>
 		<rom name="Spider-Man &amp; Friends - Doc Ock's Challenge (USA).bin" size="8388608" crc="c1f88cc4" md5="90142cdc1321eaa6a8a034aef252a1e5" sha1="5f198b17b3d53ccece8b64e7d0424911607f11f5" sha256="3560164c5c1d3f149733c9d297d7de002d7bb941966bda26ac26bb88bf0474c9"/>
 	</game>
-	<game name="Spider-Man &amp; Friends - Secret Missions (USA) (V.Smile Motion)" id="0264">
+	<game name="Spider-Man &amp; Friends - Secret Missions (USA) (Rev 1)" id="0406">
 		<category>Games</category>
-		<description>Spider-Man &amp; Friends - Secret Missions (USA) (V.Smile Motion)</description>
-		<rom name="Spider-Man &amp; Friends - Secret Missions (USA) (V.Smile Motion).bin" size="8388608" crc="be4f9c32" md5="8cd10dd64bc50fb4accc9b21e409aba6" sha1="9f7d77f1cdf64ab993a5d07b91d435a861c91758" sha256="1960125f68c9b85f26b2d0dfc48cbf5a09952b2250e57fc967fbb58a474d8298"/>
+		<description>Spider-Man &amp; Friends - Secret Missions (USA) (Rev 1)</description>
+		<rom name="Spider-Man &amp; Friends - Secret Missions (USA) (Rev 1).bin" size="8388608" crc="5cf2c76a" md5="7b6ce67a71964a5f3b856a0a2007918b" sha1="99b3cc9e9b6ae8459db7054555a81853e732806a" sha256="9e55f34b3fb0cc2b4f3c2be27113545cf720cbf941923d99823f1ff9ac27b1ea"/>
 	</game>
 	<game name="Spider-Man and Friends - Where is Hulk (USA) (Smartbook)" id="0409">
 		<category>Games</category>
@@ -381,20 +376,15 @@
 		<description>Teletubbies - Time for Teletubbies (USA) (V.Smile Baby)</description>
 		<rom name="Teletubbies - Time for Teletubbies (USA) (V.Smile Baby).bin" size="8388608" crc="f4950adb" md5="ea12e504dd6baf0aff54f2b050b0791e" sha1="92b1d5ca2c6c249872a17a3820082eb24aa0ebe3" sha256="fdb5b0340ddf374f8dfc901204b148c2adac8e750ffd8dc24261bcf996a84cab"/>
 	</game>
-	<game name="Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion)" id="0198">
+	<game name="Thomas &amp; Friends - Engines Working Together (USA) (Rev 1)" id="0191">
 		<category>Educational</category>
-		<description>Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion)</description>
-		<rom name="Thomas &amp; Friends - Engines Working Together (USA) (V.Smile Motion).bin" size="8388608" crc="37ac541b" md5="6890738e51516c490ce3112ca01c8001" sha1="5f75fc5e006986b086fb58b522ffb3db0f5822eb" sha256="6d83fa726a09e69be71ea13e3e8f11de2c4ef31c1bc67fadc1ec83372d68d540"/>
+		<description>Thomas &amp; Friends - Engines Working Together (USA) (Rev 1)</description>
+		<rom name="Thomas &amp; Friends - Engines Working Together (USA) (Rev 1).bin" size="8388608" crc="abdf79ef" md5="c01b1802192cee219cc853e0de7a0a82" sha1="31cb54ca25f704a1c5cd7481f7f203923b50b4dd" sha256="3ad5e78b9e46a66db8ee27650779fdb434d9c4c9813affbe231928ad47c41dd9"/>
 	</game>
 	<game name="V.Smile - Art Studio (USA) (V.Smile Art Studio)" id="0152">
 		<category>Educational</category>
 		<description>V.Smile - Art Studio (USA) (V.Smile Art Studio)</description>
 		<rom name="V.Smile - Art Studio (USA) (V.Smile Art Studio).bin" size="4194304" crc="3bbfb917" md5="231344ba4f8592c995372656d194d521" sha1="62eff99609f4958f7059408f588aaed4ba6fc2be" sha256="eea58f2eb6482d6bc2101051f65a80cd1eb2943236a530c463e9be7e6015c471"/>
-	</game>
-	<game name="V.Smile - Estudio De Arte (Spain) (V.Smile Art Studio)" id="0441">
-		<category>Educational</category>
-		<description>V.Smile - Estudio De Arte (Spain) (V.Smile Art Studio)</description>
-		<rom name="V.Smile - Estudio De Arte (Spain) (V.Smile Art Studio).bin" size="4194304" crc="f9911730" md5="fc45ffae135c42021cc3cfc8e7b45528" sha1="bff0b2ca61a2e5a8ae42b5d78103862e7f6a357f" sha256="090eedad9642186768e208b095c0a606c74c109f5c53f9c31378932b803c9bc2"/>
 	</game>
 	<game name="V.Smile - Jammin' Gym Class (USA) (Jammin' Gym Class Exercise Mat)" id="0442">
 		<category>Educational</category>
@@ -416,20 +406,10 @@
 		<description>V.Smile - Smart Keyboard (USA) (Smart Keyboard)</description>
 		<rom name="V.Smile - Smart Keyboard (USA) (Smart Keyboard).bin" size="8388608" crc="4e8ca1bb" md5="943009a6770aec7a8597b5c2c959fff0" sha1="ef8aa08a01bdbbbf01c481efd3a0def6326aa6ac" sha256="5ca9ccd2ecb719730b7f81a8380ef4238801d8a6f34befbcef32320c95cbbe8c"/>
 	</game>
-	<game name="V.Smile - Studio de dessin (France) (V.Smile Art Studio)" id="0223">
-		<category>Educational</category>
-		<description>V.Smile - Studio de dessin (France) (V.Smile Art Studio)</description>
-		<rom name="V.Smile - Studio de dessin (France) (V.Smile Art Studio).bin" size="4194304" crc="fec3361e" md5="b348e5a0644f819c55d436fd37011a56" sha1="42ae399bc442bb9dbeb4b9aa5fe9d1e721664849" sha256="526c2fb7f141882006df7dadc68b195a558029d795fd673b7776572231377f21"/>
-	</game>
-	<game name="V.Smile - Tecknarstudio (Sweden) (V.Smile Art Studio)" id="0040">
-		<category>Educational</category>
-		<description>V.Smile - Tecknarstudio (Sweden) (V.Smile Art Studio)</description>
-		<rom name="V.Smile - Tecknarstudio (Sweden) (V.Smile Art Studio).bin" size="4194304" crc="27449e15" md5="2485576139d306d7a50a17bde111ddbd" sha1="5c13865dffb04c98c69f3422c965d76a9aa36c33" sha256="7c0b9e8f4e9c556c22d0de4231701fef7c660ac2309be2149cabe2229cfbdfaf"/>
-	</game>
-	<game name="V.Smile - Zeichenatelier (Germany) (V.Smile Art Studio)" id="0073">
+	<game name="V.Smile - Soccer Challenge (USA) (Rev 2)" id="0448">
 		<category>Games</category>
-		<description>V.Smile - Zeichenatelier (Germany) (V.Smile Art Studio)</description>
-		<rom name="V.Smile - Zeichenatelier (Germany) (V.Smile Art Studio).bin" size="4194304" crc="ae5f4fe2" md5="a2d513e510e109bdaeb1caef1a3179b9" sha1="1c5428da7464182e6ee0585d1ebc211f91667238" sha256="2f49a2e1e924408a572b198d8cc8b0b86ac0a04fc02c947958142605b71db591"/>
+		<description>V.Smile - Soccer Challenge (USA) (Rev 2)</description>
+		<rom name="V.Smile - Soccer Challenge (USA) (Rev 2).bin" size="8388608" crc="e96f49df" md5="56e0aee9c808d344c460ac86c1d270e3" sha1="e06eb8657d179a80ad23e832b46c6e85235b66c8" sha256="f1760b66008913880a7aedd9e94ab7cf0e0bae9615712505d8039ba33f07bd9d"/>
 	</game>
 	<game name="Wiggles, The - It's Wiggle Time! (USA)" id="0190">
 		<category>Educational</category>

@@ -4,12 +4,12 @@
 		<name>Bally - Astrocade (Tapes) (Retool)</name>
 		<description>Bally - Astrocade (Tapes) (1) (-y) [-aAbBcdkmMpPuv] (20220914-145554) (Retool)</description>
 		<version>20220914-145554</version>
-		<date>2026-03-14 04-39-40</date>
+		<date>2026-03-15 05-00-25</date>
 		<author>MeguCocoa</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Super Slope (USA)" id="0001">
 		<category>Games</category>

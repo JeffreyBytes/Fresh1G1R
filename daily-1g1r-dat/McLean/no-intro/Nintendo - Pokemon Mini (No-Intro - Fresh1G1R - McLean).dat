@@ -4,12 +4,12 @@
 		<name>Nintendo - Pokemon Mini (Retool)</name>
 		<description>Nintendo - Pokemon Mini (11) (-ly) [-aAbBcdDefkmMopPruv] (20250407-153358) (Retool)</description>
 		<version>20250407-153358</version>
-		<date>2026-03-14 04-31-53</date>
+		<date>2026-03-15 04-53-01</date>
 		<author>Arctic Circle System, Flashfire42, psykopat, rarenight, relax, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Pokemon Party Mini (USA)" id="0009">
 		<category>Games</category>

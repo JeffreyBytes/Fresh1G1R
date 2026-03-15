@@ -5,11 +5,11 @@
 		<name>Sega - Mega CD &amp; Sega CD (Retool)</name>
 		<description>Sega - Mega CD &amp; Sega CD (261) (-y) [-aAbBcefkmMoprv] (2026-02-19 14-50-55) (Retool)</description>
 		<version>2026-02-19 14-50-55</version>
-		<date>2026-03-14 04-24-38</date>
+		<date>2026-03-15 04-45-54</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3 Ninjas Kick Back (USA)">
 		<category>Games</category>

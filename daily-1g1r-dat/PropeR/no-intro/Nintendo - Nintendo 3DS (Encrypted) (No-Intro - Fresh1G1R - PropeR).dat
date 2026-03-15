@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted) (935) (-y) [-aAbBcdkmMpPuv] (20260310-150248) (Retool)</description>
 		<version>20260310-150248</version>
-		<date>2026-03-14 04-42-05</date>
+		<date>2026-03-15 05-02-50</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="100% Pascal Sensei - Kanpeki Paint Bombers (Japan)" id="1732">
 		<category>Games</category>

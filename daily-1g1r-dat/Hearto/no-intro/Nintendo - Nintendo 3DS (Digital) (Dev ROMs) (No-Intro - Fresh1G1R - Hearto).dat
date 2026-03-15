@@ -4,12 +4,12 @@
 		<name>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (Retool)</name>
 		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs) (20) (-y) [-aAbBcefkmMoprv] (20260223-023443) (Retool)</description>
 		<version>20260223-023443</version>
-		<date>2026-03-14 04-26-37</date>
+		<date>2026-03-15 04-47-54</date>
 		<author>Gefflon, Hiccup, MisterSheeple, rarenight, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3D Challenge (Japan) (2011-01-12) (Tech Demo)" id="0013">
 		<category>Demos</category>

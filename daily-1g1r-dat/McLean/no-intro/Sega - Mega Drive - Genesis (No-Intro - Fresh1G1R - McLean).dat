@@ -4,12 +4,12 @@
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
 		<description>Sega - Mega Drive - Genesis (807) (-ly) [-aAbBcdDefkmMopPruv] (20260221-141231) (Retool)</description>
 		<version>20260221-141231</version>
-		<date>2026-03-14 04-32-17</date>
+		<date>2026-03-15 04-53-25</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="3 Ninjas Kick Back (USA)" id="0004">
 		<category>Games</category>
@@ -1261,10 +1261,10 @@
 		<description>Fun 'n' Games (USA)</description>
 		<rom name="Fun 'n' Games (USA).md" size="1048576" crc="b5ae351d" md5="61137a2922642fd9c7e4b3ae96a4e3d3" sha1="6085d3033edb32c468a63e0db95e5977e6853b48" sha256="d249b70d3465f011fcfb2f99d1670927342d88149204299a92a40a294b6a3574"/>
 	</game>
-	<game name="G-LOC - Air Battle (USA) (Sega Channel)" id="1754">
+	<game name="G-LOC - Air Battle (World)" id="0523">
 		<category>Games</category>
-		<description>G-LOC - Air Battle (USA) (Sega Channel)</description>
-		<rom name="G-LOC - Air Battle (USA) (Sega Channel).md" size="1048576" crc="c6bc06fd" md5="466f9b8bff4b267ae64a0c62dd78c1a5" sha1="9c0c4e4194fb615c2b651e1862a499b3e31f1952" sha256="0ce53944e1127940f34cd5f3ededb25b743997751c274fe3c13a84c74fbcf2f9"/>
+		<description>G-LOC - Air Battle (World)</description>
+		<rom name="G-LOC - Air Battle (World).md" size="1048576" crc="f2af886e" md5="59b8fcc1e0c2113d841025e7ee0d152f" sha1="81bb08c4080ca9a8af65597d1c7b11ce902c8d9e" sha256="892069902b53325e1eade44321440edce48b74d2cf077bc0696d25c3005374e2"/>
 	</game>
 	<game name="Gadget Twins (USA)" id="0525">
 		<category>Games</category>
@@ -2641,10 +2641,10 @@
 		<description>Punisher, The (USA)</description>
 		<rom name="Punisher, The (USA).md" size="2097152" crc="695cd8b8" md5="0711541847d139a7dae88958b68f92ee" sha1="4ef2675e728903925a7b865daa75ed66bbe24829" sha256="4b84bd9e6813233e97bae16e3fb5924aa2c459710131e9be9f1aa025787ccf27"/>
 	</game>
-	<game name="QuackShot Starring Donald Duck (USA) (En,Ja) (Sega Channel)" id="3679">
+	<game name="QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)" id="1764">
 		<category>Games</category>
-		<description>QuackShot Starring Donald Duck (USA) (En,Ja) (Sega Channel)</description>
-		<rom name="QuackShot Starring Donald Duck (USA) (En,Ja) (Sega Channel).md" size="524288" crc="45d104a7" md5="268c6c779b8752998561e6d34be4f746" sha1="726130cb86eed7447c665d7115b00420fb03f0bc" sha256="5d3791e89a03d2edd679cec04690e9eced36b1959cf4cba93c2e5248126bd4d5"/>
+		<description>QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)</description>
+		<rom name="QuackShot Starring Donald Duck (World) (En,Ja) (Rev A).md" size="524288" crc="5dd28dd7" md5="ade4e47b0fbd329acaf36efc4f8d637d" sha1="ca02845fa49cd46ccb0a4023b91b10695573668e" sha256="44c96f106b966d55131473ea6554522279953c73cf33e2ad34abc73f1bcc465d"/>
 	</game>
 	<game name="Quad Challenge (USA)" id="1061">
 		<category>Games</category>
@@ -3021,10 +3021,11 @@
 		<description>Soldiers of Fortune (USA)</description>
 		<rom name="Soldiers of Fortune (USA).md" size="1572864" crc="a84d28a1" md5="b90ff517cba6492377e02d23fcda4b80" sha1="619faee3d78532478aad405db335d00fb93e6850" sha256="6566228d5f6b51d51d25ba3ee53ab4be2a273d424508b7a93cdad68b8f4ba54e"/>
 	</game>
-	<game name="Sonic &amp; Knuckles (USA) (Sega Channel)" id="3484">
+	<game name="Sonic &amp; Knuckles (World)" id="1216">
 		<category>Games</category>
-		<description>Sonic &amp; Knuckles (USA) (Sega Channel)</description>
-		<rom name="Sonic &amp; Knuckles (USA) (Sega Channel).md" size="2097152" crc="87f40b6a" md5="8e3aabc5725d0d8416b70638cc858561" sha1="1723439e7990724076e11f614b6db3d69cad0cc1" sha256="766a05c15cd3b4cbeddf58a60207b38d37d879724ea2bc7b93a9d0b33c1b984f"/>
+		<description>Sonic &amp; Knuckles (World)</description>
+		<rom name="Sonic &amp; Knuckles (World) (Lock-on).bin" size="262144" crc="4dcfd55c" md5="b4e76e416b887f4e7413ba76fa735f16" sha1="70429f1d80503a0632f603bf762fe0bbaa881d22" sha256="e184f5982a99c6ebf7799383f16a8624221755786056a3573944598283a4b8cf"/>
+		<rom name="Sonic &amp; Knuckles (World).md" size="2097152" crc="0658f691" md5="4ea493ea4e9f6c9ebfccbdb15110367e" sha1="88d6499d874dcb5721ff58d76fe1b9af811192e3" sha256="6e12e6b33c26ebfcd0be433251d21cf6284eafe9f71b027bda3767ae59affec1"/>
 	</game>
 	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-on Combination)" id="1217">
 		<category>Games</category>

@@ -4,12 +4,12 @@
 		<name>Apple - Macintosh (Uncategorized) (Retool)</name>
 		<description>Apple - Macintosh (Uncategorized) (6) (-ly) [-aAbBcdDefkmMopPruv] (20220727-190511) (Retool)</description>
 		<version>20220727-190511</version>
-		<date>2026-03-14 04-31-41</date>
+		<date>2026-03-15 04-52-49</date>
 		<author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Alge-Blaster Plus! (USA, Europe) (v1.1)" id="0055">
 		<category>Games</category>

@@ -4,12 +4,12 @@
 		<name>Sharp - X68000 (Flux) (Retool)</name>
 		<description>Sharp - X68000 (Flux) (1) (-y) [-aAbBcdkmMpPuv] (20220302-045947) (Retool)</description>
 		<version>20220302-045947</version>
-		<date>2026-03-14 04-41-13</date>
+		<date>2026-03-15 05-02-05</date>
 		<author>Unknown</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="Detana!! TwinBee (Japan) (5.25 inch)" id="0001">
 		<category>Games</category>

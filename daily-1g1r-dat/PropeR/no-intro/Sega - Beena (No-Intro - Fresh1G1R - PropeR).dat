@@ -4,12 +4,12 @@
 		<name>Sega - Beena (Retool)</name>
 		<description>Sega - Beena (56) (-y) [-aAbBcdkmMpPuv] (20240607-160830) (Retool)</description>
 		<version>20240607-160830</version>
-		<date>2026-03-14 04-42-09</date>
+		<date>2026-03-15 05-02-54</date>
 		<author>Gefflon, relax, TeamEurope</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="1-nichi 10-pun de E ga Jouzu ni Kakeru Beena (Japan)" id="0035">
 		<category>Games</category>

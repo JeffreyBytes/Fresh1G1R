@@ -4,12 +4,12 @@
 		<name>Commodore - Commodore 64 (Tapes) (Retool)</name>
 		<description>Commodore - Commodore 64 (Tapes) (1,653) (-y) [-aAbBcefkmMoprv] (20230804-123725) (Retool)</description>
 		<version>20230804-123725</version>
-		<date>2026-03-14 04-26-06</date>
+		<date>2026-03-15 04-47-22</date>
 		<author>C. V. Reynolds</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="007 - A View to a Kill (Europe)" id="0001">
 		<category>Games</category>

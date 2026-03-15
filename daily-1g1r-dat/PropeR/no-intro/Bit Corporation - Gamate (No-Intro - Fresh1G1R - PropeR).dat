@@ -4,12 +4,12 @@
 		<name>Bit Corporation - Gamate (Retool)</name>
 		<description>Bit Corporation - Gamate (61) (-y) [-aAbBcdkmMpPuv] (20230627-112619) (Retool)</description>
 		<version>20230627-112619</version>
-		<date>2026-03-14 04-40-58</date>
+		<date>2026-03-15 05-01-48</date>
 		<author>Hiccup, relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="4 in 1 - Cube Up + Mini Golf + Vindicators + Brick Blaster (World)" id="0052">
 		<category>Games</category>

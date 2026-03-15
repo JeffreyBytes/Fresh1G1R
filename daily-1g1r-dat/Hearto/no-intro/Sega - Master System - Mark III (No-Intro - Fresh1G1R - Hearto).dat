@@ -4,12 +4,12 @@
 		<name>Sega - Master System - Mark III (Retool)</name>
 		<description>Sega - Master System - Mark III (449) (-y) [-aAbBcefkmMoprv] (20260226-210802) (Retool)</description>
 		<version>20260226-210802</version>
-		<date>2026-03-14 04-29-05</date>
+		<date>2026-03-15 04-50-19</date>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, ChuckD, fuzzball, Gefflon, gigadeath, Hiccup, kazumi213, nnssxx, NovaAurora, omonim2007, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="11 Hap Gam-Boy (Korea) (Unl)" id="0770">
 		<category>Games</category>

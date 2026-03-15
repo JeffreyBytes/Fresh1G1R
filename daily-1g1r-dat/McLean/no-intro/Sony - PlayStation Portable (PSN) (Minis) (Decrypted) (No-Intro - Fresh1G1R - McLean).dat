@@ -4,12 +4,12 @@
 		<name>Sony - PlayStation Portable (PSN) (Minis) (Decrypted) (Retool)</name>
 		<description>Sony - PlayStation Portable (PSN) (Minis) (Decrypted) (309) (-ly) [-aAbBcdDefkmMopPruv] (20251222-175857) (Retool)</description>
 		<version>20251222-175857</version>
-		<date>2026-03-14 04-34-33</date>
+		<date>2026-03-15 04-55-41</date>
 		<author>buckwheat, jimmsu, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="1000 Tiny Claws (USA) (Minis)" id="0002">
 		<category>Games</category>

@@ -2,14 +2,14 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Portable (PSN) (Encrypted) (Retool)</name>
-		<description>Sony - PlayStation Portable (PSN) (Encrypted) (742) (-ly) [-aAbBcdDefkmMopPruv] (20260306-065333) (Retool)</description>
+		<description>Sony - PlayStation Portable (PSN) (Encrypted) (561) (-ly) [-aAbBcdDefkmMopPruv] (20260306-065333) (Retool)</description>
 		<version>20260306-065333</version>
-		<date>2026-03-14 04-32-11</date>
+		<date>2026-03-15 04-53-20</date>
 		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="101 in 1 Megamix (USA) (En,Fr,Es)" id="0007">
 		<category>Games</category>
@@ -43,29 +43,11 @@
 		<game_id>UP2008-ULUS10227_00-0011011101010111</game_id>
 		<rom name="P3ToJK0UabOmwC7E6gAxxWhO3JNLryCFCYUImQb40n4AXFv44kDbJk93YdBV1V0050g2k6ubNy5PHHrw5LXQ4O9jlh2hrqYgO7qCM.pkg" size="18551280" crc="0f36d349" md5="425f7e06a8b38d16cff86c44e59a0781" sha1="edfc8bc42d60b52e6afad25e2421a7177fe2a4cb" sha256="20b21555fd25747fe382b86036b74c407c08a91afec3009ce52b8287feafa97c"/>
 	</game>
-	<game name="ACR 1 (USA) (Theme)" id="5860">
-		<category>Games</category>
-		<description>ACR 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-ACRPSPTHEME00001</game_id>
-		<rom name="yBYmHSyvV2A9RutrXHFjI2JKiGobxKW4D3H9ekpNitcXdCk5sMy3XAjcGLuxLTa34hK7qIN3DEullLAR0aowP0LsD5ex3jVMa325j.pkg" size="520544" crc="f49fdb37" md5="4407fde3eee4b01b04457bc515912f4f" sha1="e6bf2dd23abccc7225978539a6fc7e1fd5f35ef9"/>
-	</game>
-	<game name="ACR 2 (USA) (Theme)" id="5861">
-		<category>Games</category>
-		<description>ACR 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-ACRPSPTHEME00002</game_id>
-		<rom name="eBdt6lEUEH0Vov2PdB0R4hKpYtXWycctVhgb0jmTqHUiG6cX9lJGRSX7aquBNYSi1XCLLmvtfH0HMuEGft423A89P3yWsN3XyyuxE.pkg" size="539520" crc="bd52db90" md5="eadea58de3986f789bc429b0d56cdf39" sha1="e8e4403d478c7eeab69dd1ee75ee3b430a3b014a"/>
-	</game>
 	<game name="AFL Challenge (Europe)" id="3959">
 		<category>Games</category>
 		<description>AFL Challenge (Europe)</description>
 		<game_id>EP4116-NPEH00022_00-AFLCHALLENGE0001</game_id>
 		<rom name="LrnRpsbYXOdMPGsnGOvLbF1xxspMaV3WQ8e6QJxVX5fP7Xk0p7xnMETTshDbGjqM1TTLmJXTFv501fRXexnGQavmCFccXYqREl4vq.pkg" size="17953024" crc="859b6d72" md5="807751b24fdd285febe9fae0d06189d9" sha1="0e4ab654971eb8cf81280687cdfd5cafb0add4a1" sha256="f19c4fe3c9755c8539cae976060799ae3f000a63c59811c12cdb63891cd05b48"/>
-	</game>
-	<game name="AK47 Digital (USA) (Theme)" id="5874">
-		<category>Games</category>
-		<description>AK47 Digital (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-DIGITALAKPSPTH01</game_id>
-		<rom name="EvFRRuHEjqOxsaHtlHYSNPZhoWfpAuVFGqLflQhzxnycepRBiPUueyTVQQuTiuYCFBpBSexDourfjDdMuflwzZZUOoAwVuJBQBUQF.pkg" size="532352" crc="add1190f" md5="faff2a14b6c604c80edc54ca8a9c1639" sha1="4783c90556bf30d591af4df09e5e7e0dc86fb551"/>
 	</game>
 	<game name="Ace Combat - Joint Assault (USA)" id="0038">
 		<category>Games</category>
@@ -218,65 +200,17 @@
 		<game_id>UP0367-ULUS10454_00-ASTROBOYTHEGAME1</game_id>
 		<rom name="bg2FHFyaIaAimtkQVP301XdVUTo3uqMpaKXyVcsMil9kjBn95tIVM9txycSei40gvVQNWfXmmjIS4bIj2I1jeeMdfgjpORiDuXJlJ.pkg" size="1003718208" crc="c4465d17" md5="2414d70784bf40ab0a6fca65bbd14f90" sha1="484818551a5e7cf2d74713c873e25908b730ead2" sha256="c74bf2fb2d7e5fbbb7c383d5b512b97eda903db901ba1e01e10c2e9562c664e8"/>
 	</game>
-	<game name="Atomic Blast (USA) (Theme)" id="5833">
-		<category>Games</category>
-		<description>Atomic Blast (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-ATOMICBLASTPSP01</game_id>
-		<rom name="g6eSTIJaT46aQl0hVq1fD45m3hpeWatnTfx5FD8oXPx1eEtvBgFRXF4QxFB5PVufBhW9Do6yGeTCDr0ve1fTIwkmAeDToSnKEwyKa.pkg" size="423536" crc="003d1a92" md5="6a25505c7bbb8903913eb0d4e4b8a93a" sha1="3f3ae6c46991654172c6110969f75a3495a96aa7"/>
-	</game>
-	<game name="Attack of the Zombies 1 (USA) (Theme)" id="5864">
-		<category>Games</category>
-		<description>Attack of the Zombies 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-ATTACKOFZOMBIE01</game_id>
-		<rom name="DdlsSyvwoJkMerzZqKtOmeBVTbZiVqftsEEsHaTkhrEOpObZSZsmspRojOdisOlCgCKuborxnrUXtKsMRrgnNjgbkjWVfAefFcjVT.pkg" size="526288" crc="f7f58dac" md5="25441abaf3a621bc3561a1bcd01e0084" sha1="b24b420b88cfedd4d2b93cfc6be91cd3a353ce42"/>
-	</game>
-	<game name="Attack of the Zombies 2 (USA) (Theme)" id="5865">
-		<category>Games</category>
-		<description>Attack of the Zombies 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-ATTACKOFZOMBIE02</game_id>
-		<rom name="qnOcmQtOjsFoBTSpjWamTYFORVXWXLLEtbtsJbsuJbisplmBpsuVNXWiaQtUYwVNRIjUpBoSLqVBjSvQxmKdJGZhNUBVGyYSWBLbe.pkg" size="537552" crc="d0766807" md5="3a9295786b07142ae09ee81db96efad2" sha1="244e75cbce5b43be090001a30fd22e7cc324a123"/>
-	</game>
 	<game name="Auditorium (USA) (En,Fr,De,Es,It)" id="0184">
 		<category>Games</category>
 		<description>Auditorium (USA) (En,Fr,De,Es,It)</description>
 		<game_id>UP1026-NPUH10069_00-AUDPSPGAME000000</game_id>
 		<rom name="MITaGihQvWFkHiXVIINEIFwEcEVtjJjZxwPCsYsvHbUzmWbbAgIjthLCkvWDopLYlgrhbApiElMfJpYGOuvwzyhZcBKjvDYyUsmmA.pkg" size="24447072" crc="36b0212c" md5="6648320dc2f9632e4021eb8a0354e86a" sha1="0394faa322032f8bb8b646d767211e7c7c5c989c" sha256="c56f661c9260f75f21d02f848d04012f8fa3e4f1d03a8c5f49092a49f8963881"/>
 	</game>
-	<game name="Augbar Red Urban Camo (USA) (Theme)" id="5866">
-		<category>Games</category>
-		<description>Augbar Red Urban Camo (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-AUGBARREDCAMOT01</game_id>
-		<rom name="yNfDGObIHesXbwwyxdRTBfJgSUeLMWTGOepMLdeaHGHcfUTySzmhWXSyTvjXCrgFCUcSfJtICSdaaiTaXhiqaXMCUAZAEZOupFGBI.pkg" size="472256" crc="e4dd5269" md5="c8db773dd55387b274e96e2db58de79f" sha1="d1b814dc8b11cadd7dcea8c77278ba04488cb3f1"/>
-	</game>
-	<game name="Azmodeus Dark Angels - Theme 7 (USA) (Theme)" id="5659">
-		<category>Games</category>
-		<description>Azmodeus Dark Angels - Theme 7 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-AZMODDARKANGPSP7</game_id>
-		<rom name="ApDp7xMUgBj0S1f3U9n0Pa7G679Lh3J9xDF4WnPM6sOdaXvX4662MGBdwkqX3Or5FuauNb2W1W44Af4exCT6fcngwsUNWEKtDds9K.pkg" size="543840" crc="7d6cd528" md5="91f1d0ef3754541c226a7299750122d1" sha1="2b130d60e9fd9bb922826f6a3b8f76454f365f53" sha256="e76c31719b15a62ea3e6198075d413338f5dc677e528dd7b55a56a0397c542ca"/>
-	</game>
 	<game name="B-Boy (Europe)" id="0185">
 		<category>Games</category>
 		<description>B-Boy (Europe)</description>
 		<game_id>EP9000-UCES00249_00-BBOYUMD000000001</game_id>
 		<rom name="XAxUh1ggRrwroaIhw5JMUYF1lE70Dt9IiXc2C5r5I2QytoYjaYM6bRs6AuOTieKrx01fJS9CbBXCcpsK5av6duxgeDU7w9NtmPt3G.pkg" size="1795554576" crc="7631605a" md5="31c5966ae9ed78118ac3fb24f4fdaad8" sha1="e238ea019382888ca7c99666d351af45089e92b3" sha256="e56304b305040246c2653d5976858ad71a3aa610472925c5f1321b5f78a1c311"/>
-	</game>
-	<game name="B17 Flying Fortress 2 (USA) (Theme)" id="4461">
-		<category>Games</category>
-		<description>B17 Flying Fortress 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-B17FLYINFORTPSP4</game_id>
-		<rom name="siEOTA2PnRSW5QXQqdjR8NH5xmSdPo3jwGf2Kk05Nk0XityMt9d32OnQL15EA75JS9iHG3bbaoREmJtxRsuooyMSRqYM63rC7uEeP.pkg" size="584208" crc="d280b6f4" md5="81a998eeed852bdd5fec4afaed047196" sha1="6060ea922a78d7439d060d31911866df369b18e3" sha256="0f31915f7ab10616b2690e322fe2535420d14aaff43c85e662f6c946c3e119e7"/>
-	</game>
-	<game name="Bad Business - Sir George (USA) (Theme)" id="4462">
-		<category>Games</category>
-		<description>Bad Business - Sir George (USA) (Theme)</description>
-		<game_id>UT0003-NPUY00004_00-BADBUSINESSSIRGE</game_id>
-		<rom name="LXt1IbasOeTsi5vUfLbe5E8oe7fNvGLuICul3upehO18JPDOvuus3d1IICaLslrblTHH3qLnsabsB6CW1OLh3u892ekF5u3fI7qA8.pkg" size="645920" crc="15dce874" md5="a29eb8b48195e0833633c7b1d15746c2" sha1="5e8c3a67e4ecb6e64fd5c964ba0911ad9ba63a24" sha256="cbefa8aef213c0c9f6abf7a54e985a07b3bbb09b3e94c15d42884536e90471e2"/>
-	</game>
-	<game name="Banana Girl Hook-Ups (USA) (Theme)" id="4760">
-		<category>Games</category>
-		<description>Banana Girl Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-BANANAGIRLPSPTM1</game_id>
-		<rom name="K2IlevyA8XJKF88PfYvpBQHkxKIj4XwtaXwQfPb1qiMAkcIj2y50WU4YeN07R7hHnXtekHJ3Fj4EE2JOMbi9nWgfJINhRsKus2TAr.pkg" size="388144" crc="acb7ab38" md5="9ad72f4f3f27f0fce46ef295f6475ab3" sha1="be806a4f8cc128999ed71d9f468954fc0f6878de" sha256="c227de89129001102296be4b255f584d19781dc0053dcf2a56fdebe511f2b01a"/>
 	</game>
 	<game name="Baseball Stars 2 (USA) (NG)" id="0199">
 		<category>Games</category>
@@ -296,12 +230,6 @@
 		<game_id>UP0776-NPUH90076_00-BMAAROADTOARKHAM</game_id>
 		<rom name="8g01HldLhJAQW1wh8bof8kVbLjyE7aqdLIEPa3nPE2bRicDw0LdGrS9vA07epxQrWjBKIkRWjFMN3S0vRgTRQ33nyKkGGthWojoU4.pkg" size="10692656" crc="74e0b3ec" md5="9cecdc68982ca558964a63196ea987ea" sha1="5651d4bd5eb0ef2f8f594671b2e4b80c0af8a34c" sha256="e3b48bb27994862d0bbaf8236413a838d55e5f03335ae5f665187ef916cc4b94"/>
 		<rom name="UP0776-NPUH90076_00-BMAAROADTOARKHAM.rap" size="16" crc="4ee12b78" md5="9caedea8956b52709cf2dbaf52b0863b" sha1="a36be7166265a122b35f4d7ba32bbd327c78fbb2" sha256="3d8f67c1afc2016293388266705c9f542cdd41a461904f5b3d0a6ddd00abb713"/>
-	</game>
-	<game name="Battlestar Galactica (USA) (Theme)" id="4778">
-		<category>Games</category>
-		<description>Battlestar Galactica (USA) (Theme)</description>
-		<game_id>US0018-NPUY00012_00-BSTARGALACPSPTM1</game_id>
-		<rom name="JVFfRKQQioSKQ417j1Fin1NwHROVlnutUmIxbpV6Krpj2SJW42sDCHOCbAtxoLAfSF9Yqq1XwcfhkVxcDYIUOyqWODt0AkuHr4KMI.pkg" size="551040" crc="1a0b3b6f" md5="0b54cf2ed417c3394f84778e740f8e50" sha1="d4d196acfece1eba3524cb2d4c99582009d27b9d" sha256="c20c6070d1e05fd30a772ca88fb39e2db7fda3c778e9e3a52461860c469289c1"/>
 	</game>
 	<game name="Beaterator (USA)" id="0221">
 		<category>Games</category>
@@ -359,12 +287,6 @@
 		<game_id>EP1001-NPEH00009_00-BIGS2PSP00000001</game_id>
 		<rom name="3A2ad4HLDnOpxWJUj7pBBFUhdH6FinDPNx37a733sj0pjm8g7NQq6ISV6qXjRHxGDQW30yYexTvlIXJlIiTKMSgN8NjSDveLAHsuf.pkg" size="457068352" crc="d1ae7ab3" md5="f0b7954810950b8844c25c3909301c9b" sha1="4572e89b2b7bb6a675946d01a1b1a350d226e293" sha256="4ec4e16e6a4d132579a39db3261d1a0dbf9929141856d60fa459869a11c4c8e8"/>
 	</game>
-	<game name="Bikini Nurse Girl Hook-Ups (USA) (Theme)" id="4752">
-		<category>Games</category>
-		<description>Bikini Nurse Girl Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-BIKININURSEPSP01</game_id>
-		<rom name="a2sQVs0QH99EE3GfbE2hqDmn8N5x6CKMBYqau00LK8Nad0Fujn6Ug2eDGYgrXTIpbIBUbWBsErfjgMLTxxtHotpp7VBGnMDYjfGCt.pkg" size="401584" crc="fbda18aa" md5="b6a963bb4f2c1acfc52dd7b4c243cb25" sha1="d18f88acf3427d75556841c5dcfeca4aea487497" sha256="3d49aeab6da2f4e7507492cb5bcf33d392bf81192f77bbfba63025ba6b75b831"/>
-	</game>
 	<game name="Black Rock Shooter - The Game (USA)" id="0255">
 		<category>Games</category>
 		<description>Black Rock Shooter - The Game (USA)</description>
@@ -406,24 +328,6 @@
 		<description>Blood Bowl (Europe) (v2.01) (Update)</description>
 		<game_id>EP4133-ULES01230_00-GAMEUPDATE000001</game_id>
 		<rom name="EP4133-ULES01230_00-GAMEUPDATE000001-A0201-V0100-PE.pkg" size="12060224" crc="ea8be59c" md5="98a751bee09f59c7f4f6b7c170854dbc" sha1="e901817dbe84879ca0495a7840d84061115704d1" sha256="0c42a90a28d13dcf1e40b334a98fd8da6f7792a65f44bdb098a159c66497e5d3"/>
-	</game>
-	<game name="Blue Tiger Camo 1 (USA) (Theme)" id="5868">
-		<category>Games</category>
-		<description>Blue Tiger Camo 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-BLUTIGERCAMPSP01</game_id>
-		<rom name="dIuBEhdqGWWcwN2GoC9LTqVwJxXbHdlrA8o8o904BPTYvVPaPE3rYDicnu5qIHpddEpEpdBRuf55Fku2R5Fl9XpPr4qefvp22v56d.pkg" size="564896" crc="0b90175e" md5="5ee544250efd1138785546ac54232ec0" sha1="67a7e232313e60e83fc23f5e19ef5ce55e9441db"/>
-	</game>
-	<game name="Blue Tiger Camo 2 (USA) (Theme)" id="5869">
-		<category>Games</category>
-		<description>Blue Tiger Camo 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-BLUTIGERCAMPSP02</game_id>
-		<rom name="Ao3EP71DMdFSmsJDOEAJYDprxjKYk8YbSgiQgIcF4F4fHbbwhgTxDfcDXAvGQ1iuOVImmg4CTuDkLbFmPQIDnnH7g8e1rSnnEfECX.pkg" size="555360" crc="107abb35" md5="bfab25a4b07bb7900891c3cdf401cba3" sha1="eb9730d1002af445019b65945840555e7aba15f5"/>
-	</game>
-	<game name="Blue Urban Camo Spectre (USA) (Theme)" id="5867">
-		<category>Games</category>
-		<description>Blue Urban Camo Spectre (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-BLUECAMOSPECTR01</game_id>
-		<rom name="PeSBHcSVVLBVTjESbrEUwcezdcIXBzAeysgMwBTgfdVDWnSQRoouOdJWRNiVwbDXrbLroZfwSafMOSOwWDQPjJWVmzxAHJVwEzZLa.pkg" size="491328" crc="4e88a178" md5="e0e75c550864e943c5847288465fe2db" sha1="6b221a331b24e1bf8e449c433ed2cf844777ae89"/>
 	</game>
 	<game name="Bomberman '94 (USA) (TGX)" id="0294">
 		<category>Games</category>
@@ -484,12 +388,6 @@
 		<description>Brunswick Pro Bowling (USA)</description>
 		<game_id>UP1039-ULUS10283_00-BRUNSWICKLEGACY1</game_id>
 		<rom name="bje9DibnTtvjpLuBAN8uT2hGMvYHPhvkBty6hEUbn5lsLydD7G3tNlrlWQgqlUrgkdoBoL1TO4AdYcp9LYcECcOVpuWpor0tmUc4U.pkg" size="109355488" crc="23b21d31" md5="620b782d9d040b2d7cf156bf42763da4" sha1="a2d8b5cd0124c5e4e298043c4360c4dbb9578afd" sha256="0936ff652d0b0dcb956b687d72fe03c1dc49ed61a63c321734ae8ddd5de6006d"/>
-	</game>
-	<game name="Bunnies Pinups Theme 4 (USA) (Theme)" id="4528">
-		<category>Games</category>
-		<description>Bunnies Pinups Theme 4 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-BUNNIESPSPTH0004</game_id>
-		<rom name="ceqMSJRERDLXbsFnMfINrQPspaBTP6p5NQn3XwUEwPAjNXUl0hHOVsbBFpFXm16DOfvr6wwvMtGmVsaKkDVxp3kElYJrAXoXS94Ll.pkg" size="592144" crc="059533ea" md5="da8c654f419172d78ee2209bf5be9846" sha1="b25a85c8fbe0712ac58e2fbabf9f6d437da3a32e" sha256="2b3b3a84f00c8016cd7b98e1255931b95f030cd246058e679cbb98c2d9d3434b"/>
 	</game>
 	<game name="Burnout Dominator (USA)" id="0338">
 		<category>Games</category>
@@ -612,24 +510,6 @@
 		<rom name="UP0101-ULUS10277_00-0000CASTLEVANIAX.rap" size="16" crc="e0d345eb" md5="f4d7829aaeadfb9e94b1b48d253d9d9d" sha1="f0272a4de4f69e539774bf1fbc899fe116500cf0" sha256="de4be9e6a2b0d12421a2dc1e613b21f2af7d6aa7acc425d990d02fddf6284c5d"/>
 		<rom name="krwJXshGt2M2obm7CqtwOa7C922CQuWWnyCDqeTRCgKpyxWkxeEg7ifjYjlgxKJDwKl4OvL6pFB0EyIdJkr8BJyxOYXXF29WWfrvW.pkg" size="749548496" crc="235532af" md5="fc8db14ccb4de7f0981918787c9e5e31" sha1="3cf45af5ee7ca528202d0779fbe5667f5d71b462" sha256="7d7ba9d0b553f922cacb7f64300d97bc3b06c011a3cb54a49113d52df7c043fd"/>
 	</game>
-	<game name="Cat Girl Akiko Hook-Ups (USA) (Theme)" id="4759">
-		<category>Games</category>
-		<description>Cat Girl Akiko Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-CATGIRLAKIKOPSP1</game_id>
-		<rom name="YWE4JvniuLNlq4LWuSFAEIpACtnmdcUuvFsNYPfo8omLVHlATDo3pCfloyjDhA5Mlr7Y2xKklVnjoayyoQCYS8KaxnBNNdUNdMPcq.pkg" size="346352" crc="7c635ca1" md5="9c58479a7b36a1f876e8f8fd0ad0a44a" sha1="22fe69f6fba615e47d43ac0eae89c646a6aca834" sha256="da0676dc0004f6ad493b87d6a67ed6b3a14643d09833ecc10a284e6755c39d01"/>
-	</game>
-	<game name="Catfight Girl Hook-Ups (USA) (Theme)" id="4751">
-		<category>Games</category>
-		<description>Catfight Girl Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-CATFIGHTPSPTHM01</game_id>
-		<rom name="6LDOMgvCFVTsbeKpYrpgUx4HcECPBe1U1kDiQBa4EP7S6DHKCjPTYUhgE3deXOAEFUScWUsnu2PhyCA3pooTxo5001Uq9swcdMQ9O.pkg" size="445216" crc="a54a6bdb" md5="b136acab983ea3874ef1265e15e83cc3" sha1="a3222897b5b0be9221f8d8192eb00149e27f1eef" sha256="3e526fd66b6a940dcca1b91b8ba6f0e6693e470812640ce337121aa786148669"/>
-	</game>
-	<game name="Celtic Maidens (USA) (Theme)" id="5660">
-		<category>Games</category>
-		<description>Celtic Maidens (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-CELTICMAIDPSP001</game_id>
-		<rom name="eYJtuIo32WyrLu7JNJInrAjsXBdpbyrG3ILTOjFP0xvrRwIK9pGLwBIfIsG5p3v5n0bbMY6bcVJWUXvSgTUpTnKgQ6lImr9gWXgtD.pkg" size="643312" crc="575e3974" md5="6526000ee8c8110c80a3f40e1d8c2b4d" sha1="e859608a1d543a2861a619d7c26549ac812fe4bc" sha256="5b6d9017b7e5cb2bed283ded837b5ee965d45af4895751601b241b52bb5d1e58"/>
-	</game>
 	<game name="Chameleon (USA)" id="0444">
 		<category>Games</category>
 		<description>Chameleon (USA)</description>
@@ -648,12 +528,6 @@
 		<description>Chessmaster - The Art of Learning (USA)</description>
 		<game_id>UP0001-ULUS10335_00-CMTAOLPSP00000DL</game_id>
 		<rom name="1Pd5vcgc0OJtSYpxoarTv5tGcW1ukpA8oSjb6pDntm2soA1bcTY5GB2mVkqQbW4TEJkeQD9kx3SPOjVpjcunOnxBhntKg4SOC2gxe.pkg" size="87946240" crc="15d48a94" md5="75eb4e193f2d17d3fd2aad57f2cdcec2" sha1="6d570d6e540e09ecb8eabf8fc234cef9619c8a94"/>
-	</game>
-	<game name="Chey Tac 1 (USA) (Theme)" id="5870">
-		<category>Games</category>
-		<description>Chey Tac 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-CHEYTACPSPTHEM01</game_id>
-		<rom name="EN7RWjMkVvmC4GlUOMDba8LLJPNCRGnyihCboVp4lGLxmT0EC3UjMkW1ook5TgPAx6qjCtClH2WlPbroGeqUUuiPko3GgH2hOvNCY.pkg" size="540368" crc="9b2a7763" md5="52bb0a7f30795164b4805eb57b9bd461" sha1="d79d51412729f58f79236eb3cc9518ca8443c6ad"/>
 	</game>
 	<game name="Cho Aniki Zero (USA)" id="0458">
 		<category>Games</category>
@@ -679,12 +553,6 @@
 		<game_id>UP1063-NPUH10114_00-CLDN2GAMEX001000</game_id>
 		<rom name="hNURKcPiNRqIsCeEnplLYXkcCkObGsVRoVIUmohnxpQDSTycYUCJPtHyWwGHksSWHioHgoZqsZMsYkBUAvhLMWMCQEoPRWJZuifkT.pkg" size="343274688" crc="977e61d5" md5="08cd0e5129686effed04e318dd28d405" sha1="ef7fec210defaadef1ee7ea627c639aa719ed539" sha256="9d0bcbc6dbbfa258729bcf630a7fd881c82d81bcc4f7959f508be93a6958c7ef"/>
 	</game>
-	<game name="Clash of the Titans (USA) (Theme)" id="4773">
-		<category>Games</category>
-		<description>Clash of the Titans (USA) (Theme)</description>
-		<game_id>US0001-NPUY00018_00-CLASHTITANSTHM01</game_id>
-		<rom name="2wqoJ3NNpgPnNxFhMiDDBrCeKPMQu2hpuE7UhHDFjHOnbNcY6CaCLIFOAdsj9BGBLKCaffEWSujkwhuKRCFcj3aVSEeL5s3qtqscr.pkg" size="697792" crc="ab0a469e" md5="07942bcf4d7de7146ae04ade463ccfac" sha1="462ad0dcde67bc261636e069f6de87a98000570b" sha256="22fb38e0a751ee2ae9b38cc623bfe46649b4e867bc966ec6a06e590671efe7f9"/>
-	</game>
 	<game name="Class of Heroes (USA)" id="0475">
 		<category>Games</category>
 		<description>Class of Heroes (USA)</description>
@@ -696,18 +564,6 @@
 		<description>Class of Heroes 2 (USA) (v2.00)</description>
 		<game_id>UP2039-NPUH10127_00-CLASSOFHEROES2PS</game_id>
 		<rom name="MOgVHKBTGyBZXYuYdVxRqQbQNOVBdIogJNItOEztCZZjDZXOxyIzYBwlWTNbFuntUnizuUviMzSLinzHJImNJtXAjLTkEYUbksHYn.pkg" size="277040448" crc="6e33555b" md5="9cc648173c14463512e94939fa72e994" sha1="1dbfe20931de70bf6f12984c73d866e8e52fdf24" sha256="4d9d324c637fbe1bbea551cf39d9cc712ec31cfdef973a973941ac55b358ef9c"/>
-	</game>
-	<game name="Claus of War (USA) (Theme)" id="5871">
-		<category>Games</category>
-		<description>Claus of War (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-CLAUSOFWARTHEM01</game_id>
-		<rom name="HjGdbsknEbZeeUQmkDxTBIBRWUJsNpYhOPvgTGDRCDXMJUPjcZBUPWlqloPqtwIHGZZcXuOTJBSWphAjMHnlEvgyBjLDunkgYxYHP.pkg" size="656384" crc="b509a684" md5="d0c60c681426ad3c1003429cec4646f9" sha1="13e9669ada94bf6b295e9d8856424e309bc630ac"/>
-	</game>
-	<game name="Claus of War 2 (USA) (Theme)" id="5872">
-		<category>Games</category>
-		<description>Claus of War 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-CLAUSOFWARTHEM02</game_id>
-		<rom name="ILMuKtxyXzkYwmbxbDPyCoUEFyqAxiKyqPqFLFRuoiuSEkkQgLjaVgzMmuZpbZcjwTlngzxTRwyRxtUHJdAWdeWCugzNXVwDDFukA.pkg" size="670976" crc="a4bcfe93" md5="88e04fdcdf99bba3a4126e6264fb5518" sha1="57443c6c53a9c3c56a7c86440ed63ca085e2438a"/>
 	</game>
 	<game name="Cloudy with a Chance of Meatballs (USA)" id="4700">
 		<category>Games</category>
@@ -727,18 +583,6 @@
 		<game_id>EP4001-ULES00111_00-GPCCOLINMC000001</game_id>
 		<rom name="EP4001-ULES00111_00-GPCCOLINMC000001.rap" size="16" crc="27ce72bb" md5="471d36ad71a4782d5199addcada7120a" sha1="8222a4da8cbd464a52f95b34327bb44816a4fcae" sha256="a413e5a76a64c56572a998f78b076d6be178d91340b3fc8123b470145d52a219"/>
 		<rom name="I61qR5p2yWtM0F5oWgQD7jjpjxKuJ46qLSs44SWhEy87qsOq5dgncfMrQ03oG4YaaOVXFNRJIE0fGRbBy4RGIJMo0XlGedQ8kfmx0.pkg" size="812538272" crc="7762ca1e" md5="f6dfefce40bb21104df301641dfd648a" sha1="8099a8071aec08f40582b81914577eab18b87be3" sha256="63fca8e82253511cb4b65bf61afba0a50597b1d9e9446697f58ad04ba2e2cfb0"/>
-	</game>
-	<game name="Comic Hero - PSP Theme 2 (USA) (Theme)" id="4799">
-		<category>Games</category>
-		<description>Comic Hero - PSP Theme 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-COMICHEROPSPTH02</game_id>
-		<rom name="gKCGqwpycUDWHOpxkofDyicwVtEbiCGxOxTtocYXOhElIuJvOkHocKRzKmQqwvckkIOKTvPGfDTeXrcDTSjuDFDARVsHRYbbttlBU.pkg" size="687888" crc="78870481" md5="dd343715e3bbeeca93c53bac5d8a1bb1" sha1="7e1344a9c39fab41fdde3e2ad6b2dc5896c0d87e" sha256="cb7cd1786ae85e587618f7abb34231a4324fb0b1a5fdfaa893e082737e262723"/>
-	</game>
-	<game name="Commando Tiger Camo (USA) (Theme)" id="5873">
-		<category>Games</category>
-		<description>Commando Tiger Camo (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-COMMANDOTIGERC01</game_id>
-		<rom name="NGAejtPGWTYGDALKEdpcPcOSOFkBLYGIbBOSFCXGiJjCNCeWRzJFnwVBMzeHhQXCSJBnlfkbHAsUBTAZjzoHIlblwtanZuBCLWcvR.pkg" size="463168" crc="a88c51a1" md5="423152395f37dd049e9fa0f7bfae5c9f" sha1="a486ea6db1378f08d92080d255376a8d04f48329"/>
 	</game>
 	<game name="Con, The (USA)" id="0501">
 		<category>Games</category>
@@ -890,12 +734,6 @@
 		<rom name="UP4108-ULUS10521_00-DOAPARADISEGAME1.rap" size="16" crc="51f7d71d" md5="76e055ebfca9ca025cc6d2ae6c7bc607" sha1="cac649f885c881ed9d0bcd0fd0fca4a5fdcd42f6" sha256="9691f0c65f7b5fc6294b3c4b507a7d2715efdc70db7571659cbf79f50566257a"/>
 		<rom name="fu8v64gcobQM4wE8YtkGMHaNLcxNAuEGaLQGDtSnd5umU1kn2pefFx5DvFhVNSgI5ufgIVpQV8vIbsk4pStEgc5144QRYvWYwudBx.pkg" size="599000800" crc="19bd15a2" md5="9ddb051bc99b99b0cb2415f60f005a75" sha1="170a261ec67cdc25cb42e3f563edc4383fafd2ed" sha256="bf3e872b66a932f781d15aceb275f51b8442d2d8304b14c1fff82b14d258f61e"/>
 	</game>
-	<game name="Deadliest Warrior (USA) (Theme)" id="4780">
-		<category>Games</category>
-		<description>Deadliest Warrior (USA) (Theme)</description>
-		<game_id>US0023-NPUY00020_00-DEADLIESTWARTH01</game_id>
-		<rom name="ywAyX5ROxhoHA58sCovyHY1uulYyNkQevmc0U1Ab83x6xgnWb9qF41UCVWx9eSaIS4GLkwwEM3woLXDwQcc5KiCmH5QhXFht846tp.pkg" size="450672" crc="1c72635f" md5="c82c5ddf770c78fbebfb01feab1ea5a4" sha1="b2e75939139d58b52ce4de0d20b32a8152865146" sha256="e1d0dc177603e5b52a3465a68b9766ed4f121941d75062132a0e900ccefaf2a4"/>
-	</game>
 	<game name="Death Jr. (USA)" id="0608">
 		<category>Games</category>
 		<description>Death Jr. (USA)</description>
@@ -916,30 +754,12 @@
 		<rom name="UP0006-ULUS10100_00-DEFJAMFFNYDIGITA.rap" size="16" crc="00dbf4ef" md5="80933089955c9cd3f69c3e8322558dab" sha1="c4fde6ca4caa72f3494b63f9d2221d8c19cd84bc" sha256="0dad6f35341328886118a20009442702dde878edad9e301b4ddcb98c8971b694"/>
 		<rom name="WUaqu3DNF1dDTUnoNH09Gxy1bFN9Ynb1n12LXFXDJwugj1E97n8kFRLSFguJYdWnf9qOEtEal66CtOgLVQ45V9TC0EX88FJ2L50sM.pkg" size="1533223968" crc="195d7d06" md5="c8aa0bad221a4e14d811ef416731aaa6" sha1="d5e21dab80741f025ca7894585f91bdd192fc5a8" sha256="26b96ffde11086a98fa772d457d95d600f6b663ef95d35e91bd557a837a6f336"/>
 	</game>
-	<game name="Design (Europe) (Theme)" id="4465">
-		<category>Games</category>
-		<description>Design (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00052_00-TPCPSPGOUM000001</game_id>
-		<rom name="lsW8OkySRsIVvECg5YQLmf9p9GunhsG0cTStfa0rUr7r7vCqATEroaiRTJhy9LSvQKlRw85rTaxk7ADLfX1WUdFRmBLKah2Bx9Gjy.pkg" size="452592" crc="56bbcc5f" md5="62d3c6766fad703cf0a9eb8c9f33b0b7" sha1="73825678d3a774af2dba71ab0625e5dacbddbd49" sha256="55fe21b3a4f607f16966de333b8cebcde6d35100d4cd89c4b975456ecbca602b"/>
-	</game>
 	<game name="Despicable Me - The Game (USA)" id="0621">
 		<category>Games</category>
 		<description>Despicable Me - The Game (USA)</description>
 		<game_id>UP0367-ULUS10534_00-DESPICABLEMEGAME</game_id>
 		<rom name="UP0367-ULUS10534_00-DESPICABLEMEGAME.rap" size="16" crc="7b68d9f6" md5="e96f015c3d663b5e3c82b580133a0a4c" sha1="0d7c4b87979c74c244f24a75dfdf89f5a4497b4f" sha256="51b123bf7b97edcc493699ef461bf95fb2969a8fa96b5c07d0013fd80d523954"/>
 		<rom name="bc6pg6Yw50Jn4STAYjtJ92QMoHbFL5PLCLmMCbFgEHAcE0p46jkiSmUD9qyrYC3iLyl2OjFbQnpmRBuRaHinp4qtu1MumW00XRDsL.pkg" size="339129968" crc="cdf890ed" md5="c3e81af9c8820cb76206fc1ac0d34de1" sha1="9dad1210992ceba4ba551db94ac3d8f780862c6a" sha256="b787c3cc6e6203e30c645b8013c356d258a891385e68ca830b48459e1651bc62"/>
-	</game>
-	<game name="Devil Girl Hook-Ups (USA) (Theme)" id="4793">
-		<category>Games</category>
-		<description>Devil Girl Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-DEVILGIRLPSPTM01</game_id>
-		<rom name="oVxEmQOOGwkgLSYhoaUyyLoW4jtWiEoS79FbJjxuopYWxadlFkgrSwPE1nDG6I39LpD1jJkyfdsBO0sK7X4U1TPAdt97sUJsrgToT.pkg" size="387712" crc="4e355abb" md5="ebbae63ce7899158690e888dad63b5bb" sha1="1e15e6e951f44cd6003127eb30ecd00ff7d4ffa8" sha256="ccae0c49dea3fa21155e93de865f6f04b4e1612bbf52b68fe50e3d5451c276b9"/>
-	</game>
-	<game name="Devil Vixen Hook-Ups (USA) (Theme)" id="4798">
-		<category>Games</category>
-		<description>Devil Vixen Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-DEVILVIXENPSPTM1</game_id>
-		<rom name="YtfB0YtQOcY1Xw1KGj78bsdDbMBxUHDAtYRIRTHX2siyXGnVuYkvew2u3ifvUKUllFlGqSnyaRSlR0cMU3Ep5CLQhwOGRFFf7D5iH.pkg" size="424064" crc="fba6a787" md5="562c994ecb0148f0df3e521287c56beb" sha1="b257c7e944535d26ccc425802ed0975be76d7d5f" sha256="c753d9a0a9edaf48961738c0627ce99eb32cd082d8075dce6952c7f555fa3b67"/>
 	</game>
 	<game name="Dirt 2 (USA)" id="0490">
 		<category>Games</category>
@@ -972,35 +792,11 @@
 		<game_id>HP1063-NPHH00238_00-0DISGAEAINFINITE</game_id>
 		<rom name="EkRGP0rSAt1e6rFpDSoJb4yC6UmURKsGhy8jv1VHtyJym729jUHAlvyhQI5881ATH2G7InETMpLa1tpA4i2AonG4bEbBj4IFB2MT8.pkg" size="161275616" crc="a79783d9" md5="cdd95970e892187e777c98791a073688" sha1="e1343bb25edbee436cbe8f8c27dc102ddb2bf808" sha256="126f3ae6826dddbb05709cad2579cdd0a4e9c903bb83e93221a328403e4b428b"/>
 	</game>
-	<game name="Disney Alice in Wonderland (USA) (Theme)" id="4768">
-		<category>Games</category>
-		<description>Disney Alice in Wonderland (USA) (Theme)</description>
-		<game_id>UP1082-NPUY10001_00-ALICEINWONDERPSP</game_id>
-		<rom name="G4F59PPXI6IlG8pkDpcS8osB8i2krhANI4sG8k2dGSo90mBRARbK6LnRhSh9uRRdhpl2hgPmUoiteO1SNnnxhifTkYVCHWQaQBLhv.pkg" size="610976" crc="c89ca893" md5="d67c625ed697d2733f992de40636c957" sha1="e3e06142323cd195d8f3cfb6dede812558e64287" sha256="9483740c37f760097665af7bf397b9d7ef1bd2b79f4cf1534bccb3f07f7d78f7"/>
-	</game>
-	<game name="Disney Princess and the Frog (USA) (Theme)" id="4771">
-		<category>Games</category>
-		<description>Disney Princess and the Frog (USA) (Theme)</description>
-		<game_id>UP1082-NPUY10001_00-PRINCESSANDFROG2</game_id>
-		<rom name="YX6I3okFK5al2XhcumwkiWyVLORs0XG8wLPQ4g61J2NAA99oORItU0G9nMvawttjcAHEQIL0pgffTomNJNpHMSe2XRyc0fhG4jIh8.pkg" size="593472" crc="f2925a73" md5="4d2de3c12e523304a5839add43dd4ebe" sha1="4f9b4461abb3e43be389f73cb8d15d217fb356d1" sha256="d8ca12274cf888fb7618d7693dc27c016caee6520152d66df44841dcb77fb9ad"/>
-	</game>
-	<game name="Disney Tinker Bell and the Lost Treasure (USA) (Theme)" id="4766">
-		<category>Games</category>
-		<description>Disney Tinker Bell and the Lost Treasure (USA) (Theme)</description>
-		<game_id>UP1082-NPUY10001_00-TINKERBELLLOST01</game_id>
-		<rom name="1iPCqErMq8S7Sh4i6wpH38DcLDvXkhfY1qu6WdmviD5TL4J2fyhymkthN8vsdikNrMgLH8JIPrH0E2CMurj3l1APOyOfpmVHK1wjh.pkg" size="624160" crc="d599b353" md5="57560114ba2a1c50c4421bac783bdd58" sha1="3e968a9ff0b439b634e231626f40b9af59feb7e4" sha256="5d30a184bd4898988f31ee7d739936f2e015604b1f40dcb7625e3e82c7bf5472"/>
-	</game>
 	<game name="Disney Tron - Evolution (USA) (En,Fr,Es)" id="3539">
 		<category>Games</category>
 		<description>Disney Tron - Evolution (USA) (En,Fr,Es)</description>
 		<game_id>UP1082-ULUS10548_00-TRONEVOLUTIONDGT</game_id>
 		<rom name="dQHymAwuZyGnRdwodyCNLuAMEfHSSISIKqfsHrRigOfQQgedEjCAuqigYmmctmGAVrKPwOdBkZfHYIQqZuWLWDeFjJCdXgAflxFwo.pkg" size="175165856" crc="37e9e5ef" md5="db21c2ca349ccd1b922a3bbfd462b9aa" sha1="b6d0ef78fdfb877aeb31c0d002396c2f40a1f483" sha256="5248e6101139f61b528ed1847d70d0b27348ebc82e1d96855065806a51931b92"/>
-	</game>
-	<game name="Disney Vintage Comic Mickey (USA) (Theme)" id="4769">
-		<category>Games</category>
-		<description>Disney Vintage Comic Mickey (USA) (Theme)</description>
-		<game_id>UP1082-NPUY10001_00-COMICMICKEYPSP01</game_id>
-		<rom name="uHU5IvI9pabyeqMln7yyelw8b2Bj4hp149gpXNej3AHoiQMO052vka0Jw9SFRkg24IHifRP1OyKV7E9kSFcyW53yx5xPJacWgs28f.pkg" size="642160" crc="ecd2ba0e" md5="5ea024569b2f38fcee387de17d5338e4" sha1="ffad099b3cafbddc35da2a4548bd90911bda2b24" sha256="a0e596fab5ae51ae40370d89f10a97cef4c85c424d4cf1ac19b9acac59a400d9"/>
 	</game>
 	<game name="Disney-Pixar Cars (Europe)" id="0685">
 		<category>Games</category>
@@ -1027,12 +823,6 @@
 		<rom name="EP1006-ULES01406_00-GPCTOYSTOR000003.rap" size="16" crc="cba97122" md5="15d81d3583bdb236e7cae0c3282b1f99" sha1="2f2bb55d5095ca4c1a927ac83fb122308a2abfb9" sha256="c0ea1928f28d9c2281afe46cea23d45177b20ea59ee84a928b7497fdfc61d94d"/>
 		<rom name="Uhvv5gkxBpoevFs2hUeBj2NiAMNBa9An6IFaRIRlYHGTPYQOm3LKUwcKEb6gSuWB94Tfs0QA52oE4kImUFcpDwRrolXoP5TKfi17i.pkg" size="147869408" crc="63049b92" md5="ae5c199e6bf500e12f92d854d72b79a3" sha1="5f9a3261e2d4702a7307b7acacf5339499772912" sha256="9a753b1e79dc9609cecc22b62b7916774c4bdc5715c83e0d7b2570db3432883f"/>
 	</game>
-	<game name="Disney-Pixar Toy Story 3 (USA) (Theme)" id="4767">
-		<category>Games</category>
-		<description>Disney-Pixar Toy Story 3 (USA) (Theme)</description>
-		<game_id>UP1082-NPUY10001_00-TOYSTORY3THEME02</game_id>
-		<rom name="2gh0ytII0BPp2JfHFuf0Y8s8yj5GfN5bwpwjkuKhpm2cqTpR9PudeHIibaCJv8Aur9qS6cgsSR3wfxyKHI3ExIjpn4uIFL8TsypH7.pkg" size="542464" crc="5e0439b7" md5="23f73daa75299ae5611f84e3c7bfe04f" sha1="ed1f285f648bd3b7a9c7863f9b22d7729edbfcb4" sha256="2d4b3350ba428deaac1d837a7ce895e9548cea1ad0889eadca2f8b3d0269dc4c"/>
-	</game>
 	<game name="Disney-Pixar Up (Europe)" id="0711">
 		<category>Games</category>
 		<description>Disney-Pixar Up (Europe)</description>
@@ -1045,24 +835,6 @@
 		<game_id>EP1006-ULES01082_00-GPCWALLEXX000009</game_id>
 		<rom name="EP1006-ULES01082_00-GPCWALLEXX000009.rap" size="16" crc="74bf5f45" md5="fe870a254d76bfe67c6c2d814cec5e9f" sha1="74c3edc9b9b75214632f2442ebe51d74e5bd5159" sha256="aaf83ec7386b43a9f44dfee569f926a26a5278ee76964b455e6345488e686319"/>
 		<rom name="SXVVfTrKEousQoJuKBFWHrNajraYEreENFxdJUFwkPNImMKfrFMOfKVADvlLJKGY.pkg" size="435006432" crc="745e6da5" md5="10c9c5dd58d45cbdca24d593bbbc4aab" sha1="419c9384373adf4f0ec7af32e5e1a888e431931d" sha256="ccd7c73a29959d0adf8c628c1b352656d94bdfca7e7079c190aa1ec9cf1ac678"/>
-	</game>
-	<game name="Disruptive Publishers - Acid Trip (USA) (Theme)" id="0042">
-		<category>Games</category>
-		<description>Disruptive Publishers - Acid Trip (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-ACIDTRIPPSPTHM01</game_id>
-		<rom name="AJ8KTR5Q1E1MSw22FgMeRLYvHacdrnOXJ1d7VuFAQJDSdvr1w90QI6tjpBOBX8kaCgoQrHsAKJvI7XmWPLusEmfPxvXijK7GOVyOJ.pkg" size="491408" crc="affc851b" md5="4eb9363341798a4625af604910aad5be" sha1="53e8a1043266c038e50b5ac5a5fbe1561cba0f23" sha256="ddb912ebb48d884e38ad9b39c283e06c4888238572d9cdc94b410996a15613d8"/>
-	</game>
-	<game name="Disruptive Publishers - American Pride (USA) (Theme)" id="4459">
-		<category>Games</category>
-		<description>Disruptive Publishers - American Pride (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-AMERICANPRIDPSP1</game_id>
-		<rom name="GMStJuvDJSNrtVsm635qottmhDQ7iEdCnwcocdap5qUY7IrFHtnD93JaGSWeVTC5f6bjDirkjtjDBq2DVe4HHGwtHbqLV536KUjLw.pkg" size="608832" crc="f488411a" md5="1ce6d4e1a843241b9c8053459c4ad7a7" sha1="1af1d1112b75dd4189541f5c96770e18dd1bda79" sha256="00ce969be6e4fb3197759f04d4c9e44908a9368f6078449c0f09cd86a7dbfebf"/>
-	</game>
-	<game name="Disruptive Publishers - Apache Gunship (USA) (Theme)" id="4460">
-		<category>Games</category>
-		<description>Disruptive Publishers - Apache Gunship (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-APACHEGUNSHIP001</game_id>
-		<rom name="TjUhv6R84f4LwKiNRBrin8YuwWLA700ckpyyI75a9l4d6UICaMRCyt9rSVw4mjmlxbEeMGP8qjleEAhMUiAypBDyhUdC90KECkDLE.pkg" size="472528" crc="855524f6" md5="e90d2d522d2651a830f1197a0b5c270c" sha1="6a043e5cfd280386ff4358668a3c9969f060e4cc" sha256="ae5fbb92d2e9173e84b4868c91c2f1e324ac705b43bb3a2bf1566f15d00780d4"/>
 	</game>
 	<game name="Disruptive Publishers - Beach Sampler (USA) (Static Theme)" id="0217">
 		<category>Games</category>
@@ -1077,48 +849,6 @@
 		<game_id>UT0001-NPUX00001_00-BIKINIFASHIONSHO</game_id>
 		<rom name="FvgTdpN897SGhD9x40BmSI7FAuL5doKgs88Xd3BLL1ADurJTLKwtVAffhiarIknFUthbTSA3kgWVKNMVeveAnKpHvGlPTWx6t0hAH.pkg" size="456496" crc="b7fe4213" md5="b758c3d05ffa56dc27128510ee6f3480" sha1="806b4522aeb86f39178b41f84e0ffd1551056d7d" sha256="9acff362ef04d5fd94dfd56572516ff08232b5fc9d12e760d7dd8f1e702e2db9"/>
 		<rom name="UT0001-NPUX00001_00-BIKINIFASHIONSHO.rap" size="16" crc="0c627caa" md5="23f55ce6fc235b6dbcca0a64d8554a51" sha1="e53308b9bb90d9c79b6a0d8eccb8b44b3d5381b0" sha256="142a2cefddbbeda47a849ff9bd37b968b0b67edf30b021b7ecec0ddbe1fae9c9"/>
-	</game>
-	<game name="Disruptive Publishers - Chinese Fighting Dragons (USA) (Theme)" id="4547">
-		<category>Games</category>
-		<description>Disruptive Publishers - Chinese Fighting Dragons (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-CHINESEDRAGONPSP</game_id>
-		<rom name="9D7jnQu3UoiGJgfWnmaop4whGeYRQGXyM4A5gGwTtkijvhWG6ijr0kfe2Y0B0N68sLt60sgX6C5XJjmebTb8lWl0SE2TBv8QARaad.pkg" size="418976" crc="3f771561" md5="a9af411ecc7456d4419f7c0c48fc2ab4" sha1="1d5ab3603464a2b6a4b23647c2fcd405481736f0" sha256="dcfd9d9a3a32ec5a99b21c9569e89a50c2d428a69f338b5078ba1ba8b700e895"/>
-	</game>
-	<game name="Disruptive Publishers - Hell's Heads (USA) (Theme)" id="5658">
-		<category>Games</category>
-		<description>Disruptive Publishers - Hell's Heads (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-HELLSHEADSPSP001</game_id>
-		<rom name="IlLPMWKwBhNrRVqnBKQLio05UvEgylE5MOi8rybsXKJh0SGxM39AgrfnOcqKO1wrwgyCimWmGhU6EpeFauaMLdoqoSpi703g7r1oK.pkg" size="308960" crc="3d9f8577" md5="bb54033c12b155465a98d988425be362" sha1="31dccbbf1c978a8bad14af7c8e07001c558b4775" sha256="21d02ec72ca3565f5d735246205195a8f069b29ed098d21263a6676061f42f69"/>
-	</game>
-	<game name="Disruptive Publishers - Hot Tub Hottie (USA) (Theme)" id="4803">
-		<category>Games</category>
-		<description>Disruptive Publishers - Hot Tub Hottie (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-HOTTUBHOTTIPSP01</game_id>
-		<rom name="OFhUOEkYGHVUC9VWh4tAV6Soc7Y39WBGlA0X8l8NrE9usowWf8g9X4bdHCcwvBlN83DPURXOspp9GkMArMKyUWu4HnTLb9mr80fQ0.pkg" size="593600" crc="964ccd6f" md5="997d74d773089050421db9a902706d42" sha1="1f75520ef214a654567c488a4dc3a2f0a81d51eb" sha256="cb9c5d70e0f15b3db4345d0546a777196140bac43ca88db4767a3c7418729031"/>
-	</game>
-	<game name="Disruptive Publishers - Materials - Brushed Metal (USA) (Theme)" id="4555">
-		<category>Games</category>
-		<description>Disruptive Publishers - Materials - Brushed Metal (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-MATERBRUSHEDME01</game_id>
-		<rom name="xxrPzbyoRFCPeKkttkhbHnjyEsRYAroOClHLeeWKOsrnFhhiDWaCZvcPmwiURufQNcCbgQESBxycwDeFodGbxOFWpFVjfsaykEuyO.pkg" size="227424" crc="83d463bb" md5="7a6975c94a88b69bcb1669b3aaf01e22" sha1="6a2c439d9ada3ffa9a592b8ef0dee831e1c5aaf8" sha256="abb0fea83d7f4b9624cc08162fa0887f443829fe0078fdfe495d0c12640ec67b"/>
-	</game>
-	<game name="Disruptive Publishers - Materials - Ice (USA) (Theme)" id="4805">
-		<category>Games</category>
-		<description>Disruptive Publishers - Materials - Ice (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-MATERICEPSPTHM01</game_id>
-		<rom name="jUXQJQtkEnlRjsCFEujRDMcFfDirXQPNYRAVmrGjlxCkrNApYqEkZrYGozdOSvuCwgkNDgZzJMAMVpCHuxxDUNqGGHUzyXtMKoXvm.pkg" size="593728" crc="3a9c6873" md5="c9af78810941659f338f8ab13c8cc4ff" sha1="cb7a110b47d2e553e9b4776b0799e371c167a84e" sha256="0b73918a9ad814c2f09de1cf60bb81d7710775e84e9eabec33bdcc9d5c8b1978"/>
-	</game>
-	<game name="Disruptive Publishers - Materials - Woodgrain (USA) (Theme)" id="4806">
-		<category>Games</category>
-		<description>Disruptive Publishers - Materials - Woodgrain (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-MATERWOODGRAIN01</game_id>
-		<rom name="VZDPewmADYqIJQKEHhGUtsmpRWvekuUVCSVWqheDOMUcVLZlYIxbIYEvrbXCKYzuXQnFBrRTiTDJCpcwezNUAtorEoXIYYZDSxvvT.pkg" size="474112" crc="c22acf32" md5="6d1640179f486c8ef81fb3c06e873e61" sha1="f53669e23af319f78fa4baf9ac79fb639f44bdaa" sha256="deb24eeb159e6ad726c8e5f1a5a8f87d5d6cde2dc43984d7ebb058b8076d182d"/>
-	</game>
-	<game name="Disruptive Publishers - Nebula Tunnels (USA) (Theme)" id="4486">
-		<category>Games</category>
-		<description>Disruptive Publishers - Nebula Tunnels (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-NEBULATUNNELPSP1</game_id>
-		<rom name="34Qd0od3oqieGBApwfCqeH1hPyWsE9d0Vtfbr09aIBoluriifG5xFLXC2DYG92HR0UhEgN7cGaytrxDCJ1fnm0yBqqtAo7eigiGr0.pkg" size="591744" crc="1fc2766a" md5="da3472c6b9ba8eac6e18c46a557639a6" sha1="f234ce36dc4604635dfe0396573e95c3069e5c5e" sha256="6d6b12ebd29c8e479ba16779442abe0aee03e950e57d86047fdcc60a8bfbcf83"/>
 	</game>
 	<game name="Disruptive Publishers - Summer Down Under (USA) (Static Theme)" id="3207">
 		<category>Games</category>
@@ -1166,29 +896,11 @@
 		<game_id>UP1063-ULUS10291_00-DRAGONEERSARIA01</game_id>
 		<rom name="ksXfYnMRoBt15MhCFAicPuEHvwT1LkSnO8jyoSJcwUh4wFgnAdVBKnQF0OlTt2i3wNq5g2XiNUxFiD5IWDt6YH6CHNBuBPM1QeQXq.pkg" size="261101760" crc="e9c78fa3" md5="78b64b99004cd9f619250230cc860434" sha1="e287e0d71909610bb307767818a36dc9aebbba18" sha256="f6fc07ef1c2b2e90392ba360b5b32b3587af3f8aed11dea1cd0478dc9a444f6d"/>
 	</game>
-	<game name="Dragunov 1 (USA) (Theme)" id="5875">
-		<category>Games</category>
-		<description>Dragunov 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-DRAGUNOVPSPTHEM1</game_id>
-		<rom name="oDjike4dEDCjyDpXV3EW23BuDO6eF4MFMre5qWYaEwDTQBGHDLeaqeAIAVSrycfdqQfwkvflW7POb8BVyyv5UCrstAqpc7cLpDQNU.pkg" size="567168" crc="7650b1fe" md5="9ec2836dfee7531005487405a1500675" sha1="36914e341533e090f019505807e44c2cc55cb78d"/>
-	</game>
-	<game name="Dragunov 2 (USA) (Theme)" id="5876">
-		<category>Games</category>
-		<description>Dragunov 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-DRAGUNOVPSPTHEM2</game_id>
-		<rom name="jc0blo7leMH5J2KwPLLSKYp2H228eWGiet6mWLteh3aiC1RgGgbMSItbQNrLNymVIs0bXHvUl3hj042ijPAqBJ2Y95T39ip1ryciO.pkg" size="550960" crc="f4743e42" md5="a92ff74d50a79a782d74cb952bd7faea" sha1="6c4fc94062d09d1f5655c9cbd6e6674708f0eade"/>
-	</game>
 	<game name="Driver 76 (USA)" id="0821">
 		<category>Games</category>
 		<description>Driver 76 (USA)</description>
 		<game_id>UP0001-ULUS10235_00-DRIVER76PSP000DL</game_id>
 		<rom name="QBKtYx4EQQ2fpmCrU7Nx6O4nARA3Xdlc99fov0QMuo8Pqgt3SpTfDTGAu9a20kiCO5MERfaOs31qcENbHXyQbwP4Nckpti2nvKg3I.pkg" size="667516880" crc="1d653891" md5="fb13c7be8f591c9d81cb32eacdf6eee8" sha1="a048dab8bb66e966cd8c289f926474e55f5ffc27" sha256="0e1d9ad1b649cd18f5716e6bd6cb31e57abd2cae9365580848c30ba68edfe376"/>
-	</game>
-	<game name="Drops (USA) (Theme)" id="4802">
-		<category>Games</category>
-		<description>Drops (USA) (Theme)</description>
-		<game_id>UT0003-NPUY00004_00-DROPSPSPTHEME001</game_id>
-		<rom name="VnHqy1XYTTUtYuF6npLOjn1DWgC13BAkkUeapi694tfu4l37B3rExd4ASF0hnObNMMj5ieuwc3TaIaXEU3rovjSMfNsxi1k0WWHt7.pkg" size="326832" crc="db6fd259" md5="c50b664cfe1e801ec461cd42d4558d6a" sha1="73b225dee97a7d49d14b323ca5d6dd1b3c5e3bc7" sha256="045a53df00166435c62ab46b565f7835711cc38d15a03004c24d3f6541333ca4"/>
 	</game>
 	<game name="Dungeon Explorer (USA) (TGX)" id="0828">
 		<category>Games</category>
@@ -1270,12 +982,6 @@
 		<description>Elminage Original (USA) (v1.01) (Update)</description>
 		<game_id>UP2035-NPUH10128_00-0000111122223341</game_id>
 		<rom name="UP2035-NPUH10128_00-0000111122223341-A0101-V0101-PE.pkg" size="188332880" crc="7b481382" md5="678dfeea684978af2b6ce4a2b5930d5d" sha1="0ba98736fa5029be3d822787adc6ebb60b212741" sha256="444813ee836e345a8d62437aaf403d4741d46cd237dbf81ef22ed2dbb2eb33a1"/>
-	</game>
-	<game name="Elven X - Theme 6 (USA) (Theme)" id="4804">
-		<category>Games</category>
-		<description>Elven X - Theme 6 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-ELVENXTHEME00006</game_id>
-		<rom name="Rw3sCxCsEXqVRwyBr82IjpNAsMRIHvJ9ntOF9t0iaWQg2d83N8Nfkh2gIsnSMUpN6ht56ef4PnY7tOwjX9NdQLyoxU9FsIyicd1kg.pkg" size="676128" crc="3ba705d6" md5="5ddd1d1f0afede62e78e02f527caf763" sha1="a61fd7ab2ce5b8e219900ec14ad75630abcb85c9" sha256="3d74b8a86ac38ad8e26cf10fac4463aee550a5945f55d8c71a4e7e70c864672b"/>
 	</game>
 	<game name="End of Serenity (USA)" id="0908">
 		<category>Games</category>
@@ -1383,13 +1089,6 @@
 		<game_id>EP0006-ULES01475_00-GPCFIFA11X000001</game_id>
 		<rom name="bYfzaIEiJpZZUiuabKoeFnJaRKSxsPOmsVBRvWNNYoFFcADNRYpxhxJtoNtPNvkX.pkg" size="983927072" crc="7b0e3931" md5="588a64c878a222ff51fb05de1d01e7ce" sha1="dcb617b49806981dc5bd43e2c39445b0d2465b7b"/>
 	</game>
-	<game name="FIFA 11 (Europe) (Theme)" id="0984">
-		<category>Games</category>
-		<description>FIFA 11 (Europe) (Theme)</description>
-		<game_id>EP0006-NPEW00073_00-TPCFIFA11P000001</game_id>
-		<rom name="EP0006-NPEW00073_00-TPCFIFA11P000001.rap" size="16" crc="9cf89dd1" md5="c10f7c59c87a206de5d47c0aa8ed46cb" sha1="87602d6024b2a4fd9b2201b32208a01bc1851b6b" sha256="5af650a8569705d8908ce6f811c8eda2dc450eda59f58b08d9aef81f4e83ff65"/>
-		<rom name="hx75HD2HuJOoF9ViprOGtoN9iOIY8wLkENmJ5EOFu37O5feCUhuqY4hI6lgQxdfL.pkg" size="426656" crc="5a9baf09" md5="a0d46c6f5f4ea18a4edb9fb0e5dc48ce" sha1="7f0b7748d57f258f17b6f94c514ba8b72a9f46f5" sha256="2d1fce11a483cde7fe787d4268b5e8afb425d2d3a48ff18054889931ef95206e"/>
-	</game>
 	<game name="FIFA Soccer 10 (USA) (En,Es)" id="0985">
 		<category>Games</category>
 		<description>FIFA Soccer 10 (USA) (En,Es)</description>
@@ -1426,12 +1125,6 @@
 		<game_id>UP4069-NPUH10118_00-FADINGSHADOWSPSP</game_id>
 		<rom name="MLXGnlpHNXHVdIuPRnEVKCEBUgMMfiWQIhcGgesdWqAFmDVGOscJlsMMmiNbjUwjkfLzVuQszRsUZTwSnvIslWsexkkJPDpQoEEga.pkg" size="314825552" crc="e0ca82df" md5="452801eb0b24d5c35390a9936c2da5c0" sha1="78a06901148bd7f03fb0ac2247d4d896924591ee" sha256="83e269bd0fc72b6186f80376b93d10abe1ec475470f6065ef41e427457ccd6ac"/>
 		<rom name="UP4069-NPUH10118_00-FADINGSHADOWSPSP.rap" size="16" crc="ea0f40b9" md5="e1ac1d928b1f83cdbf0f052979c225ef" sha1="bbdab3f4a806bcd3b1d6a1511db9344fdac7c9d6" sha256="f55796706c3d457287ce2185ef48e2c2c6146ac11d9a427cec25c766edc3dd42"/>
-	</game>
-	<game name="Family Guy (USA) (Theme)" id="4406">
-		<category>Games</category>
-		<description>Family Guy (USA) (Theme)</description>
-		<game_id>US0010-NPUY00022_00-FAMILYGUYPSPTH01</game_id>
-		<rom name="7TOgedj0FDV3V0cHIxe5MwPQGemxMdkmDWf6oCFum7yurNyT9tuiGSCb0Y0aSisJU55dig1kT93MreDw6UHsHGEpWRkSVt9rF5oqM.pkg" size="376528" crc="518ab284" md5="2d58c84a13ac1430b285666e2e88edb1" sha1="ed2316822169a3555ef97718127935a619d9af17" sha256="01ae196f353589947d1399ed1e416b3417d78edfe69db0ec459a93b61984eaab"/>
 	</game>
 	<game name="Fat Princess - Fistful of Cake (USA) (En,Fr,Es)" id="0967">
 		<category>Games</category>
@@ -1471,18 +1164,6 @@
 		<description>Fight Night Round 3 (USA)</description>
 		<game_id>UP0006-ULUS10066_00-FIGHTNIGHTROUND3</game_id>
 		<rom name="obn1PXsIWgsyPuhJLtKHlBHYC1Hab6UsFPOWNQdBLR9IVDLA0f9tNCBawmlXrKXgKBTmv5tkeRe7PTr7MCXv19Eecxd6cj1K2qABK.pkg" size="1090872256" crc="0da1b620" md5="b8e1b1eac7303bac9ee19aed52503c3d" sha1="6e3c6c334275e930a3a14e036d668d43a9f97750" sha256="3fb9599ccf4f5426535907a0f1eba4abe811f4d01b306efa7863c3ed1b7644d2"/>
-	</game>
-	<game name="Fighter - PSP Theme 1 (USA) (Theme)" id="4800">
-		<category>Games</category>
-		<description>Fighter - PSP Theme 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-FIGHTERPSPTHEM01</game_id>
-		<rom name="XcteQbDcMLLCQFOOhLrbHIJaDaSpLYleTlQJzjeoGFvyEFjLejkClbSpuLnvXWxuHTqotohusDfmQoOPuoTRmVowvFotWfbTbcQtb.pkg" size="692864" crc="95476fb5" md5="85085174a3e39d501cd0f12b7bcce502" sha1="da09547ef99f0efb0223034e26f5e8885c630afd" sha256="8912a59fd71100c39c9ebc38848930174e16e6475cdc994f33fd218aba9b0689"/>
-	</game>
-	<game name="Fighter - PSP Theme 3 (USA) (Theme)" id="4801">
-		<category>Games</category>
-		<description>Fighter - PSP Theme 3 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-FIGHTERPSPTHEM03</game_id>
-		<rom name="XsxsFFRCeAPhYJBdtuVauevPjCFkqBtKovBexVMOUCyDGPTKAmhHAcGZUMuhZRfWKrhHWtQXQxBzIhkRwwuZkekSngZcydfPfHLIc.pkg" size="693392" crc="89ebb524" md5="2cc94f6f64a986e161994e68ef9843b0" sha1="02fc7e7aab2bd068b04e6ce0318afebe326fab2e" sha256="574806812d305f30dfef0d7b8659ef61611e043faeffa2cc8211f29e63fb0935"/>
 	</game>
 	<game name="Final Fantasy (Europe)" id="0999">
 		<category>Games</category>
@@ -1562,12 +1243,6 @@
 		<game_id>UP9000-UCUS98617_00-UMDLEGACY0000000</game_id>
 		<rom name="k7fljIboNUWkuMCb51kUlK3twFKFcQNMtU3YPjUgeYePRGmqGVd73It2JgKIxBJCFqHGEBhEKl8WlWYXsfHSxySl0WnlFCCuLYSsS.pkg" size="1074234752" crc="59851719" md5="dc9687b0fe1815b007221bf30f26c6a7" sha1="8cb095ef5a28d0d0b6a7f9020c72060fdd822b84" sha256="d410ea9a6e3b287f36e00c9c6c4b48408e25ae5877290d0d61900452e136686b"/>
 	</game>
-	<game name="Geisha Girl Hook-Ups (USA) (Theme)" id="4756">
-		<category>Games</category>
-		<description>Geisha Girl Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-GEISHAGIRLPSP001</game_id>
-		<rom name="wOFFtsn5WS9FNDYQXxV8OsOfC1Oo04uagIBUYE9evSIPYy4LM08qxRXxPmp2gxlCIhs6Nmfgl9IkNQDk56v5maiL5rkeediff3Hyc.pkg" size="317152" crc="ea84ce6e" md5="fa8f853fb64ca15cb6600745629146f7" sha1="f0e34243ed3b2b2df954b616756c851f1174aeed" sha256="b0cef938d7746f72c0523db3bc51058f57367cd2d01fe774f20702cf0334c9ed"/>
-	</game>
 	<game name="Generation of Chaos (Europe)" id="1184">
 		<category>Games</category>
 		<description>Generation of Chaos (Europe)</description>
@@ -1586,12 +1261,6 @@
 		<description>Gensan (Europe)</description>
 		<game_id>EP0024-NPEH00119_00-GPCGENSANI000001</game_id>
 		<rom name="yplDCRUhvlvbwVAfmvKmjXfjAMzVcySVtVIQQDEoLIcrDPPizJYEjQrqcosCCwyR.pkg" size="312307888" crc="d62eecc3" md5="b7e1059b921b28dc04c9ec812ee6813b" sha1="a9cae9abd9f89f21c6f7e6d83d808eb3ad944475" sha256="70d52f0ccd49f6a238249e70e0299258f7b7ed20860712b1016d8ef334130a82"/>
-	</game>
-	<game name="German Panther Tank (USA) (Theme)" id="4472">
-		<category>Games</category>
-		<description>German Panther Tank (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-GERMPANTTANKPSP1</game_id>
-		<rom name="K4bQwxtGwJgqw7EwUxSU63xJeHwyGT7NFWwCk5Jl5aX00XNuNVM0rel3dbyxEU8mY69dEPfFrxyTtXsblnHg0SL7OJH8ChS6iU15v.pkg" size="512480" crc="c56c21fd" md5="7b0147db495f775fac6be97121c21a61" sha1="fecf621439e03e57d0172ead8b4f902c52d50f9c" sha256="bff6354ffd057f316b27847a79877441337fd2568bbefe9916f9a85b66b69867"/>
 	</game>
 	<game name="Geronimo Stilton - Return to the Kingdom of Fantasy (USA)" id="4421">
 		<category>Games</category>
@@ -1645,37 +1314,12 @@
 		<rom name="TUq8YRcaoja4v4CmNbudHAQ0dsKFl5GVQeYQXdN1lP19wwhOf0iQWWDmTAMip1wHFRcEICjl8hgL9x3e2nwJJ3fxMf80jGB4FkJvC.pkg" size="1167136304" crc="7af4b608" md5="09f82c2fc1a24f1750dcaa90b914213d" sha1="f2ea887b346255962c0fe265044034d6f1187ea9" sha256="61b0fe9df4091a45fe9c589c3f2ca845999b441478c36b212243dad3e1a98388"/>
 		<rom name="UP9000-NPUG80508_00-GODOFWARGOS00001.rap" size="16" crc="43eb9e93" md5="40828af63177e0ed804adb6dc56a4ce5" sha1="9b745b534d0c7d2c367a9ddf20921db00d1cf469" sha256="829a2fe38e02f837813e4acbca94dd3adf277eb8fa7488cff7539fda78d163e7"/>
 	</game>
-	<game name="God of War - Ghost of Sparta (USA) (Theme)" id="5673">
-		<category>Games</category>
-		<description>God of War - Ghost of Sparta (USA) (Theme)</description>
-		<game_id>UP9000-UCUS98737_00-TGODOFWARG000001</game_id>
-		<rom name="UP9000-UCUS98737_00-TGODOFWARG000001.rap" size="16" crc="ab07f0c6" md5="6dd21e19e73997af7ed0fa7e22636083" sha1="6b8b5eb9ceec129c402eefe36d6e438f958b1ea0"/>
-		<rom name="yj41UiYSEw1vhaAD1E3Mqm7mo3w5CNnW3tSQuWCIEr604YF9WprYqKATxSowqpPOmWlbmQesXVTwH6QdXdbU36GQEEcke02ihT9Ao.pkg" size="4410752" crc="06c093cd" md5="2344bae2592010c08a7c643ca1dbeecf" sha1="79ac0f27f4c4911835fdb7be86d797b656d352cd"/>
-	</game>
-	<game name="God of War - Ghost of Sparta Theme (USA) (Theme)" id="5666">
-		<category>Games</category>
-		<description>God of War - Ghost of Sparta Theme (USA) (Theme)</description>
-		<game_id>UP9000-UCUS98737_00-GOWGHOSTSPARTPSP</game_id>
-		<rom name="oL6qQd4B7fDm2MevmvRaV6jhoXLnS9RLR4PqTnWHp8iP65vpoO6HaDWXBMp1RTtSx1P4afos674Ida7VM7o6OWQmjW8qPy9GBKuqk.pkg" size="379440" crc="6a654b84" md5="a3ef47653e4cfb3b4afbf50e0e6d9c81" sha1="b9e51766e75cac57acabf5ee911c153cf7485f04" sha256="5890df33fde5f74232d1b46652c98899c5383b13274d51abd080933234da8d3e"/>
-	</game>
-	<game name="Godfather, The (USA) (Theme)" id="4761">
-		<category>Games</category>
-		<description>Godfather, The (USA) (Theme)</description>
-		<game_id>US0003-NPUY00001_00-GODFATHERPSP0001</game_id>
-		<rom name="LEG1mdlT5bEBBKUWEBkrvSlQmcFtFuljfyp3KcgfFaorQvYDJR7dC2cpP8opbRryv4L4LWGdeBq9o4pRN5nqPFrGKExDEcr1OO9jr.pkg" size="561008" crc="fdd3fe0e" md5="c8ae4df24a104059185a1ed59437f5fe" sha1="b94701258433b6a8c340850bda56eed0955c3b40" sha256="19e1cce18e970343dc8d047f76cc3179d938584010144ce2ccfd480cdbb841f5"/>
-	</game>
 	<game name="Gods Eater Burst (USA)" id="1282">
 		<category>Games</category>
 		<description>Gods Eater Burst (USA)</description>
 		<game_id>UP0367-ULUS10563_00-GODSEATERBURSTNA</game_id>
 		<rom name="SclOltFnaRTDuhncqhCzkwxDIAhReceUqlGKfBmSQMlYNjzudNyUeNXmjNSEjMWvnSjqsODndExJgrEBmJnnSXgWAdIUBNwlQCVbY.pkg" size="1024952512" crc="b4051bc2" md5="f1ede4869de7fc48d27a9ebb267a9d88" sha1="73f8484ac3d56d7ec1f2068b06606ad1d9edf8aa" sha256="2f229904f5e0743314c027c3947a009cb11dc24fc0d63d389cfb004cc5447398"/>
 		<rom name="UP0367-ULUS10563_00-GODSEATERBURSTNA.rap" size="16" crc="06122e7f" md5="daf3cb419a8e54106b118bf035628075" sha1="f0bb0be438ef564575999b1a99ef90e7d23d83b4" sha256="cb75ac8a4a14ae2ab540c60dcb149bda2e1c874dc72556816059f832996596f7"/>
-	</game>
-	<game name="Gold Scar (USA) (Theme)" id="5877">
-		<category>Games</category>
-		<description>Gold Scar (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-GOLDSCARPSPTHM01</game_id>
-		<rom name="MhHVgqDvZKzLXeaSIJJGAFLzoHyCETXQgYATcLUZvdfehezZbImQWJorpEtOhbIMKhRydmvgbtgbDOsWMikFsdcFMDHdZUMHdLvyr.pkg" size="583520" crc="71755fc1" md5="def312f90b1700dd5d22fce224c62646" sha1="f3c9311ec1cffc14f6836fc11b33c0cd6452b09f"/>
 	</game>
 	<game name="Gottlieb Pinball Classics (Europe)" id="1292">
 		<category>Games</category>
@@ -1697,25 +1341,6 @@
 		<game_id>UP9000-UCUS98632_00-GT09GRANTURISMO0</game_id>
 		<rom name="UP9000-UCUS98632_00-GT09GRANTURISMO0.rap" size="16" crc="e8efc18f" md5="c3e86f4f4739c27eaaf78d9d7e2ca9f0" sha1="82d6b976628a2158b11801dbdd05693888429421" sha256="a89132f820928df5dde9798f0969392c88531a835a75e2ca4b85a87fec748970"/>
 		<rom name="tUHNTMiU9Tx32TXIqNBjyEc75uLiMcTprYwb5nucE7titV6GBtGwymUd5UcqhIR2ycFN6edg1KyJWn3KgtONQ0BKVykrlqJrlB2DN.pkg" size="981964640" crc="28680488" md5="cf38809e440069221a6c6592c067dd3e" sha1="caf384b17359b84c5857bf43e19e037ab93ea897" sha256="8a385a18b10876e9cc23be8dd07c4ec98874bfc6397286bd4e2bf7c8a5f631eb"/>
-	</game>
-	<game name="Gran Turismo 5 (Europe) (Theme)" id="4267">
-		<category>Games</category>
-		<description>Gran Turismo 5 (Europe) (Theme)</description>
-		<game_id>EP9001-NPEW00051_00-TPCGRANTUR000001</game_id>
-		<rom name="9oYXIKitfSQAIJtitXRg3Hh3gv586nwhJY9txVCLBTrMxxUlAXhdrWIbfpyoo3c6jlo2QyPTUMNeqbV8K27FRFP9bB06sU43FlGx8.pkg" size="125360" crc="a632f7e7" md5="3d035fdff5c2a9a1c574fecad70102cb" sha1="9af072fb954b641bd23a7cb7bcc5993225813ece" sha256="729d4e64f4d4f9fd7a63e5356cd9ecefa1540d22bafec1d855ea64c1899b8fab"/>
-		<rom name="EP9001-NPEW00051_00-TPCGRANTUR000001.rap" size="16" crc="9e590dc1" md5="5e4a1c4e7d9c2229095e46f29e47ce51" sha1="e97fabd02f45fdc9b2e454c6fe268a72a87db81e" sha256="b92a0ec93a913a1cbebf54ab1647bf26797f9e327178e119b8e4915405ee4cf2"/>
-	</game>
-	<game name="Gran Turismo 5 - Time Trial Challenge (USA) (Theme)" id="4473">
-		<category>Games</category>
-		<description>Gran Turismo 5 - Time Trial Challenge (USA) (Theme)</description>
-		<game_id>UP9000-NPUA70087_00-GT5SHICKPSPTHEME</game_id>
-		<rom name="37jP6DMnQwGKGkBb985YKon7ErswB1i6UtyXouaVmwenpWNe5dKb1AjdnlwMJ1Q3BGmYyrM2Yg8AHJ3nTtyUp44J3Qge5au0C7kxD.pkg" size="460960" crc="9fbc1d3a" md5="9aa5844ef4ec42be33c9776a7d4522e2" sha1="ed2b43e6f2e8ced9a896475762958fde8a82baa8" sha256="fc4a2b0267ab19b0fbed51ab033dbc3ad46d83d938ac463787eb6238cc8e3a7f"/>
-	</game>
-	<game name="Grand Canyon (USA) (Theme)" id="4795">
-		<category>Games</category>
-		<description>Grand Canyon (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-GRANDCANYONPSP01</game_id>
-		<rom name="WgrTvTeJWOnJIIxoeneUYVYHDQYhouqkRwIqOoaklurzyharNvxuxPyErbEOPIcbVGPvfcgHldoRrxKEziuoJBeQlukataaAeosui.pkg" size="602704" crc="a088941e" md5="300f99b369f85bd1e6e8795e69d127ee" sha1="7e78b1f1a73aaf3990b9a236b03bcf8320ce754e" sha256="745870ea68fad9982934c406dd959a68eaa0380d0d40988bb04e2ccd5359faba"/>
 	</game>
 	<game name="Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It)" id="1309">
 		<category>Games</category>
@@ -1808,42 +1433,11 @@
 		<rom name="UP1023-ULUS10491_00-0000000000000001.rap" size="16" crc="7fdffcb6" md5="8584d4d2dc77da148818830bc1193a2f" sha1="8d663acc5547b3bd0fa4e1b3ac95f1d7862c32cd" sha256="acdd9bf550efbcf4a4a7086a17b7d56a740e6cd19064f5756cfcf2a6ca84e1d4"/>
 		<rom name="yySjWBGF4cAFoT9COO0aU74y41h5o1thgrFIalj79TWPP4pV013pc30aFoLR1W1HrLTIK7EgiKddUQ2Ld63EVP9iovLhnIC7h8ahH.pkg" size="105812384" crc="f42da3b1" md5="b1fc2f085c42ffa7e9d7cf2d1865af61" sha1="6cb8afcda2e3b1e147c78f22a42d752558e12b56" sha256="af89b5a1ea40029c476976a0ee7fde24a304bcc26b24c1843bf18a814271bac8"/>
 	</game>
-	<game name="Halloween Vampires - Theme 1 (USA) (Theme)" id="1362">
-		<category>Games</category>
-		<description>Halloween Vampires - Theme 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-HALLOWEENVAMPSP1</game_id>
-		<rom name="UT0002-NPUX00002_00-HALLOWEENVAMPSP1.rap" size="16" crc="7d9cc873" md5="0c18e137ac1361bc2664f29a604be5dc" sha1="ce6820c3d6d5499d66946fa5eceebb4e5664076d" sha256="78c46b9571d67a0a77c5588ea0d34a22bbde1cba9aa7811fa3f52f8c7915546f"/>
-		<rom name="huO5E8QXjJnNxLBxucWvbnmKnLKPT3yrOy9ABcnG1bKvA6nLTeL4HsxHKKEXFGA6uCesfmbbsU1byCvIFtoaO0LpXAyxgfK4rvwwx.pkg" size="368096" crc="5d8795ce" md5="7153efe8b1b1f004117c8f4d6b3f1502" sha1="96c349642d7452e9269661b4553e50f53641cf63" sha256="1d3ee62f7aa6d7e21e7f75d483c04888fabcaaf4931b92c2c81ed6d1969bae4a"/>
-	</game>
 	<game name="Hammerin' Hero (USA)" id="1363">
 		<category>Games</category>
 		<description>Hammerin' Hero (USA)</description>
 		<game_id>UP0005-ULUS10392_00-HAMMERINHERODLG1</game_id>
 		<rom name="usAl9942CBqFVvpahuXlL1P0tXNV775HcOlTwxG38T0edGcpNRC0JmPkGgy2mLqDVoV6YHndxxRhyG1GVm0bu1pIU9FADqqdm4HCc.pkg" size="107484112" crc="a793e0f3" md5="f1b614f4e41f04138b017967625ded6b" sha1="1f8b17c8eb8e53bf67a6ded591a85b2aa5e3f93b" sha256="0a950995f02aa6bbaec7c135c86648cf2b94809eb503080426e910472f6250b5"/>
-	</game>
-	<game name="Hangover, The (USA) (Theme)" id="4772">
-		<category>Games</category>
-		<description>Hangover, The (USA) (Theme)</description>
-		<game_id>US0001-NPUY00011_00-THEHANGOVERTHEME</game_id>
-		<rom name="0R0pPhNEYlaabLgLQxFqpVYNlJA3bhsfWUiTW0oCaChHqsRnOHStwl6WTRj0r5lrXMOs8CkgLQJkeDf7vt4vMXIseskbE3BpXsTwf.pkg" size="615040" crc="95941cec" md5="3501df321292eaf30fa685f42317b184" sha1="d89edaf9aaef58527da91a9876a9656ba9a72751" sha256="cd985720529f3851f8aeeb456694b804fa9b57db524193ab58eeac77da928793"/>
-	</game>
-	<game name="Hannah Martin 3 (USA) (Theme)" id="5834">
-		<category>Games</category>
-		<description>Hannah Martin 3 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1HANNAMAR3</game_id>
-		<rom name="OkohtxlJljpjWSybDVuMaYywItkLizgovYqkfeOglEALieIvFjfcQOPtiphsiRUf.pkg" size="501360" crc="ca612246" md5="5200814421b679412d40222847849232" sha1="72786f8b2b38e4227729c199aea5b00e37a661e7"/>
-	</game>
-	<game name="Hannah Martin 4 (USA) (Theme)" id="5835">
-		<category>Games</category>
-		<description>Hannah Martin 4 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1HANNAMAR4</game_id>
-		<rom name="poTltwnaYsKaxhrclNxPJbTbEukphRFmEisVenEFVZYupHRZFBSmJmzeFXybfryT.pkg" size="461008" crc="9d73206d" md5="73a46bf9092b5788606fb48eaf712101" sha1="38bf7623aa600cb77c75ecb6e6c28a08a4ab972f"/>
-	</game>
-	<game name="Hannah Martin 5 (USA) (Theme)" id="5836">
-		<category>Games</category>
-		<description>Hannah Martin 5 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1HANNAMAR5</game_id>
-		<rom name="klDyTuTjwICaIDkRawnsFfsedqxOWAFRfwvVmgfcVNtWdsZLfHmzqxBYefLVEwhf.pkg" size="460912" crc="440c2934" md5="358a8605091fb4bffc4b24c923ee87bf" sha1="ed5f41ff477e3b2347fe4a91a8a43fced7950677"/>
 	</game>
 	<game name="Hannah Montana - Rock Out the Show (Europe)" id="1366">
 		<category>Games</category>
@@ -1865,12 +1459,6 @@
 		<rom name="UP1014-ULUS10458_00-HARVESTMOONHOLVY.rap" size="16" crc="c9d3f01f" md5="45ab95fd57be4c9f3f53eb3902208acf" sha1="de524e4a45c74d2978d5c1b2b90a0d0597135cd7" sha256="bbc440c6e7b2a020cd1bcd4b51e7840fbf905062d25b6103046fde1103eb6262"/>
 		<rom name="rf5C0b6nQiSoO4MRdIW8MjaRe7ane8u3L4E7XtyBmH4oxBoV1Ua4S2CBIGfpSTxtQAaaI159TIkxdWD7xFOLpEBan5TbcyDe8Yf4K.pkg" size="125368144" crc="98cd6a9e" md5="7c3122261b77e170e07fe958cc06f1c2" sha1="031ecd51abecf08fe19d6492bd5bf52390e96e72" sha256="4ef7189a44a95dd0a889fc09c0464629a249bb7f9321232856961767792861d0"/>
 	</game>
-	<game name="Haunted English Castle (USA) (Theme)" id="4791">
-		<category>Games</category>
-		<description>Haunted English Castle (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-HAUNTEDENGCAST01</game_id>
-		<rom name="nyrCHIPxFrNXGlGshoVwjjKQwBgPsUWkkRcbeWdJvfUflnBMZAYFRyDbhMRKbxtvDlWgCRNIpppIVBkrOrOJpFZtzZpenpZmekuZX.pkg" size="541600" crc="3691b615" md5="147380c63753b3ec6537f48a9403701a" sha1="d79bfd7eabd933b0b8f9d030c48978f9918e5634" sha256="a5a1e764719e783c7f246e30a96d12fdeb39b8da36ec0d642aed233db1574ccf"/>
-	</game>
 	<game name="Hexyz Force (USA)" id="1423">
 		<category>Games</category>
 		<description>Hexyz Force (USA)</description>
@@ -1883,12 +1471,6 @@
 		<description>Hoard (USA)</description>
 		<game_id>UP2046-NPUH10074_00-2011021100000849</game_id>
 		<rom name="xgjRykqmcgmnEKfIuzkOdKvyicxWabvkMAvrJazgQPcLeeTThkJnBFYfXQJTWNHlDvquUIKhlExVcUJiBrnulAmahmtsqyhCuLpCw.pkg" size="55748992" crc="90c0b852" md5="c93d15c22a8172b7ab6cfad1cb2c8cf3" sha1="e9d6fd88c854d4813514bc343f86c2ac2b43b21c" sha256="e865ba64515e311f062b9e2d05a34f37aa97a13de3b17ac4d13199ff0cc65867"/>
-	</game>
-	<game name="Hockey Hottie (USA) (Theme)" id="5848">
-		<category>Games</category>
-		<description>Hockey Hottie (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-HOCKEYHOTTIEPSP1</game_id>
-		<rom name="rg8s691hBSW3g8ApxC1tOkXFXswyihI4gq72C6sQQhYUHIljb3cSRdbPrHeCRuJ4x8M0tmWyiH86lFs7cRiDrbiLvdE8HxTCP0ec7.pkg" size="574256" crc="c5b5775d" md5="5f5aa2413fcdbd58ffc35ca6fbbc9ff9" sha1="1b9fd082e1ac98e936861c4344fa5327ed1b7364"/>
 	</game>
 	<game name="Hot Brain (USA)" id="1445">
 		<category>Games</category>
@@ -1940,36 +1522,12 @@
 		<rom name="3BRsxo51mfxF6hJmEnUSUKpc4JWSIOOykP3F0lyMuSPKi3YioW1nYY6pwi3x54GvqVsxjHXSen0WsUPu6T0fkq7LhhWDuO4PD4im8.pkg" size="1129940992" crc="04cd6363" md5="092e9ba367ec13508ff8b6306e64b6ed" sha1="a6377f07c8330021a36e1f1abccb557e64458241" sha256="0bb73552ce7b51acff4c36dc2f376e6dfbb496d2b06d2ea9e9ab48415d73d3d0"/>
 		<rom name="UP9000-NPUG80302_00-0000111122223333.rap" size="16" crc="06b10022" md5="33d230ee9643f1596d9c224b87e54dce" sha1="915310c26007426049312857aca64a3baadbe94a" sha256="e41862ebfc30f2a6dee0801f3274ee269f170cca45df8b3284f7347a1b6da54a"/>
 	</game>
-	<game name="Hot for Teacher (USA) (Theme)" id="5849">
-		<category>Games</category>
-		<description>Hot for Teacher (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-HOTFORTEACHPSPTM</game_id>
-		<rom name="NAV2WJ3FcvFmDaeXFAjFCMRRMaCsIDX8dSByxsc04G0V6U4l0fkE3RSl24LqNOUqd0NriA2QsiH5OEYj0mylCLoJEVV5mXv2im9H7.pkg" size="545968" crc="4315d632" md5="6686487f2c7197a329146eba3aafd73a" sha1="07f5c7d3db7b65832aef3b5a94ab6d38e7368543"/>
-	</game>
-	<game name="Hyperdesk Pulse - Theme 1 (USA) (Theme)" id="4475">
-		<category>Games</category>
-		<description>Hyperdesk Pulse - Theme 1 (USA) (Theme)</description>
-		<game_id>UT0004-NPUY00005_00-HDPULSEPSPTHEME1</game_id>
-		<rom name="jjdjNYywL9yiv3nVKV6TKehRChgl40OkceT6SqaJPjO2gefxyNYQwJRRdxJ62UKfMXJONx6JMD4YvBBa0kVXtYG8wbBtg4FLDeeL7.pkg" size="368000" crc="24879bab" md5="ecc3e41a9e2053911f8ecbb9c5a16e55" sha1="d20db67000a6b3c4b2aa917bb994985f3f151db9" sha256="8ea4fd4a6d7cc96c7a4241c586453315665aa4f63768ffcf1ca17dfef49f65d8"/>
-	</game>
-	<game name="Hyperdesk Pulse - Theme 2 (USA) (Theme)" id="4476">
-		<category>Games</category>
-		<description>Hyperdesk Pulse - Theme 2 (USA) (Theme)</description>
-		<game_id>UT0004-NPUY00005_00-HDPULSEPSPTHEME2</game_id>
-		<rom name="A6Whmsq6mgKjX5vbmGbm5BAnUjSk2xwRccnifhLcxKM7pBmYvP23hBNwHMRWH7OGPxXKgI0L2QYJSuNd4JRBaWXYj1dSIcdTeDC8H.pkg" size="356800" crc="8a677ce9" md5="3c8cd03671a2ca4ecff1c9bc133542bf" sha1="d377d15b1ccd46c388918f41a5f402e0053a3c3e" sha256="a59a08cb2a5634831dc01f2f8a8ed00d94b8371585d5dea412925db9442613c6"/>
-	</game>
 	<game name="I Am an Air Traffic Controller - Airport Hero Tokyo (USA)" id="1467">
 		<category>Games</category>
 		<description>I Am an Air Traffic Controller - Airport Hero Tokyo (USA)</description>
 		<game_id>UP0079-NPUH10122_00-0000000000000001</game_id>
 		<rom name="UP0079-NPUH10122_00-0000000000000001.rap" size="16" crc="a98c478c" md5="b74036c812315bcedaac581ec63affd8" sha1="a6f132de415ec28a48a508690983009a706c2e9a" sha256="6c5ce013330c279e7d29996f22270793f2c4c9dce8d4a42721ef4c7d04fcb81e"/>
 		<rom name="wDHLRuWQvceRaECFzqMOnmCXWmiwxLRaQuHlelpaFxulXOUWlTTcFyGhaJKREATM.pkg" size="192443616" crc="7be184e5" md5="4143e89a6769fbc6db2d2b921f4671fc" sha1="a8559277f7ff99c83de1611cfb2a09dd78527a23" sha256="6cfb732afcf002e3798f37c6a9fa22b17b51fc4e7a7b1128bbb73f3895951b3e"/>
-	</game>
-	<game name="I Never Did It (USA) (Theme)" id="4781">
-		<category>Games</category>
-		<description>I Never Did It (USA) (Theme)</description>
-		<game_id>US0039-NPUY00024_00-INEVERDIDITPSP01</game_id>
-		<rom name="jUsuafOEzMNENWEVgyhXXUuYxgVBxndApXJgnnihTRvmFoOKbNNYwFNzaRclRDNheoZRdIIuVoEUhuvQTxTgPgsJArddGXLwzkOIb.pkg" size="153248" crc="5e4df04d" md5="d409b2afe43dcae11c3e0a5e15337eed" sha1="4913ccc5567b91b08b169c845dd321aa7f4fbbb7" sha256="5604f0161df928807119f8653909c333a84a2338f3fb50da5ff577d55c73adbf"/>
 	</game>
 	<game name="IL 2 Sturmovik - Birds of Prey (Europe) (En,Fr,De,Es,It)" id="1486">
 		<category>Games</category>
@@ -1982,18 +1540,6 @@
 		<description>IL-2 Sturmovik - Birds of Prey (USA) (En,Fr,Es)</description>
 		<game_id>UP4040-ULUS10476_00-2325482641733560</game_id>
 		<rom name="vP1PxcYKWjD8lACJixAH0qdS9IddqNTu1XkxH3YVah62B52qjTHpwTfijwsfqqhl2J6GrlKMtISjpTUP5Ft7mTL0TnipXBlrYN8o7.pkg" size="561137872" crc="3d5abe08" md5="8c1df76de8b618e092474db3357d55fc" sha1="32053ef7dd3635850ab5b953173f72ac9f37c0ca" sha256="f595c62b327e49a4d735340b66c288e02a31bba4ad2058d31503cea860dec352"/>
-	</game>
-	<game name="Ice Age - Dawn of the Dinosaurs (USA) (Theme)" id="4774">
-		<category>Games</category>
-		<description>Ice Age - Dawn of the Dinosaurs (USA) (Theme)</description>
-		<game_id>US0010-NPUY00009_00-ICEAGEPSPTHEME01</game_id>
-		<rom name="8aDHCKDLWAqChpyfSVcbiatuBG6NkoR2WdVURYVw0565sF5yRr8cusq2hr7EaG48SFwrHUlTayJfwI1qB6IdP6IS4bwUxtOOxhrD8.pkg" size="538672" crc="76c9646d" md5="6b39bc490e968dd279aeecf1192d8c79" sha1="259b19d35c67e76c97e6f9c6ea42309575e214c7" sha256="56fc899636b7092de1cd4c3a1fae74a41d394b01a5b873084447a8bbb7a0d4ad"/>
-	</game>
-	<game name="Ice Cream Girls Hook-Ups (USA) (Theme)" id="4753">
-		<category>Games</category>
-		<description>Ice Cream Girls Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-ICECREAMGIRLPSP1</game_id>
-		<rom name="iNd94gPWKpiKIoqxo6QmKbvqkO8AX5EtcPTWeJHnkDIK0hG8hdfpOFV9xXVKjWp9ULGupJDo65aftlxDBbP1h5HVrnx8UclLl5ufK.pkg" size="325040" crc="e398f8fd" md5="d2d4e6c2382783b3935f9c64d38a8a08" sha1="d46e480664620d1c4f7930158a33a65aadc2be40" sha256="b8cb6af1505876265960b72dd3bd5d85ee5a364a074bcbb89268e12233cfb43e"/>
 	</game>
 	<game name="Impossible Mission (Europe) (En,Fr,De,Es,It)" id="1490">
 		<category>Games</category>
@@ -2057,12 +1603,6 @@
 		<game_id>UP0177-ULUS10497_00-0011223344556689</game_id>
 		<rom name="8I7aCPqH1lGWW4ILpyLxXqrkU6iMybfUaA28oL2Ad13gBgkdr575S2ergfEtqhsYgeUIVTLX8QbHLWcqRtVjx1avQXYM3fCfM5SJB.pkg" size="761736944" crc="10e3f8b9" md5="160bcf06578a037b72963f007446bf4e" sha1="a09e90eb6b15fbf5dc485b4ff3e103755ab72959" sha256="0211211bfac45a402165a9b6d5555efd0e581fac00fcb6779ab253f9ee61cfd6"/>
 	</game>
-	<game name="It's Always Sunny in Philadelphia (USA) (Theme)" id="4777">
-		<category>Games</category>
-		<description>It's Always Sunny in Philadelphia (USA) (Theme)</description>
-		<game_id>US0017-NPUY00021_00-ITSALWAYSUNPSP01</game_id>
-		<rom name="X0wodHEyV4pmw9LIfTFOaTU6HHkGH930GPUCSuERcIcFhBn8gBjwNmbmdeOYcye0nH9RIsuBvJ5ouDpuwHNybAQW44o04ivnLmGQ7.pkg" size="593920" crc="abeff036" md5="ece906a50ccaeea25aab7b0af1cb2dd1" sha1="022352832c4f95e4e0a6ec503825bdc231f5ec61" sha256="c74bbded306cd50e2ecf737f782a1cd93a68f4a0717c35f00caa5b4a287ebf22"/>
-	</game>
 	<game name="Jak and Daxter - The Lost Frontier (USA)" id="1521">
 		<category>Games</category>
 		<description>Jak and Daxter - The Lost Frontier (USA)</description>
@@ -2095,18 +1635,6 @@
 		<game_id>UP1024-ULUS10562_00-JKPSPGAME0000100</game_id>
 		<rom name="yUpNKRuZLdfgzGOfNtBRQsqIEGFOEyjiZGlXMrilKtoLpsochGqDEIVOEraLhoROdbHwurutEwGYLrLlYBXiOrFLUvmLSFfXNtXIb.pkg" size="57721264" crc="f04ed0ca" md5="07b7ea2a9bfe4aa96305fac3ddc72dbe" sha1="6ba2959832c24e088dc1e872f1eb3878b61accd5" sha256="2e6ac4b5fe2888b94842de1fd7e914a63bc22a231022c7b4bbd6f97828c4040d"/>
 	</game>
-	<game name="Jungle Girl Hook-Ups (USA) (Theme)" id="4796">
-		<category>Games</category>
-		<description>Jungle Girl Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-JUNGLEGIRLPSP001</game_id>
-		<rom name="WUilflbwlCYCJLWu93YiAvUOljLFVgCTAPLloaRH7Rm4TYRIFg92I7E8wygxh1CJsfAmO128QNayhlLratHqI51e81VoR50xCbHQF.pkg" size="379632" crc="d5c32eb0" md5="2b8e7bd9c4ae20438ce6cb62ac72be4f" sha1="1680edf5a93320914ac129019a2432a73942331d" sha256="1f51b774955d4399953750471586ee1607161b46e30a0b43df96248fa65633e0"/>
-	</game>
-	<game name="Jungle Jane (USA) (Theme)" id="5850">
-		<category>Games</category>
-		<description>Jungle Jane (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-JUNGLEJANEPSP001</game_id>
-		<rom name="Ab3r37YhRoYQxDxpN8Jex6hG1C6yNqlIPUubc0m1IoBvI9FcbSVGXPygpfKXrYY1LTThVcGEHVJJ7P4ANiDhigSMkTFX5mX5yPBST.pkg" size="435200" crc="9abcc925" md5="6449f6fe28be2edec0dcb1921924751b" sha1="ed1b25dd8c672835fea50be6a2458dbb42e17f96"/>
-	</game>
 	<game name="Jungle Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El)" id="1558">
 		<category>Games</category>
 		<description>Jungle Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El)</description>
@@ -2114,23 +1642,11 @@
 		<rom name="EP9000-NPEG00050_00-GPCJUNGLEP000001.rap" size="16" crc="f2e2f3aa" md5="fe9755cf0078adfe46ef4e1efe150176" sha1="d6c7bc296d2737e35ab935c1c834d44a929a0317" sha256="5a6f98528579207502d0f60e9579837cedd7acff3be10cf9cee4fb4650124875"/>
 		<rom name="OzFEbnSmPupLppKqFfbZFiMBOXMwWQkKEMVUZVbFDlkymMvdDRcpLzshWbzGGqZL.pkg" size="399078832" crc="4a3a643c" md5="7af957562ddfdc15784d638caede9c4b" sha1="10e079b2e5714fc6d839ff5d074462ed479f12a9" sha256="31adc103f4e4ed8a1593d2451e6af6904cc7438d522d76faca27996380be0c71"/>
 	</game>
-	<game name="Junkyard Girl (USA) (Theme)" id="5851">
-		<category>Games</category>
-		<description>Junkyard Girl (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-JUNKYARDGIRLPSP1</game_id>
-		<rom name="h3HTvK77I7wSHT4INduqkWqlw1cFeTFi2knP8bp7MvtHXPLLTJTUO5fFKBJ938qkODnw73ED5JPI99t3ON74vjL8XH4dkEsWSIckG.pkg" size="619440" crc="90d27a73" md5="2bf1d021019120cfe8e962b1a1740753" sha1="03315accb4503d4cb9b1cf1946ae027e9f17dff0"/>
-	</game>
 	<game name="Justice League Heroes (USA)" id="1559">
 		<category>Games</category>
 		<description>Justice League Heroes (USA)</description>
 		<game_id>UP1018-ULUS10214_00-JUSTICELEAGUEHER</game_id>
 		<rom name="lsdpMu3KTQpOh0QJiMS4p5x4990Fs04rj2PW0fFivMhKwP4UgHsxTvMR9I0Y2t3Ij6pNDMsvmHHiwkUAocFyPU3iCj0Lh8nyKVHBX.pkg" size="1401055664" crc="313b9789" md5="e01144b3b45ae6e51d4e855b24980295" sha1="5bac11ff7c3739ae3bb3a991c5905925bad137cd" sha256="a61e7d91850a967180ec2df4ec3dbe79c76387d1a6e9cb0e45e89c4443046c77"/>
-	</game>
-	<game name="Kahoots Wallpaper (Europe) (Theme)" id="4572">
-		<category>Games</category>
-		<description>Kahoots Wallpaper (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW50015_00-WPCKAHOOTS000001</game_id>
-		<rom name="jIQEd8cSVhiQuQqUKH5WyG2YLykumFVRF3E9jsv6QF7dQ7LPFaLO5P4TKNIH7q4Ebyq270smtrsWSl2rAMa2qIWhb5lnSe23Upce1.pkg" size="498768" crc="513f4be6" md5="b68717843954791d4c4e3751a0fc3b15" sha1="361c594bcd20990fc1d106abf9e9bca044be9e01" sha256="3cb91910b32a3fb4b74d305d6efc8721cc836f6ce9e7b8dcf39c4fff11f99b19"/>
 	</game>
 	<game name="Kenka Bancho - Badass Rumble (USA)" id="1577">
 		<category>Games</category>
@@ -2156,12 +1672,6 @@
 		<game_id>UP9000-UCUS80170_00-KILLZONELIBERUMD</game_id>
 		<rom name="UP9000-UCUS80170_00-KILLZONELIBERUMD.rap" size="16" crc="0c842bb3" md5="130740fa9a09b660f78b263410b57eb9" sha1="e43aa5a20928e5aac10ba2bb038b3ba7185ab839" sha256="30a6a56031bfdeec8068de482b502a1eb9e1ed59301f6f7c41f584f845b5239a"/>
 		<rom name="hLhpHgF0AWF2odUkfh8xm8OPhkEgkAUwknB3Y5BwDSyARuBEa6LxwS4FbEHWNCLjg51URFa5lupvMul25so49AQSInLxrSR3UO8TR.pkg" size="534465280" crc="3f5c2bde" md5="144077c236398509abd5ff4ff35d20a2" sha1="4ffd09977a5d27848b6f5f4f7769fddfea5ed95c" sha256="f86b57bce592533e19ab4b5c8187406da6f6a62a6b3153f6e4b74b786634f75f"/>
-	</game>
-	<game name="Killzone 3 Static Theme by Kristian Hammerstad (Europe) (Theme)" id="1599">
-		<category>Games</category>
-		<description>Killzone 3 Static Theme by Kristian Hammerstad (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00076_00-TPCSTUDIOO000037</game_id>
-		<rom name="cXcpWcqrXjSJIWINBGkaideYlmgJnaIzTgqAsiQjGUjPvJaprhPfzJZpvPpPMiTV.pkg" size="375824" crc="37cb9a13" md5="7be32958fc49e7540e0ad9b0720175ec" sha1="79d805052ceaeb254b90a50ce7737e93e5dfb1ed" sha256="f1a2a9bf90208ccd27a939a64565b416490541ee974954ed7467eaa41d20e76f"/>
 	</game>
 	<game name="King of Fighters '94, The (USA) (NG)" id="1602">
 		<category>Games</category>
@@ -2262,12 +1772,6 @@
 		<game_id>UP0776-ULUS10110_00-TOMBRAIDERLEGEND</game_id>
 		<rom name="ptxVXhkUJNVJQ3UUQWWXdUcUmDN8AbyLs6a4me24bJosxp4sHxnrEovcufIjyQt8gjlYM1cWPHAPOVClXSndY8eyoeuOe1HbTJ1GJ.pkg" size="1344929328" crc="b1ad1893" md5="bc4961dd37a9d62b44febfa15b3b48d9" sha1="428906ab3622a6ab829631b21a94184db644be92" sha256="e05b223b1d59e7a245e535f52ad0b38a9cf53b0f2900004e9437d350da0c7ba1"/>
 	</game>
-	<game name="Lara Croft Tomb Raider - Legend (USA) (Theme)" id="4765">
-		<category>Games</category>
-		<description>Lara Croft Tomb Raider - Legend (USA) (Theme)</description>
-		<game_id>UP0776-ULUS10110_00-TOMBLEGENDTHEME1</game_id>
-		<rom name="8HblDEQHgs8BaLcMYe5D045twEJia0XNdHNdRV6seWy3A6dgsc51gXWehCR9f5tytRPNoLD8ipfKgEkW7RepnEnLYRoOSvo2Rhqnd.pkg" size="609056" crc="b2729ab9" md5="2054e720f6718f2fd9826fd25879e1fd" sha1="867524a3c911ffbe2ce957bd084928b11d64b22d" sha256="905cf58ec325f064cac4da9b3e4a9601be7d2bd5ded21b66f8e949b4b2dddc88"/>
-	</game>
 	<game name="League Bowling (USA) (NG)" id="1674">
 		<category>Games</category>
 		<description>League Bowling (USA) (NG)</description>
@@ -2305,79 +1809,6 @@
 		<game_id>UP9000-UCUS98647_00-LEMMINGS00000000</game_id>
 		<rom name="DJXI4NcPmB3PrgDOI1no9VFXY7Yf8x9nopg5itwIhNVNidUSBCq75KrJJvoHOOFVSKO09Trdshx8w9pOP2e8imppYNolJHIcp0kRu.pkg" size="187998608" crc="84585539" md5="36603896d8a0df2aaa2cd0a4cdfeb901" sha1="1f28cd141a41527d25be3db771cbd1586c7159ac" sha256="3b6e65c7a9fee5ea140765d428908e2283a0d420010e080c594244e39e556aa0"/>
 	</game>
-	<game name="Light Machine Gun - RPD (USA) (Theme)" id="5884">
-		<category>Games</category>
-		<description>Light Machine Gun - RPD (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LTMACHGUNRPDTH01</game_id>
-		<rom name="uunvinBakxVEPYrhmyPWLEHOIWWphyBWIPKe0MP5S9OjY04duTFwyKB1lU0nfAePWggpWof5AuBaltYc4RKalbntFDnfVXraJLSOp.pkg" size="643472" crc="2fdfd5d2" md5="d3fdb694d77031f92dfe0e6775dc1276" sha1="1517d4df85c31d5ee7658ca7bce0d4f874b1db9a"/>
-	</game>
-	<game name="Lindsay Kaye - Theme 3 (USA) (Theme)" id="4477">
-		<category>Games</category>
-		<description>Lindsay Kaye - Theme 3 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP03</game_id>
-		<rom name="nRmOjDUY4HVU3Y6JfxlJiQNaOgbdxNtgLjNt9WVM0dwgiwIbd9hqkdyBpqvjUYCyWjD1lQn7AoXEredXBJEawm9uLI9p8W8E4keDl.pkg" size="673808" crc="5be06f94" md5="64b3d09ffe84161a7a978341b466b84c" sha1="eefd366758d91feba567fbbc52376bf5ff264ea1" sha256="d0f9f3a8b8389c8ff183fa3ea6e2e27ac371769d09a757dc24d3f53703d096b7"/>
-	</game>
-	<game name="Lindsay Kaye 1 (USA) (Theme)" id="5878">
-		<category>Games</category>
-		<description>Lindsay Kaye 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP01</game_id>
-		<rom name="ntavEW13d3TPIyKHoJX73eUpsg19gV7WpTv3w5X7fXGfblePNFCBlk3UU4OHlW5V5RI8EhcmjC5aHAtsNowOFQpmEuvjPC69rg99a.pkg" size="622368" crc="e4d77432" md5="6defe7419da8787d41e11a5114845c4f" sha1="426cca3651b9f66db7a2a9b12239b1b9c2cd5df7"/>
-	</game>
-	<game name="Lindsay Kaye 2 (USA) (Theme)" id="5879">
-		<category>Games</category>
-		<description>Lindsay Kaye 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP02</game_id>
-		<rom name="hiqlaclMc2k8WoIGavu5cInDb87FgfjIXUSWbtIIf7cyXYYL4A5ixv6kb5mMEJL4okgxfVKJ69dnhGSOkipSJwkb5nITDEaEinIJT.pkg" size="566736" crc="b1e4393b" md5="0f08f464943a8a544035e81994de3a93" sha1="2816fd42cb528df5259d116acc472ca13ecc7020"/>
-	</game>
-	<game name="Lindsay Kaye 4 (USA) (Theme)" id="5880">
-		<category>Games</category>
-		<description>Lindsay Kaye 4 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP04</game_id>
-		<rom name="QKQtkHkMJ1MWATyxBWEwof2B7X0i32BI2SrWtNAYRvoqTLxsVo18Afnd224eAGDHhVIXHptskSiHsh1WgWJKodeQb28L8LdpBlcob.pkg" size="685984" crc="225f1437" md5="c0ec44663d77e19b008cad66efa102ad" sha1="5622de42646bb48c7b21568879e189d5d7e17f61"/>
-	</game>
-	<game name="Lindsay Kaye 5 (USA) (Theme)" id="5881">
-		<category>Games</category>
-		<description>Lindsay Kaye 5 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP05</game_id>
-		<rom name="JVILSlrhBUMqdFCIElrOVbbgSVVeQBzcriitIpNHauRPxgkuVWxhGAbbnQslCuLxwkhAcBoYyOMPBpMvLiHxafArJGwZHGQlEUIIJ.pkg" size="659056" crc="756ecdff" md5="4e2f7689ab4e8f58709fd87aea1b49e3" sha1="732d915232f550c9ffe19fdacfcc5ed8662cf621"/>
-	</game>
-	<game name="Lindsay Kaye 6 (USA) (Theme)" id="5882">
-		<category>Games</category>
-		<description>Lindsay Kaye 6 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP06</game_id>
-		<rom name="ISeBFGnKzcFQRkpaauOdlCqZECoxsWSGCzxCrPkkRGvoCuEHLufweKMekcpUqLFOkwvdkuoGdcTcYNTFIyNttHkXbJwJACMorTXWX.pkg" size="697536" crc="6841a2af" md5="89510f88357a2e8663493d13488314c8" sha1="aed2ec33ce896862b81abc4e3cf1285f5b780ffe"/>
-	</game>
-	<game name="Lindsay Kaye 7 (USA) (Theme)" id="5883">
-		<category>Games</category>
-		<description>Lindsay Kaye 7 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP07</game_id>
-		<rom name="XhtUnXXAjBYTdkRYLlfEBelUrkPGOmNKrxwWfnPnyTExzvocNSLonykCCfAXKVhzQCSqfRzgnurzMZjhEommOHSRMORBGrjXVcIIO.pkg" size="597200" crc="e4cd4011" md5="4d987d368404c076981a59cd2e799b2b" sha1="6ea4d922797f56867ed4cb3e236fcbca95bee78d"/>
-	</game>
-	<game name="Lingerie Football - Dallas Desire (USA) (Theme)" id="5852">
-		<category>Games</category>
-		<description>Lingerie Football - Dallas Desire (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-LINGERIEFOOTDALL</game_id>
-		<rom name="jHnoSlpPSjweDwB9X3IokWQAU6LpRLVALq8QtWT0k3hNh9aTIoEELf9KCupgeGv0NxISAILdBNplQTIPQtAVoo5bL59se6tOpVgSa.pkg" size="512720" crc="5fbbd8bd" md5="02a37561a4ce4c50935f13fb5a4f8301" sha1="00805f0289336e3e9f419ea1196b1e9f907088bd"/>
-	</game>
-	<game name="Lingerie Football League (USA) (Theme)" id="5853">
-		<category>Games</category>
-		<description>Lingerie Football League (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-LINGFOOTLGPSP001</game_id>
-		<rom name="b1SoO3vY9peEwow9YpaV9wRta3T0jHL7UpKvpD0IasyPv3W89cENlEuD2IsDYwWOeGiPeBckXH0hBhvN8JMg8D11BCFRuFMFLh9he.pkg" size="535776" crc="2e0fd044" md5="339d18ea9df1ad81cc963656d2c2982c" sha1="c6c986669dc3ea6f8557b4eb3fc88315e97d788d"/>
-	</game>
-	<game name="Little Deviants (Europe) (Theme)" id="4478">
-		<category>Games</category>
-		<description>Little Deviants (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00077_00-TPCLITTLED000001</game_id>
-		<rom name="OvrpEwfTfMFdVaetkyEtYXLFvcMkJDJRFkqYaLFUsmLFSPbNqeZchnDMDnlitdof.pkg" size="166528" crc="cda26114" md5="8dcad207b2208bc4b0465b6c7d1fb13a" sha1="a9ae1aabe49e31d58a7dbfd3ff4b7b0c40e8b7fa" sha256="5402794429c28d6d5940136be8f7cf24bd6742900844af0811a7865b51c88e4c"/>
-	</game>
-	<game name="LittleBigPlanet (Europe) (Theme)" id="1712">
-		<category>Games</category>
-		<description>LittleBigPlanet (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00047_00-LBPPSPTHEME00001</game_id>
-		<rom name="EP9000-NPEW00047_00-LBPPSPTHEME00001.rap" size="16" crc="fa46d824" md5="bd3140b43060296365907979204b33d6" sha1="e4837215caeb6a723ca3627bac5e92adc81d6465" sha256="44baaaa79da341774f2a1e9eebd81bf272db10bc09b061d60cdf25a1a4a61a43"/>
-		<rom name="kcULKAySMXEN6y89Qk5cqiS2KpsSObmynXaUwT2pRwThMfjXMfUhhDeaJAbLbEmWEIrbKqgffx2dxsnrAGKpAjG6V5MhSttVXbTuE.pkg" size="700240" crc="9610ff6a" md5="9eeda8d251ef373ba8e8b0234b0e5697" sha1="0e7d829e649cd99c91b783400fb8bee6d4c37f76" sha256="a26bfac475e89f657c0544cc953ab8489978bdb15db6349471075205d9753a4c"/>
-	</game>
 	<game name="LittleBigPlanet (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)" id="1716">
 		<category>Games</category>
 		<description>LittleBigPlanet (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)</description>
@@ -2390,18 +1821,6 @@
 		<description>LittleBigPlanet (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (v2.05) (Update)</description>
 		<game_id>UP9000-UCUS98744_00-LBPPDLCSONYPA002</game_id>
 		<rom name="UP9000-UCUS98744_00-LBPPDLCSONYPA002-A0205-V0100-PE.pkg" size="38071040" crc="54bad719" md5="a93406016a6a059d25d915f673f60117" sha1="c78bb29c9184216077e66b4645ed824a07a880e4" sha256="592ee1d9ec4f241f8c46572c239c2b6312968905dab8355164196ac7110fa043"/>
-	</game>
-	<game name="LittleBigPlanet - Special Limited Theme (Asia) (Theme)" id="5825">
-		<category>Games</category>
-		<description>LittleBigPlanet - Special Limited Theme (Asia) (Theme)</description>
-		<game_id>HP9000-NPHW00016_00-LBPSPTHEMEASIA01</game_id>
-		<rom name="ftufg8ObJXG6xJ3Q1cFpk4QCXYkjrGWPke9fiA4qAKOKoUgDP5ePaD4CM9Lo6MTs13beNKWgDWIrd9e4adLF9j6HEgHdOasyEtxVo.pkg" size="438752" crc="a42a219e" md5="e00321c3c708273c974f6d8a692205c9" sha1="843eef81e709c3bb66e04f2c8e550d06a6549ff7"/>
-	</game>
-	<game name="LittleBigPlanet Vita (Europe) (Theme)" id="4480">
-		<category>Games</category>
-		<description>LittleBigPlanet Vita (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00078_00-TPCPLAYSTA000002</game_id>
-		<rom name="haXkDffVOIncxPavKakPOfAMEEmmcjxAjWoSnYmSadBWVayZtdNVnWLYOeujWJnE.pkg" size="364576" crc="173e4483" md5="998279978cfa686c0456721ba84382ac" sha1="6bd7efbbe760a146f5ded5b7f552428fb93f7105" sha256="d5eed7830a38399e3f66b00c128c75e0437f3bebfc47eafb3864826383a2f964"/>
 	</game>
 	<game name="LocoRoco (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (PSP Go)" id="1825">
 		<category>Games</category>
@@ -2462,12 +1881,6 @@
 		<game_id>UP0082-ULUS10479_00-0000000000000000</game_id>
 		<rom name="tqMsAvxEmBKhfjdcNCySayPOInPcHxAFESApnnWMQBDvTiGzGosBDyBOzXalGlPjPEjUzZOqyWcQwlJlYpySOsnMXwAzzOnEpSSMr.pkg" size="687627312" crc="69014d90" md5="d5779a9bcb496a58da57f0d0187bb0ab" sha1="4b25900c37d476c8ffcc2e55c27fcad02d5012ca" sha256="81440ac866790d32628f81d956d844821eeabef1fca437a8779cdb2d44b3a079"/>
 	</game>
-	<game name="Lord of the Rings (USA) (Theme)" id="4779">
-		<category>Games</category>
-		<description>Lord of the Rings (USA) (Theme)</description>
-		<game_id>US0020-NPUY00015_00-LORDOFTHERINGPSP</game_id>
-		<rom name="lpNojAhFqrFRTStyhI4M0OUOUwg0gGd7nEKKnARv8R1Qf9OqKjq5S3kaNsvmvl0V7b5k1waXEgNTCEqG0SIGM6NSyiYUuEstwiGRh.pkg" size="714496" crc="ec6fdcc9" md5="28ea962ad3d7d77a93b287fa345f89c7" sha1="3dd27944bd87d9cda86bf3de7ca8d88282f2f3d7" sha256="28aa9e7917128d14130e996b4a1f16b39bc3951a1bdc4629a759c6fd1781f104"/>
-	</game>
 	<game name="Lord of the Rings, The - Aragorn's Quest (USA)" id="1867">
 		<category>Games</category>
 		<description>Lord of the Rings, The - Aragorn's Quest (USA)</description>
@@ -2479,30 +1892,6 @@
 		<description>Lord of the Rings, The - Tactics (USA)</description>
 		<game_id>UP0006-ULUS10038_00-LOTRTACTICSDIGID</game_id>
 		<rom name="SaCd2QBUPVgehYkCU0p1tDGqe8q9o0UACuqnXv4Vfhy3qu3t77IpxBKfSXchueWFFBfsWAVSi6ipS0CN1KPubDadtP0TnFxG4EFrt.pkg" size="509783504" crc="a4eade5a" md5="dcd5d911a5f357d2a10c3563f983c23b" sha1="3f0909971929942d688944dff6fa99a7a6c816f2" sha256="8b8e1982ff29cac27ebe55da5783fa1aa5fd09601ed3bf77c9d9c91b758f1563"/>
-	</game>
-	<game name="Lucy Pinder 2 (USA) (Theme)" id="5837">
-		<category>Games</category>
-		<description>Lucy Pinder 2 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND2</game_id>
-		<rom name="lxCxnuTXXAsoLkHDBJCPzFGJXIKeJqwXzWHtDkAnMGdccnLLuLLaPzeanpoVAELkhUufEGWYjhjjixxdYUwfMFujuzNescPmvAdTc.pkg" size="371328" crc="9b790bfd" md5="ce50619ce28b6ee9c605ff828ab9dc0c" sha1="c86630e3f7750a4b3bb8f26c02868100b54e5ad4"/>
-	</game>
-	<game name="Lucy Pinder 3 (USA) (Theme)" id="5838">
-		<category>Games</category>
-		<description>Lucy Pinder 3 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND3</game_id>
-		<rom name="oxspFSXJKNHaYchdFzkVlAxkIOgbeqImdBLVxKusrPEaZkmWoAnWrAVRuJAPCILJ.pkg" size="420432" crc="269f1cd8" md5="9b76a366574e5002fa082fbfe68bf243" sha1="6a8d7f04f4d58e22aed0d143349962b2cf5f53a2"/>
-	</game>
-	<game name="Lucy Pinder 4 (USA) (Theme)" id="5839">
-		<category>Games</category>
-		<description>Lucy Pinder 4 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND4</game_id>
-		<rom name="EzdMayEWkMarhFjFbAvxuhFlrgMYcXHlmsudYiMkHltHKDSqGBPhTyPWvfDAixqW.pkg" size="203312" crc="861c1601" md5="365eb8dde8bf516dda3c405693249300" sha1="68c5d73469ae0811a8b8d8b910a0db3dea23909e"/>
-	</game>
-	<game name="Lucy Pinder 5 (USA) (Theme)" id="5840">
-		<category>Games</category>
-		<description>Lucy Pinder 5 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND5</game_id>
-		<rom name="OnoDlSTeBiMiRMWkbBfbVpvDcCvogUeBfkyKtsXSOlMieOzecddpGxAgAhvuJicL.pkg" size="505664" crc="8cd6f25b" md5="81022682188bb652569d9f84ae130506" sha1="b8cd87c199c4146836e4974630b6ce54c0855000"/>
 	</game>
 	<game name="Lunar - Silver Star Harmony (USA)" id="1876">
 		<category>Games</category>
@@ -2523,24 +1912,6 @@
 		<game_id>UP2008-ULUS10201_00-0111011101110011</game_id>
 		<rom name="95GqPFJiNVnGgSbBLXByT6sPOVP4gLXk9dcg3KMDVc5xg2Lyth2Co2aopKN8mLpCc57pwshtbe9GQx4Ml3miq6cLiqvtHcV0YgC4P.pkg" size="24341376" crc="9a1bf607" md5="ba04e83aa8f4c4fbef90d349bc4f6292" sha1="1781c5d9c07481ebb64b0377688f68b066f0fc6f" sha256="f8a772920c12b0cdde34019c9ce98a891360b1a6cb5d763dbe68318a2d4cdec0"/>
 	</game>
-	<game name="M21 (USA) (Theme)" id="5885">
-		<category>Games</category>
-		<description>M21 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-M21PSPTHEME00001</game_id>
-		<rom name="oxnbXmCOwZJKABkVFmPSyqKaTPnRlwsGikRMprjCqxhYvXWlJHYKFEalquzEPGEHRgMElqTgiFKwdkssYUvtKQyEYWiUAHnVKfrWJ.pkg" size="351920" crc="105d88f9" md5="344c88b3c656dae46991279cdc2f4b08" sha1="7e3db1d450bf50eea59bf09245b2276fc9689b97"/>
-	</game>
-	<game name="M249 SAW 1 (USA) (Theme)" id="5886">
-		<category>Games</category>
-		<description>M249 SAW 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-M249SAWPSPTHEM01</game_id>
-		<rom name="cYlBW7LdfvNAnDV6Hp4guxeujv0h2uvfKD0SPibq8uJVSoQISMWknfYfj4Ca42Hj1IV42fiGKL8KUEte0AmlR7dJg6fINS0u5A67s.pkg" size="637968" crc="f4de6d9b" md5="d4f4fc90f6c73e23341969dc1ddee35d" sha1="6f366d2423cc996ececf1011e005a1192a27c704"/>
-	</game>
-	<game name="M249 SAW 2 (USA) (Theme)" id="5887">
-		<category>Games</category>
-		<description>M249 SAW 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-M249SAWPSPTHEM02</game_id>
-		<rom name="0D8Af8REdLj3WJ33vJDMtsFM4f2O1LX8IEELKCvxS7qcjr6u2YYoS8NPElrTI7KoLrffMNL68FxTDj3qWeWxV5TFIDHHyVNomt9Le.pkg" size="616096" crc="55ca50c4" md5="5fc29b78c4d2a0c366f90afabad5a168" sha1="14571029a70954049e16ebeb6220a3606b142d09"/>
-	</game>
 	<game name="MLB 10 - The Show (USA)" id="2055">
 		<category>Games</category>
 		<description>MLB 10 - The Show (USA)</description>
@@ -2553,29 +1924,11 @@
 		<game_id>UP9000-UCUS98758_00-6490264759104829</game_id>
 		<rom name="rISfoQwfufroXIwaplSOGufScwqFnlmbDHufsJWiEoDWvOnEwkucDFEYHnRguJRVwFhorKcGPrslthHMgBfuVBakPqbiVOdBcnKpA.pkg" size="839867792" crc="36adf5ee" md5="ca28a6926515f60430153b0ed1487ad5" sha1="02d9a01ef44f0a62e6b3c2145b5c7673340747f4" sha256="a3fd54831b7d0593a27df93379b4ca86628b6d3dce2cee54f30a11258d307acd"/>
 	</game>
-	<game name="MP5 1 (USA) (Theme)" id="5889">
-		<category>Games</category>
-		<description>MP5 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-MP5PSPTHEME00001</game_id>
-		<rom name="mplYLVXQLMWNtpErxiIGdkP75PXElUcljsC01frja7df3wKmL4OO6A1gcKDQ0a84xXV6UQgmRkGv3hgXalg89YGNcsoSxX46nwntB.pkg" size="557360" crc="e76f16b2" md5="3cab63af275f4f18425603f90a5bc9e3" sha1="c05bf484b1b9560f64e5e143a3dc3a2be45ae65d"/>
-	</game>
-	<game name="MP5 2 (USA) (Theme)" id="5890">
-		<category>Games</category>
-		<description>MP5 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-MP5PSPTHEME00002</game_id>
-		<rom name="567cSlwQrLiJJSYmTIYdLBy64cYwvPY9ridJ0SWo5oiRq0U07fUxOqiTQbI8yR5Fg8WH0B0EoEF9Xlk3ccEyl2OFKABD0TBWWHaEn.pkg" size="539952" crc="b4acb500" md5="8b7875565e8c137ab12a93556fee8e2b" sha1="245aac987ec1212f44430af597c59a0f199bdb65"/>
-	</game>
 	<game name="MX vs. ATV Reflex (USA)" id="2103">
 		<category>Games</category>
 		<description>MX vs. ATV Reflex (USA)</description>
 		<game_id>UP1005-ULUS10429_00-0000111122223333</game_id>
 		<rom name="9AHSuafL65P6GrDGyAYKc4RIwnEXwd9dfo4CY18Tv4K4OlGeGtQyJhM68UNcrtH4W7dvBriFQIGB2LWTb2GnWFyFiHFfAYmn8pbiD.pkg" size="241303968" crc="a4425dbf" md5="8aebe86c27fb20eebe26208a42331029" sha1="2118a7a9d0771c889f7abba34a9ec8a1e6bc4ccb" sha256="04c95c2ee6bab416ed91d67e2dd189fe9cf5e0442b8acd8bf9425b9318d0dc05"/>
-	</game>
-	<game name="Machine Gun - UMP (USA) (Theme)" id="5888">
-		<category>Games</category>
-		<description>Machine Gun - UMP (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-MACHINGUNUMPTH01</game_id>
-		<rom name="5ptmlxBWbAqWoqep9ylO9l0hYucRJL9uSgQfTgUI2R2gwGj1V9clOOlSa0I2XtMhhCljLKK0hp5Rq3Fh2x2Pmofa1DQm4qOW3Jsm4.pkg" size="568128" crc="983d99fa" md5="74f1e60b23aedf4c20d9dd10cce05eec" sha1="8f25356bbf62639d08fddae2be639f39a4a33a89"/>
 	</game>
 	<game name="Madden NFL 10 (USA)" id="1892">
 		<category>Games</category>
@@ -2751,18 +2104,6 @@
 		<rom name="CjjlsMIgHBvYLjxoCnkIhPM7M9WTnB25tpUyX7H6XSh8kodNEOxwOjdPy3VVisq3oXCDtFPsh7lFyY9xEUedSTDNEiDLkkcN3qRJp.pkg" size="469142944" crc="727de745" md5="02cf6a81c9e31ec9c83d7d55ae654708" sha1="f2038cd5e2f761047ebc7d875e39c9e92ea48d00" sha256="96f6496e1e32de369d0dcd3c0d9520801c6a13a1d7ee5bd4f681a4d49b81d905"/>
 		<rom name="UP1018-NPUH10073_00-MIDWATREASURES00.rap" size="16" crc="1d3d0f4b" md5="47f004c3601adcc830eec998d6a0ab3d" sha1="71a99ff17493eac5dfcf91141e82b2b8c5a04e4a" sha256="90c88b64e9f8754893b5b36708b1e16edf60c21f29fc4b0be5ad056e5b077fb8"/>
 	</game>
-	<game name="Military - Rapid Fire (USA) (Theme)" id="5846">
-		<category>Games</category>
-		<description>Military - Rapid Fire (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1MIL1RAPIDFIRE</game_id>
-		<rom name="UuGLVDmQIUcdwBrCgadnXduxaPriBJMARUtMHuSBadPuRaApUodRpSPRVQxwuCJnkOTTMvyhArlNxMaDQGMBgCXimJfodHygbjJFA.pkg" size="467424" crc="b6421d4e" md5="456dd0482ff4bc29285e3a3f4f406308" sha1="9a2ea5a9269239e087a38c48ff1706824bfda0a5"/>
-	</game>
-	<game name="Military - Rooftop Sharpshooter (USA) (Theme)" id="5847">
-		<category>Games</category>
-		<description>Military - Rooftop Sharpshooter (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1MIL1ROOFTOPSH</game_id>
-		<rom name="qItjxlBZEbYqFqZZAOyORxaTxaDXpbzFwGPtVNOYbafDrdeCAHNepXQIqcPTvstGlzRJAUsjElQvgeriwhBKhXRGIZFcFJBnptdXD.pkg" size="486112" crc="016648ec" md5="2e41eabd4e0ee92ad5c2653b7b483f87" sha1="68490abae04475f3ce13b3b17495f66630f459a0"/>
-	</game>
 	<game name="Military History - Commander - Europe at War (USA) (En,Fr,De,Es,It)" id="2036">
 		<category>Games</category>
 		<description>Military History - Commander - Europe at War (USA) (En,Fr,De,Es,It)</description>
@@ -2774,18 +2115,6 @@
 		<description>Mimana - IYAR Chronicle (USA)</description>
 		<game_id>UP1024-ULUS10492_00-MCPSPGAMEUS00100</game_id>
 		<rom name="UWLHmKxrtY1Uxhafi4u4sbDn2UYvKWP63wTCkN6i51Q0EWyHHnuq6Bs5tp8SFWmiDjiAx7vGi322PFkqQjcDJ1u6mycTuqSFAlGRD.pkg" size="464430624" crc="b4203760" md5="a3a8ebf3fec284e7c1b30d34c9ec3f4f" sha1="44f3d3676311ca6d5fec92b60ed14f328d62018b" sha256="ed1a893e55eca0f40f39b651731dcedc488288f5c13bb5f0360ad91ce8af5622"/>
-	</game>
-	<game name="Mini Winterland (USA) (Theme)" id="4784">
-		<category>Games</category>
-		<description>Mini Winterland (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-MINIWINTERLAND01</game_id>
-		<rom name="ALtUSMSzTxjRMlHslePtFwsUxZbaWIiXLnRYrkoRQYvUnVMnSEpHnbuzZKijEyZObnHcEQuhXJPdoSlwfnyHRNCZAFZLCDKsBcrQp.pkg" size="607296" crc="0f32a2d2" md5="affb8009eba5e5dcca9cec6833cec35b" sha1="17470616e885314227f1c0b7cef2afef553affc1" sha256="2d4c78679bb16b4f32c4a54bafb732248418fdb6906fe1fce65c91ba277b0b1a"/>
-	</game>
-	<game name="Miss Kawasaki Hook-Ups (USA) (Theme)" id="4783">
-		<category>Games</category>
-		<description>Miss Kawasaki Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-MISSKAWASAKIPSP1</game_id>
-		<rom name="7GAfhDwwaXByCUSjmx9kMGfRGtNBH2fEOaIuRGjanC2IJdjJv5AQakT47b6wcrok6x67SyF2tOoJlRUYCQriHSs89Mteq5QGWXWwK.pkg" size="293280" crc="5b5864e4" md5="1551e819949917b5b9b0eaeab9d6fb0e" sha1="dff16df8d669dca39b11b5112badc18c0da48f20" sha256="9f333ff49c30b184a6e5ff5078aa36b6f48e950fc1d6fe1ff53fd71db320f369"/>
 	</game>
 	<game name="ModNation Racers (USA)" id="2060">
 		<category>Games</category>
@@ -2799,18 +2128,6 @@
 		<description>ModNation Racers - PSP Review (Europe)</description>
 		<game_id>EP9000-UCES01327_00-0000000000RMNPSP</game_id>
 		<rom name="6xHLYbrgBjlXu5IVHB9jaaOQE0B0itnoNWaAi7jAA526mGyxFQ2TrUCng6wQqhJTO2sgtJ9Yx6EwWGwW8SWYqOWEbOb7SPltXGWtv.pkg" size="1408836240" crc="d50cf9f4" md5="9fa6ecc669ccb623754c43a1cc7879b7" sha1="38722b2e49439cb2ea3feb3af9805e860c2615c5"/>
-	</game>
-	<game name="ModNation Racers - Theme 1 (USA) (Theme)" id="2062">
-		<category>Games</category>
-		<description>ModNation Racers - Theme 1 (USA) (Theme)</description>
-		<game_id>UP9000-UCUS98741_00-MNRACERSPSPTHM01</game_id>
-		<rom name="XsEuxKDj24JfBBrCWwVS2uOG4NGALHyXVuymgXkSIiguDWveE9QFymYEKkD35FE8X4HQWRy5Vtx68RR3Mn4qE5H3itxgLSJB8r8r5.pkg" size="308544" crc="5acd8ecf" md5="d890d8f28a74c55b6047a6bbd8b3bd64" sha1="87ba644e9225fd17d8b3f03680cc8444dbccdc46" sha256="91ad51ba2d4152d621ae5a12aef2ddfef02e62be3f1d70485107df9577c3531d"/>
-	</game>
-	<game name="ModNation Racers - Theme 2 (USA) (Theme)" id="2063">
-		<category>Games</category>
-		<description>ModNation Racers - Theme 2 (USA) (Theme)</description>
-		<game_id>UP9000-UCUS98741_00-MNRACERSPSPTHM02</game_id>
-		<rom name="h864EXBhEVibGjsUTuU7ABTuFva6aDpN1HmACpujM3m5FhjgM36rhb236BiPm9oUEk4CQXjiPoBVq2LM9HP33sSequwIt2b26bscS.pkg" size="327088" crc="b8cc4121" md5="de3a6caeb31e54d8012813d35d707ce3" sha1="112d0693ab13b229e84339ffb53916f4804d19b6" sha256="62f1355c89227752af9ea83701a88a671311e8c8cd01f66bb4f4ea14c146cb91"/>
 	</game>
 	<game name="Monster Hunter Freedom (Europe) (En,Fr,De,Es,It)" id="2073">
 		<category>Games</category>
@@ -2857,12 +2174,6 @@
 		<description>MotorStorm - Arctic Edge (USA)</description>
 		<game_id>UP9000-UCUS98743_00-GPCMOTORST000001</game_id>
 		<rom name="PiGT9q1VBbdo24XgFWLHe2lcWrIWkUfg35WGAuihwaH1JfcY7y2IVYsrLK2PNKGhoXFaHK19302dFCPPWW2w36o6LroYppDqNPvy7.pkg" size="550390320" crc="f093ad01" md5="d6e9d03a9d36135a70c45a5b19121acd" sha1="00e1c17fff247067a9870528f379d6fa0789fc6c" sha256="a1fa52ba19eca9bd1b0d945c2eee12fa5d94da18acfc85990d7f22a5ad4f1d11"/>
-	</game>
-	<game name="My Bloody Valentine (USA) (Theme)" id="4762">
-		<category>Games</category>
-		<description>My Bloody Valentine (USA) (Theme)</description>
-		<game_id>US0009-NPUY00002_00-MYBLOODYVALPSP01</game_id>
-		<rom name="iEg8ukLQ7SgacASyXcSVq5adb5eRfOirSpDDeYOhMvDtPGunXTGScTndHhMed2gI8WYykIFey80b1tAqQNnVf6CcXUP7GleJat15w.pkg" size="565248" crc="2ee67eb1" md5="7cf2c9bfc328b7acd82ccc10f16c858b" sha1="72493e99691feed636f6388d84c218fc984854a0" sha256="a23bb81cc50b0d2d5a9f5b425340536378dbd2e5bd95faeebaa4a232aad03d51"/>
 	</game>
 	<game name="Myst (USA)" id="2107">
 		<category>Games</category>
@@ -3006,24 +2317,6 @@
 		<rom name="UP9000-NPUG80320_00-0000000000000000.rap" size="16" crc="6554713c" md5="ce7579e48ca071591fffe13224279617" sha1="f37f4b1f8545492e0d8b2ade8118b0be15c54b90" sha256="1128e4d1fafb7bf5d4dfb14b2a44d4b3b3f957b261d6d521a3c9e9b0661f48a0"/>
 		<rom name="gEFESDjT37hkyUrSVHVVFVFPRaVyIcEovWtMsrdI7GekyKyk5vmpFLRIHEbWt3gttI7QVMnkRkqJpBerGPEftfjFW6DrO0iVimoMC.pkg" size="37035648" crc="e7b9b6a6" md5="672d75267f5a000d8b5b85e44a1fa603" sha1="bfc24dbfe981711b26bb636c2a15a9f5861f8457" sha256="e252098496a3cde61948c1c6db09074f3c43d8fab4ec036ec4cf8842f4539b14"/>
 	</game>
-	<game name="Nurse Girl Brandi Hook-Ups (USA) (Theme)" id="4790">
-		<category>Games</category>
-		<description>Nurse Girl Brandi Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-NURSEGIRLBRAND01</game_id>
-		<rom name="NKcQ6wFgQ4Qnt2mATSJD0Ct9GvjBN2Us6RgCxtrs0YFpS4sScIMM086dYhenBW9kPxwwx7i0eGcVRaA3Wx0KK7RfJQtBo1aqK0h1L.pkg" size="338912" crc="1da83b0d" md5="98a0b31460be72aebcc8abc11877ddf9" sha1="def2a85dbdfa31460f9389069b34a29212206324" sha256="b98f43684f07ddb595e6e380800af84380a4373be3eb239deff1432b77f8058b"/>
-	</game>
-	<game name="Nurse Girl Mika Hook-Ups (USA) (Theme)" id="4788">
-		<category>Games</category>
-		<description>Nurse Girl Mika Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-NRSGRLMIKAPSPTM1</game_id>
-		<rom name="emPQ4UTIijnKHHwKVMrgGQR5POMva81PjapGLtU1KlGUk8HTuO8bHnEF3VdhaNR4kK2AN33q3bwxyOEspdAI55Fcoi9G8ojnirUat.pkg" size="372544" crc="a1174a1f" md5="109c455a641be28761f942b465632e17" sha1="4b38fccd86f1a14a82cc146b60f26876aa66db6d" sha256="6d0ae2345e81135688073b440c7cb3e79355dd4bbf146765b8075d3231f0b5ff"/>
-	</game>
-	<game name="Nurse Girl Nikki Hook-Ups (USA) (Theme)" id="4754">
-		<category>Games</category>
-		<description>Nurse Girl Nikki Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-NURSEGIRLNIKPSP1</game_id>
-		<rom name="PeCWJsUowapIBcjwjctVKAo75IY1wF6JEMTa5fQlPYHXGPDu54vyStxS6KUqTNPWG6jj93ceWnAJjdhenhEAGOGeF5QowggeU7QNl.pkg" size="338176" crc="104bd12c" md5="e78682b1b96a123e430507e22cf1bce0" sha1="b36c92f1d98be876de050e1189349ab20851f3c1" sha256="ec5fe385c13525a121ae0af1ea3b53adb594d888ec85599f277035e9beb4f19f"/>
-	</game>
 	<game name="Obscure - The Aftermath (USA) (En,Fr,Es)" id="2206">
 		<category>Games</category>
 		<description>Obscure - The Aftermath (USA) (En,Fr,Es)</description>
@@ -3035,12 +2328,6 @@
 		<description>Open Season (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)</description>
 		<game_id>EP0001-ULES00508_00-GPCOPENSEA000002</game_id>
 		<rom name="PchLMCAYLh9O4a2IuaUuGH7UDRUyMU8m9IhychcKEx9PCD7h6kthHh6cdbVDfokF.pkg" size="1460247280" crc="44ddf3ea" md5="ef66586c3b5175453232b4badb8fbb82" sha1="50fa0eb9e3e0f68029455f44012a344888ee7ff0" sha256="0cad515c2e5d510379f1acf4ff7a08aa5d8db6d5fcf55d8397b9ba460cc36fab"/>
-	</game>
-	<game name="P90 (USA) (Theme)" id="5891">
-		<category>Games</category>
-		<description>P90 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-P90PSPTHEME00001</game_id>
-		<rom name="iguzZnIenBFtZZyvZQKkYijffKIRsvGrPyMxUXHPkNpxobuSPRKdlAkYUJUMWqoKWvGxmsTbDOJvuMfAObIKMGuqWQdupQhDGsgiN.pkg" size="352192" crc="19ec2d3e" md5="2d54040aeb353bc63605bf52dd9f42fb" sha1="a7e75bc962d7f894b6fa4f95d653212676ca3523"/>
 	</game>
 	<game name="PES 2011 - Pro Evolution Soccer (USA)" id="2595">
 		<category>Games</category>
@@ -3059,20 +2346,6 @@
 		<description>PQ - Practical Intelligence Quotient (USA)</description>
 		<game_id>UP0367-ULUS10046_00-PIQPSPDL00000001</game_id>
 		<rom name="1pCdVe5Ef7ycnSUmKKN548nGQ3jMq6KeRqPnwwhKLVF5HBj6uq7NTvL5Ojn5NplJbOAKo9Cc1gNJp2R5tCE5IUSbqrI7g1Vl7YFHG.pkg" size="88043648" crc="166d41aa" md5="d4c11738d584294eb1984636d0d234fb" sha1="ee20cdde7e396aebca2049779de6bb4e668970ef" sha256="690bd594efae1bdb4a0c35f43e5cf2ab6153cde1d65ab541a532c4194ad687a7"/>
-	</game>
-	<game name="PSP Go Promotion (Europe) (Theme)" id="4285">
-		<category>Games</category>
-		<description>PSP Go Promotion (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00063_00-TPCPSPGOPR000001</game_id>
-		<rom name="EP9000-NPEW00063_00-TPCPSPGOPR000001.rap" size="16" crc="604c5426" md5="3fedc832cebb89ca27346bd204c4b61f" sha1="4800d5318cea06356a57d8e94bb56800ca6cdbcd" sha256="4acfd7cf0219aba08648c7c8fd4adc06b2266de54aacda6504501b207a7a582f"/>
-		<rom name="vTufp0tNftTkdmBXwUtPVxf7ToYlDwQGmsIQbIwfu5jyNxB9ag6cSbKfpc1vp6KF7s3rgXVA2F1AQlaCpXgkj1b5hxHGBvVmOEw4j.pkg" size="345792" crc="5d779637" md5="6e9584563d18ff5f86e5467ed8054e7f" sha1="5aef4ab9f14d3133e08b88971f63409df39d0c0b" sha256="a411a132b61329049dbc735fdf837d9cbb44a0f7a3e8ec5142557a484cce11eb"/>
-	</game>
-	<game name="PSP Go Theme 01 (Europe) (Theme)" id="4160">
-		<category>Games</category>
-		<description>PSP Go Theme 01 (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00068_00-TPCPSPGOPR000001</game_id>
-		<rom name="AfHhOkoK6X0v2f8oO3fPe9HvMM7QDvCvBdc8Mb4Uo0s3c3kNVFr7dXdxx4NLGfDaW6NQt1R8txWpCgiaBFj6LO2gjpqtGLDOtuR7s.pkg" size="448112" crc="f0c44707" md5="7da735ebbca9df90e454ef356150ee7d" sha1="b2b9c60606fd99d3a2a90191c053ec3665d15bc7" sha256="e8202ae5c55c8bd53cfe0a4ace22faaf628df1dff3a1bb9533f7fbada5db0f5a"/>
-		<rom name="EP9000-NPEW00068_00-TPCPSPGOPR000001.rap" size="16" crc="2a75d44f" md5="825f780c53e49ee069b4490c00e65c2e" sha1="6b8caa2c8a9ff5303e35febe10392d73bb521990" sha256="e9a4cf2f53083ea9c3967ccaabc9c0a6120da858e6e18b907d37363c6bedb713"/>
 	</game>
 	<game name="PaRappa the Rapper (USA)" id="2312">
 		<category>Games</category>
@@ -3220,12 +2493,6 @@
 		<game_id>UP9000-NPUG80413_00-PIYOTAMAGAME0000</game_id>
 		<rom name="ESXK6yeNDvwjJpXUWK90tyHssGty8CcOSh3yLuLSHfDnMNFCO7MRvnFuSnXkQoKY1inbVwwH1WVAH9jN5SRmRo2bTVnkNCbWyLI74.pkg" size="34343728" crc="b7ad7826" md5="4856b1350d1d7ac49bb274a14bf86977" sha1="b85a9dd9bfe583dc8ed8455e9c2cc66a3d51f407" sha256="f2f245086c46779f02319420e5392c562f12de1b1087b51bf93116a67cd2a60e"/>
 		<rom name="UP9000-NPUG80413_00-PIYOTAMAGAME0000.rap" size="16" crc="f349d7f9" md5="9e1c13ab50119a97c9e0c91a66609a83" sha1="5d1862a74708770d3f7e141c554cbecc3c665c61" sha256="4eebaa670e12e81431ce146e23a576690cbb911a6c4cbf20df1ddd7468f97b4d"/>
-	</game>
-	<game name="PlayStation 15th Anniversary Theme (Asia) (Theme)" id="5826">
-		<category>Games</category>
-		<description>PlayStation 15th Anniversary Theme (Asia) (Theme)</description>
-		<game_id>HP9008-NPHW00022_00-PSANNIVERSARY001</game_id>
-		<rom name="4NrtMKdyugLDEIlRcj2yJjVjspXi8Mx1RcJWuwV5VOkAPeY43dGp8kJUq5NHiOJi8ScoYqdqBjoIj6O21lfQQSmcmiVklUHaCERHM.pkg" size="223632" crc="3827216c" md5="38c0c6f340a14132f0cd9870f88e1e08" sha1="ed49842eeeced9e98b95d6eaa1a5f6f9c3562819"/>
 	</game>
 	<game name="Pocket Pool (USA)" id="2547">
 		<category>Games</category>
@@ -3383,13 +2650,6 @@
 		<game_id>UP0555-ULUS10127_00-RENGOK2PSPLEGACY</game_id>
 		<rom name="jtOBkv7jaPgXkCpkXyvc4JfLaIVfv8woFFs9uUaekbdTeyodQKmUxpKheWnLUqgtEwgoXnrgeMbgTq6nCk6EL4Vf13Dqh5SM9H2Nd.pkg" size="422073280" crc="8cdd5193" md5="6987ddcaca63ba1438505159db2b737b" sha1="5556378821448668d02982c6af011b8de55e0301" sha256="480cc474c181739ed11e4cc81dd07726e743e69fb23f5400a8644e6acf64577d"/>
 	</game>
-	<game name="Resistance - Burning Skies (Europe) (Theme)" id="4166">
-		<category>Games</category>
-		<description>Resistance - Burning Skies (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00079_00-TPCRESISTA000001</game_id>
-		<rom name="EP9000-NPEW00079_00-TPCRESISTA000001.rap" size="16" crc="cdff0c18" md5="c54d46fe725a6264628cf298b6f72483" sha1="6a76fad11af66a4a436d45e7305857edf135b770" sha256="4728b52e5aec3ea5ac278fe6dd8f1bc9c6c78bf6c7bf14f9374153387768d55e"/>
-		<rom name="XtamxzylYqqUVNKNwubUDOEgFKUTXHzFxCmhnGYCVJDZaPehENQoXkkEqQjcqIzV.pkg" size="397392" crc="71a02a7b" md5="56417a11cc71e37cf899a86077c58aaa" sha1="504a7058a65a94bb906fd425a0c3e200804252df" sha256="56bd2a0d2dbe476c5e7ed8112e9a9870621ed93af30434621f7bfd100baa0ff1"/>
-	</game>
 	<game name="Resistance - Retribution (Europe) (PSP Go)" id="2733">
 		<category>Games</category>
 		<description>Resistance - Retribution (Europe) (PSP Go)</description>
@@ -3458,12 +2718,6 @@
 		<description>SBK - Superbike World Championship (USA)</description>
 		<game_id>UP1021-ULUS10300_00-0011853333001271</game_id>
 		<rom name="OJ9ERBXbQWXDqWdxRuLwiDST7wsi5s63RWlH50Q9THbtItXCjJxqqNrTE80wQXEpbOJ6ReqgkITO6pYcdbnlSWB1FDuNcUoxKrSuX.pkg" size="114829536" crc="a30efa8d" md5="f25503fb4281fa90b43a40cf19c3c669" sha1="4e69de75ba47b927413a37440949e3a047417513" sha256="b9ced8291da308bbde2bb658b9c9faa0ce0d2c4fe711a62170fb3bcb69211808"/>
-	</game>
-	<game name="SCAR 1 (USA) (Theme)" id="5892">
-		<category>Games</category>
-		<description>SCAR 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-SCARPSPTHEME0001</game_id>
-		<rom name="JntrQfcC8GrH93NRpUFUFSTV37LgKUFaCsRISt4LiCHLVPb48BYAlORplSmm4tAhrIA1yKet6UkMeL6t78A8v1FRqBLK9IC1OIJjX.pkg" size="422816" crc="8ca8dbed" md5="e4c712b1bbeebda86d4d2a4c81fb727e" sha1="10cb03a3e55b5c2f7ef4ac719dc64b6102489d43"/>
 	</game>
 	<game name="SNK Arcade Classics Vol. 1 (USA)" id="3058">
 		<category>Games</category>
@@ -3538,35 +2792,11 @@
 		<game_id>UP0106-ULUS10089_00-GPCSAMURAI000000</game_id>
 		<rom name="xXk80qshAjXtyWBbdMIfkbcd1xjDTs7dCsnGfJ0no1XsJSeMURDj0kmFLTiMhu1JY40HRMAbkY7KViF2aSE83vtrJPS3r2S5Ww35r.pkg" size="192053696" crc="76bdf35f" md5="c57e7f3bbd3d93b164ef221f682d3b83" sha1="2e308521ed88250dca879bfe488668cd5ec92ba4" sha256="789f0a4116045e520ad75a3386ceb2a3bd6ad2803da3ce8316c2b5adf8727865"/>
 	</game>
-	<game name="Santa's Sexy Helpers (USA) (Theme)" id="5854">
-		<category>Games</category>
-		<description>Santa's Sexy Helpers (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-SANSEXYHELPPSP01</game_id>
-		<rom name="sRyMpRhlqIOodvPgDmDpRxeZgtdnzjGOPewWVkJmvJAjexYSBXNmcuImLvbzYecXcIFowTpfyklFuIgxnGAGQftjFdrvVfxXQoXzF.pkg" size="338048" crc="e199d350" md5="841240b19ddf5f1be36049983f969841" sha1="dc756c76c3dda42edaaf913b33fb3a1459fe41c6"/>
-	</game>
 	<game name="Savage Moon - The Hera Campaign (USA)" id="2879">
 		<category>Games</category>
 		<description>Savage Moon - The Hera Campaign (USA)</description>
 		<game_id>UP9000-NPUG80328_00-0000111122223333</game_id>
 		<rom name="suMT9jOPby7uEp3UgaEEuwuN5THNmlglHePTxKcwC7jV510nhxV9k3SLn2dwLiWYns5EIPNpvWNKG1F8jw0HqyBlp4W38WeMRVyiv.pkg" size="43923344" crc="899d710d" md5="dfc0c18af5c919124132ffcfee19e97a" sha1="0f751a78b5cfcd0ac1024f36a3d32c951f015567" sha256="129a7c505671fc382d75905d6e34b0812aaf5bba3a091375de6fbe7c4ae7f1a5"/>
-	</game>
-	<game name="Scenic Seagulls (USA) (Theme)" id="4794">
-		<category>Games</category>
-		<description>Scenic Seagulls (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-SCENICSEAGULLS01</game_id>
-		<rom name="qNVMJYLxOIFxwApHYIgsCdQXxERPDUzLDxRYzxHDYJXCGJgXfTbWNIlhPLiMeKGhaIKhqRLTTLjkTdawrwSzUYctFUutuPlYviEAy.pkg" size="544880" crc="a276979b" md5="6c47670f3225d6bd436bed08e664cc46" sha1="857ee3c4017a86a14d13deae70c6ef02cda3058c" sha256="66d1b5b34425a96d98b1d9a316bb920784229ee86de5a374dce9c90ebae4dc54"/>
-	</game>
-	<game name="School Girl Attack! Hook-Ups (USA) (Theme)" id="4757">
-		<category>Games</category>
-		<description>School Girl Attack! Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-SCHOOLGIRLATPSP1</game_id>
-		<rom name="XNNAVks3wRLasOCgxEOucrFDUAjro0f0Sfdv5gdF2wSoDCkJFi3f9115DvlNRBaK3BXwvb2440eI7RuQ6Im9R6XE3SJ3Xj9OepCYi.pkg" size="331232" crc="b78ec266" md5="d899a1d3860379dc9dc015c3135c9492" sha1="6c0e77c941cb4607618b01b35e7fcb36582d49da" sha256="effeb97fb2e4449a7e85d1794e1284a6316457daa7c7a5678415523531bc73ac"/>
-	</game>
-	<game name="School Girl Hook-Ups (USA) (Theme)" id="4782">
-		<category>Games</category>
-		<description>School Girl Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-SCHOOLGIRLPSPTM1</game_id>
-		<rom name="3PRTGEdWFr4A7nWUEewg07sTdBwQIBiX5clLOKl1naWTProoIqiO7sOqBpbPI7XENlxCnBHIVRAWmKAgCXHOv2n2vudDyLAMEUNg2.pkg" size="375104" crc="473ac668" md5="94dceba2d1893a0357049e8488d97c93" sha1="c7a6555559c169815c053654a7bef663571fbecd" sha256="496d42c077e2ea7887bfd2d340ee4eb4ed9215dcc1ce7d290294e4aeb5910ddb"/>
 	</game>
 	<game name="Scrabble (USA)" id="2881">
 		<category>Games</category>
@@ -3600,12 +2830,6 @@
 		<description>Sega Rally Revo (USA)</description>
 		<game_id>UP0177-ULUS10311_00-SEGARALLYREVOPSP</game_id>
 		<rom name="KgGjW1Q8UB4jtftxJLj5BWvdNjfQkovqR9Vjcej2CRe12M9nMK8taWXlt9klH034qgCIam50vhhrRnOAqoPUmfK3RDnl1GXCBKXgo.pkg" size="150275584" crc="c7976cb3" md5="580452e1afa193fe704b60f756aa8531" sha1="20de66b906ac3d2c9a634aaeab17a06c319da256" sha256="6463132c8936752c816d0da29a7c87add4ddfa2eeba707ce21ec55f8c31a8ea7"/>
-	</game>
-	<game name="Sexy Referee (USA) (Theme)" id="5855">
-		<category>Games</category>
-		<description>Sexy Referee (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-SEXYREFEREEPSP01</game_id>
-		<rom name="QXgEwq1Snd9W2M67vmXjTc5cXImPSW4LXYvs75rdUbQlNRCfDtjPh3jSaWwiOIEpiVVHdFgdD7sXE3GEHqccrciNbwy069Eo4SVIg.pkg" size="478464" crc="7ddec9e2" md5="531dae0e83dcfbc0974985393bf9566a" sha1="2600c616eb53d70d2605a225e3a531808bc2e15a"/>
 	</game>
 	<game name="Shin Megami Tensei - Persona (USA)" id="2929">
 		<category>Games</category>
@@ -3679,25 +2903,6 @@
 		<rom name="EP4061-ULES00957_00-GPCSKATEPA000001.rap" size="16" crc="f1083de4" md5="0fcc205301e1af13bd72db3d88c3c7cd" sha1="0aa2124ccead7dac585c3e30dd6cc90d89807887" sha256="e4c44a52521924b4585c9c2f55438d706fd8f372ae689338629483273545647a"/>
 		<rom name="OKGakjOF10FQA0cmnPkSnNXqnv4AkTwr37J5MsG6MCOFj7xUKxpMFRDvl6Y56hvbCVxB1Ye6Eus85KBSVvr0apGOLGqL1NPSyUWMx.pkg" size="171893296" crc="c56b0acd" md5="1af9204ab51a328a4cfa7137402cd2c9" sha1="24a81466f923cbf92353331e4ba5e8f0f82e8463" sha256="63685a83fde2cdb487a7fc54afb484bfd1c06b13d828bb8ce7d9509638aa7fb2"/>
 	</game>
-	<game name="Sniper Girls (USA) (Theme)" id="5856">
-		<category>Games</category>
-		<description>Sniper Girls (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-SNIPERGIRLSPSP01</game_id>
-		<rom name="nguSujIaDmAN93kUYFE9UNqAA8jHDXL2qEH7xARhjJkUSkLBV3KOryBsjPrQvbL3fXj6fHFBATmq8wL8Pt5r3cJD7A8xjwoXBDncC.pkg" size="573792" crc="849166b3" md5="2df7afcf9a32b59026cf59f5df4a1c87" sha1="17a83b9a1956aebff7da39e42f907962ae79b07c"/>
-	</game>
-	<game name="Snowman Static Theme by Studio Output (Europe) (Theme)" id="3061">
-		<category>Games</category>
-		<description>Snowman Static Theme by Studio Output (Europe) (Theme)</description>
-		<game_id>EP9000-NPEW00076_00-TPCSTUDIOO000070</game_id>
-		<rom name="EP9000-NPEW00076_00-TPCSTUDIOO000070.rap" size="16" crc="3acdcf10" md5="80dbdc9be7273b29e3ed31a9be5499a5" sha1="2e411a1971e57a34639f6975d2e1c0b89fd772ea" sha256="ab8fa457634cc9a87d43e517ca50096d7e893789447c1d606f107ff40ecdbc80"/>
-		<rom name="qUyKoDCNbvPyEuTlRPxPRrABPLXgCFgSMmmqegUfbiRzfEREsgdHxDkJtITiWaRe.pkg" size="372112" crc="ef2a2b0f" md5="8894f1c83d5790978b75ff3b5f261730" sha1="041c02772437cf0c8916e4c04ec11224b5786897" sha256="7c9f441a3206112cfb843a1f8f3e49c70e2a8d204eac0e5bcbdba8279a3d3930"/>
-	</game>
-	<game name="Snowy Mountain (USA) (Theme)" id="4787">
-		<category>Games</category>
-		<description>Snowy Mountain (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-SNOWYMOUNTAPSP01</game_id>
-		<rom name="EbpQWOrAIYAbjstAtPAOpbzRPdyywbTpXBCbxUjaBfHBkFSwiAAxlbqLFwxAVvMgXCNcYawiQJkJLTCWAVrBdYWQMxXSNRZXydBKQ.pkg" size="648912" crc="426eba4a" md5="ab6256f976ace911361128fcee676b0c" sha1="7cd52de58fb6044090f0449fac3c09edb5e449e8" sha256="9effab20b8ef97e0ba2dd4757e008396ed16267a3e92b32439d64f5772f28ea0"/>
-	</game>
 	<game name="Soldier Blade (USA) (PCE)" id="3091">
 		<category>Games</category>
 		<description>Soldier Blade (USA) (PCE)</description>
@@ -3718,36 +2923,12 @@
 		<rom name="IKy9Ye6thBnn5UeLC5c4sKKDXijVp57Hru348NffGasgQdg9b375Lhqxp8nKP2QxykXjTPWoK35esPMlr7s6djgwy4GDANwhfte1e.pkg" size="477874592" crc="5b65e3f0" md5="4523cdd9c218a11fc7ee8faa55bc4f73" sha1="53cb143f208f1acfec652122d730c8d3d4245f03" sha256="adfaa1b7f9524c953c65712ea8f04d27fa99d17f46bb67d387e225ff130bf702"/>
 		<rom name="UP0177-ULUS10323_00-SONICRIVALS02PSP.rap" size="16" crc="1b9d562b" md5="baa385de9daff001efef2aa672379d2d" sha1="9f28baa9b24bfb70438087aee0c94cd2176e35f3" sha256="4e54bfb82595c3966601ba7a271053c9a0ad4421e87309d3200a6097d8855cfc"/>
 	</game>
-	<game name="Sorority Girls (USA) (Theme)" id="5857">
-		<category>Games</category>
-		<description>Sorority Girls (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-SORORITYGIRLPSP1</game_id>
-		<rom name="derTbpOLXtQEJOxInX6x2wr1W9qPbltVgdrwvpAqlLvWKcFmCW06xE8AR6j1tmTHa6Th4cpb0EnqyxoWIoDHnGo01NWGFDHQcof4X.pkg" size="552448" crc="33608117" md5="f47a976671901c9c79cd796c99f4a66f" sha1="8452a9b577dbb4c1c5db88ea9dcbaa9441d30fa9"/>
-	</game>
-	<game name="Sorority Winter Break (USA) (Theme)" id="5858">
-		<category>Games</category>
-		<description>Sorority Winter Break (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-SORWTBRKPSPTHM01</game_id>
-		<rom name="9HTg4vPKq51kRILClewQb3wdgBYp7Vb8vQRwX1sc2e6PoCdTR4CKMrLy6jTrNN59FS5jdlDnlvegAvLt6gMDKIigEEA8CmuJmXiyC.pkg" size="560016" crc="c91b20ac" md5="692ce33dc21d1e41605cac90c747a401" sha1="91aa2faaea0321a4292ec6a98be615e76110bc70"/>
-	</game>
 	<game name="Soulcalibur - Broken Destiny (USA) (En,Ja,Fr,De,Es,It,Ru)" id="3107">
 		<category>Games</category>
 		<description>Soulcalibur - Broken Destiny (USA) (En,Ja,Fr,De,Es,It,Ru)</description>
 		<game_id>UP0700-ULUS10457_00-SOULCALIBURPSPGO</game_id>
 		<rom name="UP0700-ULUS10457_00-SOULCALIBURPSPGO.rap" size="16" crc="76fb9726" md5="2c1dc9beb3a1ba1684875d18b4685d39" sha1="30092fdee3dc70e975ab6fe33694eaf80c2f01ed" sha256="8ca8fec0689f423a18ec2c4c371652e40f4aafdf86d1064d60a6947cc3b203c5"/>
 		<rom name="w5OAIfRMPN0Ygift8Y9VdqGj3Wug6aRFoQ43EndsgE9Jc3D2PfBwqeukipUhu0xGSgcK1CilNFCbj3kEx1nhvSedwO28cb5EGLrsp.pkg" size="374820176" crc="ccf1f5fe" md5="9af42e19bf6e5da92f28360592f8dcfc" sha1="29dc5fb9cb8ed1e351f6a16c296e5770a7ae8f08" sha256="a889b5f8c1fbe358b9b8a224c097abaec376d8a5781c215d95e806d7a8d742ed"/>
-	</game>
-	<game name="South Park (USA) (Theme)" id="4775">
-		<category>Games</category>
-		<description>South Park (USA) (Theme)</description>
-		<game_id>US0013-NPUY00008_00-SOUTHPARKPSPTHM1</game_id>
-		<rom name="AdKTEXlSsLVHvNJSLON6IaScjYS1kIEY3G6ICcI2QwWDK5aP8YxFgt8HnpxqUXWbjceq4rKh2prI76OD6BwPmQL6f5hjfAKuRML4E.pkg" size="457760" crc="eb60894a" md5="fd4d72a806ac03789c0a40cb4ba1e64d" sha1="71b719b935748155fed54da7995b2d7c06144bde" sha256="4612d6598b988960765122b261f87a486023706c430bde5c73ddaeab5f983f5a"/>
-	</game>
-	<game name="South Park Anime (USA) (Theme)" id="4776">
-		<category>Games</category>
-		<description>South Park Anime (USA) (Theme)</description>
-		<game_id>US0013-NPUY00008_00-SOUTHPARKANIPSP1</game_id>
-		<rom name="jk61fubARmMDerWDhK7Mud8W4lHEph7iiLx25UjCFf7eswXT92b2r2nmXJW5KQU64IlJBw5Vsp18XhPbNtCewFYrTVYIycWD9J2QN.pkg" size="452608" crc="e59f8545" md5="fc36394b231681c326e90ce28949a74f" sha1="6e9e79f8b953c42f0cca5a610d8445a5afec1f13" sha256="3e958d918045c4f646f34a1efa553f75933401aa96b67a83595811c5848dc32f"/>
 	</game>
 	<game name="Space Invaders Extreme (Europe)" id="3113">
 		<category>Games</category>
@@ -3780,48 +2961,6 @@
 		<game_id>EP1006-ULES01402_00-GPCSPLITSE000001</game_id>
 		<rom name="EP1006-ULES01402_00-GPCSPLITSE000001.rap" size="16" crc="29fae4e5" md5="94f4310bc41597de632517ba06c60202" sha1="d6bedd229fc896ea5c3df34e6bd3176dbe37ad6f" sha256="832bb2c16154682ba6f8effeaa2dac8bba71fc9352613534c237e13495bec0b9"/>
 		<rom name="pFsj7crsDfVLd1o44buuFRueNtPj2oalJ85K1uoiBalLvYQmWBt9PX4hOAaSDJ2Q.pkg" size="1524348800" crc="84185e92" md5="f1748acb4c6f039e005c75cff344d6e1" sha1="933f04cf353bf492a5367dd86957432a87786f8f" sha256="ef1f2b637d32548cf4f305db37a38ea2e6771b457ea7b78330f42d40f82fd776"/>
-	</game>
-	<game name="Star Ocean 1 First Departure Theme (Asia) (Theme)" id="4807">
-		<category>Games</category>
-		<description>Star Ocean 1 First Departure Theme (Asia) (Theme)</description>
-		<game_id>HP0082-NPHY00001_00-0000000000000000</game_id>
-		<rom name="3uEARmgEwJ4WgLRHQFqaDsqPKqniY1VOKj1ddworF1RWGvXda7hUX2P2a2bjdgsOR4og0QqEv3wiMtyQXD6cQ0JtGoKN8a4ynn02b.pkg" size="324144" crc="268738cc" md5="84b6abd75031062bd26b4359302e4480" sha1="2c997ebc68ba4626459c65216a53840e0706c932" sha256="bc5e4412c7fa1d3d0404665bb8d6b4df3c3030f4b67c0526fb823f3f65f8d219"/>
-	</game>
-	<game name="Star Trek (USA) (Theme)" id="4672">
-		<category>Games</category>
-		<description>Star Trek (USA) (Theme)</description>
-		<game_id>US0003-NPUY00013_00-STARTREKPSPTHM01</game_id>
-		<rom name="PT3mW6O8US6dygc7eYCwQ1Pp9yGvTQ5lunreiSJ4RRBb8MPlVujj9Q3eH34WuH56IPGTvsUeYnSParkBt00sbW2tGdY4c718hF5nX.pkg" size="597200" crc="62c554f7" md5="20fe348ed6c5b5de36ad55b93a050a13" sha1="9afc64aa27f83442823ab4ba1c89cff19d15afe1" sha256="c1803e997f1da38c68db621eda973931b7f5ee7750b53e60ecfd9875d947c7bb"/>
-	</game>
-	<game name="Star Trek - Terran Empire - Blue (USA) (Theme)" id="4673">
-		<category>Games</category>
-		<description>Star Trek - Terran Empire - Blue (USA) (Theme)</description>
-		<game_id>UT0004-NPUY00005_00-STARTREKTERRANBL</game_id>
-		<rom name="BO845jYkuNiWFDMrupM2BEuNvRI0etm7eb1IryTowMoO7w4aRh6qUd9pegrlUpXUT1xxOdThmmrjq24q9EcaEHi6LRwj8TioNv8Gi.pkg" size="445888" crc="c2c928b6" md5="ef807bf21fa2de626f96b91742d7c3a0" sha1="ecfec315a81b39c4e190ad07945c56a0526f4c5a" sha256="d874bb5867b0d537deb28b1869c517da8a1aeb3472486ebb1de6dcc84af9437e"/>
-	</game>
-	<game name="Star Trek - Terran Empire - Red (USA) (Theme)" id="4674">
-		<category>Games</category>
-		<description>Star Trek - Terran Empire - Red (USA) (Theme)</description>
-		<game_id>UT0004-NPUY00005_00-STARTREKTERRANRD</game_id>
-		<rom name="jceI2jCigVbqWAgMGQ6UTpJBBlD2laAmd94uUTWOFKyqQpcfbKIfAjxMsmcnlgWOvS3vOB4LhlTsUq209LU1F9nJ1lgR8sHwwI8db.pkg" size="472336" crc="08e7d93b" md5="2e6e6ad1946e0da4d1605be489bb6b53" sha1="018248b2d23aea5f1f0bfd642cb221f351c7d34e" sha256="776764f4a77d6a065672d457855ad5ff78269a89917bb0a468b55ac3a5fdd28c"/>
-	</game>
-	<game name="Star Trek - The Original Series - Command (USA) (Theme)" id="4675">
-		<category>Games</category>
-		<description>Star Trek - The Original Series - Command (USA) (Theme)</description>
-		<game_id>UT0004-NPUY00005_00-STARTREKCOMMAND1</game_id>
-		<rom name="vbbSxhdYdAXlKQjFc4aefjU40Fhd7RgYbEU039knR6wKNQBEYPTjbVH6Tchy0Pb92neRxA0DgJpA4vegTfuJFy0slAj0dPMDw5FER.pkg" size="314448" crc="d5c32c5e" md5="185245a23760b5aaf16876acaa2c1df5" sha1="b489ccd01c81c13a662bf386e8ea31111cbeb560" sha256="15e57f50cea593232bae79e7c728ed7ea2bdd318849be257f827e40ca47799b0"/>
-	</game>
-	<game name="Star Trek - The Original Series - Engineering (USA) (Theme)" id="4676">
-		<category>Games</category>
-		<description>Star Trek - The Original Series - Engineering (USA) (Theme)</description>
-		<game_id>UT0004-NPUY00005_00-STARTREKENGINEER</game_id>
-		<rom name="82KSRf4Xqy32qh9QWdlfcSpGVx6YEqvCFOkhxYMEilbkv9LPUtsi5luM72LkPaMXsWE5bcEcrDdOID0t9MEDaU6poKWWuNTUIcSqt.pkg" size="393296" crc="35608d01" md5="4c2e5855101e0c4a0eedf58eb1966c8e" sha1="38befd44050f16bc4c7e0db326ebc585acf89440" sha256="ed6dbf388e4a6e4bb3d408e3ef389b26b083ebd5a41a367dbf61eede48548a52"/>
-	</game>
-	<game name="Star Trek - The Original Series - Sciences (USA) (Theme)" id="4677">
-		<category>Games</category>
-		<description>Star Trek - The Original Series - Sciences (USA) (Theme)</description>
-		<game_id>UT0004-NPUY00005_00-STARTREKSCIENCES</game_id>
-		<rom name="rUNmQVVCvcJX8XsIXXvF9Dm7983EO4c8mIR1hf7xjLl49sYL2xFbqB9U8CNiLV9AyMRiW1wNSJi1Ug6BxqxJwWjPn5m8Bw6UH8kGb.pkg" size="399904" crc="de514e3d" md5="9afe5bfc2ac9c59501ab42237912417d" sha1="739f690f5262f9bc9fef5500340bd74b5303cb8a" sha256="a64da3216b5e3d6cb52c92e9719d055081c1adf5fd287346b0eda500aeb27882"/>
 	</game>
 	<game name="Star Wars - Battlefront - Elite Squadron (USA)" id="3165">
 		<category>Games</category>
@@ -3906,12 +3045,6 @@
 		<game_id>UP2011-NPUH10020_00-STRIKERS1945PLUS</game_id>
 		<rom name="yvGbbUguuF94QaWn6NcHlQSIolao2h4CbM1wOiRmtYc9SN1URmPDaRKGp44D5TqtAOAhFl6SDCa0gIG0i4K1DSm8V0v4o53YxcCX8.pkg" size="35024448" crc="235eb3c6" md5="6f4710bae0955f2a8ffb0f75fac5bc12" sha1="f5692cb702a2f534ba93e34414d058aeb5e41e97" sha256="36807f60d634b5aafb9ecc61b98e6dc51d33274378e11db5c14813f9259ed978"/>
 	</game>
-	<game name="Summer Fields (USA) (Theme)" id="4792">
-		<category>Games</category>
-		<description>Summer Fields (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-SUMMERFIELDSTH01</game_id>
-		<rom name="OFuqrgfxGWRhHorRNvSWJZThNiMWRbNQltEwpOOcUKZSpwXxaWAHoaFcDeGugKzxycIAmzMCpmFUzUNNzEubDICGcojsthySpXmYy.pkg" size="545504" crc="339d3cc4" md5="e2347e6c6183855f2403c9b7b6b367e8" sha1="6838df9b8e03a24d39f9ec5cc4187497bbb2a8c7" sha256="ab7698cb1a8c449274f24d749229939274d2effebe3790d2f531d999b7ba980e"/>
-	</game>
 	<game name="Summon Night 5 (USA) (v2.00)" id="3213">
 		<category>Games</category>
 		<description>Summon Night 5 (USA) (v2.00)</description>
@@ -3924,12 +3057,6 @@
 		<game_id>UP2008-ULUS10287_00-0101001101000011</game_id>
 		<rom name="TqcksHoE3RO6m2cATAOTAMV3iHRy2iPfgBWX5oDduPmNmEgeJYsk7uIm8NdDdkMEqV0A5HK7F4F2Lnnh2SWLiypAVC4loiHGemy5s.pkg" size="13392864" crc="e3349f02" md5="869e5a3c723b3156bf0927c894a9397c" sha1="0d9a2d7f0ee43963b22026528e9bb3ea540002c5" sha256="8283eb906dc6614e32b3f3a693804be28e16fd74c293b5f5b148cb9cff6c547a"/>
 		<rom name="UP2008-ULUS10287_00-0101001101000011.rap" size="16" crc="4856b8b8" md5="c78fb35857410254ac514809a8fd40e0" sha1="96fed84980401efa697bd7b41944958c77de9465" sha256="661ebae01d90b992360deb9289be8a749803a322d8d2e0df6b0b1e005749d4b0"/>
-	</game>
-	<game name="Super Cop Hook-Ups (USA) (Theme)" id="4758">
-		<category>Games</category>
-		<description>Super Cop Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-SUPERCOPPSPTHM01</game_id>
-		<rom name="ydDLD7rYeXEqXYttDJO1dOwSdSNtdJEtD5EDbPl51UyK0Iee740lw8T3kNJF9alTiIQ5HedmPqJEjuESmQElno8YFETrwePXxsMgR.pkg" size="372480" crc="90e45098" md5="22d30b8eaf04df1e97e46dbba396a4a9" sha1="cd3c119a19efc3ef49c508123c26f74073d93845" sha256="790b05028ff9e83a97cf8c3c1ccb1e15a562adf6435faf07a7144a6706f4fe6e"/>
 	</game>
 	<game name="Super Fruitfall (Europe)" id="3217">
 		<category>Games</category>
@@ -3973,12 +3100,6 @@
 		<description>Surf's Up (Europe)</description>
 		<game_id>EP0001-ULES00817_00-GPCSURFSUP000002</game_id>
 		<rom name="WG8QgBdjw8UqS4IHWDYyVNfxKCOvFW6RwQvBdmsldgnUjqJIMjnLFkc82gjJaSAW.pkg" size="562457584" crc="a10fafc2" md5="035b23e98f533f33c8b84bbe7f241756" sha1="254703056d786f8e059ec8299a9868f6e91df3ac" sha256="7fed282db9f2eee21fabb1d9dd1805d5b3d42828df7a5af4ccd7b46f98c06e45"/>
-	</game>
-	<game name="Surrogates (USA) (Theme)" id="4770">
-		<category>Games</category>
-		<description>Surrogates (USA) (Theme)</description>
-		<game_id>UP1082-NPUY10001_00-SURROGATESPSP002</game_id>
-		<rom name="yN6NmQ1rU2b3hrBNRwfFgerPEjs8PW75tyQAdGqCfdTyUhCGUpsB4Xva5fXilDqtVEnaFrmjcU7Pl6CUk8vLvm89nXI5kpiocrxoJ.pkg" size="518528" crc="f92c425f" md5="6a3f3fc22cc84908b59a58be6409a2c9" sha1="7c298abf7b0d2f57c40d91d8e59902b0e7557957" sha256="1eabc4ec3af23cc0c7bcbae160f4f3c4f6c335d9a81b0327ff5033e071b2277d"/>
 	</game>
 	<game name="Sweet Fuse - At Your Side (USA)" id="3292">
 		<category>Games</category>
@@ -4061,24 +3182,6 @@
 		<rom name="UP0700-NPUH10047_00-NBGATEKKEN6PSPGO.rap" size="16" crc="b42f2819" md5="261b79a3b1af2808b4e7026d69e7f45f" sha1="aabfa1715c3febaf4ba36c27569c229d842bbab8" sha256="01f007c5e608f4d9d20c0f9038d93a5a2c822cd4eedd1eb3f1f0730cef525219"/>
 		<rom name="yJ8brnWN8VOCjTouwgXalIBC2qLpi4wifA69B49Yf44jRIS6kNVncUTujnUYFiP8maHKacw2AW3c0fUhqTjNI6B5Yn40x7xUXqsFn.pkg" size="748387152" crc="06e455da" md5="3664a2c8e1395008efbb40e262c784b8" sha1="531b57fd66be5ccce10cd613025c269f85f7050e" sha256="c6f36cc5b46fdda7f19a53133fdd2fc55c2922cc1c52ab9d34344434f1b612d3"/>
 	</game>
-	<game name="Terran 3020 Theme 2 (USA) (Theme)" id="4683">
-		<category>Games</category>
-		<description>Terran 3020 Theme 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-TERRAN3020PSP002</game_id>
-		<rom name="cc74dS6lRuxAm0XllneTC9qCawQDq9OWvYrRMpiodiXm9kIBUTruLpAFimAihvLuDBmG2e6OfomaN5vAE8kOv0Y0OoiwnJ7ddTjJG.pkg" size="692224" crc="d3c9ca37" md5="f556042a125a9edac12284abcb0d8993" sha1="1f866cd598b3334fc4e5a1093afe75096cf3ba18" sha256="dd631fe9f6f41645884661de504a1fbde3f276840175727ff4dffc4391e8c128"/>
-	</game>
-	<game name="The AK 1 (USA) (Theme)" id="5862">
-		<category>Games</category>
-		<description>The AK 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-AKPSPTHEME000001</game_id>
-		<rom name="nnMottt0CXrJPkQmKAQ2LPaPFlvGU5XDdYaJnbiYGVa8HQtGd7TSHQU0pTbslQX41f2OVNDniy1e6OhpqyrhCqqUHRcXKO8tQVIxt.pkg" size="533648" crc="8c0ba00a" md5="661151a9a7cc02aabb997e2251df190b" sha1="31207c300bea2de31fecfaceb20a729ce9fee288"/>
-	</game>
-	<game name="The AK 2 (USA) (Theme)" id="5863">
-		<category>Games</category>
-		<description>The AK 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-AKPSPTHEME000002</game_id>
-		<rom name="hYiEn0f9kAd8aYh2n1gMO1uqUVTpSHLQcUFpKSbRFsv2lvoM2MGuir7EI2bPq2EJBDQDYeX0IqkmrOk2pVFsoiohkuXhnbxqAky7F.pkg" size="525168" crc="4f785844" md5="52015a5573a574c852f54e18a447390e" sha1="b8487dd43ea4fa0e452ba1cba479f65fdc0e085e"/>
-	</game>
 	<game name="The Sims 2 (Europe)" id="5791">
 		<category>Games</category>
 		<description>The Sims 2 (Europe)</description>
@@ -4111,24 +3214,6 @@
 		<game_id>UP0325-ULUS10061_00-TOKOBOTPSPLEGACY</game_id>
 		<rom name="SNNqqAQMBpvOocJuI2j8FJAe3ejWKs3vIRRucESv6i1p5xtd637MM1kDYjRY4LoiH9hLuFP2B1bKIcGkI7G58BvuphgOFPW36852L.pkg" size="202756880" crc="09bdaadd" md5="3ed5d375c58760cf644a4581312952f7" sha1="49c372b63eca67e1f1d7f929d059353667fd1bf0" sha256="d4a7dc418307a0fa248520e9b47c68bb34119fd9652e7bd443479961e9216ac9"/>
 		<rom name="UP0325-ULUS10061_00-TOKOBOTPSPLEGACY.rap" size="16" crc="92b254f7" md5="7819ea13c5a5649f1089be261b245d93" sha1="4d88e2a45cbad42e02c8ce04ba4d3e9ca603bab4" sha256="9349fbc88b5b7b55cd3fafaea068bd1bc033e639002de91bbbaaea65f937a615"/>
-	</game>
-	<game name="Tokyo Cherry Blossoms (USA) (Theme)" id="4786">
-		<category>Games</category>
-		<description>Tokyo Cherry Blossoms (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-TOKYOCHERRYBLO01</game_id>
-		<rom name="DZVKbYwpwqcSnbibgkOIOAhwcYFBdmRkSFnZvzSehNHSEuTMwoxUTuEkXuAaAinQDEnFGYerbXLZhBQnskgSYIaDSzxuOyLEimhaZ.pkg" size="704496" crc="2252812e" md5="f10abdb9d8bcd10ee345f3fa761f5bb3" sha1="75087f2b37875030d89750584f4cfbe4750b1d31" sha256="afda1c54e89b7a8df1605034a7b061bd09234c2a5b507e116a717591d2dca79b"/>
-	</game>
-	<game name="Tokyo City Police Hook-Ups (USA) (Theme)" id="4755">
-		<category>Games</category>
-		<description>Tokyo City Police Hook-Ups (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-TOKYOPOLICEPSP01</game_id>
-		<rom name="SsXVmmRXyJLvQatnKG4hkptSo7LFgBhHptGtQyE3yPsJGHB3BGo8H9e6ciTCC17iJ3hjfeEuQraxxlnyUM9AIPb3OYyklgo06f9k8.pkg" size="471552" crc="2f937b90" md5="0bef71221cddbe655ea8f07d780e5e3d" sha1="31bd3610131f46a7b04c4d7921882f0091e34ba9" sha256="bd7d93aaeb9365628abee315c6aaba2674a0fdf674e3dbacc45b62a7a81396df"/>
-	</game>
-	<game name="Tokyo Life (USA) (Theme)" id="4797">
-		<category>Games</category>
-		<description>Tokyo Life (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-TOKYOLIFEPSPTH01</game_id>
-		<rom name="ydcNyPuxwGkuiiAcRircuYlGHdSJWlRyofDSJEAqsVBHrcOBfhssnYlLFJffAhVyMOJfgrcGpKEXURqooVLSzdAnTRGWROQjuhcvp.pkg" size="652672" crc="44270ed0" md5="2a1bab87e36a3f957a60894db8cd943c" sha1="fdf01bc11edb95dbae990341ab5b6e6f0f1f66e1" sha256="8440080478ca34c92824441846c8e2842dfc2061337195dc5129356533716390"/>
 	</game>
 	<game name="Tokyo Shrine (USA) (Static Theme)" id="3892">
 		<category>Games</category>
@@ -4167,12 +3252,6 @@
 		<rom name="4tmKlpO8AD1fQblsGBjkUdBQJ9kDiPaWEihUgWAYOHPS8QWuHC4dbx7lbs40Jwwo0YrYFGtQrXny25r4f8jQRc6mnVDCOTuRAC8if.pkg" size="1323557072" crc="24efc19e" md5="54459b5e611d61acdbe43cf0fc848da8" sha1="9c56bfcb5086a9fb9da80b8295af34a76c219399" sha256="e30ac50e5f758939694a0685f2bc233481b2182c24eb9ffe6cede0e4dc3cceda"/>
 		<rom name="UP0001-ULUS10070_00-SCESSENTPSP000DL.rap" size="16" crc="2a6ede4d" md5="2111ecc82c9d66e056c16d8fd5191375" sha1="7740af046d9b506097ee90939f7607f6833d5cc2" sha256="32d496aed4dc975af343a262906c5385d9d4e0e712cea9e8a1eb085fe181eed4"/>
 	</game>
-	<game name="Tomb Raider - 10th Anniversary Edition (USA) (Theme)" id="4764">
-		<category>Games</category>
-		<description>Tomb Raider - 10th Anniversary Edition (USA) (Theme)</description>
-		<game_id>UP0776-ULUS10253_00-TRAETHEME0000001</game_id>
-		<rom name="JbtqtyRRdMO8oRRao9G6HQ9Xr69bjAJAxrBN9i1msuyI7gJr3t9lHYR7fraI1h9wnxpBQOTW4VULu7oqwt0G4Ag5lVySQlv1DLkK4.pkg" size="620672" crc="ea975501" md5="2e5d4632e66d913b65e5acdef3730b6e" sha1="b47a5b4cbecba799c38ff77f27f8ce0c2683f7b4" sha256="6e0ec179a96a74cf99d5830893d44795ff4b4688a30690c48e62fa7df70a876b"/>
-	</game>
 	<game name="Tomb Raider - Anniversary (Europe)" id="3470">
 		<category>Games</category>
 		<description>Tomb Raider - Anniversary (Europe)</description>
@@ -4187,29 +3266,11 @@
 		<rom name="EP0776-ULES00283_00-GPCTOMBRAI000001.rap" size="16" crc="6861c23d" md5="ddabeb62f372b8a0bcac06c20e82e52c" sha1="7bab3936f1c7ce778d2bf3bf149fd07988f513a4" sha256="7090296b9a6e9a67dd8539dc66b3fd651387caefce0803b68c723cacd604b8d4"/>
 		<rom name="kc2gYicxxgnOuTwrupGcpLN2I86wiM1UvdREWbsoot4p9HvMVplKhOCCHW8B9KvJVpIssCsR66lgafOitpBvoxjqeOCiuphylNNiC.pkg" size="1477864640" crc="fd037db6" md5="3ebb1fab356be4c60cfbb39ed98fce00" sha1="109d2a5a342ec1125290cbb906cae067097d9dbc" sha256="257dc965d432dc8b3df6241fe38a9bc9b3300117de539b26845e0e41e5c6eff8"/>
 	</game>
-	<game name="Toy Tokyo Electric Town (USA) (Theme)" id="4785">
-		<category>Games</category>
-		<description>Toy Tokyo Electric Town (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-TOYTOKYOELECTR01</game_id>
-		<rom name="cLRFmSZtztMLPYTapOUaNaPFpJaRFzJfBsxkvQxdgEqerHwPzPnqBlyTNpAtxcihyoFYycFAdCkaJDodZPcUmHfVMUQWHCrzrEJjG.pkg" size="657904" crc="78ed5a7b" md5="85c7c7b29d9f61a6d1ae1e7c93ac9549" sha1="5ff4e1df16727940764422bbbe8e5c860400c843" sha256="48eeb606f4276d91d1446e8ea122c0775a63d599e58e5498845cac4bc77cd660"/>
-	</game>
 	<game name="Transformers 2 (USA) (Static Theme)" id="4688">
 		<category>Games</category>
 		<description>Transformers 2 (USA) (Static Theme)</description>
 		<game_id>US0003-NPUY00010_00-TRANSFORMERS2PSP</game_id>
 		<rom name="R81PuQAYqSVJHhG0rrnGnKYT1wxthJpDEE22itLai8NW4lHxiWoOUamwySmsxxCjyYUw3WhrpdRAcPXVqrIdID0Lvq77kxBBhm50D.pkg" size="579104" crc="af406732" md5="027f8b9cbbebc395083d93e92e608b5d" sha1="1adc4ae7bc994c5f8eae4b8952027aa339e17005" sha256="af9b45898c6c652b245c690093abf4c3a79027484b653f050a2340130fb7edd9"/>
-	</game>
-	<game name="Transporter 3 (USA) (Theme)" id="4763">
-		<category>Games</category>
-		<description>Transporter 3 (USA) (Theme)</description>
-		<game_id>US0009-NPUY00003_00-TRANSPORTER3PSP1</game_id>
-		<rom name="I2CvgSWv9ENETKAQIYrqtche1JoDgLx9NRcDEcBB4THAmmYXSUd61MQOUWfUluWk3d1CDugYymBcwkidgpLYt6CSasMrcbCrfnOYB.pkg" size="432384" crc="7b218d42" md5="319812f6c5a8cf3be4c1448139329331" sha1="dadfd42a51c2e189c2969d79b5bdba78e7f3aeed" sha256="555c22ead7ec6bc74112c496b88c39ddc5a5af80d6869cc945d0a08f8319fdfb"/>
-	</game>
-	<game name="Tuner Hotties (USA) (Theme)" id="5859">
-		<category>Games</category>
-		<description>Tuner Hotties (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-TUNERHOTTIESPSP1</game_id>
-		<rom name="eVnWU7CAei94mVdCkfUAUwCWljCd749k1SfxrwJSi2Khaf4b4gb9QQqHfgtcAHgGt1n2FcdkPrsqjRamq7ABbGn30c512skbHgDHQ.pkg" size="479360" crc="5e738f7c" md5="98c024f339984aa91cf37ad1fe8c9c83" sha1="5cc05ab2c0b722d38260a0034ec5ff771d93ebbf"/>
 	</game>
 	<game name="Twisted Metal - Head-On (USA)" id="3550">
 		<category>Games</category>
@@ -4217,12 +3278,6 @@
 		<game_id>UP9000-UCUS98687_00-UMDLEGACYTMHO000</game_id>
 		<rom name="UP9000-UCUS98687_00-UMDLEGACYTMHO000.rap" size="16" crc="3440ba44" md5="819724a8d74ed6a3f51a4987dab171f5" sha1="f3ab13aca88194d79343b377eed36f15b2572c9d" sha256="5e759210e9b829f3006c14d373db510846c4ab2dc4f683b9159490bdc120c584"/>
 		<rom name="sN9gyfDP14XCINkywgSLwFo5UHQwKERDDCf757xGp8F3Aidwk2w1GwJUOGp4oK1neQrTILcjQeRNgqtpcpTtfXvyFi6dV8GLIdcFH.pkg" size="322969536" crc="24f8258a" md5="57b4c01036fd889ba4ce74e012184d7a" sha1="2d04f6ea58e081de924a64f696e5dbfa9a1ea8bf" sha256="b7487d6ab47e894e51ca080535fde370a37f46c27f6212134ec2c356630ba8a5"/>
-	</game>
-	<game name="UFC (USA) (Theme)" id="4520">
-		<category>Games</category>
-		<description>UFC (USA) (Theme)</description>
-		<game_id>US0021-NPUY00017_00-UFCPSPTHEME00001</game_id>
-		<rom name="4MPMU2MJ1o3qs3BMduaySkC99QEMxlNKDfxf2ddIjNhinhu31djBQrdlkI2j4Lrj8DImhD8MtdQfyMg6y5VgDXkpoq7DkALFiWTLd.pkg" size="558176" crc="c525712c" md5="49650ae709762b6069eb82cddf8dcd9a" sha1="a4ea791ae352765d7050f0cf207d6c8e30315d54" sha256="5aa16191b17f14a9ec6aa6de0f884bb11a8620629bf5bacf785839772c27b5a7"/>
 	</game>
 	<game name="UNO (USA) (En,Fr,Es)" id="3571">
 		<category>Games</category>
@@ -4307,12 +3362,6 @@
 		<rom name="UP0177-ULUS10515_00-VALKYRIA1937PSP1.rap" size="16" crc="31283bfa" md5="00196b9789e0f85d43d46adf985b7dd7" sha1="7cc216bac9a04cac8d36b70cc5ef5c4d9bf80f37" sha256="54e471d812613ca2241f31545b9d5a941616be4525843734788234078dd29572"/>
 		<rom name="f1RNQTkfueNh7DHwtNe6m2RoePUC9Ca0DLjkuMRFmr8b85tutp36scdOyybHAiyMGgjgeLRhhKgx9CQ5cX5igHPKC1QfcRb9OqWW4.pkg" size="866006800" crc="6a94194b" md5="19a5843cd9b7878bbdb60097f3e8fb98" sha1="8dc98f84d55543ca5dfd31e16a8cee278fb83a34" sha256="a9bd42de28103337cbaeda1fedaa6b1374282a0d05d1bd75dc5d97ff9a762303"/>
 	</game>
-	<game name="Vector (USA) (Theme)" id="5893">
-		<category>Games</category>
-		<description>Vector (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-VECTORPSPTHEME01</game_id>
-		<rom name="VRENBdlqomRjCpXeOKXKyMQqtllgAfDAykmTTCoIikuacwZXaDxxUVsBNtlhkYiDbQGeLUfrNmKNXGgiBNKsjGzGZoKaanlPRCRJP.pkg" size="352672" crc="dc72d6b1" md5="8c81c5fda2dde42da8e0e0a76b17f308" sha1="b89f4b95a5fced7384642c97e5168381615b9654"/>
-	</game>
 	<game name="Vertigo (USA)" id="3652">
 		<category>Games</category>
 		<description>Vertigo (USA)</description>
@@ -4324,36 +3373,6 @@
 		<description>Victory Run (USA) (PCE)</description>
 		<game_id>UP0555-NPUF30015_00-VICTORYRUN00EH21</game_id>
 		<rom name="buXgpySPzJgPRjQVRLauovvxEVKYYaiNlqVOStrMQFLYPUBdYkkDyQOyigIaNgaKIumnMwvZPmRpHarRlyyyanUVnkDrAbrgldEHJ.pkg" size="13198112" crc="95589fdb" md5="2596fc8d6911ff05ae9667ee76463fd5" sha1="4dd195b7c85e00a58917c94c7aca55037f61b0e6" sha256="851ce3a4237236c81772007c71a0669f15961dc8b7cf267d8e72614e707b517f"/>
-	</game>
-	<game name="Vikki Blows 1 (USA) (Theme)" id="5841">
-		<category>Games</category>
-		<description>Vikki Blows 1 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO1</game_id>
-		<rom name="RpQzglMPTSPpGcWSunFJaSMBaiHXllcCDfubLordlZFOJrMFdHlmtFqnztzElJYTWooRtUAEIZrIItorFycLmWMWfHhaHQSPJkdRq.pkg" size="379024" crc="bc5598b5" md5="9b3d9175565b1d7bb54053182cfe7244" sha1="e364fd24e53d35316254c4d09206ec1890f67078"/>
-	</game>
-	<game name="Vikki Blows 2 (USA) (Theme)" id="5842">
-		<category>Games</category>
-		<description>Vikki Blows 2 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO2</game_id>
-		<rom name="ZmKUyPEDMRbXCLCPQEUUvmrAZyXLkfegsbVUxoMDFwMzikWHMnevVGbEjdIMGufIOhVsewWyjbUuZJsKIqOWCVcYYHSqunsZdSAUU.pkg" size="508240" crc="9c016417" md5="cbcbbbb97f022bec3074092092422b60" sha1="130d296bc1c6ae569f554ebfedf97a0cdb24ad05"/>
-	</game>
-	<game name="Vikki Blows 3 (USA) (Theme)" id="5843">
-		<category>Games</category>
-		<description>Vikki Blows 3 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO3</game_id>
-		<rom name="tAaopWbLPOfJHaesEEHxBNqAJPvlDhjKrAokBTxipkZKsEigHOgCmOPLzEDCYJZT.pkg" size="483520" crc="b4a9cbd5" md5="e471f4eaff5265509c27b70164fb4706" sha1="64385860c3b8c26ceaabd4cb6095501b1362802d"/>
-	</game>
-	<game name="Vikki Blows 4 (USA) (Theme)" id="5844">
-		<category>Games</category>
-		<description>Vikki Blows 4 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO4</game_id>
-		<rom name="xJPOMrnMiFJWgBJfOFgxhgcyTyzGalOfhbqhxUKtPIJbCbCsqZbtIBeRuGrsMFuy.pkg" size="207184" crc="d79ba2df" md5="9f7edce49d3502a4443e40b278ace422" sha1="7dd8f59bf5d41ae61b661cea286b47256e713f2e"/>
-	</game>
-	<game name="Vikki Blows 5 (USA) (Theme)" id="5845">
-		<category>Games</category>
-		<description>Vikki Blows 5 (USA) (Theme)</description>
-		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO5</game_id>
-		<rom name="gIZAuWXxOmfSDqturLqaaGcUvUwdHSwpjAkStyXdjIUNuXyWmpKJXHjqeUWrcjqL.pkg" size="404784" crc="9e8feacb" md5="f2d9c76a5891832136070c4f212a3832" sha1="55f57515d354b55be4973ae2fa6a7aaf327ec269"/>
 	</game>
 	<game name="Voodoo Dice (Europe)" id="3661">
 		<category>Games</category>
@@ -4417,115 +3436,6 @@
 		<rom name="UP1004-ULUS10213_00-THEWARRIORSRKSTR.rap" size="16" crc="9dd07d85" md5="7247f1d7d46b14287b84aa8c516d5cc2" sha1="ec653ce6146b92d722bed5dc70eaef9ffd2a47f2" sha256="4f99c8cd16feff16d46355172d83be75d14c818ed59502d58c8c117b69c61f50"/>
 		<rom name="kBNl96wCj7Hlid7pl5YWgO8FYop9s8IiGU9jYyLNb5CpWvWxlrFprcyy8OIr2Yy5gEU6GrIils36kBYqHw58gnFI46rh9OFlCUoik.pkg" size="1660552096" crc="b482e48c" md5="020f90b86a5c54795432a9b4dc5c2af4" sha1="8c32c4be5b42292defbfbe70e5d551957e40e6d7" sha256="2a4a299b82be6bbbf2fa51c6e1284986a22673b28f6d1d07690920c65f63dc7d"/>
 	</game>
-	<game name="Wendy 1 (USA) (Theme)" id="5894">
-		<category>Games</category>
-		<description>Wendy 1 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME001</game_id>
-		<rom name="2LbrCwqmip1vRByqubwuJpPaxUyRKVYKWVjXh8Akflmpd5SkW5GAb9Q7X50uKcl8D89dUMsfOj3H7Y0Kcui9Vx855DCtmxgNOy2tQ.pkg" size="587936" crc="7906ed75" md5="d102a7d58fd747ede038ef28df26d29c" sha1="d45ba70eb9372694a50101ceced204e112544111"/>
-	</game>
-	<game name="Wendy 11 (USA) (Theme)" id="5902">
-		<category>Games</category>
-		<description>Wendy 11 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME011</game_id>
-		<rom name="pXfUyZINPgVPMpCCMNfxorCgWigPZzDsMJYXjSLTTxelVOMSQPkIlDMmUZWqQivQmQDodwDjjPBRggucODLuwhiqhoxDzgaaeLMaH.pkg" size="604768" crc="9feffba4" md5="59613e89133b37529a1e7ed6e3e49b20" sha1="d04c4810f35a269e9ec93797d2a235e499d806e2"/>
-	</game>
-	<game name="Wendy 12 (USA) (Theme)" id="5903">
-		<category>Games</category>
-		<description>Wendy 12 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME012</game_id>
-		<rom name="dBNbdvMuQczENaWDLFlwvdStqXTzVZvjptqRMUdRmUNXYtAPTMYrQSGDbZrsDmmIyMbdlyQKgKXjNzteJsixtAKyieldvgfABJouc.pkg" size="570720" crc="5597203e" md5="2f48ade298c9009cfaaccb5e4eae9888" sha1="b2060ee1389afb86cfe3e75e8c6e7874e6c0befb"/>
-	</game>
-	<game name="Wendy 13 (USA) (Theme)" id="5904">
-		<category>Games</category>
-		<description>Wendy 13 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME013</game_id>
-		<rom name="HfSXcOdNgSzynnbHVHhBVuEdEgzwkNxYBskHNnaOHOaNwQhHvguQFhVcoVDfFKiNPPDoUKBLoAnIsbXCXrsnBvppzrPQRrNdzQaXx.pkg" size="561808" crc="28410b7c" md5="36ecf71515c56cdf1e521dbd2e46dc9d" sha1="2e4bcd3c219552e43f9941d775f6d0a537e86fe4"/>
-	</game>
-	<game name="Wendy 14 (USA) (Theme)" id="5905">
-		<category>Games</category>
-		<description>Wendy 14 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME014</game_id>
-		<rom name="pnSUwIbtYCpieQCicgodkeQfBAGNuGELoXbYzmEZszNlXoQatFmOFKGFTqjfuQPMWdcaEAEsPomEVNxERkFDNdMQvgbtlOUvhIBSY.pkg" size="684560" crc="6941f88a" md5="29e407a059772821c22dabb3b17cba90" sha1="665aef71d587a3e7e9117cfdf121b588651bd42e"/>
-	</game>
-	<game name="Wendy 15 (USA) (Theme)" id="5906">
-		<category>Games</category>
-		<description>Wendy 15 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME015</game_id>
-		<rom name="hShJGXFVfcuBBtIzvvydUUtNNJiiFImYkKtdFqGQVqxIwrTjUopLJnlNhFReSuZkmJAdwsWZhsevDSzdFJkGUupZDpUxhMSFeTeoZ.pkg" size="688272" crc="43c4f58e" md5="00dd778c888324f99b15caab1b8cc7a5" sha1="8a9a20410e3b186e2f34cce63a64187f37559771"/>
-	</game>
-	<game name="Wendy 16 (USA) (Theme)" id="5907">
-		<category>Games</category>
-		<description>Wendy 16 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME016</game_id>
-		<rom name="CduVkjrLVjLflIipZlqdRIllNzOweHlJXmDESYqdEgmhjBGpCfxccGdgCnRCYHpeEiyqbIuoWaNbgkMgtmioUYfcAsEPOvRxVmszJ.pkg" size="699168" crc="da461752" md5="28ba2dee491e02b794361fd9906767aa" sha1="a9d262d47cee769b594fef8ae1ff80f269feb055"/>
-	</game>
-	<game name="Wendy 17 (USA) (Theme)" id="5908">
-		<category>Games</category>
-		<description>Wendy 17 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME017</game_id>
-		<rom name="hHUrBxoSiEdKQovpIlehEnZXTuGoyVvpOfDFAcVgdLFVmQjdZzLqbDEidsWXVRRpfWmhWMuNEkXQKFDmAfkDeSGROGGeDVgREEzZg.pkg" size="561184" crc="8da10e01" md5="4775499bca8b1b034a5149c419db3655" sha1="4a1d23719d3fc7c4e409a1a38f7b37441fc294ce"/>
-	</game>
-	<game name="Wendy 18 (USA) (Theme)" id="5909">
-		<category>Games</category>
-		<description>Wendy 18 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME019</game_id>
-		<rom name="CoEMuQcUUBfrRQtKCcvXpqLjvbwEjskBAOieWhRTWJwEJKtdwhivzViLvrTLUuKhyrxHTgaOyAnJuQqDAOmcBXWYtmRBfxdNkLvmw.pkg" size="569696" crc="ca4a0a50" md5="a29fd2f2b0e76174efff0719e43069d2" sha1="03aab087c4907f8435d1c7f70cb0778e2d2bb469"/>
-	</game>
-	<game name="Wendy 2 (USA) (Theme)" id="5895">
-		<category>Games</category>
-		<description>Wendy 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME002</game_id>
-		<rom name="cgRkI4B03uBXMwnuFqsMCBXIqGAGyo9DaVUG799J5mXMLJJbMPVUe9IIU7VTflNxm20FlWeHL4AjAK987jYcVEGUXG9Tx0iy4VgQq.pkg" size="498432" crc="9146002e" md5="f313e3cf508d68761f128c54c5c03c36" sha1="227b12f2494a125fc369b603cb49d59ff740751f"/>
-	</game>
-	<game name="Wendy 3 (USA) (Theme)" id="5896">
-		<category>Games</category>
-		<description>Wendy 3 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME003</game_id>
-		<rom name="QbQwuhpDMJqLnsrUiLRhJYnrtfNhuxibMTTSOnzLdViwDPuDiHPVfjjRpCwjYdBBgAZxLlLkZvNzssJlCSAnNHWiUzYFsSEUkUAtE.pkg" size="634352" crc="31dea7cd" md5="9da6f51a1b19510cc022ea0270a96acd" sha1="0aa43586f26b6ffebb564eda1f9f85765bd2f418"/>
-	</game>
-	<game name="Wendy 5 (USA) (Theme)" id="5897">
-		<category>Games</category>
-		<description>Wendy 5 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME005</game_id>
-		<rom name="uFGYrVgykxvxjDujdrZVpkZEIrfEUFlYqbjvPBUEuBdfJmFFgssmGrnilsABUYiDdtNjarpSLDxfjvgdobpEhgScXCLEnuLgfuYgL.pkg" size="633248" crc="dccce746" md5="d54a28e36eb79319feaaaffa42d9bb3f" sha1="8e10ef991c076e655c36e0dfadf6f8b5ce9b2181"/>
-	</game>
-	<game name="Wendy 6 (USA) (Theme)" id="5898">
-		<category>Games</category>
-		<description>Wendy 6 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME006</game_id>
-		<rom name="sSlabzmiXNbBBgyjlFlhzHsdPklaoHeolZSRitIOCRfRiuxBIvbHjGiRABQplgSFqeUxyqwTGlLXqsYsqNwlIRKsiQIFKeOqEXemP.pkg" size="627088" crc="69f3f1f1" md5="29fc12086521bc54c22a5426e0c3a1c1" sha1="974bf11570a8cbfd3d6f406875f092c250b61a0d"/>
-	</game>
-	<game name="Wendy 7 (USA) (Theme)" id="5899">
-		<category>Games</category>
-		<description>Wendy 7 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME007</game_id>
-		<rom name="DBxCdnQEkWwBBCIjFEkknczTvvoqUrtECxZJBMhngHqaOcddgpPCrNlijXynbAYUVJHVgqapIqRuBvIYZvkSRJLoifjDPCPjwDsBU.pkg" size="618736" crc="57c7d783" md5="6621ee1ec6ea602ed0d4f27f84ac60e6" sha1="f93ce01da1285946273804392e36c03be6d5ae4f"/>
-	</game>
-	<game name="Wendy 8 (USA) (Theme)" id="5900">
-		<category>Games</category>
-		<description>Wendy 8 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME008</game_id>
-		<rom name="YFyPBPDPLltldFVmwBBFFrDWtxbjpESMdzHdoRdVBPWzitpIFzuMHmyXcLNlArJlVFqwcNSdMSozdVidzbRTtpNNjHMSAUWCyoXcp.pkg" size="561520" crc="06806551" md5="8e5e787b49d73f218bd8065d9463e517" sha1="4fcdd35ab392f2c4b33268377600153206c63484"/>
-	</game>
-	<game name="Wendy 9 (USA) (Theme)" id="5901">
-		<category>Games</category>
-		<description>Wendy 9 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME009</game_id>
-		<rom name="RkRzBmdrDTZlWUOizmWTYtWhtaEROkWYJwyuhKVROvPsPvPwFVwGUCjMhGhdNlXxwVVPIqwbPYuakQApqYVBWmgppfcUASKbkrirR.pkg" size="544752" crc="f0e40739" md5="63584ea5677b4b481801e3fb8cc13e55" sha1="d99484e96367b1f1eb2495b34c2cd30b116eb25b"/>
-	</game>
-	<game name="Wendy Premium Theme 10 (USA) (Theme)" id="4522">
-		<category>Games</category>
-		<description>Wendy Premium Theme 10 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME010</game_id>
-		<rom name="FioqxRSBNoqIWDPApsebgKwNoOmFhPaWpsOIwmUlTRaLpPDuZoQxEoSNBTmrfdoxGfTwsGCbSHsLoIVAGiTCjeOQSPOKZRfuJgGZn.pkg" size="574944" crc="843d1938" md5="55fd95dc764c9fe5d9a3f0d5277e2224" sha1="2932648920e757e45a492a5264f78133eb508808" sha256="cf98cff1794508c04d4cd59f8120e34248d2bc8c4c430660d60a98d6334b8a3b"/>
-	</game>
-	<game name="Wendy Premium Theme 2 (USA) (Theme)" id="3685">
-		<category>Games</category>
-		<description>Wendy Premium Theme 2 (USA) (Theme)</description>
-		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME004</game_id>
-		<rom name="UT0002-NPUX00002_00-WENDYPSPTHEME004.rap" size="16" crc="18c67e9c" md5="919043c81ab924313f6fdb70471db906" sha1="5731a6ec1e4e89ebc5f305d4aab48e446c47cbe0" sha256="2f8eb9a07ceb9c2b8590e4b9e695ff27f513bb3bef25db02f4d863f4f1bf406b"/>
-		<rom name="apXDgrmQnnVdwlqMSoUwBItOXvzOJSfuzcslSJilfKKLLXttFVsRVmwbgejAnbMevmSEAABKebPnFusbMgjZRIVeloJzzLPIkgshN.pkg" size="632640" crc="eb1c2454" md5="7d02c440d5b9bf28f0756647216db539" sha1="57c4da44615f890a9d30a6a5fafc9a9e433d0507" sha256="cf8d809d065548ff9d6857b6eda68a07bfe1673f60612d32e26f078137b5fddf"/>
-	</game>
 	<game name="What Did I Do to Deserve This, My Lord! (USA)" id="3687">
 		<category>Games</category>
 		<description>What Did I Do to Deserve This, My Lord! (USA)</description>
@@ -4539,12 +3449,6 @@
 		<game_id>UP1063-NPUH10049_00-BADMAN2000000001</game_id>
 		<rom name="UP1063-NPUH10049_00-BADMAN2000000001.rap" size="16" crc="e639a741" md5="5655ca7071aac87d16291c9fad7ae546" sha1="98420496ffb62699d1437cec9d6d3b5309b25615" sha256="edfc291f76c7db60e4ad6b423e91a54f5bbdaa807b2af0f5c5c49331b02e23d2"/>
 		<rom name="p0yoYolK9lBBin6OSiytVEQsLlShCwKrHLGv8t0Pd905y4pIOyTn8Chf2UNTlRDIUXiXw1MCArQEdgYLyyREEOFE9C9sEXDWfBccW.pkg" size="119784176" crc="78205e6b" md5="b190fc8cf2079ce2f8dd98e336ea4a41" sha1="874b0028475028887e44b2d8fcecb38b4aa810ab" sha256="1cfc1d72bc73279d4a1f62f5bf1c6d445683821692f771eb110705a9275f842f"/>
-	</game>
-	<game name="White Cliffs of Dover, The (USA) (Theme)" id="4789">
-		<category>Games</category>
-		<description>White Cliffs of Dover, The (USA) (Theme)</description>
-		<game_id>UT0005-NPUY00006_00-WHITECLIFFDOVE01</game_id>
-		<rom name="gWyWCNCrBQlNdyzcrIkJkthHOgehsMYMBJuiWlBTecFGvYLjFgwkQWEcqImWIkOMMOYWHiNktgKrocRbMaPYLYJTxcNLitOBesGAD.pkg" size="530976" crc="3c34bb74" md5="27043096b3c6109cbac2c04c84e7a88d" sha1="32e71050d61c20158ed951950c0ec55cc7f2b887" sha256="58e25d29f951a2890ab42b29b79034144f519fbc0e80568aac2f87ee7d7173da"/>
 	</game>
 	<game name="White Knight Chronicles - Origins (Europe)" id="3695">
 		<category>Games</category>
