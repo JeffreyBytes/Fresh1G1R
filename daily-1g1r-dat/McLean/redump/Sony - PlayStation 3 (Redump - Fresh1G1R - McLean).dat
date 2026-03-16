@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,294) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-15 05-19-15) (Retool)</description>
-		<version>2026-03-15 05-19-15</version>
-		<date>2026-03-15 04-52-34</date>
+		<description>Sony - PlayStation 3 (1,294) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-16 00-56-01) (Retool)</description>
+		<version>2026-03-16 00-56-01</version>
+		<date>2026-03-16 04-58-35</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1591,10 +1591,10 @@
 		<description>Dragon Ball Z - Ultimate Tenkaichi (USA) (En,Fr,Es)</description>
 		<rom name="Dragon Ball Z - Ultimate Tenkaichi (USA) (En,Fr,Es).iso" size="7767392256" crc="d87eb003" md5="d8fa85c93dfbf389cfb0316ec1b3130f" sha1="3fa3ebb69009af96135db449937201f89c825558"/>
 	</game>
-	<game name="Dragon's Crown (USA)">
+	<game name="Dragon's Crown (USA, Asia)">
 		<category>Games</category>
-		<description>Dragon's Crown (USA)</description>
-		<rom name="Dragon's Crown (USA).iso" size="1680211968" crc="ab921d29" md5="42faa3a214beff3734d262e25f4a6f0e" sha1="0f9df96a5eb6e14d3f6a4848814c89ccf6d905e4"/>
+		<description>Dragon's Crown (USA, Asia)</description>
+		<rom name="Dragon's Crown (USA, Asia).iso" size="1680211968" crc="ab921d29" md5="42faa3a214beff3734d262e25f4a6f0e" sha1="0f9df96a5eb6e14d3f6a4848814c89ccf6d905e4"/>
 	</game>
 	<game name="Dragon's Dogma (USA, Asia) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>

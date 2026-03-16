@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,933) (-y) [-aAbBcefkmMoprv] (20260310-141134) (Retool)</description>
-		<version>20260310-141134</version>
-		<date>2026-03-15 04-48-37</date>
-		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,933) (-y) [-aAbBcefkmMoprv] (20260314-221425) (Retool)</description>
+		<version>20260314-221425</version>
+		<date>2026-03-16 04-53-27</date>
+		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -4710,7 +4710,7 @@
 	<game name="Eiken-ou - 2-kyuu Hen (Japan)" id="2139">
 		<category>Games</category>
 		<description>Eiken-ou - 2-kyuu Hen (Japan)</description>
-		<rom name="Eiken-ou - 2-kyuu Hen (Japan).nds" size="67108864" crc="43f9a145" md5="3ec206acacc268a7f795b93772d0074d" sha1="d0e907f14d87a0d9a545ce3321a83843c17c9bcd"/>
+		<rom name="Eiken-ou - 2-kyuu Hen (Japan).nds" size="67108864" crc="d2b29517" md5="1f43ba445893cc2f6c6dff8b16cf00b4" sha1="d8f22c9a5bafaae1cdb2f1ee8b6a0e84a5f3ba7b" sha256="bc0cf0c30278a528e921bb25c163738fb1abccc9baf0a2dbfdd8657f544c3988"/>
 	</game>
 	<game name="Eiken-ou - 3-kyuu Hen (Japan)" id="1262">
 		<category>Games</category>

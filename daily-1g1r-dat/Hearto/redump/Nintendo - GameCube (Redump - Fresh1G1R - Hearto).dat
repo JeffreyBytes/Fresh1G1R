@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-08 23-06-21) (Retool)</description>
-		<version>2026-03-08 23-06-21</version>
-		<date>2026-03-15 04-45-42</date>
+		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-15 19-34-49) (Retool)</description>
+		<version>2026-03-15 19-34-49</version>
+		<date>2026-03-16 04-51-47</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -581,10 +581,10 @@
 		<description>Dairantou Smash Brothers DX (Japan) (Taikenban)</description>
 		<rom name="Dairantou Smash Brothers DX (Japan) (Taikenban).iso" size="1459978240" crc="d8954dae" md5="986487c59e3ad40870135aabe90f1ac8" sha1="c7c0866fbe6d7ebf3b9c4236f4f32f4c8f65b578"/>
 	</game>
-	<game name="Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It)">
+	<game name="Dakar 2 (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It).iso" size="1459978240" crc="fd421f87" md5="b603f891b9601b1e09e359919595a679" sha1="d87edcb7e85eb7c2e068f3fca99fcafd1486288c"/>
+		<description>Dakar 2 (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Dakar 2 (USA) (En,Fr,De,Es,It).iso" size="1459978240" crc="fd421f87" md5="b603f891b9601b1e09e359919595a679" sha1="d87edcb7e85eb7c2e068f3fca99fcafd1486288c"/>
 	</game>
 	<game name="Dance Dance Revolution - Mario Mix (USA) (Rev 1)">
 		<category>Games</category>
@@ -3392,10 +3392,10 @@
 		<description>Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)</description>
 		<rom name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1).iso" size="1459978240" crc="d54098af" md5="d3fcfdc4f9b83176bc7ac09b1ec5d1dc" sha1="bfdbd1702cdcaf57c096ece54e86da14e92ce29c"/>
 	</game>
-	<game name="Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA)">
+	<game name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)">
 		<category>Demos</category>
-		<description>Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA)</description>
-		<rom name="Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA).iso" size="1459978240" crc="1621d87a" md5="236088fbf738089f5af43cafc360720a" sha1="5f9596e1819cd2574a6846562dd67da0e08b81ec"/>
+		<description>Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)</description>
+		<rom name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc).iso" size="1459978240" crc="1621d87a" md5="236088fbf738089f5af43cafc360720a" sha1="5f9596e1819cd2574a6846562dd67da0e08b81ec"/>
 	</game>
 	<game name="Star Wars - The Clone Wars (USA)">
 		<category>Games</category>

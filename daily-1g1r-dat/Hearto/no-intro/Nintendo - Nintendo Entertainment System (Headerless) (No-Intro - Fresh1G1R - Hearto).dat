@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,813) (-y) [-aAbBcefkmMoprv] (20260314-052625) (Retool)</description>
-		<version>20260314-052625</version>
-		<date>2026-03-15 04-48-44</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,815) (-y) [-aAbBcefkmMoprv] (20260315-001756) (Retool)</description>
+		<version>20260315-001756</version>
+		<date>2026-03-16 04-53-05</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -862,10 +862,10 @@
 		<description>Bible Buffet (USA) (v6.0) (Unl)</description>
 		<rom name="Bible Buffet (USA) (v6.0) (Unl).unh" size="262144" crc="cfd5ac62" md5="5d718486bd294124be7ba4905ecc112d" sha1="14a8d115eed9421035293191d83e0930a8327be8" sha256="9229e5f67a285d721c592af812a9ad2e1a7aa472aa5e5546f1205037e8b5be32"/>
 	</game>
-	<game name="Big Nose Freaks Out (USA) (Unl)" id="0251">
+	<game name="Big Nose Freaks Out (USA, Europe) (Unl)" id="0251">
 		<category>Games</category>
-		<description>Big Nose Freaks Out (USA) (Unl)</description>
-		<rom name="Big Nose Freaks Out (USA) (Unl).unh" size="262144" crc="ccdcbfc6" md5="3c84e8f6346d9f688b326460806af489" sha1="00dfb78ac0e10f46bede9850636e2f3c6a305858" sha256="87b9c94b5e9144eb63c77dbd159b043b2d83c9a480008777b406599e7ea7ecab"/>
+		<description>Big Nose Freaks Out (USA, Europe) (Unl)</description>
+		<rom name="Big Nose Freaks Out (USA, Europe) (Unl).unh" size="262144" crc="ccdcbfc6" md5="3c84e8f6346d9f688b326460806af489" sha1="00dfb78ac0e10f46bede9850636e2f3c6a305858" sha256="87b9c94b5e9144eb63c77dbd159b043b2d83c9a480008777b406599e7ea7ecab"/>
 	</game>
 	<game name="Big Nose the Caveman (USA) (Unl)" id="0252">
 		<category>Games</category>
@@ -2258,6 +2258,12 @@
 		<category>Games</category>
 		<description>DuckTales 2 (USA)</description>
 		<rom name="DuckTales 2 (USA).unh" size="131072" crc="73c7fcf4" md5="b8592879590cddec02fe077217562d00" sha1="f85da3a5a252567f3905b112830b0f1c297cf34c" sha256="54c70628739c9cfab40b8d79555e9076adae34127ef369988ca91635b4a688bf"/>
+	</game>
+	<game name="Dudes II (USA) (Proto) (Unl)" id="8459">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dudes II (USA) (Proto) (Unl)</description>
+		<rom name="Dudes II (USA) (Proto) (Unl).unh" size="65536" crc="b5499cef" md5="c46351c0e2d9072740543b38daee00cd" sha1="22c27ec25d6cfa61f7f106f4d4dc41fdf7158868" sha256="11c0da5727d552675014c7f05635a235d6bd05b85c6203e81a5a0faffce2e898"/>
 	</game>
 	<game name="Dudes with Attitude (USA) (NINA-06) (Unl)" id="0636">
 		<category>Games</category>
@@ -6097,6 +6103,12 @@
 		<category>Games</category>
 		<description>Pole Tchudes 2 (Russia) (Unl)</description>
 		<rom name="Pole Tchudes 2 (Russia) (Unl).unh" size="40960" crc="faf3582f" md5="7739062ac2992d73ae4f0bc5cfdb38a7" sha1="901f22c4530f3c0ecc5ee7d329b042ad81f3c067" sha256="84588cdfda2e2ca18755ef1c2f37c1a052a5f90c55059252ec4f5b7ad65209b4"/>
+	</game>
+	<game name="Police Academy (USA) (Proto) (Unl)" id="8462">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Police Academy (USA) (Proto) (Unl)</description>
+		<rom name="Police Academy (USA) (Proto) (Unl).unh" size="262144" crc="38c9e0f8" md5="b77c152ef49fe6c3dd27e97d1dfed298" sha1="8522a71dfc8846df2504398997cef51557d63f86" sha256="7dfa564d76c16665fe0fe162246b1995ba2faf04a79a5e5346af5b933648cfea"/>
 	</game>
 	<game name="Policeman (Spain) (En) (Unl)" id="2702">
 		<category>Games</category>

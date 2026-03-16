@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,694) (-y) [-aAbBcefkmMoprv] (2026-03-15 05-19-15) (Retool)</description>
-		<version>2026-03-15 05-19-15</version>
-		<date>2026-03-15 04-46-20</date>
+		<description>Sony - PlayStation 3 (1,694) (-y) [-aAbBcefkmMoprv] (2026-03-16 00-56-01) (Retool)</description>
+		<version>2026-03-16 00-56-01</version>
+		<date>2026-03-16 04-52-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1881,10 +1881,10 @@
 		<description>Dragon Quest Heroes II - Futago no Ou to Yogen no Owari (Japan)</description>
 		<rom name="Dragon Quest Heroes II - Futago no Ou to Yogen no Owari (Japan).iso" size="16616718336" crc="9d9beefb" md5="4bb67e0dbb8a284953e9877603992ae9" sha1="1812eb520de5577320d993ca72836a407b797721"/>
 	</game>
-	<game name="Dragon's Crown (USA)">
+	<game name="Dragon's Crown (USA, Asia)">
 		<category>Games</category>
-		<description>Dragon's Crown (USA)</description>
-		<rom name="Dragon's Crown (USA).iso" size="1680211968" crc="ab921d29" md5="42faa3a214beff3734d262e25f4a6f0e" sha1="0f9df96a5eb6e14d3f6a4848814c89ccf6d905e4"/>
+		<description>Dragon's Crown (USA, Asia)</description>
+		<rom name="Dragon's Crown (USA, Asia).iso" size="1680211968" crc="ab921d29" md5="42faa3a214beff3734d262e25f4a6f0e" sha1="0f9df96a5eb6e14d3f6a4848814c89ccf6d905e4"/>
 	</game>
 	<game name="Dragon's Dogma (USA, Asia) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>

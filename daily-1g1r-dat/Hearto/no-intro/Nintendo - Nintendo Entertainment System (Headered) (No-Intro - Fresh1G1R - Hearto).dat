@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,813) (-y) [-aAbBcefkmMoprv] (20260314-052625) (Retool)</description>
-		<version>20260314-052625</version>
-		<date>2026-03-15 04-47-03</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,815) (-y) [-aAbBcefkmMoprv] (20260315-001756) (Retool)</description>
+		<version>20260315-001756</version>
+		<date>2026-03-16 04-54-33</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -862,10 +862,10 @@
 		<description>Bible Buffet (USA) (v6.0) (Unl)</description>
 		<rom name="Bible Buffet (USA) (v6.0) (Unl).nes" size="262160" header="4e 45 53 1a 08 10 b1 08 00 00 00 00 00 00 00 01" crc="4a97f741" md5="cc2fbe32ecbd1c6a3deeb1c033c426f2" sha1="d88a4bfa9c8b607bc72cf2b5882210e5f7f744ea" sha256="08445ee244e39f54ca0a4884a48c641a1af72d39ac92390b15807b5bceddc162"/>
 	</game>
-	<game name="Big Nose Freaks Out (USA) (Unl)" id="0251">
+	<game name="Big Nose Freaks Out (USA, Europe) (Unl)" id="0251">
 		<category>Games</category>
-		<description>Big Nose Freaks Out (USA) (Unl)</description>
-		<rom name="Big Nose Freaks Out (USA) (Unl).nes" size="262160" header="4e 45 53 1a 10 00 71 48 00 00 00 07 02 00 00 01" crc="217dbcc7" md5="ac4263589f8ed612a62db3ea3e9fd689" sha1="2f4e81ea2b08783a5253f1d93d0016c4b993431d" sha256="3a20eb55f21da20de2747749c59b1095ecdca6eb0cf9f3f99f5a772ae24f5ae6"/>
+		<description>Big Nose Freaks Out (USA, Europe) (Unl)</description>
+		<rom name="Big Nose Freaks Out (USA, Europe) (Unl).nes" size="262160" header="4e 45 53 1a 10 00 71 48 00 00 00 07 02 00 00 01" crc="217dbcc7" md5="ac4263589f8ed612a62db3ea3e9fd689" sha1="2f4e81ea2b08783a5253f1d93d0016c4b993431d" sha256="3a20eb55f21da20de2747749c59b1095ecdca6eb0cf9f3f99f5a772ae24f5ae6"/>
 	</game>
 	<game name="Big Nose the Caveman (USA) (Unl)" id="0252">
 		<category>Games</category>
@@ -2258,6 +2258,12 @@
 		<category>Games</category>
 		<description>DuckTales 2 (USA)</description>
 		<rom name="DuckTales 2 (USA).nes" size="131088" header="4e 45 53 1a 08 00 21 08 20 00 00 07 00 00 00 01" crc="d709f01c" md5="a7f36933b432856ad073aed8673b750c" sha1="b27c4b68c0ee991c3debea493111b4fc6d3f1251" sha256="1b6b2323ac4c974d75c07d05a625c4bec582411a04e427b0b95e8d7bc3a17c25"/>
+	</game>
+	<game name="Dudes II (USA) (Proto) (Unl)" id="8459">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dudes II (USA) (Proto) (Unl)</description>
+		<rom name="Dudes II (USA) (Proto) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="93930b5f" md5="a55ea7424019b921bf25548ca634f653" sha1="9d79b13426d84a81c296c4613393fd8be168a373" sha256="d3c33f9ca5ab766a329b5bce5e56cbbd85dfdeed1fb7abf058ae67d73334b9ff"/>
 	</game>
 	<game name="Dudes with Attitude (USA) (NINA-06) (Unl)" id="0636">
 		<category>Games</category>
@@ -6098,6 +6104,12 @@
 		<category>Games</category>
 		<description>Pole Tchudes 2 (Russia) (Unl)</description>
 		<rom name="Pole Tchudes 2 (Russia) (Unl).nes" size="40976" header="4e 45 53 1a 02 01 00 08 00 00 00 00 03 00 00 01" crc="a811e101" md5="45018dedb56173c68b0ae83c74c8de78" sha1="5c2d126401f8298a4662057ce10d128251210d1f" sha256="44fcb706cf33394d223d2e43f915caeaf61d08333af0bdc2536af8b1d7d361d1"/>
+	</game>
+	<game name="Police Academy (USA) (Proto) (Unl)" id="8462">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Police Academy (USA) (Proto) (Unl)</description>
+		<rom name="Police Academy (USA) (Proto) (Unl).nes" size="262160" header="4e 45 53 1a 08 10 00 48 00 00 00 00 00 00 00 01" crc="b642dc00" md5="dc9877235d1b56a46ee8f573b0c94943" sha1="92b40e45808bbbed3a87c8fbd63c11d5868130f3" sha256="ef21f486fda6e1db0428d1bdacd5dd09303ca8b9d435d79c189dfd74997958a1"/>
 	</game>
 	<game name="Policeman (Spain) (En) (Unl)" id="2702">
 		<category>Games</category>

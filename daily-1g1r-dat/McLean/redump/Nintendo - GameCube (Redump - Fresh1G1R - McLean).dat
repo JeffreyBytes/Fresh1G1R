@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (593) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-08 23-06-21) (Retool)</description>
-		<version>2026-03-08 23-06-21</version>
-		<date>2026-03-15 04-52-00</date>
+		<description>Nintendo - GameCube (593) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-15 19-34-49) (Retool)</description>
+		<version>2026-03-15 19-34-49</version>
+		<date>2026-03-16 04-58-00</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -481,10 +481,10 @@
 		<description>Custom Robo (USA)</description>
 		<rom name="Custom Robo (USA).iso" size="1459978240" crc="c450109c" md5="546e5108173bceb4d5c8ca27b3fcfc96" sha1="fff6e74590366a5c0c5ba0d40c8ccf94770bcb16"/>
 	</game>
-	<game name="Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It)">
+	<game name="Dakar 2 (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It).iso" size="1459978240" crc="fd421f87" md5="b603f891b9601b1e09e359919595a679" sha1="d87edcb7e85eb7c2e068f3fca99fcafd1486288c"/>
+		<description>Dakar 2 (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Dakar 2 (USA) (En,Fr,De,Es,It).iso" size="1459978240" crc="fd421f87" md5="b603f891b9601b1e09e359919595a679" sha1="d87edcb7e85eb7c2e068f3fca99fcafd1486288c"/>
 	</game>
 	<game name="Dance Dance Revolution - Mario Mix (USA) (Rev 1)">
 		<category>Games</category>
