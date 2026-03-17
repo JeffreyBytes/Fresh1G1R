@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (975) (-y) [-aAbBcefkmMoprv] (20260310-150248) (Retool)</description>
-		<version>20260310-150248</version>
-		<date>2026-03-16 04-54-11</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (975) (-y) [-aAbBcefkmMoprv] (20260315-090432) (Retool)</description>
+		<version>20260315-090432</version>
+		<date>2026-03-17 04-38-10</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2959,7 +2959,7 @@
 		<category>Games</category>
 		<description>Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA)</description>
 		<game_id>00040000001D1400</game_id>
-		<rom name="Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA).3ds" size="1073741824" crc="df04ad66" md5="a8fc8e35862f5b1ffe5ecbe1542fd4a3" sha1="fbec185c81e66e30dadf9cba3c91064e233533f7"/>
+		<rom name="Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA).3ds" size="1073741824" crc="df04ad66" md5="a8fc8e35862f5b1ffe5ecbe1542fd4a3" sha1="fbec185c81e66e30dadf9cba3c91064e233533f7" sha256="a4a5f33cb3d7b1cfd01a12450f94a000e9891e2de955c3ec6e3784d13915b3ab"/>
 	</game>
 	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x015">
 		<category>Demos</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>LeapFrog - Leapster Learning Game System (Retool)</name>
-		<description>LeapFrog - Leapster Learning Game System (63) (-ly) [-aAbBcdDefkmMopPruv] (20250122-131709) (Retool)</description>
-		<version>20250122-131709</version>
-		<date>2026-03-16 05-00-20</date>
+		<description>LeapFrog - Leapster Learning Game System (64) (-ly) [-aAbBcdDefkmMopPruv] (20260315-132252) (Retool)</description>
+		<version>20260315-132252</version>
+		<date>2026-03-17 04-42-48</date>
 		<author>C. V. Reynolds, Connie, FakeShemp, nnssxx, relax, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -130,6 +130,11 @@
 		<category>Games</category>
 		<description>I Spy - Treasure Hunt (USA)</description>
 		<rom name="I Spy - Treasure Hunt (USA).bin" size="8388608" crc="7c716016" md5="9cbf3c15ec62b47be8fabe74691dc7f3" sha1="35512ea5c267f5540cbfa64a4d35ebc54464fd31"/>
+	</game>
+	<game name="Incredibles, The (USA)" id="0117">
+		<category>Games</category>
+		<description>Incredibles, The (USA)</description>
+		<rom name="Incredibles, The (USA).bin" size="8388608" crc="ea5c15b1" md5="40cf2f6f1de91b2843b25c636ed77ccc" sha1="2ab154153481802593d9004dae8fc5fcba0b6e88" sha256="fba251a0c8bf06c73b62bf38807568c704e451a5d459a60459f99e80b7719a23"/>
 	</game>
 	<game name="Kindergarten (USA)" id="0046">
 		<category>Games</category>

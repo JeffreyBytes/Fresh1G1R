@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (BigEndian) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (BigEndian) (391) (-y) [-aAbBcdkmMpPuv] (20260315-000324) (Retool)</description>
-		<version>20260315-000324</version>
-		<date>2026-03-16 05-08-00</date>
+		<description>Nintendo - Nintendo 64 (BigEndian) (391) (-y) [-aAbBcdkmMpPuv] (20260315-015921) (Retool)</description>
+		<version>20260315-015921</version>
+		<date>2026-03-17 04-53-06</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -16,10 +16,10 @@
 		<description>007 - The World Is Not Enough (USA)</description>
 		<rom name="007 - The World Is Not Enough (USA).z64" size="33554432" crc="26360987" md5="9d58996a8aa91263b5cd45c385f45fe4" sha1="d347159808f0374a93cf44cfb6135d8f56279f7b" sha256="72e3e7b4ff1615bc17336d3d10e18aa9342898db063ace68922a47f5e46c48b1"/>
 	</game>
-	<game name="1080 Snowboarding (Japan, USA) (En,Ja)" id="0007">
+	<game name="1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet)" id="1136">
 		<category>Games</category>
-		<description>1080 Snowboarding (Japan, USA) (En,Ja)</description>
-		<rom name="1080 Snowboarding (Japan, USA) (En,Ja).z64" size="16777216" crc="08fe81c7" md5="fa27089c425dbab99f19245c5c997613" sha1="79cd1166c365e5809dec9b62e6d40d6032d5db3a" sha256="5e9d7168e5786ba1bd4b643431ba7100ff3d7a09e558acae15438d426c0f34df"/>
+		<description>1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet)</description>
+		<rom name="1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet).z64" size="16777216" crc="67e010d2" md5="c6061ad1b4446c4db57cdf094da7c534" sha1="7266eef53af8f2c21f3e3288258121f97eddfa7e"/>
 	</game>
 	<game name="40 Winks (USA) (Piko Interactive)" id="1066">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,294) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-16 00-56-01) (Retool)</description>
-		<version>2026-03-16 00-56-01</version>
-		<date>2026-03-16 04-58-35</date>
+		<description>Sony - PlayStation 3 (1,294) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-17 02-35-29) (Retool)</description>
+		<version>2026-03-17 02-35-29</version>
+		<date>2026-03-17 04-41-57</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2556,10 +2556,10 @@
 		<description>History Legends of War - Patton (USA) (En,Fr,Es)</description>
 		<rom name="History Legends of War - Patton (USA) (En,Fr,Es).iso" size="5627445248" crc="3d8f8ada" md5="e67a35e5bd336992ba9b86ee98b81573" sha1="33e377f0e9696dbcc9d2bb6b9f437226f036b4ac"/>
 	</game>
-	<game name="Hitman - Absolution (USA) (En,Fr,Es)">
+	<game name="Hitman - Absolution (USA) (Greatest Hits)">
 		<category>Games</category>
-		<description>Hitman - Absolution (USA) (En,Fr,Es)</description>
-		<rom name="Hitman - Absolution (USA) (En,Fr,Es).iso" size="17606574080" crc="aed091ab" md5="a58f21308eb9f9afa13597b18e649dc6" sha1="30ed5fef8973abaeaf839b4ab3f58ceca3eeb129"/>
+		<description>Hitman - Absolution (USA) (Greatest Hits)</description>
+		<rom name="Hitman - Absolution (USA) (Greatest Hits).iso" size="12404981760" crc="c35de1b0" md5="cd6eb2970e1620518947135128f5fbfd" sha1="ea673b9998c2add603d4237f478f1c338aa5fc1c"/>
 	</game>
 	<game name="Hitman HD Trilogy (USA) (En,Fr,Es)">
 		<category>Games</category>

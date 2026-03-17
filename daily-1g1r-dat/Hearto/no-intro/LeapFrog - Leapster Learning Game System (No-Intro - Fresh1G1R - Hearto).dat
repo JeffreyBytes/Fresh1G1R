@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>LeapFrog - Leapster Learning Game System (Retool)</name>
-		<description>LeapFrog - Leapster Learning Game System (101) (-y) [-aAbBcefkmMoprv] (20250122-131709) (Retool)</description>
-		<version>20250122-131709</version>
-		<date>2026-03-16 04-54-20</date>
+		<description>LeapFrog - Leapster Learning Game System (103) (-y) [-aAbBcefkmMoprv] (20260315-132252) (Retool)</description>
+		<version>20260315-132252</version>
+		<date>2026-03-17 04-36-14</date>
 		<author>C. V. Reynolds, Connie, FakeShemp, nnssxx, relax, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -106,6 +106,11 @@
 		<category>Games</category>
 		<description>Demo - Herbst 2004 II (Germany)</description>
 		<rom name="Demo - Herbst 2004 II (Germany).bin" size="8388608" crc="71062cd7" md5="707a056024348a835d8c915a8fe8788e" sha1="eaf0656d29f61d89b97c6d66e73a2fa7021a92e3"/>
+	</game>
+	<game name="Didou - Dessine-Moi une Aventure ! (France)" id="0116">
+		<category>Games</category>
+		<description>Didou - Dessine-Moi une Aventure ! (France)</description>
+		<rom name="Didou - Dessine-Moi une Aventure ! (France).bin" size="8388608" crc="5a66a307" md5="9a80bf94273b9e0848a9292d1d7bafe9" sha1="ac880e02c5ef164a9de918bdd76bc74886b35daf" sha256="15f40124fdbfe623ea4128dd47324a183627b652cd768bcf3835fe7a0695746f"/>
 	</game>
 	<game name="Digging for Dinosaurs (USA)" id="0019">
 		<category>Games</category>
@@ -238,6 +243,11 @@
 		<category>Preproduction</category>
 		<description>Incredibles Animation Sample (USA) (Proto) (2004-04-13)</description>
 		<rom name="Incredibles Animation Sample (USA) (Proto) (2004-04-13).bin" size="8388608" crc="ff6f07f1" md5="8c6f51338348ada4172ad8a7d514d06b" sha1="81f13d34b58987a048e0c14d90413887349a208d" sha256="08c432785a741822873fbe488671fb95ab770992df4cd5ce149412497baa3733"/>
+	</game>
+	<game name="Incredibles, The (USA)" id="0117">
+		<category>Games</category>
+		<description>Incredibles, The (USA)</description>
+		<rom name="Incredibles, The (USA).bin" size="8388608" crc="ea5c15b1" md5="40cf2f6f1de91b2843b25c636ed77ccc" sha1="2ab154153481802593d9004dae8fc5fcba0b6e88" sha256="fba251a0c8bf06c73b62bf38807568c704e451a5d459a60459f99e80b7719a23"/>
 	</game>
 	<game name="Kindergarten (USA)" id="0046">
 		<category>Games</category>
