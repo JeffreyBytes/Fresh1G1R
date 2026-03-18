@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,626) (-y) [-aAbBcdkmMpPuv] (2026-03-17 02-35-29) (Retool)</description>
-		<version>2026-03-17 02-35-29</version>
-		<date>2026-03-17 04-48-13</date>
+		<description>Sony - PlayStation 3 (1,626) (-y) [-aAbBcdkmMpPuv] (2026-03-18 01-10-09) (Retool)</description>
+		<version>2026-03-18 01-10-09</version>
+		<date>2026-03-18 04-50-57</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -7971,10 +7971,10 @@
 		<description>Wolfenstein (USA) (En,Fr)</description>
 		<rom name="Wolfenstein (USA) (En,Fr).iso" size="9293201408" crc="fdb086be" md5="c6e1b59b4a8aa8677f62142b581cb341" sha1="792ae2fb1b198e8975888de15480e6420dc26d45"/>
 	</game>
-	<game name="Wolfenstein - The New Order (USA) (En,Fr,Es)">
+	<game name="Wolfenstein - The New Order (USA, Asia) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Wolfenstein - The New Order (USA) (En,Fr,Es)</description>
-		<rom name="Wolfenstein - The New Order (USA) (En,Fr,Es).iso" size="19371589632" crc="30138aa5" md5="23b745f3e835765196f976b65ba47ea6" sha1="6e9e2a8e47d2301eeb63cf3a5f7a3c85d43786fa"/>
+		<description>Wolfenstein - The New Order (USA, Asia) (En,Fr,Es)</description>
+		<rom name="Wolfenstein - The New Order (USA, Asia) (En,Fr,Es).iso" size="19371589632" crc="30138aa5" md5="23b745f3e835765196f976b65ba47ea6" sha1="6e9e2a8e47d2301eeb63cf3a5f7a3c85d43786fa"/>
 	</game>
 	<game name="Wonderbook - Book of Potions (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>

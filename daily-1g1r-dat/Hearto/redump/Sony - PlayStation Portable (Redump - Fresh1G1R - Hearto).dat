@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,815) (-y) [-aAbBcefkmMoprv] (2026-03-09 21-31-13) (Retool)</description>
-		<version>2026-03-09 21-31-13</version>
-		<date>2026-03-17 04-35-19</date>
+		<description>Sony - PlayStation Portable (1,814) (-y) [-aAbBcefkmMoprv] (2026-03-18 01-22-54) (Retool)</description>
+		<version>2026-03-18 01-22-54</version>
+		<date>2026-03-18 04-39-10</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4840,11 +4840,6 @@
 		<category>Games</category>
 		<description>Minna de Dokusho - Keitai Shousetsu Desuu (Japan)</description>
 		<rom name="Minna de Dokusho - Keitai Shousetsu Desuu (Japan).iso" size="227606528" crc="bef340f1" md5="80430516091d9e021b11214cdb0194ae" sha1="e83fd4c9a5a2f4a0edb9b373229cb887ad420073"/>
-	</game>
-	<game name="Minna no Chizu 2 (Japan)">
-		<category>Games</category>
-		<description>Minna no Chizu 2 (Japan)</description>
-		<rom name="Minna no Chizu 2 (Japan).iso" size="1812692992" crc="e97bbcb9" md5="da01987de8f5ccde27e310e22dab7806" sha1="b7973c7f390de7e2d2f3f96b9ddaa3b26177387f"/>
 	</game>
 	<game name="Minna no Golf Portable - Coca-Cola Special Edition (Japan)">
 		<category>Games</category>
