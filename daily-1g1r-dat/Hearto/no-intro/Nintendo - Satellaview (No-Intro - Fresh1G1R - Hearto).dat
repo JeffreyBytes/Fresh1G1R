@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (324) (-y) [-aAbBcefkmMoprv] (20260315-064014) (Retool)</description>
-		<version>20260315-064014</version>
-		<date>2026-03-18 04-41-44</date>
+		<description>Nintendo - Satellaview (325) (-y) [-aAbBcefkmMoprv] (20260317-121753) (Retool)</description>
+		<version>20260317-121753</version>
+		<date>2026-03-19 04-39-38</date>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -903,15 +903,16 @@
 		<description>Mystic Ark (Japan) (Demo) (1995-6-26)</description>
 		<rom name="Mystic Ark (Japan) (Demo) (1995-6-26).bs" size="1048576" crc="45297dfd" md5="1524bd960eec5fe7e6dd9ec7233ea84e" sha1="97e94dfe241e454f437fa6f030825cfcd6023c54" sha256="9f0b018019c5a78864fadbf6f905b0aa26b00609b6d5b9c86cf48bc9514ec6e3"/>
 	</game>
-	<game name="New 3D Golf Simulation - Waialae no Kiseki (Japan)" id="3557">
+	<game name="New 3D Golf Simulation - Waialae no Kiseki (Japan) (1997-10-28)" id="3557">
 		<category>Games</category>
-		<description>New 3D Golf Simulation - Waialae no Kiseki (Japan)</description>
-		<rom name="New 3D Golf Simulation - Waialae no Kiseki (Japan).bs" size="1048576" crc="87c888b8" md5="a49cbe7db2e8131f2da88be2777ab787" sha1="484f393a8455334861ecaf02b64fa99f0c9b6038" sha256="10509e3d463d8c21fe627fe9445aa6468024607c092e2ef05227b90d22750db7"/>
+		<description>New 3D Golf Simulation - Waialae no Kiseki (Japan) (1997-10-28)</description>
+		<rom name="New 3D Golf Simulation - Waialae no Kiseki (Japan) (1997-10-28).bs" size="1048576" crc="87c888b8" md5="a49cbe7db2e8131f2da88be2777ab787" sha1="484f393a8455334861ecaf02b64fa99f0c9b6038" sha256="10509e3d463d8c21fe627fe9445aa6468024607c092e2ef05227b90d22750db7"/>
 	</game>
-	<game name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo)" id="3554">
+	<game name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo) (1996-5-5)" id="3554">
 		<category>Demos</category>
-		<description>New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo)</description>
-		<rom name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo).bs" size="1048576" crc="ac79849c" md5="fa6dea2dc70e85e331ef2c33e5ee0fc7" sha1="7b3ae2980f4165da106ad6fc3fe58e840220cb5f" sha256="d1fdbbf85f37db20f214af813102da466c312b6955e0403ef7fb867433f94f98"/>
+		<category>Games</category>
+		<description>New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo) (1996-5-5)</description>
+		<rom name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo) (1996-5-5).bs" size="1048576" crc="ac79849c" md5="fa6dea2dc70e85e331ef2c33e5ee0fc7" sha1="7b3ae2980f4165da106ad6fc3fe58e840220cb5f" sha256="d1fdbbf85f37db20f214af813102da466c312b6955e0403ef7fb867433f94f98"/>
 	</game>
 	<game name="Nintama Rantarou 2 (Japan) (3-22)" id="3766">
 		<category>Games</category>
@@ -1304,16 +1305,17 @@
 		<description>Super Puyo Puyo Tsuu BS Ban (Japan) (11-30)</description>
 		<rom name="Super Puyo Puyo Tsuu BS Ban (Japan) (11-30).bs" size="1048576" crc="e63ee3b1" md5="2de583aa9248f3d3e9d12e307df85b79" sha1="2fa77c709294da3a0ae5a918a574b49302a0bf17" sha256="13b664d2f8bedc5d212f865dc69074f94d8afe9408a5e1e4d000f54558d99fe0"/>
 	</game>
+	<game name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan)" id="3520">
+		<category>Games</category>
+		<category>Magazines</category>
+		<description>Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan)</description>
+		<rom name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan).bs" size="1048576" crc="b4e8484d" md5="25d7fd9e383f96885647a72902fd1b27" sha1="617f1bd983088fe76b78496cd5a0bd012529a8e6" sha256="75c9459dc535f41abb534a101e6da6fba5df0b9c79b754622c42a19cd178b08c"/>
+	</game>
 	<game name="Super Puyo Puyo Tsuu Remix (5-16) + Game Tora no Chou Ooana (1996-5-19, Part 2) (Japan) (Game, SoundLink Magazine)" id="3838">
 		<category>Games</category>
 		<category>Magazines</category>
 		<description>Super Puyo Puyo Tsuu Remix (5-16) + Game Tora no Chou Ooana (1996-5-19, Part 2) (Japan) (Game, SoundLink Magazine)</description>
 		<rom name="Super Puyo Puyo Tsuu Remix (5-16) + Game Tora no Chou Ooana (1996-5-19, Part 2) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="cbe9d3c8" md5="8b5dab657e51b862f5b01d87b7f0539f" sha1="20328526c7e7f2a99ffd97440bb72b560ea93037" sha256="20078e6c546ec2e28c829e599840077de84068cdc12366c42c5ef8d0fa9d00e8"/>
-	</game>
-	<game name="Super Puyo Puyo Tsuu Remix (Japan) (3-4)" id="3520">
-		<category>Games</category>
-		<description>Super Puyo Puyo Tsuu Remix (Japan) (3-4)</description>
-		<rom name="Super Puyo Puyo Tsuu Remix (Japan) (3-4).bs" size="1048576" crc="5fc1fd18" md5="169828d7d34bd46fc720d81b233dae3f" sha1="a33d7dd85c0b79865c6c77a6b49694b67614488e" sha256="6d4f7d3c0fa7a92243fa9079beaa61dbbb93f52791c3b9eabc26acf3814bbbba"/>
 	</game>
 	<game name="Super Soukoban (Japan) (2-8) (Standalone Fix)" id="3631">
 		<category>Games</category>
@@ -1345,10 +1347,10 @@
 		<description>Sutte Hakkun - 98 Fuyu Event Version (Japan) (1999-1-7)</description>
 		<rom name="Sutte Hakkun - 98 Fuyu Event Version (Japan) (1999-1-7).bs" size="1048576" crc="c4d0046f" md5="cd4be6aac21dd8f9222b948390ec974e" sha1="a78747a558b7c29eaeb9986c620a24facf9e41ae" sha256="f5425be816cd77bf3578637030b6d13731008b3a42742ab2ee6efbc3af305655"/>
 	</game>
-	<game name="Sutte Hakkun - BS Version 2 (Japan) (10-25)" id="3870">
+	<game name="Sutte Hakkun - BS Version 2 (Japan) (11-25)" id="3983">
 		<category>Games</category>
-		<description>Sutte Hakkun - BS Version 2 (Japan) (10-25)</description>
-		<rom name="Sutte Hakkun - BS Version 2 (Japan) (10-25).bs" size="1048576" crc="063fc723" md5="b39c4439391c442cb65184fe09a8fc12" sha1="11d75b48b3e2d84d93e70864d5d65ab9db3fe48a" sha256="19def7aaf32610c587610e20c69a128e00a4ffe4c692c772cb7f2c27dcc316ac"/>
+		<description>Sutte Hakkun - BS Version 2 (Japan) (11-25)</description>
+		<rom name="Sutte Hakkun - BS Version 2 (Japan) (11-25).bs" size="1048576" crc="c28a5000" md5="73a760c8f5ee888de0f96d83b0b8ed17" sha1="f642842413b07fc58d085fe0a3daf26004a34efe" sha256="2d42e9847039ad9d0a159d4e8d8dcfa1ded3f8d98af6265fc53ee19e8e758930"/>
 	</game>
 	<game name="Sutte Hakkun - Event Version (Japan) (11-24)" id="3943">
 		<category>Games</category>
@@ -1391,6 +1393,12 @@
 		<description>Tamori no Picross (1995-5-3) + Game Tora no Ooana (1995-5-3) (Japan) (Game, SoundLink Magazine)</description>
 		<rom name="Tamori no Picross (1995-5-3) + Game Tora no Ooana (1995-5-3) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="847355ba" md5="b9583c16400194d6597ab7dcab6f78a8" sha1="f176cb8b16d5cee5b54aa4ce8021cd4e71247990" sha256="09d694fd4da96d816dc11e579e23e344f044025c1a4d4a1545aeee9a4b6f07d5"/>
 	</game>
+	<game name="Tamori no Picross (1995-6-13) + AK LIVE Hit Gang (1995-5-30) (Japan) (Game, Magazine)" id="3984">
+		<category>Games</category>
+		<category>Magazines</category>
+		<description>Tamori no Picross (1995-6-13) + AK LIVE Hit Gang (1995-5-30) (Japan) (Game, Magazine)</description>
+		<rom name="Tamori no Picross (1995-6-13) + AK LIVE Hit Gang (1995-5-30) (Japan) (Game, Magazine).bs" size="1048576" crc="c7e1382d" md5="baf42c676b061249d0ff8a053543a28c" sha1="3c74ed92e18df4bc81b2cc79ccbc7e46b127b8c4" sha256="d185666dd954e87e103f708ecac311c14b452257349ab1c4987bcac7f2d57053"/>
+	</game>
 	<game name="Tamori no Picross (1995-7-14) + SatellaQ (1995-7-21) + Machi Magazine (1995-7-21) (Japan)" id="3650">
 		<category>Games</category>
 		<description>Tamori no Picross (1995-7-14) + SatellaQ (1995-7-21) + Machi Magazine (1995-7-21) (Japan)</description>
@@ -1414,7 +1422,7 @@
 	<game name="Tamori no Picross (Japan) (1995-6-26)" id="3473">
 		<category>Games</category>
 		<description>Tamori no Picross (Japan) (1995-6-26)</description>
-		<rom name="Tamori no Picross (Japan) (1995-6-26).bs" size="524288" crc="535becda" md5="9f778366e16e46ed0906c90de76a61f2" sha1="9667e997e614f445f2ba421c1bc0693752d595dc" sha256="af83b73f5681316020352f4459062f30cc64d9cdeb4418a0a8a8af7cb878f73d"/>
+		<rom name="Tamori no Picross (Japan) (1995-6-26).bs" size="1048576" crc="1feee8a2" md5="f0cecf105af3a6edb5c93a49065317cd" sha1="132dbfa5a8eeb9a85bf8414fc149111730456433" sha256="30db34ebfde40eb1c13c9659a9401d3127b914038c479f9ebb58655b78eaf22b"/>
 	</game>
 	<game name="Tamori no Picross (Japan) (1995-8-13)" id="3581">
 		<category>Games</category>

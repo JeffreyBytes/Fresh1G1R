@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Multiboot) (Retool)</name>
-		<description>Nintendo - Game Boy Advance (Multiboot) (102) (-y) [-aAbBcefkmMoprv] (20260315-171224) (Retool)</description>
-		<version>20260315-171224</version>
-		<date>2026-03-18 04-39-22</date>
+		<description>Nintendo - Game Boy Advance (Multiboot) (104) (-y) [-aAbBcefkmMoprv] (20260317-160947) (Retool)</description>
+		<version>20260317-160947</version>
+		<date>2026-03-19 04-39-34</date>
 		<author>Arctic Circle System, C. V. Reynolds, chillerecke, DeriLoko3, Hiccup, hking0036, niemand, norkmetnoil577, NovaAurora, relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -147,6 +147,11 @@
 		<category>Games</category>
 		<description>Bomberman Land 2 - Tokubetsu Furoku - Puzzle de Bomb! (Japan)</description>
 		<rom name="Bomberman Land 2 - Tokubetsu Furoku - Puzzle de Bomb! (Japan).gba" size="164224" crc="fcebd71b" md5="b45c442cde0098f4d38d6fbd96964663" sha1="bd9d52df424496b1673b0d761a5489974e20b349"/>
+	</game>
+	<game name="Chao no Puchigaden (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)" id="0127">
+		<category>Demos</category>
+		<description>Chao no Puchigaden (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)</description>
+		<rom name="Chao no Puchigaden (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition).gba" size="37156" crc="b12a36b8" md5="71e29c8cae1665ede37bcac41381ed9e" sha1="abbd9e0b3ea06f4c05973ae88ed56cdacaf3e3a0"/>
 	</game>
 	<game name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es)" id="0008">
 		<category>Games</category>
@@ -312,6 +317,11 @@
 		<category>Games</category>
 		<description>Made in Wario - Special Selection 4 (World) (Ja)</description>
 		<rom name="Made in Wario - Special Selection 4 (World) (Ja).gba" size="198016" crc="d90f2aa2" md5="1377bd07dbcc777770f7a624eda67364" sha1="6fb11b3b01b7a3acba69bb8dc87bd1acd1c42258" sha256="f4090877feafccb9d1febe08d42fa10631e0425c18ecf250017982e4b18ed5d7"/>
+	</game>
+	<game name="NiGHTS into Dreams - Score Attack (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)" id="0128">
+		<category>Demos</category>
+		<description>NiGHTS into Dreams - Score Attack (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)</description>
+		<rom name="NiGHTS into Dreams - Score Attack (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition).gba" size="253528" crc="f320a1e1" md5="2ba292659cd64bde962b0c2c1efdf953" sha1="1683145ca47cfd0b47af7c26fc9c4c676761c74e"/>
 	</game>
 	<game name="NiGHTS into Dreams - Score Attack (World)" id="0003">
 		<category>Games</category>
