@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,701) (-y) [-aAbBcefkmMoprv] (20260317-040458) (Retool)</description>
-		<version>20260317-040458</version>
-		<date>2026-03-19 04-38-25</date>
-		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
+		<description>Nintendo - Game Boy Advance (1,700) (-y) [-aAbBcefkmMoprv] (20260318-161930) (Retool)</description>
+		<version>20260318-161930</version>
+		<date>2026-03-20 04-32-28</date>
+		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -3755,16 +3755,10 @@
 		<description>Kidou Tenshi Angelic Layer - Misaki to Yume no Tenshi-tachi (Japan)</description>
 		<rom name="Kidou Tenshi Angelic Layer - Misaki to Yume no Tenshi-tachi (Japan).gba" size="8388608" crc="b21ee600" md5="1950bec3827a706bcf603bf27794c270" sha1="1a93edf81ca484201c97e365777186714694c077"/>
 	</game>
-	<game name="Kien (USA) (Proto)" id="x048">
+	<game name="Kien (World) (Incube8 Games) (Unl)" id="3151">
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Kien (USA) (Proto)</description>
-		<rom name="Kien (USA) (Proto).gba" size="8388608" crc="185c2eca" md5="fe8f2d7b6b58cb78ca51f8bceaa0f254" sha1="da1673ec5ec35f8ececa3f04cb6a92d61237ce72"/>
-	</game>
-	<game name="Kien (World) (Incub8 Games) (Unl)" id="3151">
-		<category>Games</category>
-		<description>Kien (World) (Incub8 Games) (Unl)</description>
-		<rom name="Kien (World) (Incub8 Games) (Unl).gba" size="8350032" crc="5a64b473" md5="a509c1b5fa74f70550ee81386c7fe4b9" sha1="3cf07cd95e5a83b65c773111051a50d9bef367eb"/>
+		<description>Kien (World) (Incube8 Games) (Unl)</description>
+		<rom name="Kien (World) (Incube8 Games) (Unl).gba" size="8350032" crc="5a64b473" md5="a509c1b5fa74f70550ee81386c7fe4b9" sha1="3cf07cd95e5a83b65c773111051a50d9bef367eb"/>
 	</game>
 	<game name="Kill Switch (USA)" id="1660">
 		<category>Games</category>
