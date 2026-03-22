@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,628) (-y) [-aAbBcdkmMpPuv] (2026-03-20 01-08-29) (Retool)</description>
-		<version>2026-03-20 01-08-29</version>
-		<date>2026-03-20 04-40-52</date>
+		<description>Sony - PlayStation 3 (1,628) (-y) [-aAbBcdkmMpPuv] (2026-03-22 03-39-37) (Retool)</description>
+		<version>2026-03-22 03-39-37</version>
+		<date>2026-03-22 04-47-47</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6041,15 +6041,15 @@
 		<description>Samurai Dou 4 Plus (Japan)</description>
 		<rom name="Samurai Dou 4 Plus (Japan).iso" size="5185601536" crc="113cbc55" md5="175ace45b0877a1cbf64de42070d3b8f" sha1="f1913a8a7d13d03c9eed67e9b43fe63d728fd1aa"/>
 	</game>
-	<game name="Sangoku-hime - Senkou no Taika - Akatsuki no Haryuu (Japan)">
+	<game name="Sangoku Hime - Senkou no Taika - Akatsuki no Haryuu (Japan)">
 		<category>Games</category>
-		<description>Sangoku-hime - Senkou no Taika - Akatsuki no Haryuu (Japan)</description>
-		<rom name="Sangoku-hime - Senkou no Taika - Akatsuki no Haryuu (Japan).iso" size="3951427584" crc="5de4bd5c" md5="c4db495443bd6b86b795dc4e5ff7bb42" sha1="c99436eeb7d97a39c82bcc9cc3b39fc2e67ff52a"/>
+		<description>Sangoku Hime - Senkou no Taika - Akatsuki no Haryuu (Japan)</description>
+		<rom name="Sangoku Hime - Senkou no Taika - Akatsuki no Haryuu (Japan).iso" size="3951427584" crc="5de4bd5c" md5="c4db495443bd6b86b795dc4e5ff7bb42" sha1="c99436eeb7d97a39c82bcc9cc3b39fc2e67ff52a"/>
 	</game>
-	<game name="Sangoku-hime 2 - Kouki Houkou - Mezameshi Taiga (Japan)">
+	<game name="Sangoku Hime 2 - Kouki Houkou - Mezameshi Taiga (Japan)">
 		<category>Games</category>
-		<description>Sangoku-hime 2 - Kouki Houkou - Mezameshi Taiga (Japan)</description>
-		<rom name="Sangoku-hime 2 - Kouki Houkou - Mezameshi Taiga (Japan).iso" size="3795517440" crc="32479376" md5="ea602cc90d67dd50208d300cc5494a57" sha1="32107f23fe581efd54e7efad7d643711b24a5b21"/>
+		<description>Sangoku Hime 2 - Kouki Houkou - Mezameshi Taiga (Japan)</description>
+		<rom name="Sangoku Hime 2 - Kouki Houkou - Mezameshi Taiga (Japan).iso" size="3795517440" crc="32479376" md5="ea602cc90d67dd50208d300cc5494a57" sha1="32107f23fe581efd54e7efad7d643711b24a5b21"/>
 	</game>
 	<game name="Sangokushi 12 with Power-Up Kit (Japan)">
 		<category>Games</category>
@@ -6136,6 +6136,16 @@
 		<description>Sengoku Basara HD Collection (Japan)</description>
 		<rom name="Sengoku Basara HD Collection (Japan).iso" size="24085725184" crc="157aaacf" md5="8344d58c050b30d4ff1f957a4f98781e" sha1="330140319b869890370a061ab02a7b69bb18a77c"/>
 	</game>
+	<game name="Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)</description>
+		<rom name="Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan).iso" size="5199101952" crc="04cc504f" md5="66462491819e681ab6b0457da20c61e6" sha1="d59be4ff0f73a15925055763c3c3da078183ddde"/>
+	</game>
+	<game name="Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)</description>
+		<rom name="Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan).iso" size="6456213504" crc="020c6065" md5="606d239e5e9c604aba327e62867f4247" sha1="7705eda76fce1fed6808edd7fc4276ab8e056572"/>
+	</game>
 	<game name="Sengoku Musou - Sanada Maru (Japan)">
 		<category>Games</category>
 		<description>Sengoku Musou - Sanada Maru (Japan)</description>
@@ -6170,16 +6180,6 @@
 		<category>Games</category>
 		<description>Sengoku Musou 4 II (Japan)</description>
 		<rom name="Sengoku Musou 4 II (Japan).iso" size="9724755968" crc="7ebf2ebd" md5="e83c97ac29e652666b991e1c65515ab4" sha1="81175cea099f27e07882d319378902f44bc020f3"/>
-	</game>
-	<game name="Sengoku-hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)">
-		<category>Games</category>
-		<description>Sengoku-hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)</description>
-		<rom name="Sengoku-hime 3 - Tenka o Kirisaku Hikari to Kage (Japan).iso" size="5199101952" crc="04cc504f" md5="66462491819e681ab6b0457da20c61e6" sha1="d59be4ff0f73a15925055763c3c3da078183ddde"/>
-	</game>
-	<game name="Sengoku-hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)">
-		<category>Games</category>
-		<description>Sengoku-hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)</description>
-		<rom name="Sengoku-hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan).iso" size="6456213504" crc="020c6065" md5="606d239e5e9c604aba327e62867f4247" sha1="7705eda76fce1fed6808edd7fc4276ab8e056572"/>
 	</game>
 	<game name="Sengoku-hime 5 - Senka Tatsu Haou no Keifu (Japan)">
 		<category>Games</category>

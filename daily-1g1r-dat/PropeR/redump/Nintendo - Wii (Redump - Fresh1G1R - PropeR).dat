@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,658) (-y) [-aAbBcdkmMpPuv] (2026-03-15 01-47-34) (Retool)</description>
-		<version>2026-03-15 01-47-34</version>
-		<date>2026-03-20 04-40-19</date>
+		<description>Nintendo - Wii (1,659) (-y) [-aAbBcdkmMpPuv] (2026-03-20 23-45-18) (Retool)</description>
+		<version>2026-03-20 23-45-18</version>
+		<date>2026-03-22 04-47-13</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5290,6 +5290,11 @@
 		<category>Games</category>
 		<description>Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr)</description>
 		<rom name="Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr).iso" size="4699979776" crc="75880432" md5="6339254663cddc3bb173cd366acb03f5" sha1="f06c43f532a2a2f087859adb421ad22e442424b4"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - SpongeBob to Nakamatachi - Toybot no Kougeki (Japan)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - SpongeBob to Nakamatachi - Toybot no Kougeki (Japan)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - SpongeBob to Nakamatachi - Toybot no Kougeki (Japan).iso" size="4699979776" crc="4b95b4b7" md5="4fd7f197f8b5a92f67c5877b6dc261c1" sha1="9eee566b4362f828d8f2f091b710d26d8b43a619"/>
 	</game>
 	<game name="Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom (USA) (En,Fr)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn (Retool)</name>
-		<description>Sega - Saturn (1,197) (-y) [-aAbBcdkmMpPuv] (2026-03-18 00-41-46) (Retool)</description>
-		<version>2026-03-18 00-41-46</version>
-		<date>2026-03-20 04-40-32</date>
+		<description>Sega - Saturn (1,197) (-y) [-aAbBcdkmMpPuv] (2026-03-21 16-52-56) (Retool)</description>
+		<version>2026-03-21 16-52-56</version>
+		<date>2026-03-22 04-47-26</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -13860,12 +13860,12 @@
 		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Track 3).bin" size="1312416" crc="42e82508" md5="34393ec8a7e531b5b7ec786b505ad8cf" sha1="8427f9433f1a80b734ba5556dda3f5c415cd9cb8"/>
 		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan).cue" size="430" crc="e29c4475" md5="4f47f3079629212646cf248185434641" sha1="b1dcca03087a43d68f1baa56a8b9f9f4405d31a6"/>
 	</game>
-	<game name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan)">
+	<game name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)">
 		<category>Games</category>
-		<description>Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan)</description>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan) (Track 1).bin" size="205804704" crc="3d9abc7f" md5="273b800247c5647fc615af63ecc1a2f2" sha1="53c826d92609f0c8201f38ba07ddce22057185cf"/>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan) (Track 2).bin" size="1764000" crc="05f8cdf8" md5="843d100b6f740cb0a1c2e1dc859b8587" sha1="1455321f1b3846ae6ef464c4b331445237e83859"/>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan).cue" size="311" crc="68ba381a" md5="9d535bc95fc09b184794bae556aabb82" sha1="1d260aa4566419289f00e99c1241ff2df4a4257c"/>
+		<description>Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)</description>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan) (Track 1).bin" size="205804704" crc="3d9abc7f" md5="273b800247c5647fc615af63ecc1a2f2" sha1="53c826d92609f0c8201f38ba07ddce22057185cf"/>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan) (Track 2).bin" size="1764000" crc="05f8cdf8" md5="843d100b6f740cb0a1c2e1dc859b8587" sha1="1455321f1b3846ae6ef464c4b331445237e83859"/>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).cue" size="311" crc="0889c705" md5="ee1006a3abcb618e9a37ff66e9c3ad69" sha1="48b13dda515ca99e9450645b38cde56cef9151ba"/>
 	</game>
 	<game name="Shingata Kururin Pa! (Japan)">
 		<category>Games</category>

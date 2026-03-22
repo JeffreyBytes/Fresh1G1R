@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,814) (-y) [-aAbBcefkmMoprv] (2026-03-18 01-22-54) (Retool)</description>
-		<version>2026-03-18 01-22-54</version>
-		<date>2026-03-20 04-28-58</date>
+		<description>Sony - PlayStation Portable (1,815) (-y) [-aAbBcefkmMoprv] (2026-03-21 02-37-17) (Retool)</description>
+		<version>2026-03-21 02-37-17</version>
+		<date>2026-03-22 04-35-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6686,6 +6686,16 @@
 		<description>Samurai Warriors - State of War (USA)</description>
 		<rom name="Samurai Warriors - State of War (USA).iso" size="327614464" crc="c33e699c" md5="3129ff001d3aea46c070f7b531d07d44" sha1="28ccabb39a5d5f56ec79050895cf9947bfbea3dc"/>
 	</game>
+	<game name="Sangoku Hime - Sangoku Ranse - Haten no Saihai (Japan)">
+		<category>Games</category>
+		<description>Sangoku Hime - Sangoku Ranse - Haten no Saihai (Japan)</description>
+		<rom name="Sangoku Hime - Sangoku Ranse - Haten no Saihai (Japan).iso" size="1601601536" crc="837dddc2" md5="706d32586fe0d486a4438470b9e79638" sha1="97af6241f032619389bcc9043581cc9acbc533ff"/>
+	</game>
+	<game name="Sangoku Hime 2 - Tenka Hatou - Shishi no Keishousha (Japan)">
+		<category>Games</category>
+		<description>Sangoku Hime 2 - Tenka Hatou - Shishi no Keishousha (Japan)</description>
+		<rom name="Sangoku Hime 2 - Tenka Hatou - Shishi no Keishousha (Japan).iso" size="1171456000" crc="82e1fcbd" md5="02b8b83602838aec340df9b2c877b424" sha1="aefcec5457bbbd1f2c358b84fed0c2b8a6eedb82"/>
+	</game>
 	<game name="Sangoku Rensenki - Otome no Heihou! (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Sangoku Rensenki - Otome no Heihou! (Japan) (Disc 1)</description>
@@ -6695,16 +6705,6 @@
 		<category>Games</category>
 		<description>Sangoku Rensenki - Otome no Heihou! (Japan) (Disc 2)</description>
 		<rom name="Sangoku Rensenki - Otome no Heihou! (Japan) (Disc 2).iso" size="1273430016" crc="6ebedb50" md5="013258e8ed8c84f5e9aff95f73b2092c" sha1="062f0720798df86772a65f7fca80a28bcb205ced"/>
-	</game>
-	<game name="Sangoku-hime - Sangoku Ranse - Haten no Saihai (Japan)">
-		<category>Games</category>
-		<description>Sangoku-hime - Sangoku Ranse - Haten no Saihai (Japan)</description>
-		<rom name="Sangoku-hime - Sangoku Ranse - Haten no Saihai (Japan).iso" size="1601601536" crc="837dddc2" md5="706d32586fe0d486a4438470b9e79638" sha1="97af6241f032619389bcc9043581cc9acbc533ff"/>
-	</game>
-	<game name="Sangoku-hime 2 - Tenka Hatou - Shishi no Keishousha (Japan)">
-		<category>Games</category>
-		<description>Sangoku-hime 2 - Tenka Hatou - Shishi no Keishousha (Japan)</description>
-		<rom name="Sangoku-hime 2 - Tenka Hatou - Shishi no Keishousha (Japan).iso" size="1171456000" crc="82e1fcbd" md5="02b8b83602838aec340df9b2c877b424" sha1="aefcec5457bbbd1f2c358b84fed0c2b8a6eedb82"/>
 	</game>
 	<game name="Sangokushi IX with Power-Up Kit (Japan)">
 		<category>Games</category>
@@ -6881,6 +6881,16 @@
 		<description>Sengoku Efuda Yuugi - Hototogisu Tairan (Japan)</description>
 		<rom name="Sengoku Efuda Yuugi - Hototogisu Tairan (Japan).iso" size="347013120" crc="3e2c5cf5" md5="89c0b15a210988fd983f9390fb503c29" sha1="e81b849615ac64c2c9a88d6bbf522d8ce63a08a8"/>
 	</game>
+	<game name="Sengoku Hime - Senran ni Mau Otometachi (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime - Senran ni Mau Otometachi (Japan)</description>
+		<rom name="Sengoku Hime - Senran ni Mau Otometachi (Japan).iso" size="1295384576" crc="24d9f729" md5="34fed600e6c2970c39f467e2047d68e3" sha1="b57aa8c908431e6dffc802085f9057225f81dc95"/>
+	</game>
+	<game name="Sengoku Hime 2 - Ran - Hyakka, Senran Tatsukaze no Gotoku (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime 2 - Ran - Hyakka, Senran Tatsukaze no Gotoku (Japan)</description>
+		<rom name="Sengoku Hime 2 - Ran - Hyakka, Senran Tatsukaze no Gotoku (Japan).iso" size="767983616" crc="84ecc02e" md5="321e372aad9553debeb22a3497a23023" sha1="d8c65457a402349358c33b816930fde52eadcc19"/>
+	</game>
 	<game name="Sengoku Musou 3 Z Special (Japan)">
 		<category>Games</category>
 		<description>Sengoku Musou 3 Z Special (Japan)</description>
@@ -6890,11 +6900,6 @@
 		<category>Games</category>
 		<description>Sengoku Tenka Touitsu (Japan) (v1.01)</description>
 		<rom name="Sengoku Tenka Touitsu (Japan) (v1.01).iso" size="223346688" crc="d8688aea" md5="a5243bd9affbddc9f8eb32c322b43ae6" sha1="672eb23ae6a2f675e8b8bc238c6e590a33c946c8"/>
-	</game>
-	<game name="Sengoku-hime - Senran ni Mau Otome-tachi (Japan)">
-		<category>Games</category>
-		<description>Sengoku-hime - Senran ni Mau Otome-tachi (Japan)</description>
-		<rom name="Sengoku-hime - Senran ni Mau Otome-tachi (Japan).iso" size="1295384576" crc="24d9f729" md5="34fed600e6c2970c39f467e2047d68e3" sha1="b57aa8c908431e6dffc802085f9057225f81dc95"/>
 	</game>
 	<game name="Senjou no Valkyria 3 E2 - Extra Edition (Japan)">
 		<category>Games</category>
@@ -7861,10 +7866,10 @@
 		<description>Taishou Mebiusline Portable (Japan)</description>
 		<rom name="Taishou Mebiusline Portable (Japan).iso" size="1562771456" crc="003db9c9" md5="5ae31cee212aaa7ab24f1bd3a63fe84b" sha1="7bc699678f4955eff6213f30d6a555006ff421c3"/>
 	</game>
-	<game name="Taishou Yakyuu Musume. - Otome-tachi no Seishun Nikki (Japan)">
+	<game name="Taishou Yakyuu Musume. - Otometachi no Seishun Nikki (Japan)">
 		<category>Games</category>
-		<description>Taishou Yakyuu Musume. - Otome-tachi no Seishun Nikki (Japan)</description>
-		<rom name="Taishou Yakyuu Musume. - Otome-tachi no Seishun Nikki (Japan).iso" size="944570368" crc="5b327c19" md5="b24d9fe06fab7bab363a3099390d9522" sha1="60394e03706a24c83f895a6f7fcaff4f9fceb65c"/>
+		<description>Taishou Yakyuu Musume. - Otometachi no Seishun Nikki (Japan)</description>
+		<rom name="Taishou Yakyuu Musume. - Otometachi no Seishun Nikki (Japan).iso" size="944570368" crc="5b327c19" md5="b24d9fe06fab7bab363a3099390d9522" sha1="60394e03706a24c83f895a6f7fcaff4f9fceb65c"/>
 	</game>
 	<game name="Taito Legends Power-Up (USA)">
 		<category>Games</category>
