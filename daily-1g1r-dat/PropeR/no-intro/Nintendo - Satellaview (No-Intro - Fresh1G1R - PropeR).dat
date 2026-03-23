@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (309) (-y) [-aAbBcdkmMpPuv] (20260318-121925) (Retool)</description>
-		<version>20260318-121925</version>
-		<date>2026-03-22 04-52-19</date>
+		<description>Nintendo - Satellaview (309) (-y) [-aAbBcdkmMpPuv] (20260321-143903) (Retool)</description>
+		<version>20260321-143903</version>
+		<date>2026-03-23 05-03-36</date>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -302,10 +302,10 @@
 		<rom name="BS Zelda no Densetsu - Map 2 - Dai-3-wa (Japan) (SoundLink).bs" size="1048576" crc="958f6cbb" md5="5125ee88861932f8afc8fd4148fbd8cc" sha1="c9cf83a26630919d48e08c298e5dfd636298a37a" sha256="ca44bdb37cbd4be067279e84f70c5a04d3f09e709f4a166bc39c2f2c220aa546"/>
 		<rom name="BS Zelda no Densetsu - Map 2 - Dai-3-wa (Japan) (SoundLink).bs" size="1048576" crc="958f6cbb" md5="5125ee88861932f8afc8fd4148fbd8cc" sha1="c9cf83a26630919d48e08c298e5dfd636298a37a" sha256="ca44bdb37cbd4be067279e84f70c5a04d3f09e709f4a166bc39c2f2c220aa546"/>
 	</game>
-	<game name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (8-12) (SoundLink Magazine)" id="3830">
+	<game name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (1995-8-12) (SoundLink Magazine)" id="3830">
 		<category>Magazines</category>
-		<description>Bakushow Mondai no Natsuyasumi no Ousama (Japan) (8-12) (SoundLink Magazine)</description>
-		<rom name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (8-12) (SoundLink Magazine).bs" size="1048576" crc="8a452bbf" md5="54c63426d5cca05ef6eeef821b2b6af5" sha1="22ecd3274be8e9999238f0c44cbc52528d420f83" sha256="0c10d8d48059902a06d560857c7d9d32a27aa8cec40997e5ae5639b5b2d6b249"/>
+		<description>Bakushow Mondai no Natsuyasumi no Ousama (Japan) (1995-8-12) (SoundLink Magazine)</description>
+		<rom name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (1995-8-12) (SoundLink Magazine).bs" size="1048576" crc="8a452bbf" md5="54c63426d5cca05ef6eeef821b2b6af5" sha1="22ecd3274be8e9999238f0c44cbc52528d420f83" sha256="0c10d8d48059902a06d560857c7d9d32a27aa8cec40997e5ae5639b5b2d6b249"/>
 	</game>
 	<game name="Bakushow Mondai no Silicon Chounaikai (1996-9-14) + Super Formation Soccer (9-22) (Japan) (SoundLink Magazine, Game)" id="3913">
 		<category>Games</category>
@@ -908,10 +908,10 @@
 		<description>Pro Mahjong Kiwame III (Japan) (10-22)</description>
 		<rom name="Pro Mahjong Kiwame III (Japan) (10-22).bs" size="1048576" crc="f79f706f" md5="10f1ad7115a00900003cc8f32d3b2be2" sha1="faf37e143248dfb6452b3d3bd5e30ec2eeda58d1" sha256="7b62e800bfe39b28c3df0d84eb0e034196607bb6d4e17fb7461edde838709517"/>
 	</game>
-	<game name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (6-6) (Japan) (Data, SoundLink Magazine)" id="3887">
+	<game name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (1995-6-6) (Japan) (Data, SoundLink Magazine)" id="3887">
 		<category>Games</category>
-		<description>RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (6-6) (Japan) (Data, SoundLink Magazine)</description>
-		<rom name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (6-6) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="35b13217" md5="3aa19dae0348091db075e4b5b24ebdad" sha1="7211f06757358980b8d8118cf82ae575ce344f1b" sha256="d3b018a1d9fdc304f67a523eb3ca94c1e5b3fa53ab816ad87701759b9a19a2e8"/>
+		<description>RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (1995-6-6) (Japan) (Data, SoundLink Magazine)</description>
+		<rom name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (1995-6-6) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="35b13217" md5="3aa19dae0348091db075e4b5b24ebdad" sha1="7211f06757358980b8d8118cf82ae575ce344f1b" sha256="d3b018a1d9fdc304f67a523eb3ca94c1e5b3fa53ab816ad87701759b9a19a2e8"/>
 	</game>
 	<game name="RPG Tsukuru 2 Collection (Japan) (Data Pack)" id="3796">
 		<category>Add-Ons</category>

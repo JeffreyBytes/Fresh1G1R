@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD (Retool)</name>
-		<description>Photo CD (17) (-y) [-aAbBcefkmMoprv] (2026-03-20 23-23-29) (Retool)</description>
-		<version>2026-03-20 23-23-29</version>
-		<date>2026-03-22 04-34-51</date>
+		<description>Photo CD (16) (-y) [-aAbBcefkmMoprv] (2026-03-22 19-06-38) (Retool)</description>
+		<version>2026-03-22 19-06-38</version>
+		<date>2026-03-23 04-49-05</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -79,16 +79,6 @@
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan) (Track 2).bin" size="126817488" crc="0e33c28f" md5="9fc4fdb5fa551cb206cc480e3a9561e3" sha1="3177a2dba5c82d962e8843b7c8d868ab569e8924"/>
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan) (Track 3).bin" size="103024656" crc="65618faa" md5="fb3abfacda9aa335a99479715894fdfe" sha1="4e098db13677932e507aac5ceb8d0326658b74c2"/>
 		<rom name="Neko no Dayan - Dayan in Wonderland (Japan).cue" size="421" crc="ec6111d6" md5="65d5a61ba9fe9b3ed6558d7512cf0033" sha1="ecd3a846ac4a15e407ba528df8074860d2c241c3"/>
-	</game>
-	<game name="Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan)">
-		<category>Games</category>
-		<description>Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan)</description>
-		<rom name="Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan) (Track 1).bin" size="710304" crc="2cd13bb0" md5="57a0fda12847a85e7425c1da3983ad8b" sha1="2fc8194efcd90e32313b3bc5956bcaffee3549fa"/>
-		<rom name="Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan) (Track 2).bin" size="171023328" crc="af05f249" md5="5c31bd79afcb3b39bf9d773ca19f3607" sha1="3136bbb9443a536518d299863af307e01e1283ab"/>
-		<rom name="Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan) (Track 3).bin" size="118122144" crc="72327f42" md5="6ed8da64015f802769b71e585187b76b" sha1="689df3df291f6e1c37371552ffc60aad5f5bdb9e"/>
-		<rom name="Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan) (Track 4).bin" size="132546960" crc="3bf0f531" md5="48a7d56dcd41c666055b540ba5ad46b4" sha1="d269b1d3fccbe22985fe52ae0fb2d5fc0a780348"/>
-		<rom name="Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan) (Track 5).bin" size="24705408" crc="04238df2" md5="da5e46e73588d7104b310fd1b5e34602" sha1="e877a15795ea27d38a4592be44b7a0afb73c7118"/>
-		<rom name="Photo CD Gravure Vol. 14 - Tsuji Kaori - Stories - Satsuei &amp; Tani Naoki (Japan).cue" size="852" crc="84cfa769" md5="0cafed909a9f3d412376456910bbbde3" sha1="fb1437eb137ef30d541572d8adcdd46b5ca2e703"/>
 	</game>
 	<game name="Randy's - Randy to Nakamatachi (Japan)">
 		<category>Games</category>
