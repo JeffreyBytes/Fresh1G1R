@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-03-20 11-59-36) (Retool)</description>
-		<version>2026-03-20 11-59-36</version>
-		<date>2026-03-25 04-33-54</date>
+		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-03-25 23-25-11) (Retool)</description>
+		<version>2026-03-25 23-25-11</version>
+		<date>2026-03-26 04-45-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -7095,25 +7095,25 @@
 		<rom name="SGGG - Segagaga (Japan) (Rev A) (Track 3).bin" size="1185760800" crc="077f747a" md5="85211b6c75486505e7e007031e4ed116" sha1="9d8be0fd482f9cf5103de8a807d8694467775568"/>
 		<rom name="SGGG - Segagaga (Japan) (Rev A).cue" size="387" crc="437d4fcc" md5="21b90981b13922298c27192b19f5e335" sha1="d3439a753aa10f00245d2952d82ca7cbc511a638"/>
 	</game>
-	<game name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)">
+	<game name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)">
 		<category>Games</category>
-		<description>Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
-		<rom name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 1).bin" size="5597760" crc="a72f1eb3" md5="036aae93be15c465fa529471def6c721" sha1="c36f47186a280e0f084dcf526df60040aeeb9613"/>
-		<rom name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 3).bin" size="19737984" crc="63777ef4" md5="67a996b49ce2320642341c35db5643bc" sha1="597a1a1610471f79eb82712d6c628b27137a7d28"/>
-		<rom name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 4).bin" size="12519696" crc="d3caaa47" md5="716b732bb8861b012ab5f157fa6aba88" sha1="fbdd698c67ee95d4223f9c873bb3697ee8447132"/>
-		<rom name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 5).bin" size="1153503120" crc="95bab933" md5="26f88fa1a9d895136132132c227a62a3" sha1="af1d0923e21bdc1fecdf8a02ea4acbc66a3ed938"/>
-		<rom name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A).cue" size="867" crc="0e69e3e2" md5="df0ea928c44bea89987e7627c6f2b451" sha1="7f37b79ff9c6d2aa015b7a251ebe4f8d7e619d14"/>
+		<description>Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
+		<rom name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 1).bin" size="5597760" crc="a72f1eb3" md5="036aae93be15c465fa529471def6c721" sha1="c36f47186a280e0f084dcf526df60040aeeb9613"/>
+		<rom name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 3).bin" size="19737984" crc="63777ef4" md5="67a996b49ce2320642341c35db5643bc" sha1="597a1a1610471f79eb82712d6c628b27137a7d28"/>
+		<rom name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 4).bin" size="12519696" crc="d3caaa47" md5="716b732bb8861b012ab5f157fa6aba88" sha1="fbdd698c67ee95d4223f9c873bb3697ee8447132"/>
+		<rom name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 5).bin" size="1153503120" crc="95bab933" md5="26f88fa1a9d895136132132c227a62a3" sha1="af1d0923e21bdc1fecdf8a02ea4acbc66a3ed938"/>
+		<rom name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A).cue" size="862" crc="7cbcb683" md5="5e8f064e6bcb62001db8a9db4509c95b" sha1="38bc64e9ae2f22616491e15e464b139f26e279d8"/>
 	</game>
-	<game name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)">
+	<game name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
-		<rom name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 1).bin" size="5597760" crc="1703a248" md5="9cc52765bbbdce41e4c4f32dcc46f692" sha1="ec178640c03ab98de4d07b76fd5555417137def1"/>
-		<rom name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 3).bin" size="14916384" crc="33ea62d0" md5="1d6a02990ebbb522851c6a2e3ca4f973" sha1="8a7c7484489d42896e3b73a8b2d4588720a3936d"/>
-		<rom name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 4).bin" size="12519696" crc="d3caaa47" md5="716b732bb8861b012ab5f157fa6aba88" sha1="fbdd698c67ee95d4223f9c873bb3697ee8447132"/>
-		<rom name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 5).bin" size="1158324720" crc="e5bc326c" md5="f364436ea0f054ea3a6558ab4aec69ff" sha1="753b66f8a2a5553cce8abe804fa68145cf3522e4"/>
-		<rom name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan).cue" size="837" crc="7aa621a0" md5="f62ebba0cb78988fa824256ab9623552" sha1="b05d8f65bcc6099bbc0ac5e0f5c32f2e64480fc2"/>
+		<description>Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
+		<rom name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 1).bin" size="5597760" crc="1703a248" md5="9cc52765bbbdce41e4c4f32dcc46f692" sha1="ec178640c03ab98de4d07b76fd5555417137def1"/>
+		<rom name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 3).bin" size="14916384" crc="33ea62d0" md5="1d6a02990ebbb522851c6a2e3ca4f973" sha1="8a7c7484489d42896e3b73a8b2d4588720a3936d"/>
+		<rom name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 4).bin" size="12519696" crc="d3caaa47" md5="716b732bb8861b012ab5f157fa6aba88" sha1="fbdd698c67ee95d4223f9c873bb3697ee8447132"/>
+		<rom name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan) (Track 5).bin" size="1158324720" crc="e5bc326c" md5="f364436ea0f054ea3a6558ab4aec69ff" sha1="753b66f8a2a5553cce8abe804fa68145cf3522e4"/>
+		<rom name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan).cue" size="832" crc="6dce5489" md5="4e23679ea3690290def6ec0c909996e2" sha1="18bd1f1747381e4b11e3330c3a0a1ec09e9f4577"/>
 	</game>
 	<game name="Sakura Momoko Gekijou - Coji-Coji (Japan)">
 		<category>Games</category>

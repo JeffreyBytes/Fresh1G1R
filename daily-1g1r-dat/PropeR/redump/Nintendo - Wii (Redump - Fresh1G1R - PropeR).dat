@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,659) (-y) [-aAbBcdkmMpPuv] (2026-03-25 01-38-41) (Retool)</description>
-		<version>2026-03-25 01-38-41</version>
-		<date>2026-03-25 04-46-07</date>
+		<description>Nintendo - Wii (1,660) (-y) [-aAbBcdkmMpPuv] (2026-03-26 00-31-49) (Retool)</description>
+		<version>2026-03-26 00-31-49</version>
+		<date>2026-03-26 04-57-47</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2610,6 +2610,11 @@
 		<category>Games</category>
 		<description>Furu Furu Park (USA)</description>
 		<rom name="Furu Furu Park (USA).iso" size="4699979776" crc="8739edc6" md5="e819c803415f5bde6409f4cd17c7f3ee" sha1="508593505516c15ece814f14f26a68ad20887eaf"/>
+	</game>
+	<game name="Fushigi no Dungeon - Fuurai no Shiren 3 - Karakuri Yashiki no Nemurihime (Japan)">
+		<category>Games</category>
+		<description>Fushigi no Dungeon - Fuurai no Shiren 3 - Karakuri Yashiki no Nemurihime (Japan)</description>
+		<rom name="Fushigi no Dungeon - Fuurai no Shiren 3 - Karakuri Yashiki no Nemurihime (Japan).iso" size="4699979776" crc="561d83a1" md5="bb1e406b21f517a9caf5ac796059685b" sha1="f3a196dd1fcb0ab2b689bf12dea6ecad2a107225"/>
 	</game>
 	<game name="G.I. Joe - The Rise of Cobra (USA) (En,Fr)">
 		<category>Games</category>

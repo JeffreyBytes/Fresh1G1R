@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-21 01-28-46) (Retool)</description>
-		<version>2026-03-21 01-28-46</version>
-		<date>2026-03-25 04-33-44</date>
+		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-26 04-48-14) (Retool)</description>
+		<version>2026-03-26 04-48-14</version>
+		<date>2026-03-26 04-45-39</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1171,10 +1171,10 @@
 		<description>Gekkan Nintendo Tentou Demo 2002.7.1 (Japan)</description>
 		<rom name="Gekkan Nintendo Tentou Demo 2002.7.1 (Japan).iso" size="1459978240" crc="86dacab6" md5="84936411bf7768bcdac3be8f401ad8eb" sha1="4d7d77f67288902ba17bf6f42d19679e45cbcb54"/>
 	</game>
-	<game name="Gekkan Nintendo Tentou Demo 2002.7.10 Zoukan-gou (Japan)">
+	<game name="Gekkan Nintendo Tentou Demo 2002.7.10 Zoukangou (Japan)">
 		<category>Demos</category>
-		<description>Gekkan Nintendo Tentou Demo 2002.7.10 Zoukan-gou (Japan)</description>
-		<rom name="Gekkan Nintendo Tentou Demo 2002.7.10 Zoukan-gou (Japan).iso" size="1459978240" crc="878c6dea" md5="f185e3c31a81519ee0c0b2539ebcd442" sha1="8b863d521ce96c85c9de60a9d95ccf10e6d8edb6"/>
+		<description>Gekkan Nintendo Tentou Demo 2002.7.10 Zoukangou (Japan)</description>
+		<rom name="Gekkan Nintendo Tentou Demo 2002.7.10 Zoukangou (Japan).iso" size="1459978240" crc="878c6dea" md5="f185e3c31a81519ee0c0b2539ebcd442" sha1="8b863d521ce96c85c9de60a9d95ccf10e6d8edb6"/>
 	</game>
 	<game name="Gekkan Nintendo Tentou Demo 2002.8.1 (Japan)">
 		<category>Demos</category>
@@ -1266,10 +1266,10 @@
 		<description>Gekkan Nintendo Tentou Demo 2003.9.1 (Japan)</description>
 		<rom name="Gekkan Nintendo Tentou Demo 2003.9.1 (Japan).iso" size="1459978240" crc="1db920c9" md5="5e577d351bf367fe5254fc3937dc05c6" sha1="fe65a31b19bb37cbecfd736fc21d01517465ea39"/>
 	</game>
-	<game name="Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou (Japan)">
+	<game name="Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshigou (Japan)">
 		<category>Demos</category>
-		<description>Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou (Japan)</description>
-		<rom name="Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou (Japan).iso" size="1459978240" crc="f5f31d5d" md5="b52db38edb94de28e9fb95760911f1fb" sha1="4476260fd236434ac3dae9ea55a7389929895230"/>
+		<description>Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshigou (Japan)</description>
+		<rom name="Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshigou (Japan).iso" size="1459978240" crc="f5f31d5d" md5="b52db38edb94de28e9fb95760911f1fb" sha1="4476260fd236434ac3dae9ea55a7389929895230"/>
 	</game>
 	<game name="Gekkan Nintendo Tentou Demo 2004.1.1 (Japan)">
 		<category>Demos</category>

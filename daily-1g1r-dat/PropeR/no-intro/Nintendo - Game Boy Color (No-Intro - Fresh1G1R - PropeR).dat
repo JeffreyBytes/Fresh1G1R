@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (933) (-y) [-aAbBcdkmMpPuv] (20260319-121640) (Retool)</description>
-		<version>20260319-121640</version>
-		<date>2026-03-25 04-51-30</date>
+		<description>Nintendo - Game Boy Color (934) (-y) [-aAbBcdkmMpPuv] (20260324-195459) (Retool)</description>
+		<version>20260324-195459</version>
+		<date>2026-03-26 04-59-59</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -656,10 +656,10 @@
 		<description>Croc (USA, Europe)</description>
 		<rom name="Croc (USA, Europe).gbc" size="1048576" crc="4664a167" md5="0552078f981c2ef3977f2dfeee19510a" sha1="dac6de548743c6b51a3daa5903c28b7fccdb6cb2"/>
 	</game>
-	<game name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)" id="2653">
+	<game name="Croc - 25th Anniversary Edition (World) (v1.2) (ModRetro Chromatic)" id="2712">
 		<category>Games</category>
-		<description>Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)</description>
-		<rom name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic).gbc" size="1048576" crc="90b4b954" md5="1ed809bf88154614185382f0dc73cc5a" sha1="fd83a04af47f7071c348f9431e7ef6b41add5a95" sha256="2e207517a58f4d6333d7ccac9a6b34e690bac4a0b437248c41e34768657f6285"/>
+		<description>Croc - 25th Anniversary Edition (World) (v1.2) (ModRetro Chromatic)</description>
+		<rom name="Croc - 25th Anniversary Edition (World) (v1.2) (ModRetro Chromatic).gbc" size="1048576" crc="898151c9" md5="e9142b9e9b86317cce6d5218f77c1966" sha1="8ff443453494a58a1129188ad04421556e80befb" sha256="294ca58a60f3d59a78f9f2d96b5e5dc638519d72f8c70ba89d5a9bf3f133788b"/>
 	</game>
 	<game name="Croc 2 (USA, Europe)" id="0207">
 		<category>Games</category>
@@ -3950,6 +3950,11 @@
 		<category>Games</category>
 		<description>Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="34c8a4a5" md5="6dbc891774265f4bc8ccba65f9383aec" sha1="44070e77eb2b56b67f979e444d404e56b67edbb0"/>
+	</game>
+	<game name="Super Breakout (World) (ModRetro Chromatic)" id="2725">
+		<category>Games</category>
+		<description>Super Breakout (World) (ModRetro Chromatic)</description>
+		<rom name="Super Breakout (World) (ModRetro Chromatic).gbc" size="262144" crc="3ab3aa4f" md5="34711fafc58e711702e2ff8c30648c19" sha1="069f3befbd6fe49231f0f4b7db4f4237fbc43dcf" sha256="bfd73eb9ab880815e2180fc2b5640bc5c5d7d256855126aba4080c7ea03062b7"/>
 	</game>
 	<game name="Super Breakout! (USA) (GB Compatible)" id="1142">
 		<category>Games</category>
