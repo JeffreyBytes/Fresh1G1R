@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Multiboot) (Retool)</name>
-		<description>Nintendo - Game Boy Advance (Multiboot) (104) (-y) [-aAbBcefkmMoprv] (20260317-160947) (Retool)</description>
-		<version>20260317-160947</version>
-		<date>2026-03-26 04-49-26</date>
+		<description>Nintendo - Game Boy Advance (Multiboot) (105) (-y) [-aAbBcefkmMoprv] (20260325-184143) (Retool)</description>
+		<version>20260325-184143</version>
+		<date>2026-03-27 04-48-15</date>
 		<author>Arctic Circle System, C. V. Reynolds, chillerecke, DeriLoko3, Hiccup, hking0036, niemand, norkmetnoil577, NovaAurora, relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -343,6 +343,11 @@
 		<category>Games</category>
 		<description>Nintendo Puzzle Collection - Yoshi no Cookie (Japan)</description>
 		<rom name="Nintendo Puzzle Collection - Yoshi no Cookie (Japan).gba" size="100144" crc="7662d781" md5="f5fc4246e0019064c3a625b58a057479" sha1="74651fff0bfe50a51a70e5902a7caa0dcae804e7"/>
+	</game>
+	<game name="One Piece - Going Baseball - Kaizoku Yakyuu (Japan) (Home Run Battle Taikenban)" id="0129">
+		<category>Demos</category>
+		<description>One Piece - Going Baseball - Kaizoku Yakyuu (Japan) (Home Run Battle Taikenban)</description>
+		<rom name="One Piece - Going Baseball - Kaizoku Yakyuu (Japan) (Home Run Battle Taikenban).gba" size="168264" crc="5b4e9fdf" md5="16da28a88c0f55fcac3de6dd735fe303" sha1="338723b382c1e74042936bc4c213d4e753481418" sha256="444b85434400e7de9a96d74a7934f9acb3b3fd2ec3f043de7cd07ca3e4e894c2"/>
 	</game>
 	<game name="Puyo Pop - Endless Version (World)" id="0005">
 		<category>Games</category>

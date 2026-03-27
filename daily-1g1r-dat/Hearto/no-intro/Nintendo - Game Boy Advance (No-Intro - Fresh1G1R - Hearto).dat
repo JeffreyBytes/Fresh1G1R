@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,700) (-y) [-aAbBcefkmMoprv] (20260324-184817) (Retool)</description>
-		<version>20260324-184817</version>
-		<date>2026-03-26 04-48-14</date>
+		<description>Nintendo - Game Boy Advance (1,700) (-y) [-aAbBcefkmMoprv] (20260325-160856) (Retool)</description>
+		<version>20260325-160856</version>
+		<date>2026-03-27 04-47-53</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8367,6 +8367,7 @@
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)" id="3299">
 		<category>Demos</category>
+		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan).gba" size="4194304" crc="8d93e52d" md5="716368d2062bb02136b7ded6a8db687e" sha1="0807b14c08cecbbf95a2707fb6293ea5d53a7c65" sha256="23fd9f753ad0b130fc4bb8a0fc6784f0545f711fef521351965ec7c5bf207ad5"/>
 	</game>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,740) (-y) [-aAbBcdkmMpPuv] (20260319-181811) (Retool)</description>
-		<version>20260319-181811</version>
-		<date>2026-03-26 05-02-37</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,742) (-y) [-aAbBcdkmMpPuv] (20260325-204627) (Retool)</description>
+		<version>20260325-204627</version>
+		<date>2026-03-27 04-58-28</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4166,6 +4166,11 @@
 		<description>Mega Man Soccer (USA)</description>
 		<rom name="Mega Man Soccer (USA).sfc" size="1310720" crc="fa9ee2ce" md5="9e886f686da276b00c4671967d396a79" sha1="7e59c9457829ed3f0fbd9cd0ceeb3432a4739e98" sha256="cf4d603dc0a3759da571224c671a9bfd29f9e52ca8dbb61bcc8ac8be5481e9b2"/>
 	</game>
+	<game name="Mega Man X (USA) (Mega Man X Collection)" id="4568">
+		<category>Games</category>
+		<description>Mega Man X (USA) (Mega Man X Collection)</description>
+		<rom name="Mega Man X (USA) (Mega Man X Collection).sfc" size="1572864" crc="fa542e48" md5="3393b0655a488a5c82c5cf62a434aa46" sha1="df62ec045c78e9b9184e7c35c9bc3bb8de28afde" sha256="01a3167958328f9999ba9c42f99588574016ce5411b2887c3946629aa6082db1"/>
+	</game>
 	<game name="Mega Man X (USA) (Rev 1)" id="1609">
 		<category>Games</category>
 		<description>Mega Man X (USA) (Rev 1)</description>
@@ -4175,6 +4180,11 @@
 		<category>Games</category>
 		<description>Mega Man X2 (USA)</description>
 		<rom name="Mega Man X2 (USA).sfc" size="1572864" crc="947b0355" md5="67905b989b00046db06df3434ed79f04" sha1="637079014421563283cded6aeaa0604597b2e33c" sha256="f3246755f608a1e1dc9c848b61da3b824c7853b29b3be40df6fc7f2793a887ed"/>
+	</game>
+	<game name="Mega Man X2 (USA) (Mega Man X Collection)" id="4569">
+		<category>Games</category>
+		<description>Mega Man X2 (USA) (Mega Man X Collection)</description>
+		<rom name="Mega Man X2 (USA) (Mega Man X Collection).sfc" size="1572864" crc="b8600893" md5="e584a5c488b0f622722d9fb11a20e4c9" sha1="9ee80aff5fdb8dff7eb44b33fda856a4a538bda5" sha256="3098b69e7fab6e9dc0599f2c78e3578987ec1735a161634505d5c8312199cf64"/>
 	</game>
 	<game name="Mega Man X3 (USA)" id="1613">
 		<category>Games</category>

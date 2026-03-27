@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System (Retool)</name>
-		<description>Atari - Jaguar CD Interactive Multimedia System (13) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-24 12-08-22) (Retool)</description>
-		<version>2026-03-24 12-08-22</version>
-		<date>2026-03-26 04-50-58</date>
+		<description>Atari - Jaguar CD Interactive Multimedia System (13) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-26 22-12-10) (Retool)</description>
+		<version>2026-03-26 22-12-10</version>
+		<date>2026-03-27 04-50-39</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -42,21 +42,21 @@
 		<rom name="Battle Morph (USA) (Track 10).bin" size="1401792" crc="0744d24f" md5="95d7f4ddf9f0ea1f36da1d69ec69732f" sha1="ceee0c8acb98bb043e8147ac668363eb63e592db"/>
 		<rom name="Battle Morph (USA).cue" size="1266" crc="f421439b" md5="83c623aa46f4e58da0c96c3d1c607709" sha1="137ca0bc64c6869ddd1f66223e6efa155335332f"/>
 	</game>
-	<game name="Blue Lightning (USA) (En,Fr,De) (Alt)">
+	<game name="Blue Lightning (USA) (En,Fr,De) (Alt 2)">
 		<category>Games</category>
-		<description>Blue Lightning (USA) (En,Fr,De) (Alt)</description>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 01).bin" size="38196480" crc="7e1ee8c7" md5="5d9564a29d2721ff8c4bfe67bd576136" sha1="8f6daa9015544cc83f0c4c320e8256ab09c41d07"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 02).bin" size="1056048" crc="dfdcf849" md5="99d9daba71b88f9bade4e0ed01d03ec0" sha1="4bab76e281db64a00a60c9e0e6e1df6bef415b5e"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 03).bin" size="119138208" crc="a536b676" md5="d782a327b59f2585b17364567fe50ba6" sha1="d0cb81a6cd4127f8f07eee353452254ef180262b"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 04).bin" size="49773024" crc="5fb24d26" md5="a48406ffd5211fd95d1aebf7c6b3cbb6" sha1="45d65da91dcec086685be3bf6abd95e7affd6445"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 05).bin" size="77966448" crc="2615a732" md5="32d2cc1d48d51b7ed5afb5d4580ebdc6" sha1="0eab6a25798c3d1055ef1ad7917da496c01e03df"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 06).bin" size="65162160" crc="c9ae22b4" md5="e7cddc6cf2f67c6ee45ea0f4f2fe2617" sha1="c9703050a7620767acc881c100d797ee164a37d7"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 07).bin" size="48352416" crc="a9be1da8" md5="c540e60fe48333095312798e05751975" sha1="2694f046fcc86690100cee159b2a5ed6fc920775"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 08).bin" size="48352416" crc="5a6afc2b" md5="c368936b55df11bdad12fede18c09923" sha1="2e4dec47dd0a6c3896c4bf90a7987f1b30b0917d"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 09).bin" size="48352416" crc="eac0ab9c" md5="2ae6b6781ec488007418949fb61b0302" sha1="f3cd18fc1bfb8fb436520da9a8123a3091165ed2"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 10).bin" size="48352416" crc="61917517" md5="7b196ad1db3f28e5e401d7435b3b0898" sha1="bc1514c4fba82203d136608cff41e37991ea2fbb"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 11).bin" size="1401792" crc="5f121609" md5="9ae53ef3e9618367efe7b4e2de2dc08f" sha1="d7e35a509f7ac6114ea2fa5aed3153489a6406ce"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt).cue" size="1484" crc="5900ecb3" md5="9c6abcbcb4ea30b5a84871852558c1c1" sha1="e057747c1261398f05b1f1f88defe75bf8544af2"/>
+		<description>Blue Lightning (USA) (En,Fr,De) (Alt 2)</description>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 01).bin" size="38196480" crc="7e1ee8c7" md5="5d9564a29d2721ff8c4bfe67bd576136" sha1="8f6daa9015544cc83f0c4c320e8256ab09c41d07"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 02).bin" size="1056048" crc="dfdcf849" md5="99d9daba71b88f9bade4e0ed01d03ec0" sha1="4bab76e281db64a00a60c9e0e6e1df6bef415b5e"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 03).bin" size="119138208" crc="a536b676" md5="d782a327b59f2585b17364567fe50ba6" sha1="d0cb81a6cd4127f8f07eee353452254ef180262b"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 04).bin" size="49773024" crc="5fb24d26" md5="a48406ffd5211fd95d1aebf7c6b3cbb6" sha1="45d65da91dcec086685be3bf6abd95e7affd6445"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 05).bin" size="77966448" crc="2615a732" md5="32d2cc1d48d51b7ed5afb5d4580ebdc6" sha1="0eab6a25798c3d1055ef1ad7917da496c01e03df"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 06).bin" size="65164512" crc="bd79933d" md5="4e20d80db56d22fe0c625052ffe81c30" sha1="c4be0ea75dca33f8a94f3a2e66bcf7932dd65edd"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 07).bin" size="48350064" crc="e28ef89c" md5="3b4f380e22cb2811cb233f49f223c3ef" sha1="1a61e7868925eb48b2fe48aa2f462292bd447bdf"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 08).bin" size="48352416" crc="5a6afc2b" md5="c368936b55df11bdad12fede18c09923" sha1="2e4dec47dd0a6c3896c4bf90a7987f1b30b0917d"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 09).bin" size="48352416" crc="eac0ab9c" md5="2ae6b6781ec488007418949fb61b0302" sha1="f3cd18fc1bfb8fb436520da9a8123a3091165ed2"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 10).bin" size="48352416" crc="61917517" md5="7b196ad1db3f28e5e401d7435b3b0898" sha1="bc1514c4fba82203d136608cff41e37991ea2fbb"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 11).bin" size="1401792" crc="5f121609" md5="9ae53ef3e9618367efe7b4e2de2dc08f" sha1="d7e35a509f7ac6114ea2fa5aed3153489a6406ce"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2).cue" size="1483" crc="97d34f63" md5="210d63c51f7386f580623df08b7cc61a" sha1="339761a0ffd84392be10b2177b621f1ad842b345"/>
 	</game>
 	<game name="BrainDead 13 (USA)">
 		<category>Games</category>
