@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,854) (-y) [-aAbBcefkmMoprv] (20260325-204627) (Retool)</description>
-		<version>20260325-204627</version>
-		<date>2026-03-27 04-46-35</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,860) (-y) [-aAbBcefkmMoprv] (20260326-182335) (Retool)</description>
+		<version>20260326-182335</version>
+		<date>2026-03-28 04-36-59</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2988,6 +2988,16 @@
 		<description>Hook (USA)</description>
 		<rom name="Hook (USA).sfc" size="1048576" crc="0c572ef0" md5="1a0a3a079db7a848ee019161cbdb1788" sha1="24f628d669757b5c92d6c8788dbfcb1d1aeb0481" sha256="acad4c594f156e0f30dec2532b35fcb3bab800e08263377634e2d96dfd055f3e"/>
 	</game>
+	<game name="Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)" id="4570">
+		<category>Games</category>
+		<description>Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)</description>
+		<rom name="Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection).sfc" size="4194304" crc="48096d5f" md5="2c222a2335e8fca2df0b570508466b34" sha1="be60972764d8041ce138c023aef108fa7a73553c" sha256="7b8527e02a6177ad8c15ee148fb2ef9b62f73299578edb165e17cf2e34a0a907"/>
+	</game>
+	<game name="Hoshi no Kirby Super Deluxe (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)" id="4571">
+		<category>Games</category>
+		<description>Hoshi no Kirby Super Deluxe (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)</description>
+		<rom name="Hoshi no Kirby Super Deluxe (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection).sfc" size="4194304" crc="3c2e08ae" md5="6a6dc7bed9a55bfa7a5341d1df62cbcc" sha1="5f0bdd45d8a1674105d86f2ac093ed1fab209b27" sha256="bc4dc5ff9f0ee3825e0bb91dc9b2b27eb1c8515c6dd75e7937e4fa98c049e942"/>
+	</game>
 	<game name="Houkago in Beppin Jogakuin (Japan)" id="1093">
 		<category>Games</category>
 		<description>Houkago in Beppin Jogakuin (Japan)</description>
@@ -3760,6 +3770,11 @@
 		<description>Kirby Super Star (USA)</description>
 		<rom name="Kirby Super Star (USA).sfc" size="4194304" crc="89d0f7dc" md5="cb76ea8ac989e71210c89102d91c6c57" sha1="cca1e67fa230bf4f60154f5ea55d06568229dc5d" sha256="4e095fbbdec4a16b075d7140385ff68b259870ca9e3357f076dfff7f3d1c4a62"/>
 	</game>
+	<game name="Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition)" id="4572">
+		<category>Games</category>
+		<description>Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition)</description>
+		<rom name="Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition).sfc" size="4194304" crc="eb740641" md5="5e0be1a462ffaca1351d446b96b25b74" sha1="364b82e4775120d1f60be8b7d11c2933edebff5b" sha256="bcea6368122dad61dee93656f14ebba4c07be0090537839c76a2fcc67e9b2416"/>
+	</game>
 	<game name="Kirby no Kirakira Kids (Japan)" id="1363">
 		<category>Games</category>
 		<description>Kirby no Kirakira Kids (Japan)</description>
@@ -3779,6 +3794,11 @@
 		<category>Games</category>
 		<description>Kirby's Dream Land 3 (USA)</description>
 		<rom name="Kirby's Dream Land 3 (USA).sfc" size="4194304" crc="ec8a48f6" md5="201e7658f6194458a3869dde36bf8ec2" sha1="12aff7538f43641a1e2bf424593df5b49fe150f6" sha256="b50bf9d95485e8aeb7a6730e9f9f9c9c4ec23a85b336a4fb2e3b63034531e36f"/>
+	</game>
+	<game name="Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition)" id="4573">
+		<category>Games</category>
+		<description>Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition)</description>
+		<rom name="Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition).sfc" size="4194304" crc="a291000c" md5="e16973dbf9e17644ddb36290e8b7039a" sha1="f844c3c92deb5755f2eab6c5b053731743d9c95f" sha256="4eba4462e4694f92f247af83abb8603dcaa98f8f0e7f3805d4826c22dc07cf6b"/>
 	</game>
 	<game name="Kishin Douji Zenki - Battle Raiden (Japan)" id="1375">
 		<category>Games</category>
@@ -7667,10 +7687,20 @@
 		<description>Super Mario - Yoshi Island (Japan) (Rev 2) (Sample)</description>
 		<rom name="Super Mario - Yoshi Island (Japan) (Rev 2) (Sample).sfc" size="2097152" crc="fb6ce04a" md5="b4f54c0c985629418b59cafff3a3a47a" sha1="d2245fa377319cf22638938df254a70d7e033244" sha256="ef0750d5cd368b806090f0cc3e6b22893c193f3d1c49b6f176a105c72252b62a"/>
 	</game>
+	<game name="Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary)" id="4574">
+		<category>Games</category>
+		<description>Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary)</description>
+		<rom name="Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary).sfc" size="2097152" crc="1cb2fe8e" md5="c66c5378a8b29bd3bb2e696e6593da0e" sha1="79c1e471d54a9ae0a291f982774e04970a998b85" sha256="411c7036750fbc79d60b84602414dbe713074de8204d3c4a5ad762679c103c61"/>
+	</game>
 	<game name="Super Mario All-Stars + Super Mario World (USA)" id="2756">
 		<category>Games</category>
 		<description>Super Mario All-Stars + Super Mario World (USA)</description>
 		<rom name="Super Mario All-Stars + Super Mario World (USA).sfc" size="2621440" crc="f84305b1" md5="7ecaf3e2e021c8a836041c85886f4594" sha1="d245e41a2b590f7d63666b0772cbddfb26f254a2" sha256="a8806bfe07cd3c9945d9fd3fcea932ae1cd671cab5cae12bb7a2ae726cbf9175"/>
+	</game>
+	<game name="Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary)" id="4576">
+		<category>Games</category>
+		<description>Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary)</description>
+		<rom name="Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary).sfc" size="2097152" crc="a1bb9b20" md5="3f327dc75af4ce3d8e305c4f754d7bf1" sha1="69b1bb988307abad7f63ca931eb667361ef23180" sha256="4407b1865532fbded3c738cc9ff811d1ac1820f5fb30acdbf203cf8c42cb6453"/>
 	</game>
 	<game name="Super Mario Kart (USA)" id="2761">
 		<category>Games</category>

@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (e-Reader) (Retool)</name>
-		<description>Nintendo - Game Boy Advance (e-Reader) (3,227) (-y) [-aAbBcdkmMpPuv] (20260209-122907) (Retool)</description>
-		<version>20260209-122907</version>
-		<date>2026-03-27 04-59-43</date>
-		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
+		<description>Nintendo - Game Boy Advance (e-Reader) (3,227) (-y) [-aAbBcdkmMpPuv] (20260326-092756) (Retool)</description>
+		<version>20260326-092756</version>
+		<date>2026-03-28 04-49-45</date>
+		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>

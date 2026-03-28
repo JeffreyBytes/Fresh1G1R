@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (797) (-ly) [-aAbBcdDefkmMopPruv] (20260325-204627) (Retool)</description>
-		<version>20260325-204627</version>
-		<date>2026-03-27 04-52-39</date>
+		<description>Nintendo - Super Nintendo Entertainment System (800) (-ly) [-aAbBcdDefkmMopPruv] (20260326-182335) (Retool)</description>
+		<version>20260326-182335</version>
+		<date>2026-03-28 04-42-51</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1561,6 +1561,11 @@
 		<description>Kirby Super Star (USA)</description>
 		<rom name="Kirby Super Star (USA).sfc" size="4194304" crc="89d0f7dc" md5="cb76ea8ac989e71210c89102d91c6c57" sha1="cca1e67fa230bf4f60154f5ea55d06568229dc5d" sha256="4e095fbbdec4a16b075d7140385ff68b259870ca9e3357f076dfff7f3d1c4a62"/>
 	</game>
+	<game name="Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition)" id="4572">
+		<category>Games</category>
+		<description>Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition)</description>
+		<rom name="Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition).sfc" size="4194304" crc="eb740641" md5="5e0be1a462ffaca1351d446b96b25b74" sha1="364b82e4775120d1f60be8b7d11c2933edebff5b" sha256="bcea6368122dad61dee93656f14ebba4c07be0090537839c76a2fcc67e9b2416"/>
+	</game>
 	<game name="Kirby's Avalanche (USA)" id="1369">
 		<category>Games</category>
 		<description>Kirby's Avalanche (USA)</description>
@@ -1575,6 +1580,11 @@
 		<category>Games</category>
 		<description>Kirby's Dream Land 3 (USA)</description>
 		<rom name="Kirby's Dream Land 3 (USA).sfc" size="4194304" crc="ec8a48f6" md5="201e7658f6194458a3869dde36bf8ec2" sha1="12aff7538f43641a1e2bf424593df5b49fe150f6" sha256="b50bf9d95485e8aeb7a6730e9f9f9c9c4ec23a85b336a4fb2e3b63034531e36f"/>
+	</game>
+	<game name="Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition)" id="4573">
+		<category>Games</category>
+		<description>Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition)</description>
+		<rom name="Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition).sfc" size="4194304" crc="a291000c" md5="e16973dbf9e17644ddb36290e8b7039a" sha1="f844c3c92deb5755f2eab6c5b053731743d9c95f" sha256="4eba4462e4694f92f247af83abb8603dcaa98f8f0e7f3805d4826c22dc07cf6b"/>
 	</game>
 	<game name="Knights of the Round (USA)" id="1383">
 		<category>Games</category>
@@ -3155,6 +3165,11 @@
 		<category>Games</category>
 		<description>Super Loopz (Japan) (En)</description>
 		<rom name="Super Loopz (Japan) (En).sfc" size="524288" crc="49601821" md5="3f8a4c4ac29a36a47b2c2cd8c5388a1c" sha1="26ea349aefa5926dc94b493284ece8052a86b7a8" sha256="36c143b6c9305c916e0f177dd3ca1faf10fc65f7d6b637a8cead90defb2a48ad"/>
+	</game>
+	<game name="Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary)" id="4574">
+		<category>Games</category>
+		<description>Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary)</description>
+		<rom name="Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary).sfc" size="2097152" crc="1cb2fe8e" md5="c66c5378a8b29bd3bb2e696e6593da0e" sha1="79c1e471d54a9ae0a291f982774e04970a998b85" sha256="411c7036750fbc79d60b84602414dbe713074de8204d3c4a5ad762679c103c61"/>
 	</game>
 	<game name="Super Mario All-Stars + Super Mario World (USA)" id="2756">
 		<category>Games</category>

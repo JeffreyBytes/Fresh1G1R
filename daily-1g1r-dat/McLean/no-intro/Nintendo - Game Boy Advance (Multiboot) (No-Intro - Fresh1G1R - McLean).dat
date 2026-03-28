@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Multiboot) (Retool)</name>
-		<description>Nintendo - Game Boy Advance (Multiboot) (45) (-ly) [-aAbBcdDefkmMopPruv] (20260325-184143) (Retool)</description>
-		<version>20260325-184143</version>
-		<date>2026-03-27 04-54-12</date>
+		<description>Nintendo - Game Boy Advance (Multiboot) (48) (-ly) [-aAbBcdDefkmMopPruv] (20260326-142438) (Retool)</description>
+		<version>20260326-142438</version>
+		<date>2026-03-28 04-42-06</date>
 		<author>Arctic Circle System, C. V. Reynolds, chillerecke, DeriLoko3, Hiccup, hking0036, niemand, norkmetnoil577, NovaAurora, relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -121,6 +121,21 @@
 		<description>ChuChu Rocket! Challenge (World)</description>
 		<game_id>ACRJ8P</game_id>
 		<rom name="ChuChu Rocket! Challenge (World).gba" size="226208" crc="ba0b2e06" md5="ab046b65776ae4696d1376f02353f4b4" sha1="f52b11aac9fd88f456014245a9c486655b41175c" sha256="d31c401e8633e3885fd0c980c2397259abaabe381e6258cd99ace4abbf171a15"/>
+	</game>
+	<game name="Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl)" id="0132">
+		<category>Games</category>
+		<description>Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl).gba" size="94512" crc="d9de8bd8" md5="d7a9ec35339bb4d26f3296c3ed851645" sha1="30ba9e987d909f6f497c472b266d8bcb70069b68"/>
+	</game>
+	<game name="Crash Party (Europe) (En,Fr,De,Es,It,Nl)" id="0134">
+		<category>Games</category>
+		<description>Crash Party (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Crash Party (Europe) (En,Fr,De,Es,It,Nl).gba" size="245752" crc="a7ad9b24" md5="ea6bca3450bccaae39a7b6d73e8bcaa6" sha1="8ecd7a465b02d23c8882597e600d5cfa5d197f07"/>
+	</game>
+	<game name="Crash Party USA (USA)" id="0133">
+		<category>Games</category>
+		<description>Crash Party USA (USA)</description>
+		<rom name="Crash Party USA (USA).gba" size="243304" crc="58aa97ae" md5="d8e548916bece4072abc10dd1bb2f158" sha1="ac3133d486991ff896f873de890d7c88b80ac7cb"/>
 	</game>
 	<game name="Dakar 2 - Credits (USA)" id="0101">
 		<category>Games</category>
