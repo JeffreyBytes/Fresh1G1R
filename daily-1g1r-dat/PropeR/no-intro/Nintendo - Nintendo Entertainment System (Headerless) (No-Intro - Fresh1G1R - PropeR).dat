@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,393) (-y) [-aAbBcdkmMpPuv] (20260326-192819) (Retool)</description>
-		<version>20260326-192819</version>
-		<date>2026-03-28 04-47-15</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,395) (-y) [-aAbBcdkmMpPuv] (20260327-172535) (Retool)</description>
+		<version>20260327-172535</version>
+		<date>2026-03-29 05-05-09</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -630,6 +630,11 @@
 		<category>Games</category>
 		<description>BattleCity (Japan) (En)</description>
 		<rom name="BattleCity (Japan) (En).unh" size="24576" crc="7e053e64" md5="a41a8a46771160e97ee5967365c07c83" sha1="65185a71dbbc4c2be3cdb80182b10f761d75e848" sha256="64832bef6533d98f49e807c000537c8cb26ef94e6c3f871b8b6b35c5a11e427b"/>
+	</game>
+	<game name="BattleCity (World) (Star Fox - Assault)" id="8478">
+		<category>Games</category>
+		<description>BattleCity (World) (Star Fox - Assault)</description>
+		<rom name="BattleCity (World) (Star Fox - Assault).unh" size="24576" crc="02efb0e1" md5="3e6c7d4455f80ef7a907bc28a7a70ba9" sha1="aa160f3c70a8518332508894987ca363a602f711" sha256="7ca7b08042542a26ade3a9f3a9947ebafb276c4849d778ad000f9c05237b7993"/>
 	</game>
 	<game name="Battleship (USA)" id="0223">
 		<category>Games</category>
@@ -5737,10 +5742,15 @@
 		<description>Star Force (USA)</description>
 		<rom name="Star Force (USA).unh" size="65536" crc="fce408a4" md5="db9a2c5492bd793d7091cd656c7f28cd" sha1="164f251a952776a3500e84d99186120f44d6f100" sha256="581851e22e8d499ada19e621c93571fba279fe9c8446ed2ee566b16128f13874"/>
 	</game>
-	<game name="Star Luster (World) (Evercade)" id="6908">
+	<game name="Star Luster (Japan) (En)" id="2084">
 		<category>Games</category>
-		<description>Star Luster (World) (Evercade)</description>
-		<rom name="Star Luster (World) (Evercade).unh" size="40960" crc="85acaebd" md5="9ab8f87563ac40f20ab11e9301324d79" sha1="06ed909bd731cc753c5438f67260deb16895db90" sha256="d0c31d96c0e21bd794c33d32ba7be4b56b1c52d2e5c506bd7953d1437db66bda"/>
+		<description>Star Luster (Japan) (En)</description>
+		<rom name="Star Luster (Japan) (En).unh" size="40960" crc="26bd6ec6" md5="69a18f44736e7160d34f3a610f3a9c3c" sha1="feb3013505143ad926e5307acf2f2ec177e18d4f" sha256="9c957a63eeac9383082f5984ec95746e087b8c93a0425974763698dd32f48319"/>
+	</game>
+	<game name="Star Luster (World) (Star Fox - Assault)" id="8477">
+		<category>Games</category>
+		<description>Star Luster (World) (Star Fox - Assault)</description>
+		<rom name="Star Luster (World) (Star Fox - Assault).unh" size="40960" crc="e7718c0b" md5="b52cb774cebc1b9e36d90e89f9211131" sha1="b1de069cfffd3c4c17d83b50d9f8a0cbcf24d18f" sha256="23c79ee3a569ec7788896e797e26d96d0a1c55e5649ad9a0e790497d441aff50"/>
 	</game>
 	<game name="Star Soldier (USA)" id="2086">
 		<category>Games</category>

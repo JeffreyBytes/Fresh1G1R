@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Panasonic - 3DO Interactive Multiplayer (Retool)</name>
-		<description>Panasonic - 3DO Interactive Multiplayer (310) (-y) [-aAbBcefkmMoprv] (2026-01-30 21-16-13) (Retool)</description>
-		<version>2026-01-30 21-16-13</version>
-		<date>2026-03-28 04-33-32</date>
+		<description>Panasonic - 3DO Interactive Multiplayer (311) (-y) [-aAbBcefkmMoprv] (2026-03-28 19-06-03) (Retool)</description>
+		<version>2026-03-28 19-06-03</version>
+		<date>2026-03-29 04-50-58</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -844,6 +844,12 @@
 		<description>Moon Cradle - Igyou no Hanayome (Japan)</description>
 		<rom name="Moon Cradle - Igyou no Hanayome (Japan).bin" size="734934144" crc="6fa510bc" md5="486b66d0b2eb2d3c3d751ba9290ddefc" sha1="8150ba547fe4ff080da527fd70e1aaa52a13dcd1"/>
 		<rom name="Moon Cradle - Igyou no Hanayome (Japan).cue" size="105" crc="ca269119" md5="34b2fe13e38fc8e88bfe0759ef03689d" sha1="9dd33c58d8d38438126e742b5dcac2a5bc3287e9"/>
+	</game>
+	<game name="Mortal Kombat II (USA) (Unl)">
+		<category>Games</category>
+		<description>Mortal Kombat II (USA) (Unl)</description>
+		<rom name="Mortal Kombat II (USA) (Unl).bin" size="144257568" crc="9f24cd07" md5="d6789e7a4a537a241dda220aafe74751" sha1="2950936bb7a978191f9aa283cdcddc1de5785e0a"/>
+		<rom name="Mortal Kombat II (USA) (Unl).cue" size="94" crc="fcd8e95a" md5="85475fd3beb2521957b3818d556b6d18" sha1="41a0dbda8fd62b735097f94264f71efdfa1e6e9b"/>
 	</game>
 	<game name="Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)">
 		<category>Games</category>

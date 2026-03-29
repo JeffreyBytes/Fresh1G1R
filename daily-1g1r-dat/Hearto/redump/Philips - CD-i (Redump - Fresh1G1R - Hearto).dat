@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i (Retool)</name>
-		<description>Philips - CD-i (297) (-y) [-aAbBcefkmMoprv] (2026-03-21 16-10-08) (Retool)</description>
-		<version>2026-03-21 16-10-08</version>
-		<date>2026-03-28 04-33-33</date>
+		<description>Philips - CD-i (297) (-y) [-aAbBcefkmMoprv] (2026-03-29 00-40-21) (Retool)</description>
+		<version>2026-03-29 00-40-21</version>
+		<date>2026-03-29 04-51-00</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -368,11 +368,11 @@
 		<rom name="Caesars World of Gambling (USA) (Rev 1).bin" size="465037440" crc="2e323919" md5="d2917b78a32ffc4716ffcce49b9b93d0" sha1="cfb34f74fce336e01580d8bf764895c7ea7e595d"/>
 		<rom name="Caesars World of Gambling (USA) (Rev 1).cue" size="126" crc="334e975e" md5="1a3714a91bb3bce2fa8ca3c0ff301018" sha1="f680afb01b5d4bcfb019e73f484921e482b69a52"/>
 	</game>
-	<game name="Caricature (Europe) (Beta) (1992-09-28)">
+	<game name="Caricature (UK) (Beta) (1992-09-28)">
 		<category>Preproduction</category>
-		<description>Caricature (Europe) (Beta) (1992-09-28)</description>
-		<rom name="Caricature (Europe) (Beta) (1992-09-28).bin" size="384034560" crc="094473b1" md5="e565d40f73ffc451d4068ae96e8b4d4d" sha1="99d4e143f078721b73ef9a1417f2b791b4ef0db5"/>
-		<rom name="Caricature (Europe) (Beta) (1992-09-28).cue" size="103" crc="bdb2bd73" md5="97acf75df545fe9764f31d4896bc87cf" sha1="3491140c631d5da241f356b9648a84afaedd0987"/>
+		<description>Caricature (UK) (Beta) (1992-09-28)</description>
+		<rom name="Caricature (UK) (Beta) (1992-09-28).bin" size="384034560" crc="094473b1" md5="e565d40f73ffc451d4068ae96e8b4d4d" sha1="99d4e143f078721b73ef9a1417f2b791b4ef0db5"/>
+		<rom name="Caricature (UK) (Beta) (1992-09-28).cue" size="99" crc="8977f53b" md5="4a158c440ed93253cd61e10a0e631ca6" sha1="f2ab606d454b46a3983f674204a7302fc1ae102e"/>
 	</game>
 	<game name="Cartoon Jukebox (Europe) (Alt)">
 		<category>Games</category>

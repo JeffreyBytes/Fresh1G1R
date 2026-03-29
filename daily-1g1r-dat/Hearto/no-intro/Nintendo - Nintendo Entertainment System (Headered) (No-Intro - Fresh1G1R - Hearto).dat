@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,816) (-y) [-aAbBcefkmMoprv] (20260326-192819) (Retool)</description>
-		<version>20260326-192819</version>
-		<date>2026-03-28 04-37-56</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,818) (-y) [-aAbBcefkmMoprv] (20260327-172535) (Retool)</description>
+		<version>20260327-172535</version>
+		<date>2026-03-29 04-52-24</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -774,6 +774,11 @@
 		<category>Games</category>
 		<description>BattleCity (Japan) (En)</description>
 		<rom name="BattleCity (Japan) (En).nes" size="24592" header="4e 45 53 1a 01 01 00 08 00 00 00 00 00 00 00 01" crc="b9c34f28" md5="ab8ee82f19d5266c5868405d6ed6cb7b" sha1="941ad7ca825e3f86407472113aad00520cb45783" sha256="166ec235b062aa337045832843e2916f96f12dcf08972ad747016dbe77db761c"/>
+	</game>
+	<game name="BattleCity (World) (Star Fox - Assault)" id="8478">
+		<category>Games</category>
+		<description>BattleCity (World) (Star Fox - Assault)</description>
+		<rom name="BattleCity (World) (Star Fox - Assault).nes" size="24592" header="4e 45 53 1a 01 01 00 08 00 00 00 00 00 00 00 01" crc="c529c1ad" md5="8586498e851538f5f7d214989cbb7741" sha1="5debfa14c04d8b14acde9e06a5e40c6f36d82693" sha256="b218c0340cd1a5e903133f658f04046ba9148aef8a5c538e4067c02213cf7ea8"/>
 	</game>
 	<game name="Battleship (USA)" id="0223">
 		<category>Games</category>
@@ -7412,10 +7417,15 @@
 		<description>Star Force (USA)</description>
 		<rom name="Star Force (USA).nes" size="65552" header="4e 45 53 1a 02 04 31 08 20 00 00 00 00 00 00 01" crc="9d1824e5" md5="090a59b5ef64e649c5b095b124ca375e" sha1="d7cd2740e286a2370664ab4b2e765b2f04811bb1" sha256="5b19038ca076788c4cb28856801b42b770dcb230fe0ba0a6b6dc6027c76daf94"/>
 	</game>
-	<game name="Star Luster (World) (Evercade)" id="6908">
+	<game name="Star Luster (Japan) (En)" id="2084">
 		<category>Games</category>
-		<description>Star Luster (World) (Evercade)</description>
-		<rom name="Star Luster (World) (Evercade).nes" size="40976" header="4e 45 53 1a 02 01 00 08 00 00 00 00 00 00 00 01" crc="e66945bf" md5="568fc8e153943c15865d64cfd9502e66" sha1="176460f453df5cee06aaaf74ac25d6eb197f9fdf" sha256="9965cafbaa4240bc36e39779ada67ebd5a8cac7a4892f9e9146c63bae357a1da"/>
+		<description>Star Luster (Japan) (En)</description>
+		<rom name="Star Luster (Japan) (En).nes" size="40976" header="4e 45 53 1a 02 01 00 08 00 00 00 00 00 00 00 01" crc="457885c4" md5="0cd981a0a7f666e616268e0a5ecab3d3" sha1="bab50a33472f3c7b3f18341a790787e0d559209e" sha256="481ce7b0a3d3c4ed4cf99e34b5868c57933686897c7a5799515479ab9add3951"/>
+	</game>
+	<game name="Star Luster (World) (Star Fox - Assault)" id="8477">
+		<category>Games</category>
+		<description>Star Luster (World) (Star Fox - Assault)</description>
+		<rom name="Star Luster (World) (Star Fox - Assault).nes" size="40976" header="4e 45 53 1a 02 01 00 08 00 00 00 00 00 00 00 01" crc="84b46709" md5="398a7e7c91e19442f6863f6ca188d138" sha1="a4bd9f43915c8eaf390dd928efbbad450dca9342" sha256="09194a77ab99579d77835ce1499d386d0ae4045acebaafbfeac4fe2a08572b3b"/>
 	</game>
 	<game name="Star Ship Go!! (Japan) (En) (Family BASIC) (Unl)" id="5139">
 		<category>Games</category>
