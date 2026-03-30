@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (1,202) (-y) [-aAbBcefkmMoprv] (20260327-165132) (Retool)</description>
-		<version>20260327-165132</version>
-		<date>2026-03-29 04-52-58</date>
+		<description>Nintendo - Game Boy Color (1,203) (-y) [-aAbBcefkmMoprv] (20260328-141827) (Retool)</description>
+		<version>20260328-141827</version>
+		<date>2026-03-30 04-58-54</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -135,6 +135,11 @@
 		<category>Games</category>
 		<description>4 in 1 + 8 in 1 (World) (4B-007, 4B-008, 8B-004, Sachen) (Unl)</description>
 		<rom name="4 in 1 + 8 in 1 (World) (4B-007, 4B-008, 8B-004, Sachen) (Unl).gbc" size="524288" crc="0a504426" md5="af8e059196fcdd29cc0fc417d3abf9ff" sha1="9c436bb4e2c666a92d4f695c776c2751cd3eb3b6"/>
+	</game>
+	<game name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto)" id="2745">
+		<category>Preproduction</category>
+		<description>40 Winks (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="1048576" crc="cd5b28d8" md5="c748ffc1a7a1eca04f85044bcb7c46fc" sha1="ca97cc480fa906708a4da286026e2fd68e511a33" sha256="758d4c6a805ec43155d5fdcedb45f623a1c4d918c0d5808aba209299caff9bd7"/>
 	</game>
 	<game name="720 Degrees (USA, Europe) (GB Compatible)" id="0010">
 		<category>Games</category>

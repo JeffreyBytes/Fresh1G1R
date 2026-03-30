@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (975) (-y) [-aAbBcefkmMoprv] (20260325-150735) (Retool)</description>
-		<version>20260325-150735</version>
-		<date>2026-03-29 04-54-04</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (975) (-y) [-aAbBcefkmMoprv] (20260328-221409) (Retool)</description>
+		<version>20260328-221409</version>
+		<date>2026-03-30 04-59-51</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5785,17 +5785,17 @@
 		<game_id>0004000000191100</game_id>
 		<rom name="Youkai Watch 3 - Tempura (Japan).3ds" size="4294967296" crc="a9ad8e03" md5="4e4bd2c01e498aec6b612a2d9ea296e9" sha1="2787065075f1a1981bd97741da5bd2d796e5ce0a"/>
 	</game>
-	<game name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan)" id="1797">
+	<game name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1)" id="z222">
 		<category>Games</category>
-		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan)</description>
+		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1)</description>
 		<game_id>00040000001C9C00</game_id>
-		<rom name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan).3ds" size="2147483648" crc="2ac9cb11" md5="8d59d06675ae643f9c893d137e547477" sha1="466b62624de4941fb66b8c77e08d54c6e0002a79"/>
+		<rom name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1).3ds" size="2147483648" crc="01d88f59" md5="ed700771917bec779f6ccf9884eba6a8" sha1="d27f6e53bc6a38d25119f05d7ab570842e7a03a6" sha256="1c17adc18b41fb160f3b65fb78322f211a078c1cbd266cff7e1f1e4e9f2d8a09"/>
 	</game>
-	<game name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan)" id="1796">
+	<game name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1)" id="z223">
 		<category>Games</category>
-		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan)</description>
+		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1)</description>
 		<game_id>00040000001C9400</game_id>
-		<rom name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan).3ds" size="2147483648" crc="9c270055" md5="8d7d49e172d41fbefa1eaceedc76d6f9" sha1="aad6b8f4d7386c07fe380e03d8eb4670d5b34259"/>
+		<rom name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1).3ds" size="2147483648" crc="728db131" md5="350cc639085af4f7c5050794c5bee30d" sha1="cbb13159916d6a204f8aafd52462553bfbfd0dbf" sha256="df7df99f2768f63f60081106ece79319b1f70519e555e945b65e2aacb4e4e60e"/>
 	</game>
 	<game name="Young Justice - Legacy (USA) (En,Fr,Es)" id="0491">
 		<category>Games</category>
