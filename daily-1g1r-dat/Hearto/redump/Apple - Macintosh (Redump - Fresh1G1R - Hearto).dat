@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (569) (-y) [-aAbBcefkmMoprv] (2026-03-25 23-31-22) (Retool)</description>
-		<version>2026-03-25 23-31-22</version>
-		<date>2026-03-30 04-57-01</date>
+		<description>Apple - Macintosh (569) (-y) [-aAbBcefkmMoprv] (2026-03-30 09-34-20) (Retool)</description>
+		<version>2026-03-30 09-34-20</version>
+		<date>2026-03-31 04-46-28</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1937,11 +1937,11 @@
 		<rom name="Kyoto Sennen Monogatari - Cosmology of Kyoto (USA, Japan) (En,Ja).bin" size="390954144" crc="77b686e5" md5="ffa3d258578feef069b837f098c6aff5" sha1="e34ac81cf122f4659967be4367dfb949dce6816c"/>
 		<rom name="Kyoto Sennen Monogatari - Cosmology of Kyoto (USA, Japan) (En,Ja).cue" size="131" crc="86e024b4" md5="a41027501e12b17e36a8c58ca7f10c04" sha1="7d26bdd39f9a5b28955e64b74b464edd63611b04"/>
 	</game>
-	<game name="L-Zone (Japan)">
+	<game name="L-Zone (Japan) (Rev 1)">
 		<category>Games</category>
-		<description>L-Zone (Japan)</description>
-		<rom name="L-Zone (Japan).bin" size="385704480" crc="f52db9a7" md5="0daa25447800f7e978fcbb39eb11500e" sha1="359041a04b96efc70fdf9458e3dc407eaabb40c4"/>
-		<rom name="L-Zone (Japan).cue" size="103" crc="4642773b" md5="8bae977c3550bf6bfd7f46d7f4122e71" sha1="56b71c8d4bd7457136764c949c898363b9cc7ce1"/>
+		<description>L-Zone (Japan) (Rev 1)</description>
+		<rom name="L-Zone (Japan) (Rev 1).bin" size="588707952" crc="4bacae19" md5="0d526b365de20ccad5fa3b710a134173" sha1="267a3afbcbea521419d7dcc4e434e6d958eaba1c"/>
+		<rom name="L-Zone (Japan) (Rev 1).cue" size="111" crc="63618b9a" md5="74954fac7d1f58232b6985f6e01e6da6" sha1="029be790a0066650908d5b3ce8d48843c836bfa2"/>
 	</game>
 	<game name="LEGO Indiana Jones - The Original Adventures (USA)">
 		<category>Games</category>
