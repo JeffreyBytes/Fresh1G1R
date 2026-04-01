@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (ByteSwapped) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (ByteSwapped) (435) (-y) [-aAbBcefkmMoprv] (20260329-135618) (Retool)</description>
-		<version>20260329-135618</version>
-		<date>2026-03-31 04-51-24</date>
+		<description>Nintendo - Nintendo 64 (ByteSwapped) (434) (-y) [-aAbBcefkmMoprv] (20260330-214522) (Retool)</description>
+		<version>20260330-214522</version>
+		<date>2026-04-01 04-59-36</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -648,17 +648,11 @@
 		<description>Freak Boy (Unknown) (Proto)</description>
 		<rom name="Freak Boy (Unknown) (Proto).v64" size="16777216" crc="c15147fa" md5="9356bdeca2146360c7dcd0740084d71a" sha1="a5b705ab35815748905bacd580dd9ede4d04fb60" sha256="b97f523ab3ec9351a21bc3d4e11ef61a90d3659776ec170da145bd50e240404c"/>
 	</game>
-	<game name="Frogger 2 (USA) (Proto) (1999-06-xx) (MS4)" id="1035">
+	<game name="Frogger 2 (USA) (Proto 4)" id="1293">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Frogger 2 (USA) (Proto) (1999-06-xx) (MS4)</description>
-		<rom name="Frogger 2 (USA) (Proto) (1999-06-xx) (MS4).v64" size="8388608" crc="5eb0c7d0" md5="bff4b5b4549964c5aa63700852af188e" sha1="275bbbbd1cb11e1611449f37128054d7a4dac3f5" sha256="fa292811c47c058c44a9bd428ebeffbafebf500023e4f273058766c778ec0d08"/>
-	</game>
-	<game name="Frogger 2 (USA) (Proto) (1999-12-01)" id="1293">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Frogger 2 (USA) (Proto) (1999-12-01)</description>
-		<rom name="Frogger 2 (USA) (Proto) (1999-12-01).v64" size="12582912" crc="6571dbb1" md5="1adb614c1e613b88a4b0d2b661ac9115" sha1="728f40179e20467f5c796cbc142cc5ac31f9be2b" sha256="5b8c59ef789545b26dacf95e5fbe40699a133d340db9eb437074f05fce218340"/>
+		<description>Frogger 2 (USA) (Proto 4)</description>
+		<rom name="Frogger 2 (USA) (Proto 4).v64" size="12582912" crc="6571dbb1" md5="1adb614c1e613b88a4b0d2b661ac9115" sha1="728f40179e20467f5c796cbc142cc5ac31f9be2b" sha256="5b8c59ef789545b26dacf95e5fbe40699a133d340db9eb437074f05fce218340"/>
 	</game>
 	<game name="Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)" id="0250">
 		<category>Games</category>
