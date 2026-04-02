@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (ByteSwapped) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (ByteSwapped) (434) (-y) [-aAbBcefkmMoprv] (20260330-214522) (Retool)</description>
-		<version>20260330-214522</version>
-		<date>2026-04-01 04-59-36</date>
+		<description>Nintendo - Nintendo 64 (ByteSwapped) (434) (-y) [-aAbBcefkmMoprv] (20260331-215638) (Retool)</description>
+		<version>20260331-215638</version>
+		<date>2026-04-02 04-43-21</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2119,10 +2119,11 @@
 		<description>Wetrix (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Wetrix (USA) (En,Fr,De,Es,It,Nl).v64" size="8388608" crc="4eda94c1" md5="b0df900cd2b612f23ce81e1ab28daba2" sha1="80cc6c54cc9517a33e90ccf0cc9f2c03d1f050ad" sha256="23407b95d66db836640088da8a26493d90022d82b239185f51a92c29a4e793f7"/>
 	</game>
-	<game name="Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)" id="1051">
+	<game name="Whack 'n' Roll (USA) (Proto) (1998-02-05)" id="1051">
+		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)</description>
-		<rom name="Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05).v64" size="3823288" crc="fcdd8db6" md5="3841e6be21c492c1b76dd9d9c3911d58" sha1="8ca7e4580b10798e44f5e2069edc0ca14e5f134e" sha256="f8387a6f0938d34c30aef392a81d3ad55ff3124bd6cf94a4def6df97a9cbfff6"/>
+		<description>Whack 'n' Roll (USA) (Proto) (1998-02-05)</description>
+		<rom name="Whack 'n' Roll (USA) (Proto) (1998-02-05).v64" size="3823288" crc="fcdd8db6" md5="3841e6be21c492c1b76dd9d9c3911d58" sha1="8ca7e4580b10798e44f5e2069edc0ca14e5f134e" sha256="f8387a6f0938d34c30aef392a81d3ad55ff3124bd6cf94a4def6df97a9cbfff6"/>
 	</game>
 	<game name="Wheel of Fortune (USA)" id="0844">
 		<category>Games</category>

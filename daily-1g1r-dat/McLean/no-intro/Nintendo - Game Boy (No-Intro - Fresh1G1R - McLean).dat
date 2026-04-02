@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (601) (-ly) [-aAbBcdDefkmMopPruv] (20260327-112520) (Retool)</description>
-		<version>20260327-112520</version>
-		<date>2026-04-01 05-04-56</date>
-		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
+		<description>Nintendo - Game Boy (602) (-ly) [-aAbBcdDefkmMopPruv] (20260331-154635) (Retool)</description>
+		<version>20260331-154635</version>
+		<date>2026-04-02 04-52-37</date>
+		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -2360,6 +2360,11 @@
 		<category>Games</category>
 		<description>Spider-Man - X-Men - Arcade's Revenge (USA, Europe)</description>
 		<rom name="Spider-Man - X-Men - Arcade's Revenge (USA, Europe).gb" size="131072" crc="1009c6c0" md5="634532de88aa7c35bd9231ee5356ae8a" sha1="fb3770e2da5c668d23e5f96a4806a6d3db24eaeb" sha256="0e700bc3168f51b22b0c0c6768550198e293ed01a83c6d233c26192ea688bdde"/>
+	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="2546">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).gb" size="131072" crc="1496a089" md5="8a79409b2c768ffa3563a501d6db26fa" sha1="260bba1e81660aa6580faa4fb06523d768c0bf68" sha256="aa5ea7e434534bdcebfad76b631e5c5de0fdcacddbacd2726f97b4f74512c65e"/>
 	</game>
 	<game name="Spider-Man 2 (USA, Europe)" id="0043">
 		<category>Games</category>

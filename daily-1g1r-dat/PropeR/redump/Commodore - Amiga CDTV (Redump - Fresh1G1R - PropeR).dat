@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV (Retool)</name>
-		<description>Commodore - Amiga CDTV (32) (-y) [-aAbBcdkmMpPuv] (2025-10-17 10-55-28) (Retool)</description>
-		<version>2025-10-17 10-55-28</version>
-		<date>2026-04-01 05-08-53</date>
+		<description>Commodore - Amiga CDTV (33) (-y) [-aAbBcdkmMpPuv] (2026-04-02 02-15-42) (Retool)</description>
+		<version>2026-04-02 02-15-42</version>
+		<date>2026-04-02 04-53-01</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -195,6 +195,12 @@
 		<description>Fantastic Voyage (USA)</description>
 		<rom name="Fantastic Voyage (USA).bin" size="5244960" crc="019d4fcb" md5="eee20caf9b36a2f8830f7aeb9584d57c" sha1="e32aebdac017a3f19cdbaa746c829fc3c817dcfa"/>
 		<rom name="Fantastic Voyage (USA).cue" size="88" crc="f56848e3" md5="4966e2d46a73f488ea7f34a76f3800e0" sha1="c8a0929895e91b0f2830ec33c9e7aa6b7a0ec2ae"/>
+	</game>
+	<game name="Fractal Universe (Europe)">
+		<category>Games</category>
+		<description>Fractal Universe (Europe)</description>
+		<rom name="Fractal Universe (Europe).bin" size="128948400" crc="88facd9f" md5="798f75337c5e0d9a4039a79ac566cbe6" sha1="f848ce3fffc199f684c125c5c71997dfb7c6998c"/>
+		<rom name="Fractal Universe (Europe).cue" size="91" crc="66204205" md5="24fe428c63b8e5142b8800831c67731b" sha1="3bfe225816b75885f6d63d6c209b26eb257fdd23"/>
 	</game>
 	<game name="Games &amp; Goodies (UK)">
 		<category>Games</category>

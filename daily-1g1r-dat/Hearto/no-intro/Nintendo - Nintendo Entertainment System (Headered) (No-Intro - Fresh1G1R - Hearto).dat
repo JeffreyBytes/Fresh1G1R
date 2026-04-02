@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,818) (-y) [-aAbBcefkmMoprv] (20260329-232605) (Retool)</description>
-		<version>20260329-232605</version>
-		<date>2026-04-01 05-02-05</date>
-		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,820) (-y) [-aAbBcefkmMoprv] (20260331-150553) (Retool)</description>
+		<version>20260331-150553</version>
+		<date>2026-04-02 04-45-50</date>
+		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -1157,6 +1157,11 @@
 		<category>Games</category>
 		<description>Captain America and the Avengers (USA)</description>
 		<rom name="Captain America and the Avengers (USA).nes" size="262160" header="4e 45 53 1a 08 10 40 08 00 00 00 00 00 00 00 01" crc="e37e3f95" md5="76905612c3d2274a7bd8065783db93f3" sha1="f09cd3f40248f97f7f3a71b2ee0d5f8fabd30a50" sha256="e406404b5c75d7de2b56a911eae6396901f05234b908b984bd0c27f1a76fbd9a"/>
+	</game>
+	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482">
+		<category>Games</category>
+		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" header="4e 45 53 1a 08 20 40 08 00 00 07 00 00 00 00 01" crc="74bc1e56" md5="3d91dde48c3f5dda35ff19443f996e78" sha1="db5b4e4a5a64cb1c059721972af33a4fdd616578" sha256="3428a1152b25b7e8344e3e0f9c29983b9f60c82f7dd68bc7c93ba9863d4ac5c4"/>
 	</game>
 	<game name="Captain Comic - The Adventure (USA, Brazil) (En) (Unl)" id="0054">
 		<category>Games</category>
@@ -7157,6 +7162,11 @@
 		<category>Games</category>
 		<description>Silver Surfer (USA)</description>
 		<rom name="Silver Surfer (USA).nes" size="393232" header="4e 45 53 1a 08 20 40 08 00 00 07 00 00 00 00 01" crc="79340526" md5="931b4e588a6ae203a9776c3519decafc" sha1="cb8d631b0e795381351e36a668d608e36165926a" sha256="381326a9f70f9de6ce050df99ec4f48fb5f5899192207c000b20163c8f652647"/>
+	</game>
+	<game name="Silver Surfer (World) (Marvel MaXimum Collection)" id="8481">
+		<category>Games</category>
+		<description>Silver Surfer (World) (Marvel MaXimum Collection)</description>
+		<rom name="Silver Surfer (World) (Marvel MaXimum Collection).nes" size="393232" header="4e 45 53 1a 08 20 40 08 00 00 07 00 00 00 00 01" crc="221541e2" md5="83c55ad48cf98b313ea121f9adacf126" sha1="31c4750340f1cd03df1d9fcb2b33fc2e2661ca5e" sha256="135a6deffce863634b399c873067406f9426cd0d44a9d9097db3b661281e2272"/>
 	</game>
 	<game name="SimCity (USA) (Proto)" id="2817">
 		<category>Preproduction</category>

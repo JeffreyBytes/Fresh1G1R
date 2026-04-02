@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,860) (-y) [-aAbBcefkmMoprv] (20260329-232123) (Retool)</description>
-		<version>20260329-232123</version>
-		<date>2026-04-01 04-58-30</date>
-		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
+		<description>Nintendo - Super Nintendo Entertainment System (1,863) (-y) [-aAbBcefkmMoprv] (20260331-133805) (Retool)</description>
+		<version>20260331-133805</version>
+		<date>2026-04-02 04-46-38</date>
+		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -6907,10 +6907,20 @@
 		<description>Spider-Man - Venom - Maximum Carnage (USA)</description>
 		<rom name="Spider-Man - Venom - Maximum Carnage (USA).sfc" size="2097152" crc="7ef2bb0c" md5="c4f2fe9b3ec4fc5c9c5d1b8ae1bd8054" sha1="e85f33c59903826f76df1f43d60bacf5c024d673" sha256="964d21996e385e032b5d18baf716692ba1db780245cd71956c212045c1b8eb9a"/>
 	</game>
+	<game name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)" id="4578">
+		<category>Games</category>
+		<description>Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection).sfc" size="2097152" crc="9d840d0b" md5="76b4558ee02f046168bd9e6b3f2642e7" sha1="c82dff7c20967e20a849673cd0f0a1a670a17097" sha256="c9c8b0f669e9244d02c8aab41f5294b0894fb07c2835ebc9c8f904c34ae34e40"/>
+	</game>
 	<game name="Spider-Man - X-Men - Arcade's Revenge (USA)" id="2462">
 		<category>Games</category>
 		<description>Spider-Man - X-Men - Arcade's Revenge (USA)</description>
 		<rom name="Spider-Man - X-Men - Arcade's Revenge (USA).sfc" size="1048576" crc="ae878ccb" md5="9d59f3def2b1a8d87f7e97cef41a04c0" sha1="1365a9dc47e8150f171098691478d557be740c1a" sha256="63210a91573fa8e19592f2e6c746a400831d804c00453739447d2df32e731df7"/>
+	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="4579">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).sfc" size="1048576" crc="b07ffb8a" md5="7398d0bfc067e010e357486546fc47c5" sha1="ec6bd15f34e41fae55ce1332b0e8048cd69f2c00" sha256="5f81b735539df9414a3eba192a2b9225cc1a41596e4ebca4ac70b8238cf77b2e"/>
 	</game>
 	<game name="Spindizzy Worlds (USA)" id="2466">
 		<category>Games</category>
@@ -8852,6 +8862,11 @@
 		<category>Preproduction</category>
 		<description>Venom - Spider-Man - Separation Anxiety (USA) (Sample)</description>
 		<rom name="Venom - Spider-Man - Separation Anxiety (USA) (Sample).sfc" size="3145728" crc="0ab432ec" md5="b8d7afb1a1aca8f0915a773de9ab253f" sha1="7bbf404cff2defc578be4e3d1f600b6e90abbfaf" sha256="a3f0a64ab429ff2368f4ec2a28cb0319ccde4be72afbcd1a1acc480bb95830e4"/>
+	</game>
+	<game name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)" id="4577">
+		<category>Games</category>
+		<description>Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)</description>
+		<rom name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection).sfc" size="3145728" crc="b264f6d0" md5="ef390b5f9eb0c9ad3893a93cd4873f78" sha1="2c54f05ee6d7a61ffd146bd4a932af1cfcf98597" sha256="0239629e29f87757448af4eaabad0ac896bbcefcf53fa22b076b60b85e30df6d"/>
 	</game>
 	<game name="Verne World (Japan)" id="3214">
 		<category>Games</category>

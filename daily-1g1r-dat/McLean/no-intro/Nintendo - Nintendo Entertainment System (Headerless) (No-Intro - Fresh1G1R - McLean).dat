@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (821) (-ly) [-aAbBcdDefkmMopPruv] (20260329-232605) (Retool)</description>
-		<version>20260329-232605</version>
-		<date>2026-04-01 05-05-30</date>
-		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (823) (-ly) [-aAbBcdDefkmMopPruv] (20260331-150553) (Retool)</description>
+		<version>20260331-150553</version>
+		<date>2026-04-02 04-49-38</date>
+		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -665,6 +665,11 @@
 		<category>Games</category>
 		<description>Captain America and the Avengers (USA)</description>
 		<rom name="Captain America and the Avengers (USA).unh" size="262144" crc="58c7ddaf" md5="f5d6c0ccc98ceba73d680b5fd1de8ab2" sha1="a13aa4971f1421e93312fa3574fcbe178b87977e" sha256="6d694349435603c0dcd7645081b0761e109f3994b30f9d822586c991d93510d8"/>
+	</game>
+	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482">
+		<category>Games</category>
+		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).unh" size="262144" crc="5e2f16c4" md5="aaae8ec17b83bd0b22f4c4253db29363" sha1="c02fbb90ac85e2766acab05e7365ae88fc94f997" sha256="7827daf79f0e7ed6ea1ac8ad519e7495f337ed931b31da28eafd6ac4295a7484"/>
 	</game>
 	<game name="Captain Planet and the Planeteers (USA)" id="0338">
 		<category>Games</category>
@@ -3150,6 +3155,11 @@
 		<category>Games</category>
 		<description>Silver Surfer (USA)</description>
 		<rom name="Silver Surfer (USA).unh" size="393216" crc="bee1c0d9" md5="f3595d596860683d9680ff3fc071da02" sha1="b0bfcc07619defd0530696731dca37a088049270" sha256="718dce0398dba4f8968969fe3e078f55ea0a5b3cff91895fd9ac0225fe4c437e"/>
+	</game>
+	<game name="Silver Surfer (World) (Marvel MaXimum Collection)" id="8481">
+		<category>Games</category>
+		<description>Silver Surfer (World) (Marvel MaXimum Collection)</description>
+		<rom name="Silver Surfer (World) (Marvel MaXimum Collection).unh" size="393216" crc="e5c0841d" md5="e6eccc9d551eaba7e9caf077619efdbe" sha1="227b14f793d594887e51926c6b35c73887b75cc9" sha256="c6681cf2caa26c10d4fd05db490405db8ecd913a0d683f3fbd473d4aa4f82c66"/>
 	</game>
 	<game name="Simpsons, The - Bart vs. the Space Mutants (USA) (Rev 1)" id="1997">
 		<category>Games</category>
