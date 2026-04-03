@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,399) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-02 00-21-03) (Retool)</description>
-		<version>2026-04-02 00-21-03</version>
-		<date>2026-04-02 04-48-09</date>
+		<description>Microsoft - Xbox 360 (1,399) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-03 01-53-27) (Retool)</description>
+		<version>2026-04-03 01-53-27</version>
+		<date>2026-04-03 04-49-06</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1701,10 +1701,10 @@
 		<description>Disney Tron - Evolution (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Disney Tron - Evolution (USA, Europe) (En,Fr,De,Es,It,Nl).iso" size="7838695424" crc="6f52de90" md5="891cd5e14b6fd7bcdcc3883d12e9e43a" sha1="162ed94098838c7b39dd8a8380080da5c5b7b093"/>
 	</game>
-	<game name="Disney Universe (USA, Europe) (En,Fr,De,Es,Nl,Sv,No,Da)">
+	<game name="Disney Universe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
 		<category>Games</category>
-		<description>Disney Universe (USA, Europe) (En,Fr,De,Es,Nl,Sv,No,Da)</description>
-		<rom name="Disney Universe (USA, Europe) (En,Fr,De,Es,Nl,Sv,No,Da).iso" size="7838695424" crc="7b28611d" md5="31df7d37628965188d38180cd24662bc" sha1="24da965504834f96dd7309844f602f172f54ac3f"/>
+		<description>Disney Universe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+		<rom name="Disney Universe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="7838695424" crc="7b28611d" md5="31df7d37628965188d38180cd24662bc" sha1="24da965504834f96dd7309844f602f172f54ac3f"/>
 	</game>
 	<game name="Disney-Pixar Brave (USA, Australia) (En,Fr,Es)">
 		<category>Games</category>

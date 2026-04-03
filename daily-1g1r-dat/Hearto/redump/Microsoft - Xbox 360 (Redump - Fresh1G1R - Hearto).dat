@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,606) (-y) [-aAbBcefkmMoprv] (2026-04-02 00-21-03) (Retool)</description>
-		<version>2026-04-02 00-21-03</version>
-		<date>2026-04-02 04-41-54</date>
+		<description>Microsoft - Xbox 360 (1,606) (-y) [-aAbBcefkmMoprv] (2026-04-03 01-53-27) (Retool)</description>
+		<version>2026-04-03 01-53-27</version>
+		<date>2026-04-03 04-42-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1901,10 +1901,10 @@
 		<description>Disney Universe (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Pl,Ru) (Demo)</description>
 		<rom name="Disney Universe (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Pl,Ru) (Demo).iso" size="7838695424" crc="89568d2c" md5="612f245fc2c51258dd5b781045bd0bab" sha1="e67f7df76eab2749e9a705275eacd6e3ed4d8362"/>
 	</game>
-	<game name="Disney Universe (USA, Europe) (En,Fr,De,Es,Nl,Sv,No,Da)">
+	<game name="Disney Universe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
 		<category>Games</category>
-		<description>Disney Universe (USA, Europe) (En,Fr,De,Es,Nl,Sv,No,Da)</description>
-		<rom name="Disney Universe (USA, Europe) (En,Fr,De,Es,Nl,Sv,No,Da).iso" size="7838695424" crc="7b28611d" md5="31df7d37628965188d38180cd24662bc" sha1="24da965504834f96dd7309844f602f172f54ac3f"/>
+		<description>Disney Universe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+		<rom name="Disney Universe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="7838695424" crc="7b28611d" md5="31df7d37628965188d38180cd24662bc" sha1="24da965504834f96dd7309844f602f172f54ac3f"/>
 	</game>
 	<game name="Disney-Pixar Brave (USA, Australia) (En,Fr,Es)">
 		<category>Games</category>

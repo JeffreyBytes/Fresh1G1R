@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,815) (-y) [-aAbBcefkmMoprv] (2026-03-28 23-47-17) (Retool)</description>
-		<version>2026-03-28 23-47-17</version>
-		<date>2026-04-02 04-42-39</date>
+		<description>Sony - PlayStation Portable (1,815) (-y) [-aAbBcefkmMoprv] (2026-04-03 02-30-06) (Retool)</description>
+		<version>2026-04-03 02-30-06</version>
+		<date>2026-04-03 04-43-34</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2246,10 +2246,10 @@
 		<description>Final Fantasy - 20th Anniversary Edition (USA) (En,Ja) (FW6.00)</description>
 		<rom name="Final Fantasy - 20th Anniversary Edition (USA) (En,Ja) (FW6.00).iso" size="198115328" crc="279ad1f4" md5="86a3476e8f05aefeee90579b69dd9ffc" sha1="30c7b61bcb39599b41c19dc28ea69db90c342b9f"/>
 	</game>
-	<game name="Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja)">
+	<game name="Final Fantasy II (USA, Canada) (En,Ja)">
 		<category>Games</category>
-		<description>Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja)</description>
-		<rom name="Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja).iso" size="287342592" crc="541fa240" md5="9ac65ede66cdc40ff791f8be7709b0c2" sha1="bbd97b3aafa741bcaae738d8a0e1466574f7072d"/>
+		<description>Final Fantasy II (USA, Canada) (En,Ja)</description>
+		<rom name="Final Fantasy II (USA, Canada) (En,Ja).iso" size="287342592" crc="541fa240" md5="9ac65ede66cdc40ff791f8be7709b0c2" sha1="bbd97b3aafa741bcaae738d8a0e1466574f7072d"/>
 	</game>
 	<game name="Final Fantasy III (Japan)">
 		<category>Games</category>

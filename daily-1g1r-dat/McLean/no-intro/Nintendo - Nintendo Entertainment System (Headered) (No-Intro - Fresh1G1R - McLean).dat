@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (823) (-ly) [-aAbBcdDefkmMopPruv] (20260331-150553) (Retool)</description>
-		<version>20260331-150553</version>
-		<date>2026-04-02 04-51-48</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (823) (-ly) [-aAbBcdDefkmMopPruv] (20260401-133204) (Retool)</description>
+		<version>20260401-133204</version>
+		<date>2026-04-03 04-51-56</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -669,7 +669,7 @@
 	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482">
 		<category>Games</category>
 		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
-		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" header="4e 45 53 1a 08 20 40 08 00 00 07 00 00 00 00 01" crc="74bc1e56" md5="3d91dde48c3f5dda35ff19443f996e78" sha1="db5b4e4a5a64cb1c059721972af33a4fdd616578" sha256="3428a1152b25b7e8344e3e0f9c29983b9f60c82f7dd68bc7c93ba9863d4ac5c4"/>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" header="4e 45 53 1a 08 20 40 08 00 00 07 00 00 00 00 01" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf"/>
 	</game>
 	<game name="Captain Planet and the Planeteers (USA)" id="0338">
 		<category>Games</category>
