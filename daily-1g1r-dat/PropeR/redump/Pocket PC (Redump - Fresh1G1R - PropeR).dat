@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Pocket PC (Retool)</name>
-		<description>Pocket PC (40) (-y) [-aAbBcdkmMpPuv] (2026-03-10 22-04-05) (Retool)</description>
-		<version>2026-03-10 22-04-05</version>
-		<date>2026-04-03 04-55-06</date>
+		<description>Pocket PC (41) (-y) [-aAbBcdkmMpPuv] (2026-04-03 20-02-56) (Retool)</description>
+		<version>2026-04-03 20-02-56</version>
+		<date>2026-04-04 04-42-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -226,6 +226,12 @@
 		<description>Tony Hawk's Pro Skater 2 (USA)</description>
 		<rom name="Tony Hawk's Pro Skater 2 (USA).bin" size="69710928" crc="8a749fd1" md5="4c1b0f1088c938174e81adad008a66b9" sha1="f0691c767cd596a80f3a3442e6da597769b83c93"/>
 		<rom name="Tony Hawk's Pro Skater 2 (USA).cue" size="96" crc="f48e6eb2" md5="de19a12043d56718a65916db606e767f" sha1="928e7c90386d25c0c388767a5a6f8a4b44848a1a"/>
+	</game>
+	<game name="Trivial Pursuit - Windows CE Edition (USA)">
+		<category>Games</category>
+		<description>Trivial Pursuit - Windows CE Edition (USA)</description>
+		<rom name="Trivial Pursuit - Windows CE Edition (USA).bin" size="20789328" crc="c33adde5" md5="8bcfe614418bad644c34d5264e0ec300" sha1="fd130d140795d2c4ce6efa292c7643a40ca6a91a"/>
+		<rom name="Trivial Pursuit - Windows CE Edition (USA).cue" size="108" crc="0b1e84ec" md5="998d85b5b7640cfc33839398817c9cdf" sha1="45ffac3f7a32eabb603718c0c3d7dd9c86620792"/>
 	</game>
 	<game name="Ultima Underworld - The Stygian Abyss (USA)">
 		<category>Games</category>
