@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,397) (-y) [-aAbBcdkmMpPuv] (20260401-133204) (Retool)</description>
-		<version>20260401-133204</version>
-		<date>2026-04-04 04-47-37</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,400) (-y) [-aAbBcdkmMpPuv] (20260403-144347) (Retool)</description>
+		<version>20260403-144347</version>
+		<date>2026-04-05 05-07-59</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3487,6 +3487,11 @@
 		<description>Kyuukyoku Harikiri Stadium III (Japan)</description>
 		<rom name="Kyuukyoku Harikiri Stadium III (Japan).unh" size="393216" crc="547e0ec5" md5="f665ab0d7585996aa37bc53f3c1cebe4" sha1="f0169eb942074764640c7f02a5de710f37801297" sha256="276e083f022c3546c26247f8a126aec965f24d88548ff901e71d28842d05633d"/>
 	</game>
+	<game name="Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage)" id="8486">
+		<category>Games</category>
+		<description>Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage)</description>
+		<rom name="Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage).unh" size="262144" crc="a9cca936" md5="17a88e49866e4b9eb09b98e92ec94e42" sha1="4de5fb01c506059f7aa3c025553839f4ca401074" sha256="0c3794249337833db5dcda463ca00de93a2c87059f92bd11b2c26935f2662628"/>
+	</game>
 	<game name="Labyrinth (Japan)" id="1235">
 		<category>Games</category>
 		<description>Labyrinth (Japan)</description>
@@ -6277,6 +6282,11 @@
 		<description>Tiger-Heli (USA)</description>
 		<rom name="Tiger-Heli (USA).unh" size="65536" crc="c3c7a568" md5="a7f714f1d65fe923a37ff886e8fdda2f" sha1="8972f3b8324b3bdfa96a6e73ed8b750615dd47f5" sha256="403fe1c4454dc1e23fb272c88f70ba30dd5e860ab48ecff59420a09fc84e9a2d"/>
 	</game>
+	<game name="Tiger-Heli (USA) (Toaplan Arcade Garage)" id="8484">
+		<category>Games</category>
+		<description>Tiger-Heli (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Tiger-Heli (USA) (Toaplan Arcade Garage).unh" size="65536" crc="c83c57d5" md5="b4b20522172211f104d47bc94447297e" sha1="2cfe3af739596321e9750ff33716e28e5d88df64" sha256="52a77737150d8dcc217ddc7f0962309dcb6fa3036b3ae641aef72e7200b621cc"/>
+	</game>
 	<game name="Time Lord (USA)" id="2306">
 		<category>Games</category>
 		<description>Time Lord (USA)</description>
@@ -6471,6 +6481,11 @@
 		<category>Games</category>
 		<description>Twin Cobra (USA)</description>
 		<rom name="Twin Cobra (USA).unh" size="262144" crc="0ef730e7" md5="6e801aa41e57c4ce982d79f8e77ea022" sha1="834bf676be8761585d72b05e14b44afb8f5a0f90" sha256="e2b26560d326cc626736efa2addf1c66f5af77913968fcf5cde738188c4a0132"/>
+	</game>
+	<game name="Twin Cobra (USA) (Toaplan Arcade Garage)" id="8487">
+		<category>Games</category>
+		<description>Twin Cobra (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Twin Cobra (USA) (Toaplan Arcade Garage).unh" size="262144" crc="0ef4dcbb" md5="139ad6e9310191165940a931b1cd77b6" sha1="f654eed31d398a6a3c7aa9fcec20f1770fc668b7" sha256="680109c4ad87b9ceff6696b8b35e33aed22b558b0793966f738e7272a127ae71"/>
 	</game>
 	<game name="Twin Eagle (USA)" id="2380">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (1,169) (-y) [-aAbBcefkmMoprv] (20260331-133230) (Retool)</description>
-		<version>20260331-133230</version>
-		<date>2026-04-04 04-34-27</date>
+		<description>Sega - Mega Drive - Genesis (1,172) (-y) [-aAbBcefkmMoprv] (20260403-141153) (Retool)</description>
+		<version>20260403-141153</version>
+		<date>2026-04-05 04-53-33</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2074,6 +2074,11 @@
 		<description>Hellfire (USA)</description>
 		<rom name="Hellfire (USA).md" size="524288" crc="184018f9" md5="dbdc25c40b85e488a1e817557e3e375c" sha1="9a91bef8a07f709e1f79f8519da79eac34d1796d" sha256="dfeee2d5fb8120c8cf12cecee24f37c55d216cdfc0520af61a8267328bded497"/>
 	</game>
+	<game name="Hellfire (USA) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)" id="3781">
+		<category>Games</category>
+		<description>Hellfire (USA) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)</description>
+		<rom name="Hellfire (USA) (Genesis Mini 2, Mega Drive Mini 2, Toaplan Arcade Garage).md" size="524288" crc="7e805b9a" md5="d87387f76cd6c0535df3542eaf08101e" sha1="ef26978ad337f8b52b1417987e80e7249753ee5d" sha256="cb839e87f36aa595b08a74b174e8144be2e425d39a449a5e2ee3ebae55d118b4"/>
+	</game>
 	<game name="Hercules 2 (Taiwan) (En) (Unl)" id="1803">
 		<category>Games</category>
 		<description>Hercules 2 (Taiwan) (En) (Unl)</description>
@@ -2547,6 +2552,11 @@
 		<category>Games</category>
 		<description>Kyuukai Douchuuki (Japan)</description>
 		<rom name="Kyuukai Douchuuki (Japan).md" size="524288" crc="de48dce3" md5="5407fbb67cc8664760d073c72c04f392" sha1="40e771ace8f89e40d3315be698aa68effd617c5c" sha256="e4292f814b540a19393d73895a566bc7a34e2c01deab9f03d90758401b6935b1"/>
+	</game>
+	<game name="Kyuukyoku Tiger (Japan) (En) (Toaplan Arcade Garage)" id="3780">
+		<category>Games</category>
+		<description>Kyuukyoku Tiger (Japan) (En) (Toaplan Arcade Garage)</description>
+		<rom name="Kyuukyoku Tiger (Japan) (En) (Toaplan Arcade Garage).md" size="655360" crc="157332b6" md5="e1c2f7e606d71ada3816ac8c06e4bd03" sha1="bcbfe717dc6fd3c1b3f59e9529d7ab2fd95c5f82" sha256="67ce802e240fbdc081661b4e11fa007dfb1721ee3af622d0caef83320e4623a3"/>
 	</game>
 	<game name="LHX Attack Chopper (USA, Europe)" id="0746">
 		<category>Games</category>
@@ -5407,6 +5417,11 @@
 		<category>Games</category>
 		<description>Twin Cobra - Desert Attack Helicopter (USA)</description>
 		<rom name="Twin Cobra - Desert Attack Helicopter (USA).md" size="655360" crc="2c708248" md5="0006c0c0db9b334b79f1ed20eeb8b9bf" sha1="c386c617703a3f5278d24b310c6bc15e3e180bdf" sha256="23c1dd768c455067ad614c6c054db59176b0bda0f6531fff56da023e224cd512"/>
+	</game>
+	<game name="Twin Cobra - Desert Attack Helicopter (USA) (Toaplan Arcade Garage)" id="3779">
+		<category>Games</category>
+		<description>Twin Cobra - Desert Attack Helicopter (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Twin Cobra - Desert Attack Helicopter (USA) (Toaplan Arcade Garage).md" size="655360" crc="5840ffaa" md5="0f431b5461c2d753cbfbfc4f34617cf1" sha1="0c435a6a176ae4a27649302013cb62f39df09e8b" sha256="7338f41707146eec9f9867df5bc4ac66328ac4878878498eed0f28c8fdb5de7c"/>
 	</game>
 	<game name="Twin Hawk (Japan, Europe) (En)" id="0338">
 		<category>Games</category>

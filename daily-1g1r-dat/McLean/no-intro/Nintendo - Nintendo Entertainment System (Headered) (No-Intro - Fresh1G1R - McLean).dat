@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (823) (-ly) [-aAbBcdDefkmMopPruv] (20260401-133204) (Retool)</description>
-		<version>20260401-133204</version>
-		<date>2026-04-04 04-39-28</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (825) (-ly) [-aAbBcdDefkmMopPruv] (20260403-144347) (Retool)</description>
+		<version>20260403-144347</version>
+		<date>2026-04-05 05-01-32</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3647,6 +3647,11 @@
 		<description>Tiger-Heli (USA)</description>
 		<rom name="Tiger-Heli (USA).nes" size="65552" header="4e 45 53 1a 02 04 30 08 20 00 00 00 00 00 00 01" crc="340fe664" md5="be73f5f4261c6d24ad9bdf71aa81034e" sha1="f28cbc01faac6af383eecca72e8d759628386bd6" sha256="9d8f8976f71e9d2250192117a19da4f828d948be9306511776274808ae8d370b"/>
 	</game>
+	<game name="Tiger-Heli (USA) (Toaplan Arcade Garage)" id="8484">
+		<category>Games</category>
+		<description>Tiger-Heli (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Tiger-Heli (USA) (Toaplan Arcade Garage).nes" size="65552" header="4e 45 53 1a 02 04 30 08 20 00 00 00 00 00 00 01" crc="3ff414d9" md5="e8a5b37d30f78f6378b5b66f5c7b2ea5" sha1="cf92e244697adc3af221dd07b458c5cd421b7968" sha256="76f75009f3f78c0f9e09b8f5557421ab1582eb3282306b567c2eb2c5a1569d33"/>
+	</game>
 	<game name="Time Lord (USA)" id="2306">
 		<category>Games</category>
 		<description>Time Lord (USA)</description>
@@ -3781,6 +3786,11 @@
 		<category>Games</category>
 		<description>Twin Cobra (USA)</description>
 		<rom name="Twin Cobra (USA).nes" size="262160" header="4e 45 53 1a 08 10 40 08 00 00 00 00 00 00 00 01" crc="b54ed2dd" md5="074c907eec5dcbfd615bdf0cdd14be67" sha1="64b0b78f246b335b27b1579790e45ebda7903561" sha256="95f560d1bf887f6e3b33d5e7b00f1b795a1fb09b39a8166bb86faf076e4ca68f"/>
+	</game>
+	<game name="Twin Cobra (USA) (Toaplan Arcade Garage)" id="8487">
+		<category>Games</category>
+		<description>Twin Cobra (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Twin Cobra (USA) (Toaplan Arcade Garage).nes" size="262160" header="4e 45 53 1a 08 10 40 08 00 00 00 00 00 00 00 01" crc="b54d3e81" md5="f39ce308dcd3d1a84116b03270d1da11" sha1="92874ae97701084125fd063aaa7cac71e66b9bb4" sha256="918f0c6763decf71f1cab9390300d43743cc79a2413058450737058f1fc6c724"/>
 	</game>
 	<game name="Twin Eagle (USA)" id="2380">
 		<category>Games</category>
