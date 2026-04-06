@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260328-094437) (Retool)</description>
-		<version>20260328-094437</version>
-		<date>2026-04-05 05-06-16</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260404-213256) (Retool)</description>
+		<version>20260404-213256</version>
+		<date>2026-04-06 05-13-56</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9251,11 +9251,6 @@
 		<description>Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="97616ab9" md5="b30c9253c4ba72b1d6b14622e4b48026" sha1="293aa1d70d07f62950f21234792bba81f122fc34"/>
 	</game>
-	<game name="Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1)" id="3679">
-		<category>Games</category>
-		<description>Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1)</description>
-		<rom name="Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1).nds" size="33554432" crc="6cc51442" md5="f7941e71ad6aa8f4ad47db2b891d36b9" sha1="98678e00ab0d8b8739ac9b4423d23b06cbbcb890" sha256="e13eeb1a3d15e5044ed91a6df6eb38d408761ad2d15b5882c25fc47267a4aa89"/>
-	</game>
 	<game name="Mahjong Haou DS - Dan-Kyuu Battle (Japan)" id="4884">
 		<category>Games</category>
 		<description>Mahjong Haou DS - Dan-Kyuu Battle (Japan)</description>
@@ -17716,6 +17711,11 @@
 		<category>Games</category>
 		<description>Wi-Fi Taiou - Gensen Table Game DS (Japan)</description>
 		<rom name="Wi-Fi Taiou - Gensen Table Game DS (Japan).nds" size="33554432" crc="dd4048ec" md5="5d3dd75cfc495258c7f5a2d9fc0b9ec9" sha1="5df47555566dcaa3e46ead576424072998219db8"/>
+	</game>
+	<game name="Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1)" id="3679">
+		<category>Games</category>
+		<description>Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1)</description>
+		<rom name="Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1).nds" size="33554432" crc="6cc51442" md5="f7941e71ad6aa8f4ad47db2b891d36b9" sha1="98678e00ab0d8b8739ac9b4423d23b06cbbcb890" sha256="e13eeb1a3d15e5044ed91a6df6eb38d408761ad2d15b5882c25fc47267a4aa89"/>
 	</game>
 	<game name="Wi-Fi Taiou - Morita Shougi DS (Japan)" id="0850">
 		<category>Games</category>
