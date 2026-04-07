@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (5,360) (-y) [-aAbBcefkmMoprv] (2026-04-05 01-38-25) (Retool)</description>
-		<version>2026-04-05 01-38-25</version>
-		<date>2026-04-06 04-58-40</date>
+		<description>Sony - PlayStation 2 (5,366) (-y) [-aAbBcefkmMoprv] (2026-04-06 23-31-56) (Retool)</description>
+		<version>2026-04-06 23-31-56</version>
+		<date>2026-04-07 04-49-18</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1035,6 +1035,11 @@
 		<category>Games</category>
 		<description>Ar Tonelico II - Melody of Metafalica (USA)</description>
 		<rom name="Ar Tonelico II - Melody of Metafalica (USA).iso" size="4401790976" crc="49205494" md5="1b83937656fd8fede5c0fbc8dbc11f8f" sha1="df94f6a165cfc829821a5a18c1e3bf650624de52"/>
+	</game>
+	<game name="Ar Tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica (Japan) (PlayStation 2 the Best)">
+		<category>Games</category>
+		<description>Ar Tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica (Japan) (PlayStation 2 the Best)</description>
+		<rom name="Ar Tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica (Japan) (PlayStation 2 the Best).iso" size="4299980800" crc="5b33a4c1" md5="24d5f51c6ae3d24599e6a7b4595a1dbb" sha1="137e875c221222664b37d9628192d34bef85711c"/>
 	</game>
 	<game name="Arabians Lost - The Engagement on Desert (Japan)">
 		<category>Games</category>
@@ -7080,6 +7085,12 @@
 		<description>First Kiss Stories (Japan) (Special CD Doukonban)</description>
 		<rom name="First Kiss Stories (Japan) (Special CD Doukonban).iso" size="4087087104" crc="1ff3c64d" md5="fb2935840050ff2c4d3c3835c744f692" sha1="6bbbd4de99e29189735f69c0f4dfd82f04b94958"/>
 	</game>
+	<game name="Fish Eyes 3 - Kioku no Hahentachi (Japan)">
+		<category>Games</category>
+		<description>Fish Eyes 3 - Kioku no Hahentachi (Japan)</description>
+		<rom name="Fish Eyes 3 - Kioku no Hahentachi (Japan).bin" size="629454000" crc="7640c665" md5="35a276e82e8a3734c5b72de9717acd64" sha1="ac2bb398d8534e4ba719358e4b8b3e7bed37b170"/>
+		<rom name="Fish Eyes 3 - Kioku no Hahentachi (Japan).cue" size="107" crc="6eb41bca" md5="49bffbc12ab91f472cfeacef67e5faf6" sha1="04c47c13c708cbc6b1a638a61297c9aba1071083"/>
+	</game>
 	<game name="Fisherman's Bass Club (USA)">
 		<category>Games</category>
 		<description>Fisherman's Bass Club (USA)</description>
@@ -12657,10 +12668,10 @@
 		<description>Konami Preview Disc (USA)</description>
 		<rom name="Konami Preview Disc (USA).iso" size="2495479808" crc="f6e7e518" md5="9c9eff0d31789080ea2ea2b6d7d12163" sha1="20e01b8541b4a4feb3892a6b5d142ac7d6ac96cd"/>
 	</game>
-	<game name="Konjiki no Gashbell!! Gekitou! Saikyou no Mamono-tachi (Japan)">
+	<game name="Konjiki no Gashbell!! Gekitou! Saikyou no Mamonotachi (Japan)">
 		<category>Games</category>
-		<description>Konjiki no Gashbell!! Gekitou! Saikyou no Mamono-tachi (Japan)</description>
-		<rom name="Konjiki no Gashbell!! Gekitou! Saikyou no Mamono-tachi (Japan).iso" size="1230733312" crc="a2b6b6b3" md5="636269927b0c32d5222aec7e71604b4c" sha1="a299e3574193eb7d8470f8e7e3112064a9929965"/>
+		<description>Konjiki no Gashbell!! Gekitou! Saikyou no Mamonotachi (Japan)</description>
+		<rom name="Konjiki no Gashbell!! Gekitou! Saikyou no Mamonotachi (Japan).iso" size="1230733312" crc="a2b6b6b3" md5="636269927b0c32d5222aec7e71604b4c" sha1="a299e3574193eb7d8470f8e7e3112064a9929965"/>
 	</game>
 	<game name="Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan) (Multi Tap (SCPH-70120) Doukonban)">
 		<category>Games</category>
@@ -13936,15 +13947,15 @@
 		<description>Mahou Sensei Negima! 1-jikanme - Okochama Sensei wa Mahoutsukai! (Japan) (Yuutousei-ban)</description>
 		<rom name="Mahou Sensei Negima! 1-jikanme - Okochama Sensei wa Mahoutsukai! (Japan) (Yuutousei-ban).iso" size="1971159040" crc="134d7d87" md5="903a830377acbcad365045f3890bf258" sha1="81d76e24e10e703b2996bbc76729dd13788e2c86"/>
 	</game>
-	<game name="Mahou Sensei Negima! 2-jikanme - Tatakau Otome-tachi! Mahora Daiundoukai Special! (Japan) (Gin-medal-ban)">
+	<game name="Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Japan) (Gin-medal-ban)">
 		<category>Games</category>
-		<description>Mahou Sensei Negima! 2-jikanme - Tatakau Otome-tachi! Mahora Daiundoukai Special! (Japan) (Gin-medal-ban)</description>
-		<rom name="Mahou Sensei Negima! 2-jikanme - Tatakau Otome-tachi! Mahora Daiundoukai Special! (Japan) (Gin-medal-ban).iso" size="3215917056" crc="cf6f6909" md5="e02a912f466227bb6d4c5494afa93070" sha1="a80c238a16b3c39b2a9694be16cd05be41371534"/>
+		<description>Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Japan) (Gin-medal-ban)</description>
+		<rom name="Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Japan) (Gin-medal-ban).iso" size="3215917056" crc="cf6f6909" md5="e02a912f466227bb6d4c5494afa93070" sha1="a80c238a16b3c39b2a9694be16cd05be41371534"/>
 	</game>
-	<game name="Mahou Sensei Negima! 2-jikanme - Tatakau Otome-tachi! Mahora Daiundoukai Special! (Japan) (Kin-medal-ban)">
+	<game name="Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Japan) (Kin-medal-ban)">
 		<category>Games</category>
-		<description>Mahou Sensei Negima! 2-jikanme - Tatakau Otome-tachi! Mahora Daiundoukai Special! (Japan) (Kin-medal-ban)</description>
-		<rom name="Mahou Sensei Negima! 2-jikanme - Tatakau Otome-tachi! Mahora Daiundoukai Special! (Japan) (Kin-medal-ban).iso" size="3215917056" crc="0a810be0" md5="dd9aae3d1482ce7325e2682b29615076" sha1="670dcb63636671024f77fd5c161d493e3d887e2d"/>
+		<description>Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Japan) (Kin-medal-ban)</description>
+		<rom name="Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Japan) (Kin-medal-ban).iso" size="3215917056" crc="0a810be0" md5="dd9aae3d1482ce7325e2682b29615076" sha1="670dcb63636671024f77fd5c161d493e3d887e2d"/>
 	</game>
 	<game name="Mahou Sensei Negima! Kagai Jugyou - Otome no Doki Doki Beachside (Japan)">
 		<category>Games</category>
@@ -14078,6 +14089,16 @@
 		<category>Games</category>
 		<description>Mana Khemia 2 - Fall of Alchemy (USA)</description>
 		<rom name="Mana Khemia 2 - Fall of Alchemy (USA).iso" size="4331732992" crc="ac1c65ee" md5="cf711814bab77c6e737a381e7c754d8a" sha1="39a1611ccf3fd27dbb7150dc08350a3a84f99274"/>
+	</game>
+	<game name="Mana-Khemia - Gakuen no Renkinjutsushitachi (Japan) (Gust Best Price)">
+		<category>Games</category>
+		<description>Mana-Khemia - Gakuen no Renkinjutsushitachi (Japan) (Gust Best Price)</description>
+		<rom name="Mana-Khemia - Gakuen no Renkinjutsushitachi (Japan) (Gust Best Price).iso" size="1902936064" crc="1f554910" md5="0fa1d3058a0f29988204004e60e18f66" sha1="343ebdde81a24d9a15efa12183a0b526c768f116"/>
+	</game>
+	<game name="Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi (Japan) (Gust Best Price)">
+		<category>Games</category>
+		<description>Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi (Japan) (Gust Best Price)</description>
+		<rom name="Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi (Japan) (Gust Best Price).iso" size="2777088000" crc="3d3d3f17" md5="90ae836a6912634bd748fa8b3470d1bd" sha1="2b9231233716776ef8f39fce2cca5997972df285"/>
 	</game>
 	<game name="Manhunt (USA)">
 		<category>Games</category>
@@ -22001,11 +22022,17 @@
 		<rom name="Simple 2000 Series Vol. 1 - The Table Game (Japan).bin" size="296888256" crc="de2316ca" md5="e680447ebb00d75971b94cee42a032f7" sha1="261a8706674454a3b165fb6572ee997bc47c9a57"/>
 		<rom name="Simple 2000 Series Vol. 1 - The Table Game (Japan).cue" size="116" crc="a936333b" md5="09a9d2e0eeef9a662392c6c5dc3623ef" sha1="4f32d6acadaa8608ccce26b8ad8fed263cdb82d6"/>
 	</game>
-	<game name="Simple 2000 Series Vol. 100 - The Otoko-tachi no Kijuu Houza (Japan)">
+	<game name="Simple 2000 Series Vol. 100 - The Otokotachi no Kijuu Houza (Japan)">
 		<category>Games</category>
-		<description>Simple 2000 Series Vol. 100 - The Otoko-tachi no Kijuu Houza (Japan)</description>
-		<rom name="Simple 2000 Series Vol. 100 - The Otoko-tachi no Kijuu Houza (Japan).bin" size="730637040" crc="77632811" md5="0126e61637af85e99c09a01f87893f65" sha1="b5c4b7e5fe4734fdcbe8bddf31011869445128c8"/>
-		<rom name="Simple 2000 Series Vol. 100 - The Otoko-tachi no Kijuu Houza (Japan).cue" size="134" crc="3b2dd01d" md5="9fc0a701459b2312587fd4a1cbb04e34" sha1="b258cc288e384bcde7740ddda9a6732ea29d51b0"/>
+		<description>Simple 2000 Series Vol. 100 - The Otokotachi no Kijuu Houza (Japan)</description>
+		<rom name="Simple 2000 Series Vol. 100 - The Otokotachi no Kijuu Houza (Japan).bin" size="730637040" crc="77632811" md5="0126e61637af85e99c09a01f87893f65" sha1="b5c4b7e5fe4734fdcbe8bddf31011869445128c8"/>
+		<rom name="Simple 2000 Series Vol. 100 - The Otokotachi no Kijuu Houza (Japan).cue" size="133" crc="eb01fff2" md5="6c665dfc8d35b59ea9933c48fe26cf7e" sha1="88e721e1097e5393b63b7214bc9c461727e41881"/>
+	</game>
+	<game name="Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan)">
+		<category>Games</category>
+		<description>Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan)</description>
+		<rom name="Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan).bin" size="391459824" crc="e93036b6" md5="0642bfc7b2d3666254ed8ca2c21ff1a2" sha1="99963730cdcd161c7591183eab1ccad83a2fc3ac"/>
+		<rom name="Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan).cue" size="134" crc="46a3f2fa" md5="b89b3d7e6f97d1460a69b02260e24259" sha1="d65e9d5b8a030ea453c11f10a338e19654928fc4"/>
 	</game>
 	<game name="Simple 2000 Series Vol. 104 - The Robot Tsukurou ze! Gekitou! Robot Fight (Japan)">
 		<category>Games</category>
@@ -24188,10 +24215,10 @@
 		<rom name="Summoner 2 (USA) (Demo).bin" size="373088352" crc="58ce3d0c" md5="fcb258da7bdb210486aafa20707c57b3" sha1="e0329b3809a0b18f43d8eb973a835af8a076533f"/>
 		<rom name="Summoner 2 (USA) (Demo).cue" size="89" crc="72682de4" md5="9efb618609e0de2e662d98f924ccd208" sha1="983c70db37abe312f31e2576f260d2dd3dcb8282"/>
 	</game>
-	<game name="Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsu-sen!! (Japan) (Shokai Genteiban)">
+	<game name="Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsusen!! (Japan) (Shokai Genteiban)">
 		<category>Games</category>
-		<description>Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsu-sen!! (Japan) (Shokai Genteiban)</description>
-		<rom name="Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsu-sen!! (Japan) (Shokai Genteiban).iso" size="1273462784" crc="1a2d17f7" md5="5c32a0ac8ea84fbf0faeb6b20c1a0d71" sha1="ddfaf0fa2cade26284f59c4c983822af0663403f"/>
+		<description>Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsusen!! (Japan) (Shokai Genteiban)</description>
+		<rom name="Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsusen!! (Japan) (Shokai Genteiban).iso" size="1273462784" crc="1a2d17f7" md5="5c32a0ac8ea84fbf0faeb6b20c1a0d71" sha1="ddfaf0fa2cade26284f59c4c983822af0663403f"/>
 	</game>
 	<game name="Sunny Garcia Surfing (USA)">
 		<category>Games</category>
@@ -26656,10 +26683,10 @@
 		<description>Usagi - Yasei no Touhai - Yamashiro Mahjong-hen (Japan)</description>
 		<rom name="Usagi - Yasei no Touhai - Yamashiro Mahjong-hen (Japan).iso" size="2277867520" crc="dae9f983" md5="48c67073a0d35f730ad6a067fa56812a" sha1="c0f3e63e9d75f378ddde2af03df5981103169076"/>
 	</game>
-	<game name="Utau - Tumbling Dice - Watashitachi 3nin, A Ge Ru (Japan)">
+	<game name="Utau - Tumbling Dice - Watashitachi 3-nin, A Ge Ru (Japan)">
 		<category>Games</category>
-		<description>Utau - Tumbling Dice - Watashitachi 3nin, A Ge Ru (Japan)</description>
-		<rom name="Utau - Tumbling Dice - Watashitachi 3nin, A Ge Ru (Japan).iso" size="2973368320" crc="bccdd687" md5="9954ea07d64aacb4a9b31e21c3a0cd92" sha1="702395530eb943e4dd21b3a2bb4200b810d8b691"/>
+		<description>Utau - Tumbling Dice - Watashitachi 3-nin, A Ge Ru (Japan)</description>
+		<rom name="Utau - Tumbling Dice - Watashitachi 3-nin, A Ge Ru (Japan).iso" size="2973368320" crc="bccdd687" md5="9954ea07d64aacb4a9b31e21c3a0cd92" sha1="702395530eb943e4dd21b3a2bb4200b810d8b691"/>
 	</game>
 	<game name="Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan) (Shokai Genteiban)">
 		<category>Games</category>
@@ -28399,17 +28426,22 @@
 		<rom name="Zettai Zetsumei Toshi (Japan) (Taikenban).bin" size="614405904" crc="0d302798" md5="b4462bd412ab16e6364d2fbc0bf76415" sha1="770596fc7b4897debfbe5c9606d11b698e1f4012"/>
 		<rom name="Zettai Zetsumei Toshi (Japan) (Taikenban).cue" size="107" crc="8902dcbf" md5="24abcc6b94664c7ea09d6825a2116082" sha1="5ef0d761ebe1a99b3721a22c9668a635893e15b1"/>
 	</game>
-	<game name="Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-A)">
-		<category>Demos</category>
-		<description>Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-A)</description>
-		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-A).bin" size="594282192" crc="792af337" md5="3354f4b4648ada0e5b28dd471be13bfc" sha1="bac206ab667d3a69338fd9e343319e36d1e0e254"/>
-		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-A).cue" size="140" crc="d20cd9c9" md5="3a24742d651daaee2ecdb2b14d1dd690" sha1="d602aa0739e04c02ee491ce653225ed1a9f83e23"/>
+	<game name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan)">
+		<category>Games</category>
+		<description>Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan)</description>
+		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan).iso" size="2311651328" crc="7673fb02" md5="49279a88b1c2105bf9ab8ab40616a3c0" sha1="d14b610eaedd0ea33d37561ab6f71ca5771558f6"/>
 	</game>
-	<game name="Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-B)">
+	<game name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-A)">
 		<category>Demos</category>
-		<description>Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-B)</description>
-		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-B).bin" size="730164288" crc="c65dddec" md5="396b4a2bf89b4c3c88951d83785f0634" sha1="8ba8d1c711ec01912ec079ee0e7da7999cfedda0"/>
-		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-B).cue" size="140" crc="d351ff18" md5="08c9927b7e7fc84e4e59d1f9fbbbf845" sha1="349f9d91319e8b7d517fcb0f8ff024b815b5b90d"/>
+		<description>Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-A)</description>
+		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-A).bin" size="594282192" crc="792af337" md5="3354f4b4648ada0e5b28dd471be13bfc" sha1="bac206ab667d3a69338fd9e343319e36d1e0e254"/>
+		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-A).cue" size="139" crc="fd687a9b" md5="ffe3694a155ae37fa3569cc936b3d9b9" sha1="875c9e1e2c53f0e4b35cf46e6a1eb1ef4b2c8be2"/>
+	</game>
+	<game name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-B)">
+		<category>Demos</category>
+		<description>Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-B)</description>
+		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-B).bin" size="730164288" crc="c65dddec" md5="396b4a2bf89b4c3c88951d83785f0634" sha1="8ba8d1c711ec01912ec079ee0e7da7999cfedda0"/>
+		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-B).cue" size="139" crc="fc355c4a" md5="d5b4ded1bbc21c30dd95a481ced10f5e" sha1="0193ccca342a81c0e90f30ec37603d49559c6b6a"/>
 	</game>
 	<game name="Zill O'll Infinite (Japan)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-31 11-37-45) (Retool)</description>
-		<version>2026-03-31 11-37-45</version>
-		<date>2026-04-06 04-58-07</date>
+		<description>Nintendo - GameCube (803) (-y) [-aAbBcefkmMoprv] (2026-04-06 22-18-53) (Retool)</description>
+		<version>2026-04-06 22-18-53</version>
+		<date>2026-04-07 04-48-45</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -626,10 +626,10 @@
 		<description>Defender (USA)</description>
 		<rom name="Defender (USA).iso" size="1459978240" crc="53ae96a5" md5="ba494301ef873157b61a1299cf6328be" sha1="e5d9991b638686b8debdca39203e3d08e6551a96"/>
 	</game>
-	<game name="Densetsu no Quiz-ou Kettei-sen (Japan)">
+	<game name="Densetsu no Quiz-ou Ketteisen (Japan)">
 		<category>Games</category>
-		<description>Densetsu no Quiz-ou Kettei-sen (Japan)</description>
-		<rom name="Densetsu no Quiz-ou Kettei-sen (Japan).iso" size="1459978240" crc="d62f1303" md5="ccef64c67d79c189524a13643e7c1143" sha1="366bc922814da5271a42493eb16e0e096551ec17"/>
+		<description>Densetsu no Quiz-ou Ketteisen (Japan)</description>
+		<rom name="Densetsu no Quiz-ou Ketteisen (Japan).iso" size="1459978240" crc="d62f1303" md5="ccef64c67d79c189524a13643e7c1143" sha1="366bc922814da5271a42493eb16e0e096551ec17"/>
 	</game>
 	<game name="Die Hard - Vendetta (USA)">
 		<category>Games</category>
@@ -1851,15 +1851,20 @@
 		<description>Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan)</description>
 		<rom name="Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan).iso" size="1459978240" crc="ad128a51" md5="a32538feea555161a9d616bc8ff9c6b1" sha1="b1535a65e7dd6484a9f997ad93f989230819924e"/>
 	</game>
-	<game name="Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan)">
+	<game name="Kidou Senshi Gundam - Senshitachi no Kiseki (Japan)">
 		<category>Games</category>
-		<description>Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan)</description>
-		<rom name="Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan).iso" size="1459978240" crc="53ed327b" md5="67e92b0f150d1747f70eabb070a9e2ca" sha1="6dbfa755390c3fdf396923aa194cb8edc8f617de"/>
+		<description>Kidou Senshi Gundam - Senshitachi no Kiseki (Japan)</description>
+		<rom name="Kidou Senshi Gundam - Senshitachi no Kiseki (Japan).iso" size="1459978240" crc="53ed327b" md5="67e92b0f150d1747f70eabb070a9e2ca" sha1="6dbfa755390c3fdf396923aa194cb8edc8f617de"/>
 	</game>
-	<game name="Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc)">
+	<game name="Kidou Senshi Gundam - Senshitachi no Kiseki (Japan) (Special Disc)">
 		<category>Demos</category>
-		<description>Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc)</description>
-		<rom name="Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc).iso" size="1459978240" crc="05458fad" md5="1bbb309c44bfa67b0b4246233df9f93c" sha1="2ee37d857ae5671d88f1440b21105decd15ee7de"/>
+		<description>Kidou Senshi Gundam - Senshitachi no Kiseki (Japan) (Special Disc)</description>
+		<rom name="Kidou Senshi Gundam - Senshitachi no Kiseki (Japan) (Special Disc).iso" size="1459978240" crc="05458fad" md5="1bbb309c44bfa67b0b4246233df9f93c" sha1="2ee37d857ae5671d88f1440b21105decd15ee7de"/>
+	</game>
+	<game name="Kidou Senshi Gundam - Senshitachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan)">
+		<category>Games</category>
+		<description>Kidou Senshi Gundam - Senshitachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan)</description>
+		<rom name="Kidou Senshi Gundam - Senshitachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan).iso" size="1459978240" crc="fe5b5a53" md5="f7f6990e2ea9ba2d9c84358ba31257d8" sha1="22e5e6f159e6058da45a5673cfa849b92a084b5f"/>
 	</game>
 	<game name="Killer7 (USA) (Disc 1) (Rev 1)">
 		<category>Games</category>

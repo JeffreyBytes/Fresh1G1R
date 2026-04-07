@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (1,172) (-y) [-aAbBcefkmMoprv] (20260404-011338) (Retool)</description>
-		<version>20260404-011338</version>
-		<date>2026-04-06 05-03-00</date>
+		<description>Sega - Mega Drive - Genesis (1,172) (-y) [-aAbBcefkmMoprv] (20260405-154023) (Retool)</description>
+		<version>20260405-154023</version>
+		<date>2026-04-07 04-50-35</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2077,7 +2077,7 @@
 	<game name="Hellfire (USA) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)" id="3781">
 		<category>Games</category>
 		<description>Hellfire (USA) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)</description>
-		<rom name="Hellfire (USA) (Genesis Mini 2, Mega Drive Mini 2, Toaplan Arcade Garage).md" size="524288" crc="7e805b9a" md5="d87387f76cd6c0535df3542eaf08101e" sha1="ef26978ad337f8b52b1417987e80e7249753ee5d" sha256="cb839e87f36aa595b08a74b174e8144be2e425d39a449a5e2ee3ebae55d118b4"/>
+		<rom name="Hellfire (USA) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage).md" size="524288" crc="7e805b9a" md5="d87387f76cd6c0535df3542eaf08101e" sha1="ef26978ad337f8b52b1417987e80e7249753ee5d" sha256="cb839e87f36aa595b08a74b174e8144be2e425d39a449a5e2ee3ebae55d118b4"/>
 	</game>
 	<game name="Hercules 2 (Taiwan) (En) (Unl)" id="1803">
 		<category>Games</category>

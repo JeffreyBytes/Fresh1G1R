@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,628) (-y) [-aAbBcdkmMpPuv] (2026-04-05 23-41-45) (Retool)</description>
-		<version>2026-04-05 23-41-45</version>
-		<date>2026-04-06 05-10-55</date>
+		<description>Sony - PlayStation 3 (1,629) (-y) [-aAbBcdkmMpPuv] (2026-04-07 02-29-27) (Retool)</description>
+		<version>2026-04-07 02-29-27</version>
+		<date>2026-04-07 05-01-18</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2161,10 +2161,10 @@
 		<description>Eternal Sonata (USA) (En,Fr)</description>
 		<rom name="Eternal Sonata (USA) (En,Fr).iso" size="11108483072" crc="3ade94a2" md5="47e4a3b6c3fe8e421b365b581c5d1e78" sha1="3ab7800990f9648f2dda4bda7a6be07b9c5e3390"/>
 	</game>
-	<game name="Eureka Seven AO - Jungfrau no Hanabana-tachi - Game &amp; OVA Hybrid Disc (Japan)">
+	<game name="Eureka Seven AO - Jungfrau no Hanabanatachi - Game &amp; OVA Hybrid Disc (Japan)">
 		<category>Games</category>
-		<description>Eureka Seven AO - Jungfrau no Hanabana-tachi - Game &amp; OVA Hybrid Disc (Japan)</description>
-		<rom name="Eureka Seven AO - Jungfrau no Hanabana-tachi - Game &amp; OVA Hybrid Disc (Japan).iso" size="33177075712" crc="fadb4c80" md5="48006fc6a4cdb90d9b8ab469489413aa" sha1="30d7deddba950294daef58a2a09d691001efd5cd"/>
+		<description>Eureka Seven AO - Jungfrau no Hanabanatachi - Game &amp; OVA Hybrid Disc (Japan)</description>
+		<rom name="Eureka Seven AO - Jungfrau no Hanabanatachi - Game &amp; OVA Hybrid Disc (Japan).iso" size="33177075712" crc="fadb4c80" md5="48006fc6a4cdb90d9b8ab469489413aa" sha1="30d7deddba950294daef58a2a09d691001efd5cd"/>
 	</game>
 	<game name="Everybody Dance (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
 		<category>Games</category>
@@ -5061,6 +5061,11 @@
 		<description>Nitroplus Blasterz - Heroines Infinite Duel (Japan)</description>
 		<rom name="Nitroplus Blasterz - Heroines Infinite Duel (Japan).iso" size="2448359424" crc="c65c0ef2" md5="548820ce1158a19445a4a2492e905303" sha1="e1c043e0b07108b3e3f25612831cb619af8c1595"/>
 	</game>
+	<game name="No More Heroes - Eiyuutachi no Rakuen (Japan, Korea)">
+		<category>Games</category>
+		<description>No More Heroes - Eiyuutachi no Rakuen (Japan, Korea)</description>
+		<rom name="No More Heroes - Eiyuutachi no Rakuen (Japan, Korea).iso" size="7005536256" crc="8c2fd128" md5="dc2f4464ef42798ed08ae943adb0f790" sha1="edb5cabcb1f5e90c93c09de906e9d45fa5b51e9e"/>
+	</game>
 	<game name="No More Heroes - Heroes' Paradise (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>No More Heroes - Heroes' Paradise (USA) (En,Fr,Es)</description>
@@ -6321,10 +6326,10 @@
 		<description>Short Peace - Ranko Tsukigime's Longest Day (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Short Peace - Ranko Tsukigime's Longest Day (Europe) (En,Fr,De,Es,It).iso" size="22012231680" crc="29ad4cc5" md5="7bff644c2d21201124621b5d0eefe50c" sha1="a65b1db6235730aeb17ff665f90f904622d9a5cb"/>
 	</game>
-	<game name="Shutsugeki!! Otome-tachi no Senjou 2 - Yuukoku o Kakeru Koujo no Tsubasa (Japan)">
+	<game name="Shutsugeki!! Otometachi no Senjou 2 - Yuukoku o Kakeru Koujo no Tsubasa (Japan)">
 		<category>Games</category>
-		<description>Shutsugeki!! Otome-tachi no Senjou 2 - Yuukoku o Kakeru Koujo no Tsubasa (Japan)</description>
-		<rom name="Shutsugeki!! Otome-tachi no Senjou 2 - Yuukoku o Kakeru Koujo no Tsubasa (Japan).iso" size="5381226496" crc="13b3b3a6" md5="35afbe8c1df61357aad6df7a8208adff" sha1="8006d47c71a3512759dcac9e55c3b6ade3d1eb54"/>
+		<description>Shutsugeki!! Otometachi no Senjou 2 - Yuukoku o Kakeru Koujo no Tsubasa (Japan)</description>
+		<rom name="Shutsugeki!! Otometachi no Senjou 2 - Yuukoku o Kakeru Koujo no Tsubasa (Japan).iso" size="5381226496" crc="13b3b3a6" md5="35afbe8c1df61357aad6df7a8208adff" sha1="8006d47c71a3512759dcac9e55c3b6ade3d1eb54"/>
 	</game>
 	<game name="Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>

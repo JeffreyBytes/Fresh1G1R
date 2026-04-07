@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari 2600 (Retool)</name>
-		<description>Atari - Atari 2600 (588) (-y) [-aAbBcefkmMoprv] (20260328-124829) (Retool)</description>
-		<version>20260328-124829</version>
-		<date>2026-04-06 04-58-54</date>
+		<description>Atari - Atari 2600 (589) (-y) [-aAbBcefkmMoprv] (20260405-051359) (Retool)</description>
+		<version>20260405-051359</version>
+		<date>2026-04-07 04-53-11</date>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -980,6 +980,11 @@
 		<category>Games</category>
 		<description>Gas Hog (USA)</description>
 		<rom name="Gas Hog (USA).a26" size="4096" crc="40699ca5" md5="5cbd7c31443fb9c308e9f0b54d94a395" sha1="e919ee03e8a17fd85be1e53b4d5ff76dae54d099"/>
+	</game>
+	<game name="Gas Hog ~ Piraten Schiff (Europe)" id="0868">
+		<category>Games</category>
+		<description>Gas Hog ~ Piraten Schiff (Europe)</description>
+		<rom name="Gas Hog ~ Piraten Schiff (Europe).a26" size="4096" crc="fdaa9d20" md5="b1486e12de717013376447ac6f7f3a80" sha1="3696575988be6814b6c0eebab2285c471f94a127" sha256="98defe83afa74f40fac8b65dad81f303ef34b39bda8b2e1001500df5fddd5084"/>
 	</game>
 	<game name="Gauntlet (USA)" id="0182">
 		<category>Games</category>

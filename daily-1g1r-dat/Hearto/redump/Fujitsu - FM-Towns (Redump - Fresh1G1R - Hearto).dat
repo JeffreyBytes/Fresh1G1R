@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Fujitsu - FM-Towns (Retool)</name>
-		<description>Fujitsu - FM-Towns (590) (-y) [-aAbBcefkmMoprv] (2026-03-25 23-22-00) (Retool)</description>
-		<version>2026-03-25 23-22-00</version>
-		<date>2026-04-06 04-57-11</date>
+		<description>Fujitsu - FM-Towns (590) (-y) [-aAbBcefkmMoprv] (2026-04-06 23-01-02) (Retool)</description>
+		<version>2026-04-06 23-01-02</version>
+		<date>2026-04-07 04-47-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -662,27 +662,27 @@
 		<rom name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (Track 13).bin" size="31570896" crc="2bab4216" md5="848d5833e32e43a754f670feb029cdde" sha1="db856cc253f056ba14e7f6c4ebc68e9ae864e8fb"/>
 		<rom name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).cue" size="1791" crc="8f815749" md5="d60974f840695b56600f6545fb621f6b" sha1="6727e15164a1faff425257bcbb289e32a706e14e"/>
 	</game>
-	<game name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan)">
+	<game name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan)">
 		<category>Games</category>
-		<description>Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan)</description>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 01).bin" size="20815200" crc="d0dde34d" md5="51769e3dad2c8604a53b34f42d38cc6f" sha1="72d5c9e6e578a2e0faf63ca7088d7673f050b145"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 02).bin" size="44805600" crc="54efca78" md5="1fefc4831f5ccbb1ebab9da51c74d821" sha1="2cd283b0445590468c92cca1a0888e38c22d6bd1"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 03).bin" size="43041600" crc="6e8cb4cf" md5="eb9f52c20c803161a263651dbcbb4fa3" sha1="10310413729403cba1393978d80f354039d1b68b"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 04).bin" size="42688800" crc="e769f894" md5="c746c6659e55b238676accc294a6253c" sha1="b29db1472b297d0f5bff1a4da30377ede9413406"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 05).bin" size="40924800" crc="198d69d0" md5="67f56b28938e83943191c0527b34bfb6" sha1="5bbeed797686229cc9280d68389c4c80325c2e78"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 06).bin" size="41806800" crc="f7e84a8e" md5="8560f5fa71cbee39a08b2196f3e73251" sha1="515b961b154925eedcb5dde0452b9079860d9598"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 07).bin" size="42688800" crc="4cba1c3c" md5="d660565b4d1f275402eaa189704301cd" sha1="bddd6ce21bb9ae0b2234d67870f1b27deda34687"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 08).bin" size="40924800" crc="1cd8b7d6" md5="d0dacc4fc00cae61c5cdf91f2bcf0186" sha1="019f380205c433b031fd52e3fcb017a0d83b447c"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 09).bin" size="44629200" crc="ad1fe0d5" md5="b25ebf3682040586893253ce5583aba4" sha1="fe77dc55b1340bfcba41ab87877508a2f9dc21dd"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 10).bin" size="40924800" crc="09ecdada" md5="007907b519c14c905f1ec73d9d5164ae" sha1="1be708b134482bf68354cec47826cce5f405cfea"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 11).bin" size="43570800" crc="786b2389" md5="a51c1681cba56e222b3e485373c3f8bd" sha1="ee423d23209f3370d040bfbef59632e691c13202"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 12).bin" size="42512400" crc="106d3c3f" md5="a46407933356d79170dede29cf0032e6" sha1="0cc9c4c7d07ea0a43581af02f633c4afb8b32690"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 13).bin" size="46393200" crc="cae41412" md5="08d704ea146ad81da708cac336a749dd" sha1="6edc0485993043390a91e5c94c5ced1e0e4fcaa2"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 14).bin" size="2293200" crc="3c56dfd3" md5="e328644821e41d364022ddc96f7c7b46" sha1="b0f9277f443643c2389e03f4e5c5c406e658e020"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 15).bin" size="1587600" crc="e4b02e95" md5="062fb8293d5645b6645da6659ffe32c7" sha1="78c36b55cc5d6f72a3e16f83ecf89ec7bd628feb"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 16).bin" size="2293200" crc="4c22c63a" md5="721d3a2066372e2abf809f1177f6063e" sha1="be32733bd034d57502dae57c32fb76bbb0cd41fd"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan) (Track 17).bin" size="42512400" crc="966a7b42" md5="a903fb9c69c4bf75f686e4e9b96b8b96" sha1="7a3b90590b4b5bcfe4ba1ab6f06da26b6a13e58f"/>
-		<rom name="Arabesque - Shoujo-tachi no Orinasu Ai no Monogatari (Japan).cue" size="2617" crc="02f4118f" md5="4dc7a93a939170670542732ce708ac55" sha1="cca26382434d5123921b62bb958cf4983dfaad83"/>
+		<description>Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan)</description>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 01).bin" size="20815200" crc="d0dde34d" md5="51769e3dad2c8604a53b34f42d38cc6f" sha1="72d5c9e6e578a2e0faf63ca7088d7673f050b145"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 02).bin" size="44805600" crc="54efca78" md5="1fefc4831f5ccbb1ebab9da51c74d821" sha1="2cd283b0445590468c92cca1a0888e38c22d6bd1"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 03).bin" size="43041600" crc="6e8cb4cf" md5="eb9f52c20c803161a263651dbcbb4fa3" sha1="10310413729403cba1393978d80f354039d1b68b"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 04).bin" size="42688800" crc="e769f894" md5="c746c6659e55b238676accc294a6253c" sha1="b29db1472b297d0f5bff1a4da30377ede9413406"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 05).bin" size="40924800" crc="198d69d0" md5="67f56b28938e83943191c0527b34bfb6" sha1="5bbeed797686229cc9280d68389c4c80325c2e78"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 06).bin" size="41806800" crc="f7e84a8e" md5="8560f5fa71cbee39a08b2196f3e73251" sha1="515b961b154925eedcb5dde0452b9079860d9598"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 07).bin" size="42688800" crc="4cba1c3c" md5="d660565b4d1f275402eaa189704301cd" sha1="bddd6ce21bb9ae0b2234d67870f1b27deda34687"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 08).bin" size="40924800" crc="1cd8b7d6" md5="d0dacc4fc00cae61c5cdf91f2bcf0186" sha1="019f380205c433b031fd52e3fcb017a0d83b447c"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 09).bin" size="44629200" crc="ad1fe0d5" md5="b25ebf3682040586893253ce5583aba4" sha1="fe77dc55b1340bfcba41ab87877508a2f9dc21dd"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 10).bin" size="40924800" crc="09ecdada" md5="007907b519c14c905f1ec73d9d5164ae" sha1="1be708b134482bf68354cec47826cce5f405cfea"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 11).bin" size="43570800" crc="786b2389" md5="a51c1681cba56e222b3e485373c3f8bd" sha1="ee423d23209f3370d040bfbef59632e691c13202"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 12).bin" size="42512400" crc="106d3c3f" md5="a46407933356d79170dede29cf0032e6" sha1="0cc9c4c7d07ea0a43581af02f633c4afb8b32690"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 13).bin" size="46393200" crc="cae41412" md5="08d704ea146ad81da708cac336a749dd" sha1="6edc0485993043390a91e5c94c5ced1e0e4fcaa2"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 14).bin" size="2293200" crc="3c56dfd3" md5="e328644821e41d364022ddc96f7c7b46" sha1="b0f9277f443643c2389e03f4e5c5c406e658e020"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 15).bin" size="1587600" crc="e4b02e95" md5="062fb8293d5645b6645da6659ffe32c7" sha1="78c36b55cc5d6f72a3e16f83ecf89ec7bd628feb"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 16).bin" size="2293200" crc="4c22c63a" md5="721d3a2066372e2abf809f1177f6063e" sha1="be32733bd034d57502dae57c32fb76bbb0cd41fd"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan) (Track 17).bin" size="42512400" crc="966a7b42" md5="a903fb9c69c4bf75f686e4e9b96b8b96" sha1="7a3b90590b4b5bcfe4ba1ab6f06da26b6a13e58f"/>
+		<rom name="Arabesque - Shoujotachi no Orinasu Ai no Monogatari (Japan).cue" size="2600" crc="c8d56935" md5="9ab29da204adf946690a28d408050dd8" sha1="4c7952d8009ec8937bc07679e9603d30e1f2169d"/>
 	</game>
 	<game name="Arquelphos (Japan)">
 		<category>Games</category>
@@ -2093,19 +2093,19 @@
 		<rom name="Doukyuusei 2 (Japan).bin" size="31399200" crc="5af54e56" md5="7075465267ffee707fad3ff2219946cc" sha1="cf8be8c4bd08faa2e5aeeac0ab50fffa18e99d7f"/>
 		<rom name="Doukyuusei 2 (Japan).cue" size="109" crc="09b92f38" md5="f61311c728c9b756094fcb4b054a6ea9" sha1="d7e9c1e93922de8ff7fc12db1bfd26bd6fa75716"/>
 	</game>
-	<game name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan)">
+	<game name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan)">
 		<category>Games</category>
-		<description>Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan)</description>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 1).bin" size="10231200" crc="2255328c" md5="f2613eb927700d9c5b9ea21c359ffdd3" sha1="72de510b3ba1173cb809befa3de3b32838c518a8"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 2).bin" size="49921200" crc="55813a81" md5="f242d92b249992b47e75b7d1f13d3899" sha1="239f91a2e4dfa1494d080aad2c43c1bdf6ade158"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 3).bin" size="39690000" crc="69ea0568" md5="d61a6f19a3677780f48f829c6bba0d80" sha1="5f0b0827bf50d153213106d0f7863528145c65a8"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 4).bin" size="18169200" crc="76305cf7" md5="b82dcf997e9f1d9c7df8318405a01407" sha1="fc946cea8b28842657ec52133d2f554eaef9d5d9"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 5).bin" size="37926000" crc="4835e60b" md5="4aaf0728cba85ba9d643d74bc31009fb" sha1="2a3cab192a3e314be2756eed4ccf8ef2a1346a16"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 6).bin" size="19404000" crc="88b26112" md5="51d54a5d0ec5e461daf1ec1768c9ffc6" sha1="0e874c0acc0f3a8320259fb6599425d8f5ed29f8"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 7).bin" size="26636400" crc="43a78467" md5="bc22b7f5e0264e07fac23d0a4f15c4e2" sha1="47e38ded387ba21b3a630c48092864ccbe96f5e6"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 8).bin" size="30870000" crc="3f3c70dc" md5="245562ad433a47addefc91fa95d5cf7e" sha1="539c22f7ccce658ecc0af316ccf290fd218d8f99"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan) (Track 9).bin" size="43747200" crc="04bd8701" md5="c249577a44968bf48033c1b7b355234c" sha1="18a08d656acd100e5e65fcd8446b04abcb963dea"/>
-		<rom name="Dracula Hakushaku - Bishoujo-tachi no Chi no Shitatari (Japan).cue" size="1386" crc="56362c0e" md5="60ef52177ef956ed750915e659198e12" sha1="a59a6af26679604460a8c4f183e15db79d75792d"/>
+		<description>Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan)</description>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 1).bin" size="10231200" crc="2255328c" md5="f2613eb927700d9c5b9ea21c359ffdd3" sha1="72de510b3ba1173cb809befa3de3b32838c518a8"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 2).bin" size="49921200" crc="55813a81" md5="f242d92b249992b47e75b7d1f13d3899" sha1="239f91a2e4dfa1494d080aad2c43c1bdf6ade158"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 3).bin" size="39690000" crc="69ea0568" md5="d61a6f19a3677780f48f829c6bba0d80" sha1="5f0b0827bf50d153213106d0f7863528145c65a8"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 4).bin" size="18169200" crc="76305cf7" md5="b82dcf997e9f1d9c7df8318405a01407" sha1="fc946cea8b28842657ec52133d2f554eaef9d5d9"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 5).bin" size="37926000" crc="4835e60b" md5="4aaf0728cba85ba9d643d74bc31009fb" sha1="2a3cab192a3e314be2756eed4ccf8ef2a1346a16"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 6).bin" size="19404000" crc="88b26112" md5="51d54a5d0ec5e461daf1ec1768c9ffc6" sha1="0e874c0acc0f3a8320259fb6599425d8f5ed29f8"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 7).bin" size="26636400" crc="43a78467" md5="bc22b7f5e0264e07fac23d0a4f15c4e2" sha1="47e38ded387ba21b3a630c48092864ccbe96f5e6"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 8).bin" size="30870000" crc="3f3c70dc" md5="245562ad433a47addefc91fa95d5cf7e" sha1="539c22f7ccce658ecc0af316ccf290fd218d8f99"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan) (Track 9).bin" size="43747200" crc="04bd8701" md5="c249577a44968bf48033c1b7b355234c" sha1="18a08d656acd100e5e65fcd8446b04abcb963dea"/>
+		<rom name="Dracula Hakushaku - Bishoujotachi no Chi no Shitatari (Japan).cue" size="1377" crc="8141c015" md5="4e3071bdd3a6b8e7828c1f7874475a8f" sha1="215607c50f795880668cfe0ecd77d5c1fcda31d6"/>
 	</game>
 	<game name="Dragon Half (Japan)">
 		<category>Games</category>
@@ -2457,11 +2457,11 @@
 		<rom name="Empereur, L' (Japan) (Track 15).bin" size="63456960" crc="6db6f726" md5="012b320de8ab7c71540e91263c269cdf" sha1="a0e7eb19fdbec26fa63553c3df99ec129c8e0c98"/>
 		<rom name="Empereur, L' (Japan).cue" size="1707" crc="6f47c6c9" md5="f41005f69ec4eac82f342177de44b0d7" sha1="95cd6e82ba5411c1810a462f92f1fa4c1c0870ba"/>
 	</game>
-	<game name="Engage Errands - Miwaku no Shito-tachi (Japan)">
+	<game name="Engage Errands - Miwaku no Shitotachi (Japan)">
 		<category>Games</category>
-		<description>Engage Errands - Miwaku no Shito-tachi (Japan)</description>
-		<rom name="Engage Errands - Miwaku no Shito-tachi (Japan).bin" size="11830560" crc="9b67dee3" md5="717e1b9d87ada9d90afbb3afece2819f" sha1="8444dd607590423db9c13012d279b3896585447e"/>
-		<rom name="Engage Errands - Miwaku no Shito-tachi (Japan).cue" size="135" crc="fb2c3e0f" md5="803b94121e0293f7257b100ea9312a61" sha1="6b3df2776a482c76ee3b9f55744ac1a847c5040d"/>
+		<description>Engage Errands - Miwaku no Shitotachi (Japan)</description>
+		<rom name="Engage Errands - Miwaku no Shitotachi (Japan).bin" size="11830560" crc="9b67dee3" md5="717e1b9d87ada9d90afbb3afece2819f" sha1="8444dd607590423db9c13012d279b3896585447e"/>
+		<rom name="Engage Errands - Miwaku no Shitotachi (Japan).cue" size="134" crc="0099d55f" md5="3b4380c1a4c0caccc13490bb3cc059f2" sha1="4921b8f8b800074e2d621aade76322c39d2b518a"/>
 	</game>
 	<game name="Engage Errands II - Kouki o Ninau Mono (Japan)">
 		<category>Games</category>
@@ -8987,17 +8987,17 @@
 		<rom name="Tensen Nyannyan (Japan).bin" size="8674176" crc="28fe9ca1" md5="94925f06e456de6407feb2c8dd28d0ec" sha1="e6e31bbe61ae27d2ba4a23ced5c363f9f2f8efd5"/>
 		<rom name="Tensen Nyannyan (Japan).cue" size="112" crc="db5d455d" md5="5eeee433a064d6651890c6a27847cd21" sha1="122d263d47c5d0772ce144295d45b044fdfd958a"/>
 	</game>
-	<game name="Tenshi-tachi no Gogo - Tenkousei (Japan)">
-		<category>Games</category>
-		<description>Tenshi-tachi no Gogo - Tenkousei (Japan)</description>
-		<rom name="Tenshi-tachi no Gogo - Tenkousei (Japan).bin" size="11830560" crc="a2eefd11" md5="e83129846a985e9900ca90235a7334c5" sha1="2f66d604173cf9a0ed62d239c46313e040f7a0a4"/>
-		<rom name="Tenshi-tachi no Gogo - Tenkousei (Japan).cue" size="129" crc="2d7020a4" md5="ae35cc28269df075d1c7554f61203f27" sha1="fc615bcbb72ab4eb2c562dc09acfac255e46d61d"/>
-	</game>
 	<game name="Tenshin Ranma (Japan)">
 		<category>Games</category>
 		<description>Tenshin Ranma (Japan)</description>
 		<rom name="Tenshin Ranma (Japan).bin" size="10231200" crc="d886d832" md5="bfdd7dac2c747bc0117addba6c0b60e4" sha1="106036b5b730478e6bc7626d12b40f07f0a60903"/>
 		<rom name="Tenshin Ranma (Japan).cue" size="110" crc="24157ac7" md5="68e90a4b72115663362a84dcab83f592" sha1="1e875712a4cf447e3bcd61ec355d87715d04cd8a"/>
+	</game>
+	<game name="Tenshitachi no Gogo - Tenkousei (Japan)">
+		<category>Games</category>
+		<description>Tenshitachi no Gogo - Tenkousei (Japan)</description>
+		<rom name="Tenshitachi no Gogo - Tenkousei (Japan).bin" size="11830560" crc="a2eefd11" md5="e83129846a985e9900ca90235a7334c5" sha1="2f66d604173cf9a0ed62d239c46313e040f7a0a4"/>
+		<rom name="Tenshitachi no Gogo - Tenkousei (Japan).cue" size="128" crc="6beee479" md5="532875a1b1478f33998c4f41c7ef01db" sha1="9fb049eff9760ede84eae132c545486f7c7e0bd6"/>
 	</game>
 	<game name="Teo - Mou Hitotsu no Chikyuu (Japan) (Version 2.0)">
 		<category>Games</category>
@@ -9625,15 +9625,15 @@
 		<rom name="Vanishing Point - Tenshi no Kieta Machi (Japan).bin" size="6164592" crc="83997448" md5="22012be6991bd190f865374cc6151532" sha1="73b2b892f007606f7dcf27d938aac7db2632a47a"/>
 		<rom name="Vanishing Point - Tenshi no Kieta Machi (Japan).cue" size="136" crc="26d8865e" md5="9cae1b60d1197dd985f5adf3f22f2b0f" sha1="aadee167b6c0c1cf45f8076d15f73d2b6669743b"/>
 	</game>
-	<game name="Vastness - Kuukyo no Ikenie-tachi (Japan)">
+	<game name="Vastness - Kuukyo no Ikenietachi (Japan)">
 		<category>Games</category>
-		<description>Vastness - Kuukyo no Ikenie-tachi (Japan)</description>
-		<rom name="Vastness - Kuukyo no Ikenie-tachi (Japan) (Track 1).bin" size="10231200" crc="ca6a503d" md5="bc09997bd10716d9dd99944a7cff5016" sha1="688f246987699717d7a3caa49914c34e5c2637ec"/>
-		<rom name="Vastness - Kuukyo no Ikenie-tachi (Japan) (Track 2).bin" size="5731824" crc="65e978bf" md5="703dbdf9db95e09ad0b813eddf83306e" sha1="3bbb11f1180f0985225e774a6664badeb11fbd51"/>
-		<rom name="Vastness - Kuukyo no Ikenie-tachi (Japan) (Track 3).bin" size="232466976" crc="befe530a" md5="1057ef828d287fc7d1a091679ad801fb" sha1="99717ae81e6b5dc9b7f09bfdd7ed14f541f90428"/>
-		<rom name="Vastness - Kuukyo no Ikenie-tachi (Japan) (Track 4).bin" size="123978624" crc="dbd4fc08" md5="fa7b9fcd6f524aa2cc7d6f5085837c52" sha1="af28b6e43f566c5d07d9af67826cbec7a379c4c7"/>
-		<rom name="Vastness - Kuukyo no Ikenie-tachi (Japan) (Track 5).bin" size="91257600" crc="2ce807e4" md5="01b508a6cef103adc95e50b562561754" sha1="8a25b2ddd808f4403a854e3d9db0f92464ca3052"/>
-		<rom name="Vastness - Kuukyo no Ikenie-tachi (Japan).cue" size="657" crc="aad2990f" md5="d81ef777aaf26df549e39326fc56686b" sha1="4e750c468bccb248fab521e20a4d55a422b5490d"/>
+		<description>Vastness - Kuukyo no Ikenietachi (Japan)</description>
+		<rom name="Vastness - Kuukyo no Ikenietachi (Japan) (Track 1).bin" size="10231200" crc="ca6a503d" md5="bc09997bd10716d9dd99944a7cff5016" sha1="688f246987699717d7a3caa49914c34e5c2637ec"/>
+		<rom name="Vastness - Kuukyo no Ikenietachi (Japan) (Track 2).bin" size="5731824" crc="65e978bf" md5="703dbdf9db95e09ad0b813eddf83306e" sha1="3bbb11f1180f0985225e774a6664badeb11fbd51"/>
+		<rom name="Vastness - Kuukyo no Ikenietachi (Japan) (Track 3).bin" size="232466976" crc="befe530a" md5="1057ef828d287fc7d1a091679ad801fb" sha1="99717ae81e6b5dc9b7f09bfdd7ed14f541f90428"/>
+		<rom name="Vastness - Kuukyo no Ikenietachi (Japan) (Track 4).bin" size="123978624" crc="dbd4fc08" md5="fa7b9fcd6f524aa2cc7d6f5085837c52" sha1="af28b6e43f566c5d07d9af67826cbec7a379c4c7"/>
+		<rom name="Vastness - Kuukyo no Ikenietachi (Japan) (Track 5).bin" size="91257600" crc="2ce807e4" md5="01b508a6cef103adc95e50b562561754" sha1="8a25b2ddd808f4403a854e3d9db0f92464ca3052"/>
+		<rom name="Vastness - Kuukyo no Ikenietachi (Japan).cue" size="652" crc="a7ba2d52" md5="60cc924aae52e3705e0d4e985d3b54f4" sha1="71b8cbed400969a63ba98bc9981e060b82b5ffda"/>
 	</game>
 	<game name="Veil of Darkness - Norowareta Yogen (Japan)">
 		<category>Games</category>
@@ -10124,23 +10124,23 @@
 		<rom name="Youjuu Senki - A. D. 2048 (Japan).bin" size="73735200" crc="c564c47f" md5="b86fd8a3315b41bbfce41c5dbf5066a8" sha1="74cb81be807b323f0abf8de633ae4c00dfe9b486"/>
 		<rom name="Youjuu Senki - A. D. 2048 (Japan).cue" size="99" crc="d38cd71e" md5="a5724b39f59ea2a3612e352154efd2c3" sha1="71624d614c2b9938ec37be306882c3b0427cabb3"/>
 	</game>
-	<game name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan)">
+	<game name="Youjuu Senki 2 - Reimei no Senshitachi (Japan)">
 		<category>Games</category>
-		<description>Youjuu Senki 2 - Reimei no Senshi-tachi (Japan)</description>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 01).bin" size="245104272" crc="eaf647b7" md5="3ef5f08277a8a7ffe47274c19941f2a1" sha1="cd8ad09cfbd77af4bdc14c87cf3a40f95d5693e0"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 02).bin" size="27421968" crc="01ffa5b8" md5="6be025b091b3b68261ac8cde76f08dc7" sha1="fb6f409029df70a25b91cf63fddd15f22f57618f"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 03).bin" size="21304416" crc="a8a49409" md5="8f0aa25d8cdb7715b7c2b7c65242c1e0" sha1="6a4fa97b448e00e7a0f3aca1c8b1b8fbf8fb3d70"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 04).bin" size="29240064" crc="8e56a2d5" md5="e7cfb339a99489b955c34ee0031e0932" sha1="00eca09b1c442e4ca6047511650974b5b22e3aa8"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 05).bin" size="31634400" crc="547bec0d" md5="935bcbd3a365603c203ed82e9b5fc4aa" sha1="5167d5ee996ed8db4094c73e8b240ff38a978e7f"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 06).bin" size="41877360" crc="1b56f87a" md5="becc9939eccce153f6f828406745c1b4" sha1="00343ee6bb85f4af0f55cfc554324383d14647bc"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 07).bin" size="37817808" crc="e0009c74" md5="766bb0d3027432f6ab3855921f88fae1" sha1="1f49b162cf913429530d007483246f7ff27b3e05"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 08).bin" size="30418416" crc="d2031484" md5="bcf34dd9cc0883540e392fa2251d9860" sha1="83190a6ec4773b857ec8f8c45eb32e24906f5821"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 09).bin" size="29000160" crc="77290d48" md5="b8f3e8273758b2590d823f5c76177571" sha1="11587e4fef756f033a9507c9a89fee8d4336e137"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 10).bin" size="41778576" crc="b1ed8767" md5="b18cde4a7870af75ef589d78c22f9547" sha1="53f36fe9ca460f980a66502856b46eaab48d612a"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 11).bin" size="40562592" crc="6090e013" md5="30b58b71e4f97e2d4f35d32dbc079b6a" sha1="021fd651bb35cb76b71e5ca90dfa8df3ea2a8b27"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 12).bin" size="43001616" crc="5d47a747" md5="176ecc2d7a15f22183d249e5f2b499ce" sha1="55a4b0925d0a52c24248fe864c0892dcf8df2d6a"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan) (Track 13).bin" size="30646560" crc="1241e2db" md5="65fff0ec288e439784aeade05ab52c59" sha1="c189de3cb6bf93d1b90159499cd35611faeb9f0e"/>
-		<rom name="Youjuu Senki 2 - Reimei no Senshi-tachi (Japan).cue" size="1575" crc="ebb77713" md5="8e1ba6dafa0a291b0dcc4014ec705a2e" sha1="881d04c4e6938dd301f3acfdf9139f2a56a9e000"/>
+		<description>Youjuu Senki 2 - Reimei no Senshitachi (Japan)</description>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 01).bin" size="245104272" crc="eaf647b7" md5="3ef5f08277a8a7ffe47274c19941f2a1" sha1="cd8ad09cfbd77af4bdc14c87cf3a40f95d5693e0"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 02).bin" size="27421968" crc="01ffa5b8" md5="6be025b091b3b68261ac8cde76f08dc7" sha1="fb6f409029df70a25b91cf63fddd15f22f57618f"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 03).bin" size="21304416" crc="a8a49409" md5="8f0aa25d8cdb7715b7c2b7c65242c1e0" sha1="6a4fa97b448e00e7a0f3aca1c8b1b8fbf8fb3d70"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 04).bin" size="29240064" crc="8e56a2d5" md5="e7cfb339a99489b955c34ee0031e0932" sha1="00eca09b1c442e4ca6047511650974b5b22e3aa8"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 05).bin" size="31634400" crc="547bec0d" md5="935bcbd3a365603c203ed82e9b5fc4aa" sha1="5167d5ee996ed8db4094c73e8b240ff38a978e7f"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 06).bin" size="41877360" crc="1b56f87a" md5="becc9939eccce153f6f828406745c1b4" sha1="00343ee6bb85f4af0f55cfc554324383d14647bc"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 07).bin" size="37817808" crc="e0009c74" md5="766bb0d3027432f6ab3855921f88fae1" sha1="1f49b162cf913429530d007483246f7ff27b3e05"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 08).bin" size="30418416" crc="d2031484" md5="bcf34dd9cc0883540e392fa2251d9860" sha1="83190a6ec4773b857ec8f8c45eb32e24906f5821"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 09).bin" size="29000160" crc="77290d48" md5="b8f3e8273758b2590d823f5c76177571" sha1="11587e4fef756f033a9507c9a89fee8d4336e137"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 10).bin" size="41778576" crc="b1ed8767" md5="b18cde4a7870af75ef589d78c22f9547" sha1="53f36fe9ca460f980a66502856b46eaab48d612a"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 11).bin" size="40562592" crc="6090e013" md5="30b58b71e4f97e2d4f35d32dbc079b6a" sha1="021fd651bb35cb76b71e5ca90dfa8df3ea2a8b27"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 12).bin" size="43001616" crc="5d47a747" md5="176ecc2d7a15f22183d249e5f2b499ce" sha1="55a4b0925d0a52c24248fe864c0892dcf8df2d6a"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan) (Track 13).bin" size="30646560" crc="1241e2db" md5="65fff0ec288e439784aeade05ab52c59" sha1="c189de3cb6bf93d1b90159499cd35611faeb9f0e"/>
+		<rom name="Youjuu Senki 2 - Reimei no Senshitachi (Japan).cue" size="1562" crc="fcc9f7ad" md5="c0670dfb66512dc78d77d5b1a1ec9ae0" sha1="c9d047c8240ebd71ec32187bbe3e8982a4f35735"/>
 	</game>
 	<game name="Yubiwa Monogatari Daiikkan - Tabi no Nakama (Japan)">
 		<category>Games</category>

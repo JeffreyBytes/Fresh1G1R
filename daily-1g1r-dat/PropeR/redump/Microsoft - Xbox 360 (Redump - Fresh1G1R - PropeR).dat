@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,560) (-y) [-aAbBcdkmMpPuv] (2026-04-05 18-09-14) (Retool)</description>
-		<version>2026-04-05 18-09-14</version>
-		<date>2026-04-06 05-10-12</date>
+		<description>Microsoft - Xbox 360 (1,561) (-y) [-aAbBcdkmMpPuv] (2026-04-07 00-19-29) (Retool)</description>
+		<version>2026-04-07 00-19-29</version>
+		<date>2026-04-07 05-00-35</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4031,10 +4031,10 @@
 		<description>Lost Planet 3 (World) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)</description>
 		<rom name="Lost Planet 3 (World) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).iso" size="8738846720" crc="ccecd208" md5="144b9f18b2e35f98671f9578f5d16e5b" sha1="0cd3d65dbfee24c59a78dab90010bf584d3a951f"/>
 	</game>
-	<game name="Love Football - Aoki Senshi-tachi no Kiseki (Japan)">
+	<game name="Love Football - Aoki Senshitachi no Kiseki (Japan)">
 		<category>Games</category>
-		<description>Love Football - Aoki Senshi-tachi no Kiseki (Japan)</description>
-		<rom name="Love Football - Aoki Senshi-tachi no Kiseki (Japan).iso" size="7834892288" crc="40e7fc04" md5="d2820a4d4d104288800c90d26f448a21" sha1="97f8f5dc6adaba348d390196a5ebb87ef432f6dc"/>
+		<description>Love Football - Aoki Senshitachi no Kiseki (Japan)</description>
+		<rom name="Love Football - Aoki Senshitachi no Kiseki (Japan).iso" size="7834892288" crc="40e7fc04" md5="d2820a4d4d104288800c90d26f448a21" sha1="97f8f5dc6adaba348d390196a5ebb87ef432f6dc"/>
 	</game>
 	<game name="Love Tore - Bitter (Japan)">
 		<category>Games</category>
@@ -5216,10 +5216,10 @@
 		<description>No Fate! Only the Power of Will (Japan)</description>
 		<rom name="No Fate! Only the Power of Will (Japan).iso" size="7838695424" crc="2f6dd8d7" md5="e0f450e363b32c486f2f81f1842005e6" sha1="3a828fd3558ebedde40b7b9004024b5bb3fee994"/>
 	</game>
-	<game name="No More Heroes - Eiyuu-tachi no Rakuen (Japan)">
+	<game name="No More Heroes - Eiyuutachi no Rakuen (Japan)">
 		<category>Games</category>
-		<description>No More Heroes - Eiyuu-tachi no Rakuen (Japan)</description>
-		<rom name="No More Heroes - Eiyuu-tachi no Rakuen (Japan).iso" size="7838695424" crc="60f2f1de" md5="0c1cd5b990cf95a059f2953fc464d83a" sha1="1041b9735be7f279ac26cea4247589a5d60760f7"/>
+		<description>No More Heroes - Eiyuutachi no Rakuen (Japan)</description>
+		<rom name="No More Heroes - Eiyuutachi no Rakuen (Japan).iso" size="7838695424" crc="60f2f1de" md5="0c1cd5b990cf95a059f2953fc464d83a" sha1="1041b9735be7f279ac26cea4247589a5d60760f7"/>
 	</game>
 	<game name="Nobunaga no Yabou - Tendou (Japan)">
 		<category>Games</category>
@@ -5250,6 +5250,11 @@
 		<category>Games</category>
 		<description>Onechanbara - Bikini Samurai Squad (USA, Europe) (En,Fr)</description>
 		<rom name="Onechanbara - Bikini Samurai Squad (USA, Europe) (En,Fr).iso" size="7835492352" crc="5b02d0c4" md5="0d6dac090da9e64c3d084634cbe1436b" sha1="f6391aed722aa0653fd798a389017453af793350"/>
+	</game>
+	<game name="Oneechanbara VorteX - Imichi o Tsugu Monotachi (Japan)">
+		<category>Games</category>
+		<description>Oneechanbara VorteX - Imichi o Tsugu Monotachi (Japan)</description>
+		<rom name="Oneechanbara VorteX - Imichi o Tsugu Monotachi (Japan).iso" size="7834892288" crc="fdf15537" md5="a1c8c272378c3ac0bae34c61ff0fc0aa" sha1="13cfb703350719c4e22cfd83100d100e94cb661f"/>
 	</game>
 	<game name="Oneechanbara Z - Kagura (Japan)">
 		<category>Games</category>
