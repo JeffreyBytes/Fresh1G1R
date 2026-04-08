@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Pocket PC (Retool)</name>
-		<description>Pocket PC (39) (-y) [-aAbBcefkmMoprv] (2026-04-03 20-02-56) (Retool)</description>
-		<version>2026-04-03 20-02-56</version>
-		<date>2026-04-07 04-48-53</date>
+		<description>Pocket PC (40) (-y) [-aAbBcefkmMoprv] (2026-04-08 00-01-56) (Retool)</description>
+		<version>2026-04-08 00-01-56</version>
+		<date>2026-04-08 04-49-21</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -82,6 +82,12 @@
 		<description>Metalion (USA)</description>
 		<rom name="Metalion (USA).bin" size="33113808" crc="87c782e3" md5="505eeddc73673c679c55cc23c26ddce5" sha1="8ffb00a7e6d5505324d2d92d2344abf666926927"/>
 		<rom name="Metalion (USA).cue" size="80" crc="97e8751e" md5="8d5d6664c9eac4dbb83f72b5fb651960" sha1="2386c25c2e65c1eb605c93eb4798a78d57b17b17"/>
+	</game>
+	<game name="Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16)">
+		<category>Preproduction</category>
+		<description>Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16)</description>
+		<rom name="Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16).bin" size="147929040" crc="38073d77" md5="a786d865e20ca64d40d377324c6a9cbd" sha1="c95df44cc4d9a843508acdc8f2d6a449ce89379f"/>
+		<rom name="Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16).cue" size="139" crc="9faa6baf" md5="7e7bb416b4062a35b8fee430ccebff92" sha1="5724eaf9764e749c21027fba002dd13b974dcf12"/>
 	</game>
 	<game name="Microsoft Entertainment Pack 2.0 for Windows CE (USA)">
 		<category>Games</category>

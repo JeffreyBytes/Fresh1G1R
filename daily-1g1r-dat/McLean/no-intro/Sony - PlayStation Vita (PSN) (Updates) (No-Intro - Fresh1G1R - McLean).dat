@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Updates) (601) (-ly) [-aAbBcdDefkmMopPruv] (20250724-193756) (Retool)</description>
-		<version>20250724-193756</version>
-		<date>2026-04-07 04-59-20</date>
-		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, UnlockerPT</author>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (637) (-ly) [-aAbBcdDefkmMopPruv] (20260406-180813) (Retool)</description>
+		<version>20260406-180813</version>
+		<date>2026-04-08 04-57-20</date>
+		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, root, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -299,6 +299,18 @@
 		<game_id>UP2500-PCSE01368_00-US0BOFTHES00VITA</game_id>
 		<rom name="UP2500-PCSE01368_00-US0BOFTHES00VITA-A0101-V0100-29e51b792474ade2af377871d12b880bf43ad779-PE.pkg" size="22729408" crc="33e8fc9e" md5="cc7728b71c3ecc72e9816ac04779d775" sha1="b2c5d0acc69a550101208ea7af2cdced41a38c52"/>
 	</game>
+	<game name="Borderlands 2 (Europe) (En,Fr,De) (v1.01) (Update) (Dupe 1)" id="00045">
+		<category>Games</category>
+		<description>Borderlands 2 (Europe) (En,Fr,De) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>EP9000-PCSF00570_00-BORDERLANDS2PSV1</game_id>
+		<rom name="EP9000-PCSF00570_00-BORDERLANDS2PSV1-A0101-V0100-9fd6d4231f2508cb8f8e643239c3696dcbf24abf-PE.pkg" size="321807584" crc="660863f1" md5="566b0cbb1b00266b5759c0d580d467bc" sha1="c366d396229004edf5949d5358c292b0ab2dfbcd"/>
+	</game>
+	<game name="Borderlands 2 (Europe) (En,Fr,De) (v1.05) (Patch) (Dupe 1)" id="00049">
+		<category>Games</category>
+		<description>Borderlands 2 (Europe) (En,Fr,De) (v1.05) (Patch) (Dupe 1)</description>
+		<game_id>EP9000-PCSF00570_00-BORDERLANDS2PSV1</game_id>
+		<rom name="EP9000-PCSF00570_00-BORDERLANDS2PSV1-A0105-V0100-c51abe66864b25953e1de3e2a493cf87f6522662-SP-PE.pkg" size="67983344" crc="02fdf015" md5="db0692ab977a4bd303e995070e9b1e3e" sha1="3b97fbcbd6d3bb90b9da26456e4990c408541a20"/>
+	</game>
 	<game name="Borderlands 2 (USA) (En,Fr,De,Es,It) (v1.09) (Patch)" id="01429">
 		<category>Games</category>
 		<description>Borderlands 2 (USA) (En,Fr,De,Es,It) (v1.09) (Patch)</description>
@@ -533,6 +545,12 @@
 		<game_id>UP1056-PCSE00792_00-DARIUSBURSTCS0US</game_id>
 		<rom name="UP1056-PCSE00792_00-DARIUSBURSTCS0US-A0111-V0100-b5a0b4be50c1c54b5eca03a0089c2d5d52092074-PE.pkg" size="539217056" crc="634b1693" md5="f9ff031666d133d47b48873498c345d3" sha1="295845225f166e0cb59c2d56edeca7a2ec1c7d99"/>
 	</game>
+	<game name="Darkest Dungeon (USA) (v1.15) (Update) (Dupe 1)" id="02264">
+		<category>Games</category>
+		<description>Darkest Dungeon (USA) (v1.15) (Update) (Dupe 1)</description>
+		<game_id>UP2619-PCSE00919_00-RHSDDPSV00000001</game_id>
+		<rom name="UP2619-PCSE00919_00-RHSDDPSV00000001-A0115-V0101-faa0361307d9a85cde9b3b6885c70aa98485b953-PE.pkg" size="485728656" crc="cf2c1214" md5="7fc8226b53aa8748e42e20cf32006d94" sha1="09e57321e582836bdc2d100c17afbaf5bf65638f"/>
+	</game>
 	<game name="Darkest Dungeon (USA) (v1.17) (Patch)" id="03435">
 		<category>Games</category>
 		<description>Darkest Dungeon (USA) (v1.17) (Patch)</description>
@@ -598,6 +616,12 @@
 		<description>Death Tales (Asia) (v1.01) (Update)</description>
 		<game_id>HP2005-PCSH10289_00-DEATHTALES000100</game_id>
 		<rom name="HP2005-PCSH10289_00-DEATHTALES000100-A0101-V0100-2e8ca5d6e58aae3c5d5e5c79b5768126d61219f8-PE.pkg" size="149340928" crc="33a18499" md5="e22bf79055028a9c0d6520ed7042bfd4" sha1="3b47c1db792c849111899610a03c0200f784ce9c"/>
+	</game>
+	<game name="Deception IV - The Nightmare Princess (Europe) (v1.01) (Update) (Dupe 1)" id="00146">
+		<category>Games</category>
+		<description>Deception IV - The Nightmare Princess (Europe) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>EP4108-PCSB00829_00-DECEPTIONNP00000</game_id>
+		<rom name="EP4108-PCSB00829_00-DECEPTIONNP00000-A0101-V0100-d1cce57fcd46ad5acec03becc40af3b225239d3a-PE.pkg" size="282895808" crc="4b9fc26a" md5="3c4787d1e09d81b86f7c5004a5f6717d" sha1="b2af6b2aeff71c0c899a9c34fc48bada603c692a"/>
 	</game>
 	<game name="Deception IV - The Nightmare Princess (Europe) (v1.02) (Patch)" id="01686">
 		<category>Games</category>
@@ -736,6 +760,18 @@
 		<description>Disney Infinity 2.0 (Europe) (En,Fr,Es) (v1.01) (Update)</description>
 		<game_id>EP1006-PCSB00698_00-0000000004140236</game_id>
 		<rom name="EP1006-PCSB00698_00-0000000004140236-A0101-V0100-d7b2e5bdaed7c27221024d3a5d27cba32a173fa7-PE.pkg" size="23150752" crc="6d41997a" md5="331852437f358f6efea0ca04b0de8661" sha1="10c11a20aea4d5a8ed195e8c748c7925a26a2ec7"/>
+	</game>
+	<game name="Divekick (USA) (v1.01) (Update) (Dupe 1)" id="00179">
+		<category>Games</category>
+		<description>Divekick (USA) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>UP4372-PCSE00281_00-DIVEKICKPSV00001</game_id>
+		<rom name="UP4372-PCSE00281_00-DIVEKICKPSV00001-A0101-V0100-70c49d1a115a39b84237a1216aded7ba7e1529c4-PE.pkg" size="511148992" crc="eb4ca9c8" md5="a3deb612ef578702b7b6a29ac60141e5" sha1="1e62b875021ac0f8475dd645132a457424d5614e"/>
+	</game>
+	<game name="Divekick (USA) (v1.07) (Patch) (Dupe 1)" id="00184">
+		<category>Games</category>
+		<description>Divekick (USA) (v1.07) (Patch) (Dupe 1)</description>
+		<game_id>UP4372-PCSE00281_00-DIVEKICKPSV00001</game_id>
+		<rom name="UP4372-PCSE00281_00-DIVEKICKPSV00001-A0107-V0100-7ba86f6bde6bf0e08fec50b647ea249ce2d7ecf3-SP-PE.pkg" size="541529792" crc="1598cbe9" md5="c91043674f1d43561ebcd9571b1deb93" sha1="a9f234821eb7dfaf85e53cbe84f45a0dcb003ab8"/>
 	</game>
 	<game name="Divekick (USA) (v1.09) (Patch)" id="02276">
 		<category>Games</category>
@@ -1193,6 +1229,11 @@
 		<game_id>UP4836-PCSE01504_00-HABROXIA2GAMEPSV</game_id>
 		<rom name="UP4836-PCSE01504_00-HABROXIA2GAMEPSV-A0105-V0100-dca5114c11edbf74e838f6e9e4e5fdb03cd26cb8-PE.pkg" size="69255664" crc="14b3a79a" md5="f014b7bc7e7f085be9a5dfe9a3a9f7c8" sha1="cecbe4fd7fd177e17b757c16d1b07daf6c967591"/>
 	</game>
+	<game name="Halloween Forever (USA) (v1.01) (Update) (Dupe 1)" id="04051">
+		<category>Games</category>
+		<description>Halloween Forever (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP0994-PCSE01258_00-HALLOWEENFOREVNA-A0101-V0101-b77f54bf1531393728f804f34ddc536a337536a8-PE.pkg" size="37698336" crc="00f7a930" md5="38b26748386addc1b9483a5f367f7737" sha1="da4c1d0c8dbbfdb552c583c97b4e911d0a732a0d"/>
+	</game>
 	<game name="Halloween Forever (USA) (v1.02) (Patch)" id="03856">
 		<category>Games</category>
 		<description>Halloween Forever (USA) (v1.02) (Patch)</description>
@@ -1216,6 +1257,18 @@
 		<description>Hatoful Boyfriend - Holiday Star (USA) (v1.01) (Update)</description>
 		<game_id>UP3643-PCSE00776_00-HATOFULBFNPSV000</game_id>
 		<rom name="UP3643-PCSE00776_00-HATOFULBFNPSV000-A0101-V0100-d34903a10d820fdfb5fd92e0709a4c9a2787dbb8-PE.pkg" size="1524102768" crc="f97d180b" md5="47c2bad4f1a75d3bb2ed43263e52f11b" sha1="be30f4866f11580f55a6900235d79fb0e3df0bc9"/>
+	</game>
+	<game name="Helldivers (USA) (v4.03) (Update) (Dupe 1)" id="02391">
+		<category>Games</category>
+		<description>Helldivers (USA) (v4.03) (Update) (Dupe 1)</description>
+		<game_id>UP9000-PCSA00134_00-HELLDIVERSSCEA00</game_id>
+		<rom name="UP9000-PCSA00134_00-HELLDIVERSSCEA00-A0403-V0100-76fd7b64aa71be144fd68711d784ae2d75af66f1-PE.pkg" size="1690826608" crc="073d8aa0" md5="f6adbc39e951b3f35a97e10e255bf563" sha1="280114e56b997debca2c2c6278dd4eed98e755f2"/>
+	</game>
+	<game name="Helldivers (USA) (v7.01) (Patch) (Dupe 1)" id="03474">
+		<category>Games</category>
+		<description>Helldivers (USA) (v7.01) (Patch) (Dupe 1)</description>
+		<game_id>UP9000-PCSA00134_00-HELLDIVERSSCEA00</game_id>
+		<rom name="UP9000-PCSA00134_00-HELLDIVERSSCEA00-A0701-V0100-5845e7b9c98b0fbe681d7ae4db0e2336847ab1f1-SP-PE.pkg" size="11365568" crc="bfb213c9" md5="84a62cdf25254214d32bdf723965ad2f" sha1="b574ddfa1413197a4b88e62e79e24fd46be3f1de"/>
 	</game>
 	<game name="Helldivers (USA) (v7.04) (Patch)" id="03877">
 		<category>Games</category>
@@ -1432,6 +1485,17 @@
 		<description>Killer Dolls United (USA) (v1.04) (Update)</description>
 		<game_id>UP0665-PCSE01515_00-KILLERDOLLSUNVAM</game_id>
 		<rom name="UP0665-PCSE01515_00-KILLERDOLLSUNVAM-A0104-V0100-1904ab2ecb575bdc9642e8244bbd3e7005b0ebf5-PE.pkg" size="108109632" crc="304d37fc" md5="77c9b743b32ecc4f6e71474ad36aad17" sha1="adc5e34f1daa88ad58494b83fe7aa99afe660d92"/>
+	</game>
+	<game name="Killzone - Mercenary (USA) (v1.02) (Update) (Dupe 1)" id="04218">
+		<category>Games</category>
+		<description>Killzone - Mercenary (USA) (v1.02) (Update) (Dupe 1)</description>
+		<rom name="UP9000-PCSA00107_00-KZV0000000000000-A0102-V0100-941df109d78bfc17c6b751ebf0eb2a6fbda703a0-PE.pkg" size="1247311536" crc="130690fd" md5="e92d905329a78424f8068dad5bd9324a" sha1="1952d3dd4ade0d441e33c730891628106df38abb"/>
+	</game>
+	<game name="Killzone - Mercenary (USA) (v1.11) (Patch) (Dupe 1)" id="00566">
+		<category>Games</category>
+		<description>Killzone - Mercenary (USA) (v1.11) (Patch) (Dupe 1)</description>
+		<game_id>UP9000-PCSA00107_00-KZV0000000000000</game_id>
+		<rom name="UP9000-PCSA00107_00-KZV0000000000000-A0111-V0100-a216cd6a6e4b037c82d18e87c0afab06afb62d73-SP-PE.pkg" size="16935232" crc="81e90b8b" md5="2d89354699a916132a92eee57c0a5b99" sha1="8e9ed8630db26cd5f4df8fcd702ca6a4075237bb"/>
 	</game>
 	<game name="Killzone - Mercenary (USA) (v1.12) (Patch)" id="01508">
 		<category>Games</category>
@@ -1739,6 +1803,12 @@
 		<game_id>UP1675-PCSE01221_00-SYPSVMETROPOLISL</game_id>
 		<rom name="UP1675-PCSE01221_00-SYPSVMETROPOLISL-A0103-V0100-6e267e41073bfe3c935c18da4f000479c6ccc635-PE.pkg" size="32914688" crc="a103838f" md5="d0f2cabc93d129e78a961aac130135d3" sha1="01117eee51741d87db67395cf540f9c8b1a865f1" sha256="27456387419df8a57ccebce8f61cf382d71c7bf0ba2317d8ffbae0d2bc3fe5d1"/>
 	</game>
+	<game name="Minecraft - PlayStation Vita Edition (USA) (v1.77) (Update) (Dupe 1)" id="03057">
+		<category>Games</category>
+		<description>Minecraft - PlayStation Vita Edition (USA) (v1.77) (Update) (Dupe 1)</description>
+		<game_id>UP4433-PCSE00491_00-MINECRAFTVIT0000</game_id>
+		<rom name="UP4433-PCSE00491_00-MINECRAFTVIT0000-A0177-V0100-7dab833259921df6ca3a61a8002f67406fedc99a-PE.pkg" size="1204661440" crc="1fb7dfed" md5="341116f887915001edfa1e400ada53a5" sha1="dd8aa5205345528887919e5eda67274619dd485c" sha256="1e716c5ff7d0aef72bcca70896df031e96f57f2c9dfc9a70355cc91674d0a46c"/>
+	</game>
 	<game name="Minecraft - PlayStation Vita Edition (USA) (v1.84) (Patch)" id="03550">
 		<category>Games</category>
 		<description>Minecraft - PlayStation Vita Edition (USA) (v1.84) (Patch)</description>
@@ -1774,6 +1844,11 @@
 		<description>ModNation Racers - Road Trip (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru) (v1.01) (Update)</description>
 		<game_id>UP9000-PCSA00001_00-MNRV000000000000</game_id>
 		<rom name="UP9000-PCSA00001_00-MNRV000000000000-A0101-V0101-ad187b2769bfce5b9ff9827c6144955ca676177f-PE.pkg" size="86576176" crc="f3617cc7" md5="65d9632a10bded597d864680722db777" sha1="2df39a927a4027b357350658d51115fa17785a6b"/>
+	</game>
+	<game name="Monster Hunter Frontier G (Asia) (v1.69) (Update) (Dupe 1)" id="04233">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G (Asia) (v1.69) (Update) (Dupe 1)</description>
+		<rom name="HP5034-PCSH00109_00-MHFGHDDCONTENTID-A0169-V0100-70305667d4b266521d5290fc96b56a0436a02459-PE.pkg" size="2812487792" crc="69f9116a" md5="0e68adda28516e119fddacef786cdd77" sha1="40e35b3c5dc8d7107d851888e80d5fd1800e390a"/>
 	</game>
 	<game name="Monster Hunter Frontier G (Asia) (v1.73) (Patch)" id="03556">
 		<category>Games</category>
@@ -1876,6 +1951,16 @@
 		<description>Muv-Luv (USA) (v1.01) (Update)</description>
 		<game_id>UP4293-PCSE01259_00-AGE075MUV0000000</game_id>
 		<rom name="UP4293-PCSE01259_00-AGE075MUV0000000-A0101-V0100-8fd651a4d73a2ae3d632844cca7763ee8ce42377-PE.pkg" size="4854672" crc="19d280e6" md5="ea2174be89e40d54430bd29ed770d4e3" sha1="8bef29faee629ac4ed63276e651e1ffe396f2c5c" sha256="c0f260bdb46796e4ebb3cd289d446b3fcf3660c1a1d22984f3d8ffeb8c6b8dcc"/>
+	</game>
+	<game name="Muv-Luv Alternative (USA) (v1.01) (Update) (Dupe 1)" id="04316">
+		<category>Games</category>
+		<description>Muv-Luv Alternative (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP4293-PCSE01260_00-AGE076ALT0000000-A0101-V0100-c3bad593813de7418bfbfe719a7e62cfee4dd7b7-PE.pkg" size="5652208" crc="676cc332" md5="2808253f3bf0c72a6591ef7cccd075b1" sha1="a97ff6d454f915a34cf509bbd2fa5cf021259695"/>
+	</game>
+	<game name="Muv-Luv Alternative (USA) (v1.02) (Patch)" id="04317">
+		<category>Games</category>
+		<description>Muv-Luv Alternative (USA) (v1.02) (Patch)</description>
+		<rom name="UP4293-PCSE01260_00-AGE076ALT0000000-A0102-V0100-f3a9caba9d38bfd286362a033afbfd20305de91f-SP-PE.pkg" size="26375360" crc="d19b212d" md5="b59053f79524a3b17796e10168b742e6" sha1="d0278e7836f62a6449912adb9527a9252eb8e291"/>
 	</game>
 	<game name="Muv-Luv Alternative (USA) (v1.02) (Update)" id="03101">
 		<category>Games</category>
@@ -2375,11 +2460,10 @@
 		<game_id>UP5015-PCSE00761_00-RB20000000000001</game_id>
 		<rom name="UP5015-PCSE00761_00-RB20000000000001-A0104-V0100-5f0ef5dc5227c9e3920809ca274a91750037f61f-PE.pkg" size="483139872" crc="643da8f8" md5="bf3181ee21152c8af60f3e2cf59d2a54" sha1="d7f965a0da32c09b860859ff27d6f627b37f62ca"/>
 	</game>
-	<game name="Rogue Aces (Europe) (v1.02) (Patch)" id="03627">
+	<game name="Rogue Aces (USA) (v1.02) (Patch)" id="04381">
 		<category>Games</category>
-		<description>Rogue Aces (Europe) (v1.02) (Patch)</description>
-		<game_id>EP4395-PCSB00823_00-ROGUEACES0000000</game_id>
-		<rom name="EP4395-PCSB00823_00-ROGUEACES0000000-A0102-V0100-3720e7d54448f8e04b47932fbc8ee2e505f8a85a-SP-PE.pkg" size="2699104" crc="2601ad07" md5="443e9bf0abe700d1433fad074dde461b" sha1="fe7c4d142ae0605a614e3b171530411ad07455f0"/>
+		<description>Rogue Aces (USA) (v1.02) (Patch)</description>
+		<rom name="UP4395-PCSE01198_00-ROGUEACES0000000-A0102-V0100-c5d85692f5239a3317cf93e2bda84841b47b0ad8-SP-PE.pkg" size="2699040" crc="d10949c2" md5="1dc2fcd221677c1266b97abbc97f49a3" sha1="edd4a46b71797f2a8e6b54aacd87941781b97cc3"/>
 	</game>
 	<game name="Rogue Aces (USA) (v1.02) (Update)" id="03089">
 		<category>Games</category>
@@ -2459,6 +2543,41 @@
 		<game_id>HP0700-PCSH00242_00-GGGENESISPSVEN00</game_id>
 		<rom name="HP0700-PCSH00242_00-GGGENESISPSVEN00-A0106-V0100-ce80423f2de38379c8f31788f1507ed21ba10a5e-PE.pkg" size="1719060048" crc="e14e53c0" md5="5c150d05f5d6e07137b81af0eecb3c1c" sha1="b258c384aa8d7684ac63a75a502118274589e10e"/>
 	</game>
+	<game name="SD Gundam G Generation Genesis (Asia) (v1.01) (Update) (Dupe 1)" id="04448">
+		<category>Games</category>
+		<description>SD Gundam G Generation Genesis (Asia) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="HP0700-PCSH00241_00-GGGENESISPSVTC00-A0101-V0100-5ca826e5274494a2d0f70b0a00606204edc21bcf-PE.pkg" size="14822736" crc="f8fe86dd" md5="21474835be74fb4031ba040aad80caeb" sha1="284a750fe1fcea42970d09b633ac0608fc6f3ec0"/>
+		<rom name="HP0700-PCSH00242_00-GGGENESISPSVEN00-A0101-V0100-f7fed1c041cc49382ec60ba502de2b7df628ec30-PE.pkg" size="14822736" crc="420902c2" md5="5ae2c721e152d4afe56d49c20e4f09c5" sha1="48984ea26e34193e33920c4df2b24c04340b33ba"/>
+		<rom name="HP0700-PCSH00243_00-GGGENESISPSVKR00-A0101-V0100-885075b0dcb5e5cde8a37686e0e2293f09967a91-PE.pkg" size="14822832" crc="ade54ae8" md5="9aac109af57847342bfa1775750d7254" sha1="ffd9bc6de73c8589906b4d20e861f5b967b66706"/>
+	</game>
+	<game name="SD Gundam G Generation Genesis (Asia) (v1.02) (Patch) (Dupe 1)" id="04449">
+		<category>Games</category>
+		<description>SD Gundam G Generation Genesis (Asia) (v1.02) (Patch) (Dupe 1)</description>
+		<rom name="HP0700-PCSH00241_00-GGGENESISPSVTC00-A0102-V0100-c92caf56aaa7a81123bcc5cdd39705d18b2a7f4d-SP-PE.pkg" size="549112944" crc="ca1e5452" md5="c6ce17caeff9820dc2cd97be6c1aab0f" sha1="42495d9a371f01f75b92cef296d70224b88126a7"/>
+		<rom name="HP0700-PCSH00242_00-GGGENESISPSVEN00-A0102-V0100-f60aa19862adcaa9f59339f80e8f7153b2af7148-SP-PE.pkg" size="549112960" crc="7448bc3c" md5="6ec11467632059ccee33121f7b34b038" sha1="a59d9c54c954ce5b5333dd3bc498b9beeb0fff77"/>
+		<rom name="HP0700-PCSH00243_00-GGGENESISPSVKR00-A0102-V0100-45e0bee84523ed8c1dd3f88b29c4b70e407d1c84-SP-PE.pkg" size="549112992" crc="72167e61" md5="b5cb0ba2381612d841fa51309662c42e" sha1="0d31d54b74609d7b99eb87ee645c8a68b1af1813"/>
+	</game>
+	<game name="SD Gundam G Generation Genesis (Asia) (v1.03) (Patch) (Dupe 1)" id="04450">
+		<category>Games</category>
+		<description>SD Gundam G Generation Genesis (Asia) (v1.03) (Patch) (Dupe 1)</description>
+		<rom name="HP0700-PCSH00241_00-GGGENESISPSVTC00-A0103-V0100-61fdccbd99ce538b6b40aa9d6254ae40a04c5e94-SP-PE.pkg" size="650214976" crc="ae8347cd" md5="a06648f0313850753bf14a16da0f7153" sha1="c23f01299815ab2aa4434e5e3a097d6e2f071dfa"/>
+		<rom name="HP0700-PCSH00242_00-GGGENESISPSVEN00-A0103-V0100-a9d0a5bc9c9aea8c0829656d7a69db7c66ccb805-SP-PE.pkg" size="650214992" crc="a610283f" md5="ba1500b79172f4d77ee217be55bdba54" sha1="ba114791827f6d97dbd10be0f72e5aefa73be2cb"/>
+		<rom name="HP0700-PCSH00243_00-GGGENESISPSVKR00-A0103-V0100-eac66895c26e5643b02b69926e816a8e41f4c687-SP-PE.pkg" size="650476192" crc="3b8e9a21" md5="2e48c6e60944e4dd19e7a466fd8fba25" sha1="5e8655c7d95fe87649fb0c2266727bf29dfb5279"/>
+	</game>
+	<game name="SD Gundam G Generation Genesis (Asia) (v1.04) (Patch) (Dupe 1)" id="04451">
+		<category>Games</category>
+		<description>SD Gundam G Generation Genesis (Asia) (v1.04) (Patch) (Dupe 1)</description>
+		<rom name="HP0700-PCSH00241_00-GGGENESISPSVTC00-A0104-V0101-5f11f8c7ce1a178358eadbe507bc92b7526b94e8-SP-PE.pkg" size="517676720" crc="9e1cc194" md5="31113cbc45724f8936ee1761eac1a08e" sha1="8025ce22f760be49bef4bfd414d22b826f68fa55"/>
+		<rom name="HP0700-PCSH00242_00-GGGENESISPSVEN00-A0104-V0101-2fc1dd0b756a5a8646fd21bf20d7272fdc53ffbe-SP-PE.pkg" size="517676576" crc="8a3c8579" md5="4ac151cae35f57c093dc6e6f227f5274" sha1="ee000fd191edfdf7c8cebdea4ca4cb10f13cd85d"/>
+		<rom name="HP0700-PCSH00243_00-GGGENESISPSVKR00-A0104-V0101-11dbdc646c0b20ecddd93d61b666f838f7d75520-SP-PE.pkg" size="517681152" crc="aedc924d" md5="a4c1714bc8a840fc86718280e46a5ca4" sha1="086aabedc7948d9fff3bbc3d023215c0a0a19816"/>
+	</game>
+	<game name="SD Gundam G Generation Genesis (Asia) (v1.05) (Patch) (Dupe 1)" id="04452">
+		<category>Games</category>
+		<description>SD Gundam G Generation Genesis (Asia) (v1.05) (Patch) (Dupe 1)</description>
+		<rom name="HP0700-PCSH00241_00-GGGENESISPSVTC00-A0105-V0100-83c369063918107934197c374bbaf2e0120a3bf8-SP-PE.pkg" size="5538752" crc="d9f2b459" md5="34e02c7671f39d6d3c3ed6ef6a6955d7" sha1="0c259ac80279031d876f96217bb7c0ea83e1f7b4"/>
+		<rom name="HP0700-PCSH00242_00-GGGENESISPSVEN00-A0105-V0100-e6bcf9d07a2f8c21a9b8a73bef216fa76e9b88d7-SP-PE.pkg" size="518106736" crc="9400241b" md5="cb22878a21b60dc42fda5e942f7aa033" sha1="f214e57e7f3ea02ff3d443bac4e69a0a8e5d18a5"/>
+		<rom name="HP0700-PCSH00243_00-GGGENESISPSVKR00-A0105-V0100-fde3c1e800a54d252146a92dcea3877f0d9702cf-SP-PE.pkg" size="518111296" crc="f15106ee" md5="7897663ea198ff7c85b8b926287a43f0" sha1="689ba4e3df54bb1e16e93efb96999786fccb30c6"/>
+	</game>
 	<game name="Salt and Sanctuary (USA) (v1.02) (Update)" id="02542">
 		<category>Games</category>
 		<description>Salt and Sanctuary (USA) (v1.02) (Update)</description>
@@ -2500,6 +2619,16 @@
 		<description>Scram Kitty DX (USA) (v1.01) (Update)</description>
 		<game_id>UP4290-PCSE00642_00-SCRAMKITTYSCRAMS</game_id>
 		<rom name="UP4290-PCSE00642_00-SCRAMKITTYSCRAMS-A0101-V0100-27dd1b49fc82cdca229380ad14ba8d8294018ac7-PE.pkg" size="76226368" crc="9bc0bb0f" md5="6473b1987687224091be232b7432e671" sha1="bf0b82e45895efdcccbe077f2e4887120af268a1"/>
+	</game>
+	<game name="Secret of Mana (USA) (v1.01) (Update) (Dupe 1)" id="04461">
+		<category>Games</category>
+		<description>Secret of Mana (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP0082-PCSE01153_00-SECRETOFMANAPSV0-A0101-V0100-b3b6e585749edcedaffe4cee38732a8ffa9e9477-PE.pkg" size="399275488" crc="b3ab3d9a" md5="8c0b77af393f401b5965bf08e00d823f" sha1="d0520edc8afa1b5196fa33a3d990e926f0c1a8d3"/>
+	</game>
+	<game name="Secret of Mana (USA) (v1.02) (Patch) (Dupe 1)" id="04462">
+		<category>Games</category>
+		<description>Secret of Mana (USA) (v1.02) (Patch) (Dupe 1)</description>
+		<rom name="UP0082-PCSE01153_00-SECRETOFMANAPSV0-A0102-V0100-5a3be153e45ef8c55229692eaed15c1dc3151f9b-SP-PE.pkg" size="26128576" crc="06772b28" md5="b17749961f27deb00d352307bc80322f" sha1="35a4afdc5c865062e9e1e72431e947f91a6384ff"/>
 	</game>
 	<game name="Secret of Mana (USA) (v1.03) (Patch)" id="03932">
 		<category>Games</category>
@@ -2554,6 +2683,16 @@
 		<description>Shakedown Hawaii (USA) (v1.05) (Update)</description>
 		<game_id>UP2077-PCSE01125_00-SHAKEDOWNHAWAII0</game_id>
 		<rom name="UP2077-PCSE01125_00-SHAKEDOWNHAWAII0-A0105-V0100-f503840ae60772965afb4afdefa92c862b4e7729-PE.pkg" size="44847696" crc="d77db70f" md5="c0f93b6000b4a0bc026e7679a691f386" sha1="e2ce5943e38237ef07e121d7c1c60633ea1877de"/>
+	</game>
+	<game name="Shantae - Half-Genie Hero (USA) (v1.01) (Update) (Dupe 1)" id="04469">
+		<category>Games</category>
+		<description>Shantae - Half-Genie Hero (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP1023-PCSE00950_00-SHANTAEHALFGENIE-A0101-V0100-a9ec64e08168379048e0123e20d5c308760f9a6a-PE.pkg" size="275694320" crc="7060eb07" md5="d14c454b2379a7be16409ae2d18248e1" sha1="dfaeab16f46bea9298ce5491642fd76684ddc2bc"/>
+	</game>
+	<game name="Shantae - Half-Genie Hero (USA) (v1.04) (Patch) (Dupe 1)" id="04472">
+		<category>Games</category>
+		<description>Shantae - Half-Genie Hero (USA) (v1.04) (Patch) (Dupe 1)</description>
+		<rom name="UP1023-PCSE00950_00-SHANTAEHALFGENIE-A0104-V0100-a5d5d3ca6df6df12e33dfa41528e88e8268cb9d4-SP-PE.pkg" size="229219824" crc="98deb9dd" md5="c19d3ff2e5f4879db0cd95227cfbe118" sha1="1bfe830dae9370ad7e5006a8cf3b673c4de0445a"/>
 	</game>
 	<game name="Shantae - Half-Genie Hero (USA) (v1.05) (Patch)" id="03937">
 		<category>Games</category>
@@ -2873,6 +3012,11 @@
 		<game_id>HP0700-PCSH10004_00-EST001VTSRWCN000</game_id>
 		<rom name="HP0700-PCSH10004_00-EST001VTSRWCN000-A0103-V0100-ac36f68eece357671639f6e36442749edb8755db-PE.pkg" size="25511600" crc="d36a37d5" md5="9ace1c67da230b0ac3387e7734006fa4" sha1="496a24f2783a346b50f3c0bb9132ac3c593c7d52"/>
 	</game>
+	<game name="Super Robot Taisen X (Asia) (v1.01) (Update)" id="04477">
+		<category>Games</category>
+		<description>Super Robot Taisen X (Asia) (v1.01) (Update)</description>
+		<rom name="HP0700-PCSH10089_00-EST002VTSRWTK000-A0101-V0100-24706fdc9f3ca011f84c534be586ab0289a1ad06-PE.pkg" size="203390304" crc="d5ca5090" md5="95634e7cf21ef06833fbb51fa684b308" sha1="71f68005d15c8a1f00df04c1dcc32c56a705dcf4"/>
+	</game>
 	<game name="Super Robot Wars V (Asia) (En) (v1.03) (Patch)" id="02159">
 		<category>Games</category>
 		<description>Super Robot Wars V (Asia) (En) (v1.03) (Patch)</description>
@@ -2962,6 +3106,24 @@
 		<description>Swindle, The (USA) (v1.03) (Update)</description>
 		<game_id>UP4395-PCSE00684_00-THESWINDLEUSAVIT</game_id>
 		<rom name="UP4395-PCSE00684_00-THESWINDLEUSAVIT-A0103-V0100-01660dc8ba71579e7b169d6ae421089d23efd083-PE.pkg" size="144713408" crc="a2baa32b" md5="fa14737bb48073df82c3150ae49646d4" sha1="d33d173ca5fa5cdaeb9ea347136d066169fb94e0"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Asia) (v1.01) (Update) (Dupe 1)" id="01187">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Fragment (Asia) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>HP0700-PCSH00070_00-SWORDART2ASIA100</game_id>
+		<rom name="HP0700-PCSH00070_00-SWORDART2ASIA100-A0101-V0100-716fd3979112a8d869f6c2e266ce0070842bf7b4-PE.pkg" size="79034960" crc="2efd98ec" md5="16ef8bba110ecfa43158b8453e998f4f" sha1="6dd6955ccee4b958f66b3e1863abf05aa3447369"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Asia) (v1.02) (Patch) (Dupe 1)" id="01188">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Fragment (Asia) (v1.02) (Patch) (Dupe 1)</description>
+		<game_id>HP0700-PCSH00070_00-SWORDART2ASIA100</game_id>
+		<rom name="HP0700-PCSH00070_00-SWORDART2ASIA100-A0102-V0100-3aa038d7db9ce1f8217899653936b5194c453742-SP-PE.pkg" size="3556896" crc="13cc5943" md5="f8da2df5b10fb6ae405d372a46628d29" sha1="0381a7c6ce767a007b629c59b48e18cafd1c0393"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Asia) (v1.03) (Patch) (Dupe 1)" id="01189">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Fragment (Asia) (v1.03) (Patch) (Dupe 1)</description>
+		<game_id>HP0700-PCSH00070_00-SWORDART2ASIA100</game_id>
+		<rom name="HP0700-PCSH00070_00-SWORDART2ASIA100-A0103-V0100-d5d4bf2443aa7cc54a5ed5f5f11f312dd461f17f-SP-PE.pkg" size="556857152" crc="98b464a7" md5="1a5c0db7a41f9dc5cb2aa33840156a7f" sha1="f3ded13200e63eb4e245bd84b7879f4b8ef34be0"/>
 	</game>
 	<game name="Sword Art Online - Hollow Fragment (USA) (v1.02) (Patch)" id="01202">
 		<category>Games</category>
@@ -3149,6 +3311,16 @@
 		<game_id>UP0700-PCSE00016_00-KATAMARIDAMACY00</game_id>
 		<rom name="UP0700-PCSE00016_00-KATAMARIDAMACY00-A0101-V0100-255b01ab1154dfca64a37772a3d1213bc3f9cc3a-PE.pkg" size="15663040" crc="b3eb13f3" md5="9ba474124b55df4e93f91bba4eac5ebf" sha1="653bf1b9d1bec719ea7126156926c8911b6a22c0"/>
 	</game>
+	<game name="Touhou Kobuto V - Burst Battle (USA) (v1.01) (Update) (Dupe 1)" id="04502">
+		<category>Games</category>
+		<description>Touhou Kobuto V - Burst Battle (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP1063-PCSE01104_00-KBTVGAME00000001-A0101-V0101-c2d5d8edfb88b181a622e817bef9e2cb642b8306-PE.pkg" size="40786608" crc="f5bc6d0a" md5="7d2ed2150bfc69d7edc564f300eb50b5" sha1="268bad23cdffe401f96fe6eb6445be8850f07564"/>
+	</game>
+	<game name="Touhou Kobuto V - Burst Battle (USA) (v1.02) (Patch) (Dupe 1)" id="04503">
+		<category>Games</category>
+		<description>Touhou Kobuto V - Burst Battle (USA) (v1.02) (Patch) (Dupe 1)</description>
+		<rom name="UP1063-PCSE01104_00-KBTVGAME00000001-A0102-V0100-b71d9c2af111cabe1c854fc64f40c1e4cb6179d6-SP-PE.pkg" size="94491088" crc="dc18d90f" md5="f170eccdbf314da54bd6a7d9a3ff2848" sha1="019765762a6d2435e88f30a2ba824288fffedbba"/>
+	</game>
 	<game name="Touhou Kobuto V - Burst Battle (USA) (v1.03) (Patch)" id="03671">
 		<category>Games</category>
 		<description>Touhou Kobuto V - Burst Battle (USA) (v1.03) (Patch)</description>
@@ -3245,6 +3417,16 @@
 		<game_id>UT0020-PCSE00304_00-TUNEIN0000000000</game_id>
 		<rom name="UT0020-PCSE00304_00-TUNEIN0000000000-A0101-V0101-567aac565bc0fe74c773d5a4ab2ea75d27d161bc-PE.pkg" size="3232688" crc="d747d716" md5="fb6a1e7d7ce563c3a6f61bbbf5b3d1cb" sha1="fddd393a0b57f10a17df5e7145d5da08b2e7cab9"/>
 	</game>
+	<game name="Twin Breaker - A Sacred Symbols Adventure (USA) (v1.01) (Update) (Dupe 1)" id="04512">
+		<category>Games</category>
+		<description>Twin Breaker - A Sacred Symbols Adventure (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP4836-PCSE01452_00-TWINBREAKERONPSV-A0101-V0100-25266b23340314f90117981beb3f994584179663-PE.pkg" size="4916928" crc="9fe3322a" md5="a636010446d804c7b9773fd4ed748c21" sha1="31c212928e3fccca863ec4239672b436575f1447"/>
+	</game>
+	<game name="Twin Breaker - A Sacred Symbols Adventure (USA) (v1.04) (Patch) (Dupe 1)" id="04515">
+		<category>Games</category>
+		<description>Twin Breaker - A Sacred Symbols Adventure (USA) (v1.04) (Patch) (Dupe 1)</description>
+		<rom name="UP4836-PCSE01452_00-TWINBREAKERONPSV-A0104-V0100-8779eb0ac1a85b14b8fb0a6f866e49ecacbc54f8-SP-PE.pkg" size="4162992" crc="39b5911d" md5="581254ed4517c701fa328613a7a07629" sha1="2b6399de787779374f70ff7ea59500bd8d908023"/>
+	</game>
 	<game name="Twin Breaker - A Sacred Symbols Adventure (USA) (v1.05) (Patch)" id="03950">
 		<category>Games</category>
 		<description>Twin Breaker - A Sacred Symbols Adventure (USA) (v1.05) (Patch)</description>
@@ -3298,6 +3480,12 @@
 		<description>Uncharted - Golden Abyss (USA) (En,Fr,Es) (v1.03) (Update)</description>
 		<game_id>UP9000-PCSA00029_00-0000000000000000</game_id>
 		<rom name="UP9000-PCSA00029_00-0000000000000000-A0103-V0100-e1083c187121f4a2c17c98a741197cb115dc17fd-PE.pkg" size="86779872" crc="13fad1f9" md5="855f8946736ea7670583c644a1befc35" sha1="1903bb949795d3e695f9812ea78dd35b643658f2"/>
+	</game>
+	<game name="Undertale (USA) (v1.06) (Patch) (Dupe 1)" id="01611">
+		<category>Games</category>
+		<description>Undertale (USA) (v1.06) (Patch) (Dupe 1)</description>
+		<game_id>UP3893-PCSE01116_00-TFSHVCUTPSV00084</game_id>
+		<rom name="UP3893-PCSE01116_00-TFSHVCUTPSV00084-A0106-V0100-0bce1d87bb096ab6feb0874a646eb4e9c92f1191-SP-PE.pkg" size="67474768" crc="5de11232" md5="e683c5cb535fdb0c3b6fdaa6ca0b83ca" sha1="7c4a55192b88c5a35eae2a0dc94023d4bae5d123"/>
 	</game>
 	<game name="Undertale (USA) (v1.08) (Patch)" id="02689">
 		<category>Games</category>
@@ -3370,6 +3558,17 @@
 		<description>Velocibox (USA) (v1.01) (Update)</description>
 		<game_id>UP2135-PCSE00712_00-VELOCIBOXPSVLOOT</game_id>
 		<rom name="UP2135-PCSE00712_00-VELOCIBOXPSVLOOT-A0101-V0100-b7e920dc7d07ca23f5e1d47e9c12b149b22e878e-PE.pkg" size="20907184" crc="49f84a2c" md5="d93ca76c0cb699043fe770c269a7b0c7" sha1="75a34df3ef2b175433a9d2274fe5ca4ae1c6e8cb"/>
+	</game>
+	<game name="Velocity 2X (Europe) (v1.01) (Update) (Dupe 1)" id="04518">
+		<category>Games</category>
+		<description>Velocity 2X (Europe) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="EP4143-PCSB00410_00-FUTURLABV2XVITA0-A0101-V0100-6bd985a146b8b706f98e6a90071c1fb2f40165d4-PE.pkg" size="43080752" crc="8247a343" md5="e79ff2e43494a76880201e08bcddfd65" sha1="fda02df95489eb0a3fc95c382a47894b4d6d6b3d"/>
+	</game>
+	<game name="Velocity 2X (Europe) (v1.03) (Patch) (Dupe 1)" id="01320">
+		<category>Games</category>
+		<description>Velocity 2X (Europe) (v1.03) (Patch) (Dupe 1)</description>
+		<game_id>EP4143-PCSB00410_00-FUTURLABV2XVITA0</game_id>
+		<rom name="EP4143-PCSB00410_00-FUTURLABV2XVITA0-A0103-V0100-1f8738060ad0d227b77b3413a0dcdf0e83e0ed76-SP-PE.pkg" size="6041456" crc="29949e23" md5="b940b0c5c3963c7775ab051fcb3678ae" sha1="25f4d79fbcebf221f170a1e340e310b3d3d0a45c"/>
 	</game>
 	<game name="Velocity 2X (USA) (En,Fr,De,Es,It,Pt) (v1.04) (Patch)" id="01617">
 		<category>Games</category>
@@ -3550,6 +3749,11 @@
 		<description>Ys Origin (USA) (v1.02) (Update)</description>
 		<game_id>UP1482-PCSE01033_00-DOTYSORIGINVITA1</game_id>
 		<rom name="UP1482-PCSE01033_00-DOTYSORIGINVITA1-A0102-V0100-486386ba66de8f0bebaae89b4224179964868927-PE.pkg" size="1440502464" crc="fd4cfedf" md5="696faff3b9cabb3bee7a65ea81cb28ef" sha1="57eb57df20eade8c48d3b19991e40596da047475"/>
+	</game>
+	<game name="Ys VIII - Lacrimosa of Dana (USA) (v1.01) (Update) (Dupe 1)" id="04525">
+		<category>Games</category>
+		<description>Ys VIII - Lacrimosa of Dana (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP1063-PCSE01103_00-YSVIIIGAME000000-A0101-V0100-c3cd6e5f4e3ff679441778872ff8f8c5ddf7ccc5-PE.pkg" size="90497040" crc="f3a096ac" md5="b8e1633e0581259b301b328a4295a0cd" sha1="b4f286631b5be5355181b2ab749afeb2f96414f7"/>
 	</game>
 	<game name="Ys VIII - Lacrimosa of Dana (USA) (v1.02) (Patch)" id="02966">
 		<category>Games</category>

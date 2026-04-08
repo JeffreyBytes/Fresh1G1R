@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Updates) (1,190) (-y) [-aAbBcefkmMoprv] (20250724-193756) (Retool)</description>
-		<version>20250724-193756</version>
-		<date>2026-04-07 04-53-31</date>
-		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, UnlockerPT</author>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (1,278) (-y) [-aAbBcefkmMoprv] (20260406-180813) (Retool)</description>
+		<version>20260406-180813</version>
+		<date>2026-04-08 04-51-37</date>
+		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, root, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -509,6 +509,17 @@
 		<game_id>UP2500-PCSE01368_00-US0BOFTHES00VITA</game_id>
 		<rom name="UP2500-PCSE01368_00-US0BOFTHES00VITA-A0101-V0100-29e51b792474ade2af377871d12b880bf43ad779-PE.pkg" size="22729408" crc="33e8fc9e" md5="cc7728b71c3ecc72e9816ac04779d775" sha1="b2c5d0acc69a550101208ea7af2cdced41a38c52"/>
 	</game>
+	<game name="Borderlands 2 (Europe) (En,Fr,De) (v1.01) (Update) (Dupe 1)" id="03978">
+		<category>Games</category>
+		<description>Borderlands 2 (Europe) (En,Fr,De) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="EP9000-PCSF00570_00-BORDERLANDS2PSV1-A0101-V0100-117b60a1d660ba6d9c65cb1cdb93a867114d9622-PE.pkg" size="321807584" crc="660863f1" md5="566b0cbb1b00266b5759c0d580d467bc" sha1="c366d396229004edf5949d5358c292b0ab2dfbcd"/>
+	</game>
+	<game name="Borderlands 2 (Europe) (En,Fr,De) (v1.05) (Patch) (Dupe 1)" id="00049">
+		<category>Games</category>
+		<description>Borderlands 2 (Europe) (En,Fr,De) (v1.05) (Patch) (Dupe 1)</description>
+		<game_id>EP9000-PCSF00570_00-BORDERLANDS2PSV1</game_id>
+		<rom name="EP9000-PCSF00570_00-BORDERLANDS2PSV1-A0105-V0100-c51abe66864b25953e1de3e2a493cf87f6522662-SP-PE.pkg" size="67983344" crc="02fdf015" md5="db0692ab977a4bd303e995070e9b1e3e" sha1="3b97fbcbd6d3bb90b9da26456e4990c408541a20"/>
+	</game>
 	<game name="Borderlands 2 (USA) (En,Fr,De,Es,It) (v1.09) (Patch)" id="01429">
 		<category>Games</category>
 		<description>Borderlands 2 (USA) (En,Fr,De,Es,It) (v1.09) (Patch)</description>
@@ -611,6 +622,12 @@
 		<game_id>UP4042-PCSE00049_00-CASTLESTORM00001</game_id>
 		<rom name="UP4042-PCSE00049_00-CASTLESTORM00001-A0101-V0101-3cddcb828f2e5ab7d9ff2f7c3ae9cd41a401d325-PE.pkg" size="5619664" crc="fd71f60f" md5="e41fc379ba6e72884c931d5e1e008951" sha1="4579e031973e5ce03dab6acb45f1a0fd15ffc536"/>
 	</game>
+	<game name="Catherine - Full Body (Japan) (v1.01) (Update) (Dupe 1)" id="03257">
+		<category>Games</category>
+		<description>Catherine - Full Body (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0005-PCSG01179_00-ZZZZZZZZZZZZZZZZ</game_id>
+		<rom name="JP0005-PCSG01179_00-ZZZZZZZZZZZZZZZZ-A0101-V0100-df80e3701c4a2010fc23922e6d2f21eb6da97620-PE.pkg" size="148510656" crc="3f9b145e" md5="768a6546cc2871f253376c8e0ddad544" sha1="7abc5ff60d9e3617f54b9b2f1d69296d04ab99fc" sha256="17129df851a65c45bc7c459764aed34c409ef2a4e59834dffacc43c41341f5de"/>
+	</game>
 	<game name="Catherine - Full Body (Japan) (v1.03) (Patch)" id="03419">
 		<category>Games</category>
 		<description>Catherine - Full Body (Japan) (v1.03) (Patch)</description>
@@ -659,11 +676,11 @@
 		<game_id>UP2151-PCSE01031_00-CHASM0000000SIEA</game_id>
 		<rom name="UP2151-PCSE01031_00-CHASM0000000SIEA-A0106-V0100-de0e1840bb416478ca61298e8f26c04a8f7436f7-PE.pkg" size="57944480" crc="4550b267" md5="4eeb6f1695ea9429dfd71e638842759a" sha1="9d37e5db61596ba2089df159f17b27288ff229ca"/>
 	</game>
-	<game name="Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.02) (Patch)" id="01433">
+	<game name="Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.03) (Patch)" id="03994">
 		<category>Games</category>
-		<description>Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.02) (Patch)</description>
+		<description>Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.03) (Patch)</description>
 		<game_id>JP0704-PCSG00837_00-BUNNYMUSTDIE0000</game_id>
-		<rom name="JP0704-PCSG00837_00-BUNNYMUSTDIE0000-A0102-V0100-bd510574172c9cd6d8d5c379de367768b170abc5-SP-PE.pkg" size="14835264" crc="e234cc22" md5="62da637e85179910886875c2dece32ea" sha1="008b8e48d8d6e690d9a74f03df46583dc6e4dbbf"/>
+		<rom name="JP0704-PCSG00837_00-BUNNYMUSTDIE0000-A0103-V0100-400ec17fa96559f0be80ccfc8ae28833062189ad-SP-PE.pkg" size="7673136" crc="bc2c9ac7" md5="7c24b44ec6a6f0367cfb1b2a5b599dee" sha1="7355a3c470692bb3fb3c0f057ece7bce4365673c"/>
 	</game>
 	<game name="Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.03) (Update)" id="03206">
 		<category>Games</category>
@@ -971,11 +988,27 @@
 		<game_id>JP0394-PCSG00505_00-DAITOSYOKANNOHIT</game_id>
 		<rom name="JP0394-PCSG00505_00-DAITOSYOKANNOHIT-A0101-V0100-15518e0058e62284ba95bc233efa05ac41628a59-PE.pkg" size="9049072" crc="6c55ee6c" md5="adc7916099dd6ff5409a094050668f24" sha1="450fbfca29db8ad1c70587b2361757657b3ab0fb"/>
 	</game>
+	<game name="Damascus Gear - Operation Tokyo (Japan) (v1.03) (Patch)" id="03997">
+		<category>Games</category>
+		<description>Damascus Gear - Operation Tokyo (Japan) (v1.03) (Patch)</description>
+		<rom name="JP0036-PCSG00292_00-DGEARZERO0000000-A0103-V0101-2d881b79bae646a58ec2eca506699c0917888234-SP-PE.pkg" size="9094240" crc="1ec8fe84" md5="970fe44d9c027c05ba4cbb842f7ed883" sha1="f79ba1d85a67cd4cde4c7f3099d3845cdee33ff2"/>
+	</game>
 	<game name="Damascus Gear - Operation Tokyo (USA) (v1.01) (Update)" id="02241">
 		<category>Games</category>
 		<description>Damascus Gear - Operation Tokyo (USA) (v1.01) (Update)</description>
 		<game_id>UP0036-PCSE00518_00-DGEARZERO0000000</game_id>
 		<rom name="UP0036-PCSE00518_00-DGEARZERO0000000-A0101-V0101-2e77d4dabc86ad26617a13f6062913cdf5194ac9-PE.pkg" size="220914544" crc="e2b0130f" md5="93f1ad25ffaf666382b66e85ffa77744" sha1="2da17c3e7a8ccdc21be6d2ae0c312730de472280"/>
+	</game>
+	<game name="Damascus Gear - Saikyou Exodus (Japan) (v1.01) (Update) (Dupe 1)" id="01667">
+		<category>Games</category>
+		<description>Damascus Gear - Saikyou Exodus (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0036-PCSG00842_00-DGEAR20000000000</game_id>
+		<rom name="JP0036-PCSG00842_00-DGEAR20000000000-A0101-V0100-6a8d8bb54f30821ad205d33251dd1dab5185abbc-PE.pkg" size="56937584" crc="e1fe8afa" md5="3371d581562d286a7619261f1cfbfd47" sha1="0320ba13f05837815095ca2ddf846c25e2907f3e"/>
+	</game>
+	<game name="Damascus Gear - Saikyou Exodus (Japan) (v1.02) (Patch) (Dupe 1)" id="03999">
+		<category>Games</category>
+		<description>Damascus Gear - Saikyou Exodus (Japan) (v1.02) (Patch) (Dupe 1)</description>
+		<rom name="JP0036-PCSG00842_00-DGEAR20000000000-A0102-V0100-ccaa99d00bfd0d8fa3c9b7b11d69ec292087fc37-SP-PE.pkg" size="526570944" crc="35ed7971" md5="2e08b80b4c7d61cc47c7cc1b8e58a75f" sha1="c28e4b712e8dcb8f3822299f417b70ee1f0afb5b"/>
 	</game>
 	<game name="Damascus Gear - Saikyou Exodus (Japan) (v1.03) (Patch)" id="02876">
 		<category>Games</category>
@@ -1049,6 +1082,12 @@
 		<game_id>JP3608-PCSG01200_00-0000000000000001</game_id>
 		<rom name="JP3608-PCSG01200_00-0000000000000001-A0102-V0100-37323ac711b99107f106e342b68d33194a0e15d8-PE.pkg" size="4561584" crc="882a65ea" md5="e63ad69884dd245a1baec5deb1915776" sha1="258c455c33c6c4a7a9ea0543f7bba9d404e784e4" sha256="31151150b50f8af405de08b65c1a09b1dc8a4839aa86d1158c8caae876ef2d48"/>
 	</game>
+	<game name="Darkest Dungeon (USA) (v1.15) (Update) (Dupe 1)" id="02264">
+		<category>Games</category>
+		<description>Darkest Dungeon (USA) (v1.15) (Update) (Dupe 1)</description>
+		<game_id>UP2619-PCSE00919_00-RHSDDPSV00000001</game_id>
+		<rom name="UP2619-PCSE00919_00-RHSDDPSV00000001-A0115-V0101-faa0361307d9a85cde9b3b6885c70aa98485b953-PE.pkg" size="485728656" crc="cf2c1214" md5="7fc8226b53aa8748e42e20cf32006d94" sha1="09e57321e582836bdc2d100c17afbaf5bf65638f"/>
+	</game>
 	<game name="Darkest Dungeon (USA) (v1.17) (Patch)" id="03435">
 		<category>Games</category>
 		<description>Darkest Dungeon (USA) (v1.17) (Patch)</description>
@@ -1120,6 +1159,12 @@
 		<description>Death Tales (Asia) (v1.01) (Update)</description>
 		<game_id>HP2005-PCSH10289_00-DEATHTALES000100</game_id>
 		<rom name="HP2005-PCSH10289_00-DEATHTALES000100-A0101-V0100-2e8ca5d6e58aae3c5d5e5c79b5768126d61219f8-PE.pkg" size="149340928" crc="33a18499" md5="e22bf79055028a9c0d6520ed7042bfd4" sha1="3b47c1db792c849111899610a03c0200f784ce9c"/>
+	</game>
+	<game name="Deception IV - The Nightmare Princess (Europe) (v1.01) (Update) (Dupe 1)" id="00146">
+		<category>Games</category>
+		<description>Deception IV - The Nightmare Princess (Europe) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>EP4108-PCSB00829_00-DECEPTIONNP00000</game_id>
+		<rom name="EP4108-PCSB00829_00-DECEPTIONNP00000-A0101-V0100-d1cce57fcd46ad5acec03becc40af3b225239d3a-PE.pkg" size="282895808" crc="4b9fc26a" md5="3c4787d1e09d81b86f7c5004a5f6717d" sha1="b2af6b2aeff71c0c899a9c34fc48bada603c692a"/>
 	</game>
 	<game name="Deception IV - The Nightmare Princess (Europe) (v1.02) (Patch)" id="01686">
 		<category>Games</category>
@@ -1336,6 +1381,16 @@
 		<description>Disney Infinity 2.0 (Europe) (En,Fr,Es) (v1.01) (Update)</description>
 		<game_id>EP1006-PCSB00698_00-0000000004140236</game_id>
 		<rom name="EP1006-PCSB00698_00-0000000004140236-A0101-V0100-d7b2e5bdaed7c27221024d3a5d27cba32a173fa7-PE.pkg" size="23150752" crc="6d41997a" md5="331852437f358f6efea0ca04b0de8661" sha1="10c11a20aea4d5a8ed195e8c748c7925a26a2ec7"/>
+	</game>
+	<game name="Divekick (USA) (v1.01) (Update) (Dupe 1)" id="04007">
+		<category>Games</category>
+		<description>Divekick (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP4372-PCSE00281_00-DIVEKICKPSV00001-A0101-V0100-f27fe8ba84a53c060f0c85df10c0d7d5f466a5a3-PE.pkg" size="511148992" crc="eb4ca9c8" md5="a3deb612ef578702b7b6a29ac60141e5" sha1="1e62b875021ac0f8475dd645132a457424d5614e"/>
+	</game>
+	<game name="Divekick (USA) (v1.07) (Patch) (Dupe 1)" id="04011">
+		<category>Games</category>
+		<description>Divekick (USA) (v1.07) (Patch) (Dupe 1)</description>
+		<rom name="UP4372-PCSE00281_00-DIVEKICKPSV00001-A0107-V0100-cdab327053112051c9b40ef914bad0d3ec059931-SP-PE.pkg" size="541529792" crc="1598cbe9" md5="c91043674f1d43561ebcd9571b1deb93" sha1="a9f234821eb7dfaf85e53cbe84f45a0dcb003ab8"/>
 	</game>
 	<game name="Divekick (USA) (v1.09) (Patch)" id="02276">
 		<category>Games</category>
@@ -1757,6 +1812,18 @@
 		<game_id>UP4168-PCSE00504_00-FINALHORIZONVITA</game_id>
 		<rom name="UP4168-PCSE00504_00-FINALHORIZONVITA-A0101-V0100-c46b704c62c399c88cadd6bbe28f4fc8974db23d-PE.pkg" size="1216880" crc="7d8c307d" md5="70f2332dc1be3f3f096276279803499b" sha1="5cf3c4f1e0e21e80fd14c38391b8a966a8dd72fe"/>
 	</game>
+	<game name="Firis no Atelier - Fushigi na Tabi no Renkinjutsushi (Japan) (v1.02) (Update) (Dupe 1)" id="02306">
+		<category>Games</category>
+		<description>Firis no Atelier - Fushigi na Tabi no Renkinjutsushi (Japan) (v1.02) (Update) (Dupe 1)</description>
+		<game_id>JP0106-PCSG00929_00-FIRISMASTER00000</game_id>
+		<rom name="JP0106-PCSG00929_00-FIRISMASTER00000-A0102-V0100-95dd53337e7925e678c02b1ac06406b2f6e13900-PE.pkg" size="1542965280" crc="88ac265d" md5="986029a97bd02080a9fcbd4c95a3ab01" sha1="ad3c810979b379c790cf94db993c007aac9e4089"/>
+	</game>
+	<game name="Firis no Atelier - Fushigi na Tabi no Renkinjutsushi (Japan) (v1.08) (Patch) (Dupe 1)" id="02311">
+		<category>Games</category>
+		<description>Firis no Atelier - Fushigi na Tabi no Renkinjutsushi (Japan) (v1.08) (Patch) (Dupe 1)</description>
+		<game_id>JP0106-PCSG00929_00-FIRISMASTER00000</game_id>
+		<rom name="JP0106-PCSG00929_00-FIRISMASTER00000-A0108-V0100-fae6481bbc5d8d42c753da038638b07658853b77-SP-PE.pkg" size="1584645440" crc="9c8a503b" md5="10309c5b3aacb6b43f0710e17af26d48" sha1="2288446259dee44dd6831a29566e3ab03a233592"/>
+	</game>
 	<game name="Firis no Atelier - Fushigi na Tabi no Renkinjutsushi (Japan) (v1.10) (Patch)" id="02863">
 		<category>Games</category>
 		<description>Firis no Atelier - Fushigi na Tabi no Renkinjutsushi (Japan) (v1.10) (Patch)</description>
@@ -1889,6 +1956,16 @@
 		<game_id>JP0365-PCSG00479_00-SHIREN5PLUS00000</game_id>
 		<rom name="JP0365-PCSG00479_00-SHIREN5PLUS00000-A0106-V0100-968c7e12a4422a008faae646fc3639d219354a45-PE.pkg" size="30062480" crc="d9dcf626" md5="5cdbc501dfbb1cd81f000fd151dc9663" sha1="36d5c6be67c71a9bfb86b537013a3e6de6365f71"/>
 	</game>
+	<game name="Fushigi no Gensoukyou - The Tower of Desire (Japan) (v1.01) (Update) (Dupe 1)" id="04018">
+		<category>Games</category>
+		<description>Fushigi no Gensoukyou - The Tower of Desire (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0704-PCSG00642_00-0000000000000001-A0101-V0100-7b4617349f94bb137c56071d4548a3f38ccc81e4-PE.pkg" size="42483472" crc="9a9249ed" md5="d8cd02af583ee28f80d85abf11759b8a" sha1="7095f53be91487f8e8b24f83215dbc8b171f7d8e"/>
+	</game>
+	<game name="Fushigi no Gensoukyou - The Tower of Desire (Japan) (v1.07) (Patch) (Dupe 1)" id="04024">
+		<category>Games</category>
+		<description>Fushigi no Gensoukyou - The Tower of Desire (Japan) (v1.07) (Patch) (Dupe 1)</description>
+		<rom name="JP0704-PCSG00642_00-0000000000000001-A0107-V0100-1f53a0658cb5cde125f5a524e162e1af67cdc6a7-SP-PE.pkg" size="3451904" crc="88634ff0" md5="876d8ef87f2b91e78389b376996e1a38" sha1="0ba0e854c699528892576d2f66b849a043b3c948"/>
+	</game>
 	<game name="Fushigi no Gensoukyou - The Tower of Desire (Japan) (v1.13) (Patch)" id="02320">
 		<category>Games</category>
 		<description>Fushigi no Gensoukyou - The Tower of Desire (Japan) (v1.13) (Patch)</description>
@@ -1900,6 +1977,17 @@
 		<description>Fushigi no Gensoukyou - The Tower of Desire (Japan) (v1.13) (Update)</description>
 		<game_id>JP0704-PCSG00642_00-0000000000000001</game_id>
 		<rom name="JP0704-PCSG00642_00-0000000000000001-A0113-V0100-8b007091a616b02d6671064bbf94fcd692e63c6f-PE.pkg" size="350434992" crc="deed54f2" md5="8ed2ef0b6d8d9f678db529ef4117bfcd" sha1="5ab2d2322e42a8235e0f04f39933c8090fc98b97"/>
+	</game>
+	<game name="Fushigi no Gensoukyou TOD - Reloaded (Japan) (v1.01) (Update) (Dupe 1)" id="02322">
+		<category>Games</category>
+		<description>Fushigi no Gensoukyou TOD - Reloaded (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0704-PCSG00985_00-APP0000000000001</game_id>
+		<rom name="JP0704-PCSG00985_00-APP0000000000001-A0101-V0100-dcd10132dcd1be0e699af64cebd7423d3341978d-PE.pkg" size="388473696" crc="64a31c11" md5="54e078956ce46407e50681c414db1096" sha1="6690d1698c1afce85b6e5bf2974a5370ff2c3ff2"/>
+	</game>
+	<game name="Fushigi no Gensoukyou TOD - Reloaded (Japan) (v1.22) (Patch) (Dupe 1)" id="04046">
+		<category>Games</category>
+		<description>Fushigi no Gensoukyou TOD - Reloaded (Japan) (v1.22) (Patch) (Dupe 1)</description>
+		<rom name="JP0704-PCSG00985_00-APP0000000000001-A0122-V0100-b9af5599b2950146576f7e747dfd95152d3165cc-SP-PE.pkg" size="9656400" crc="f5e0fc9d" md5="13ec6dbd0bfb726b38b6ae11882a0784" sha1="c06970ec52e652460c8a1182aa859e60462461c9"/>
 	</game>
 	<game name="Fushigi no Gensoukyou TOD - Reloaded (Japan) (v1.29) (Patch)" id="02841">
 		<category>Games</category>
@@ -2249,6 +2337,16 @@
 		<game_id>JP0700-PCSG00657_00-GUNDAMCONVAPP100</game_id>
 		<rom name="JP0700-PCSG00657_00-GUNDAMCONVAPP100-A0102-V0100-51e83201535b19e4f931eb9edfce0108927bd56e-PE.pkg" size="1015878592" crc="c90562d7" md5="7f42534a703c8a7ae680dfa253f9b609" sha1="470ace179f04690b8a6512e996ff50b6a1870afb"/>
 	</game>
+	<game name="Gundemoniums (Japan) (v1.01) (Update) (Dupe 1)" id="04047">
+		<category>Games</category>
+		<description>Gundemoniums (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0704-PCSG01027_00-GUNDEMONIUMSXPSV-A0101-V0100-12ef79d535b3ab8b4d43514e9ad8e3e65cecab83-PE.pkg" size="3390656" crc="68690c25" md5="bbc02d30f37d162284bdbde92645a64f" sha1="29c43ef91b0f66442cd988e9886a7df05cd824e4"/>
+	</game>
+	<game name="Gundemoniums (Japan) (v1.04) (Patch) (Dupe 1)" id="04050">
+		<category>Games</category>
+		<description>Gundemoniums (Japan) (v1.04) (Patch) (Dupe 1)</description>
+		<rom name="JP0704-PCSG01027_00-GUNDEMONIUMSXPSV-A0104-V0100-c341f954a6ead740e5a4658b39508517cb9f6513-SP-PE.pkg" size="21523296" crc="4e29909c" md5="ac0fbadf62cf3b107631521652fe583c" sha1="6126485377c81416ba7311938394680659d19007"/>
+	</game>
 	<game name="Gundemoniums (Japan) (v1.05) (Patch)" id="03455">
 		<category>Games</category>
 		<description>Gundemoniums (Japan) (v1.05) (Patch)</description>
@@ -2296,6 +2394,12 @@
 		<description>Hakuouki - Shinkai - Kaze no Shou (Japan) (v1.02) (Update)</description>
 		<game_id>JP0031-PCSG00629_00-HAKUOKISHINKAI01</game_id>
 		<rom name="JP0031-PCSG00629_00-HAKUOKISHINKAI01-A0102-V0100-f7247d766c27975fde285b804fd07d1a2e0b4911-PE.pkg" size="40100320" crc="b02893b3" md5="35c08335993ccbedd3a3318807f8233a" sha1="e8ddd84f14e35f9233398334b8a090c6700a1639"/>
+	</game>
+	<game name="Halloween Forever (USA) (v1.01) (Update) (Dupe 1)" id="03100">
+		<category>Games</category>
+		<description>Halloween Forever (USA) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>UP0994-PCSE01258_00-HALLOWEENFOREVNA</game_id>
+		<rom name="UP0994-PCSE01258_00-HALLOWEENFOREVNA-A0101-V0101-b6aa7922af617f9c526a0ecfe6763685b19933bd-PE.pkg" size="37698336" crc="00f7a930" md5="38b26748386addc1b9483a5f367f7737" sha1="da4c1d0c8dbbfdb552c583c97b4e911d0a732a0d" sha256="b357dd567dd13b4502dabd76b4ad7388144ba6d506d1e92817e8b603552e9d80"/>
 	</game>
 	<game name="Halloween Forever (USA) (v1.02) (Patch)" id="03856">
 		<category>Games</category>
@@ -2368,6 +2472,18 @@
 		<description>Hatsune Miku - Project Diva F 2nd (Japan) (v1.01) (Update)</description>
 		<game_id>JP0177-PCSG00205_00-PJDF2MOMJTNSDAYO</game_id>
 		<rom name="JP0177-PCSG00205_00-PJDF2MOMJTNSDAYO-A0101-V0100-8c07ae451ace914c547f85a8e04f6bbc95cc2246-PE.pkg" size="14213280" crc="06138e65" md5="a54e9656170407fe81888320a811e9b3" sha1="8307849cca3fd8a4d86bc5c6e08954e69364c551"/>
+	</game>
+	<game name="Helldivers (USA) (v4.03) (Update) (Dupe 1)" id="02391">
+		<category>Games</category>
+		<description>Helldivers (USA) (v4.03) (Update) (Dupe 1)</description>
+		<game_id>UP9000-PCSA00134_00-HELLDIVERSSCEA00</game_id>
+		<rom name="UP9000-PCSA00134_00-HELLDIVERSSCEA00-A0403-V0100-76fd7b64aa71be144fd68711d784ae2d75af66f1-PE.pkg" size="1690826608" crc="073d8aa0" md5="f6adbc39e951b3f35a97e10e255bf563" sha1="280114e56b997debca2c2c6278dd4eed98e755f2"/>
+	</game>
+	<game name="Helldivers (USA) (v7.01) (Patch) (Dupe 1)" id="03474">
+		<category>Games</category>
+		<description>Helldivers (USA) (v7.01) (Patch) (Dupe 1)</description>
+		<game_id>UP9000-PCSA00134_00-HELLDIVERSSCEA00</game_id>
+		<rom name="UP9000-PCSA00134_00-HELLDIVERSSCEA00-A0701-V0100-5845e7b9c98b0fbe681d7ae4db0e2336847ab1f1-SP-PE.pkg" size="11365568" crc="bfb213c9" md5="84a62cdf25254214d32bdf723965ad2f" sha1="b574ddfa1413197a4b88e62e79e24fd46be3f1de"/>
 	</game>
 	<game name="Helldivers (USA) (v7.04) (Patch)" id="03877">
 		<category>Games</category>
@@ -2687,6 +2803,18 @@
 		<game_id>JP0082-PCSG00023_00-ARMYCORPSOFHELLJ</game_id>
 		<rom name="JP0082-PCSG00023_00-ARMYCORPSOFHELLJ-A0101-V0100-1f0b02c5ec74220d773a467d7aca597123519516-PE.pkg" size="1897552" crc="44916e95" md5="34f3fe171656ec52ac2b4dd9e848514c" sha1="949a38e89e09d713d45402570d3cbed7bd06db07"/>
 	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu - Success Special (Japan) (v1.05) (Update) (Dupe 1)" id="01766">
+		<category>Games</category>
+		<description>Jikkyou Powerful Pro Yakyuu - Success Special (Japan) (v1.05) (Update) (Dupe 1)</description>
+		<game_id>JP0101-PCSG00691_00-SUCCESSSPECIAL01</game_id>
+		<rom name="JP0101-PCSG00691_00-SUCCESSSPECIAL01-A0105-V0100-75d9139279bebb2556166637572fe585e9f3da33-PE.pkg" size="156499264" crc="cdb3e4b7" md5="b0ca4127cf71441286d7f995ab385edd" sha1="daf8117b663673380a575808b20ba315903f82a7"/>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu - Success Special (Japan) (v2.16) (Patch) (Dupe 1)" id="03494">
+		<category>Games</category>
+		<description>Jikkyou Powerful Pro Yakyuu - Success Special (Japan) (v2.16) (Patch) (Dupe 1)</description>
+		<game_id>JP0101-PCSG00691_00-SUCCESSSPECIAL01</game_id>
+		<rom name="JP0101-PCSG00691_00-SUCCESSSPECIAL01-A0216-V0100-c6bfa05df72cbebdeda039d6d31f41edc4ad7109-SP-PE.pkg" size="226889856" crc="c4ddce3b" md5="0382866e6367418559adabec63e157f6" sha1="65be87dd06fed108c0a4870420a20efdabf44cf4"/>
+	</game>
 	<game name="Jikkyou Powerful Pro Yakyuu - Success Special (Japan) (v3.07) (Patch)" id="03890">
 		<category>Games</category>
 		<description>Jikkyou Powerful Pro Yakyuu - Success Special (Japan) (v3.07) (Patch)</description>
@@ -2729,6 +2857,16 @@
 		<game_id>JP0101-PCSG00748_00-PAWAPURO2016B001</game_id>
 		<rom name="JP0101-PCSG00748_00-PAWAPURO2016B001-A0111-V0100-709365b0868f1a9ad493504a6699fca9ccfc4391-PE.pkg" size="994649968" crc="9805f0f0" md5="dbe61896160656eb3f7fcfedce82f32d" sha1="99aa72505434582e8205ba170279157631d63bb7"/>
 	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 2018 (Japan) (v1.01) (Update) (Dupe 1)" id="04159">
+		<category>Games</category>
+		<description>Jikkyou Powerful Pro Yakyuu 2018 (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0101-PCSG01164_00-PAWAPURO2018B001-A0101-V0100-96755979c46903a815d48b6838241b593e92500d-PE.pkg" size="134299360" crc="902c44bf" md5="b922c20754c7d48a0828826e142c8842" sha1="aa64a3286aed625b884bdcf0085f8d4cc7aa1d79"/>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 2018 (Japan) (v1.16) (Patch) (Dupe 1)" id="04174">
+		<category>Games</category>
+		<description>Jikkyou Powerful Pro Yakyuu 2018 (Japan) (v1.16) (Patch) (Dupe 1)</description>
+		<rom name="JP0101-PCSG01164_00-PAWAPURO2018B001-A0116-V0100-b31b4abede703bbe0b63009f8f0da1ba974a7021-SP-PE.pkg" size="34557136" crc="ec46cc5b" md5="2d754a65aa36c10f009ed105b2fce2ac" sha1="ceffb37733969732e87796b54324fbd69795e8df"/>
+	</game>
 	<game name="Jikkyou Powerful Pro Yakyuu 2018 (Japan) (v1.17) (Patch)" id="03881">
 		<category>Games</category>
 		<description>Jikkyou Powerful Pro Yakyuu 2018 (Japan) (v1.17) (Patch)</description>
@@ -2752,6 +2890,11 @@
 		<description>Jikkyou Powerful Pro Yakyuu Championship 2017 (Japan) (v1.03) (Update)</description>
 		<game_id>JP0101-PCSG01045_00-PAWACHAMP017B001</game_id>
 		<rom name="JP0101-PCSG01045_00-PAWACHAMP017B001-A0103-V0100-963b02b74478828620827572864d25d18d13600d-PE.pkg" size="210909312" crc="fa6011e2" md5="d8c0b53c5f82e01308699b8ec0ecb261" sha1="76ea7d097757a127f1babffb5d05db1858391808"/>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu Championship 2018 (Japan) (v1.01) (Update) (Dupe 1)" id="04175">
+		<category>Games</category>
+		<description>Jikkyou Powerful Pro Yakyuu Championship 2018 (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0101-PCSG01219_00-PAWACHAMP018B001-A0101-V0100-1f9dc2053ed83c23a727d6733a52f0ec365b48a4-PE.pkg" size="14907312" crc="ccc03485" md5="6230b648ec5876835cf906c605219e37" sha1="f470c319a1aa0679be13c895c3a312a10c71430d"/>
 	</game>
 	<game name="Jikkyou Powerful Pro Yakyuu Championship 2018 (Japan) (v1.04) (Patch)" id="03511">
 		<category>Games</category>
@@ -2806,6 +2949,16 @@
 		<description>KairiseiMA (Japan) (v1.50) (Update)</description>
 		<game_id>JP0082-PCSG00750_00-KAIRISEIMILLIPSV</game_id>
 		<rom name="JP0082-PCSG00750_00-KAIRISEIMILLIPSV-A0150-V0100-7bebc708a31c982f90d2a9f2fc312429114c5be5-PE.pkg" size="1465572656" crc="72652afd" md5="904a52d424f45c212ae93f94f6bb7a49" sha1="5960a72ff9ee52650bf5fc915c0857b1d6594bab" sha256="ce312b66a24ccc6e2f7027bd478b4176e981fb8c915446f9250d3aa0e7a3f0fe"/>
+	</game>
+	<game name="Kaku-San-Sei Million Arthur (Japan) (v1.08) (Update) (Dupe 1)" id="04176">
+		<category>Games</category>
+		<description>Kaku-San-Sei Million Arthur (Japan) (v1.08) (Update) (Dupe 1)</description>
+		<rom name="JP0082-PCSG00182_00-MILLIONARTHURPSV-A0108-V0100-c8ee0127cbbbfc4996417ccd68b3a3bcca7f95b0-PE.pkg" size="558052800" crc="7595e2ff" md5="f793493115a13b9e4ff1f8e4f85b3c2d" sha1="8bb2e586771c362a8b030b417d9fcdf0368370f6"/>
+	</game>
+	<game name="Kaku-San-Sei Million Arthur (Japan) (v1.14) (Patch) (Dupe 1)" id="04181">
+		<category>Games</category>
+		<description>Kaku-San-Sei Million Arthur (Japan) (v1.14) (Patch) (Dupe 1)</description>
+		<rom name="JP0082-PCSG00182_00-MILLIONARTHURPSV-A0114-V0100-a085eea4bc27339f1da126cc8bc652e6007d0d74-SP-PE.pkg" size="250793120" crc="778d67ff" md5="ac9f92e4725e7362aa8169b5be3e1c13" sha1="45586880e092b72337229741b82d1662f61d8ab2"/>
 	</game>
 	<game name="Kaku-San-Sei Million Arthur (Japan) (v1.18) (Patch)" id="01499">
 		<category>Games</category>
@@ -2939,6 +3092,16 @@
 		<game_id>UP0665-PCSE01515_00-KILLERDOLLSUNVAM</game_id>
 		<rom name="UP0665-PCSE01515_00-KILLERDOLLSUNVAM-A0104-V0100-1904ab2ecb575bdc9642e8244bbd3e7005b0ebf5-PE.pkg" size="108109632" crc="304d37fc" md5="77c9b743b32ecc4f6e71474ad36aad17" sha1="adc5e34f1daa88ad58494b83fe7aa99afe660d92"/>
 	</game>
+	<game name="Killzone - Mercenary (USA) (v1.02) (Update) (Dupe 1)" id="04218">
+		<category>Games</category>
+		<description>Killzone - Mercenary (USA) (v1.02) (Update) (Dupe 1)</description>
+		<rom name="UP9000-PCSA00107_00-KZV0000000000000-A0102-V0100-941df109d78bfc17c6b751ebf0eb2a6fbda703a0-PE.pkg" size="1247311536" crc="130690fd" md5="e92d905329a78424f8068dad5bd9324a" sha1="1952d3dd4ade0d441e33c730891628106df38abb"/>
+	</game>
+	<game name="Killzone - Mercenary (USA) (v1.11) (Patch) (Dupe 1)" id="04226">
+		<category>Games</category>
+		<description>Killzone - Mercenary (USA) (v1.11) (Patch) (Dupe 1)</description>
+		<rom name="UP9000-PCSA00107_00-KZV0000000000000-A0111-V0100-c9c3139696543cac073ffe2b1e856cce2a5a36b6-SP-PE.pkg" size="16935232" crc="81e90b8b" md5="2d89354699a916132a92eee57c0a5b99" sha1="8e9ed8630db26cd5f4df8fcd702ca6a4075237bb"/>
+	</game>
 	<game name="Killzone - Mercenary (USA) (v1.12) (Patch)" id="01508">
 		<category>Games</category>
 		<description>Killzone - Mercenary (USA) (v1.12) (Patch)</description>
@@ -2974,6 +3137,11 @@
 		<description>King of Fighters '97, The - Global Match (USA) (v1.02) (Update)</description>
 		<game_id>UP0576-PCSE01224_00-KOF97GLOBALMATCH</game_id>
 		<rom name="UP0576-PCSE01224_00-KOF97GLOBALMATCH-A0102-V0100-bdf451936aae809bcb02123df1854bce9a4b89e8-PE.pkg" size="5222672" crc="61f02dec" md5="1bd465f395f80c9e475f375da8c3df7e" sha1="f5a70cdbd7e858a57ae3c4af466a7af2301b0de6" sha256="3ab805719886813e32f600905f725a971753bcd981f37295d636242773e7ffbf"/>
+	</game>
+	<game name="Kiniro no Corda - Octave (Japan) (v1.02) (Update)" id="04227">
+		<category>Games</category>
+		<description>Kiniro no Corda - Octave (Japan) (v1.02) (Update)</description>
+		<rom name="JP0106-PCSG01245_00-CORDAOCTAVE00000-A0102-V0100-97442d1dcb7ab23338528ee6f279f4b02a873445-PE.pkg" size="642948512" crc="ac9ce0ac" md5="62b5da1e6c58f4e929e6fb4a358b86cb" sha1="a6bd5c0c53d1da0281134faefff7f9602810eb8d"/>
 	</game>
 	<game name="Koisuru Otome to Shugo no Tate - Bara no Seibo (Japan) (v1.02) (Patch)" id="03519">
 		<category>Games</category>
@@ -3389,6 +3557,16 @@
 		<game_id>UP0454-PCSE00736_00-ARRAYANSOFTMALIY</game_id>
 		<rom name="UP0454-PCSE00736_00-ARRAYANSOFTMALIY-A0103-V0100-d4229e8a71c89aebe8cbdc81a15a8fd62d8d1b03-PE.pkg" size="217820416" crc="b0238b7b" md5="6f1ae43198aff5174f90c593ac1fd05d" sha1="38ba0be9102eb3c30d2d670af6a2b4983ac8b88b"/>
 	</game>
+	<game name="Manga Kakeru (Japan) (v1.03) (Update) (Dupe 1)" id="04228">
+		<category>Games</category>
+		<description>Manga Kakeru (Japan) (v1.03) (Update) (Dupe 1)</description>
+		<rom name="JP0025-PCSG00340_00-0000000000000000-A0103-V0100-f60bd758ef139ad79f09bda03f4fd13983842b9e-PE.pkg" size="51754384" crc="05cc6d62" md5="ffcff01d42135288ed0764950063f36d" sha1="a04f4d445d69941e6ad6661f6a83e7b2c679fdcd"/>
+	</game>
+	<game name="Manga Kakeru (Japan) (v1.04) (Patch) (Dupe 1)" id="04229">
+		<category>Games</category>
+		<description>Manga Kakeru (Japan) (v1.04) (Patch) (Dupe 1)</description>
+		<rom name="JP0025-PCSG00340_00-0000000000000000-A0104-V0100-d6eab799e482575e8dfe2b916fcfb8ff06f3a700-SP-PE.pkg" size="97593040" crc="93d408f2" md5="b1328067c044429b89ff8733b10db2f4" sha1="520061997f5dd631044ff366dce713c0a21bf298"/>
+	</game>
 	<game name="Manga Kakeru (Japan) (v1.10) (Patch)" id="03531">
 		<category>Games</category>
 		<description>Manga Kakeru (Japan) (v1.10) (Patch)</description>
@@ -3527,6 +3705,12 @@
 		<game_id>JP0048-PCSG00184_00-MINDZERO00000000</game_id>
 		<rom name="JP0048-PCSG00184_00-MINDZERO00000000-A0102-V0100-45979a7231a0cd16e54b57d416b8805bc9e91be8-PE.pkg" size="3685088" crc="45726ab5" md5="248a1ff90b3bfb3b3fc2d8b0db6c3823" sha1="817cb1c75238bbdd86fa81e5750353031f89c018"/>
 	</game>
+	<game name="Minecraft - PlayStation Vita Edition (USA) (v1.77) (Update) (Dupe 1)" id="03057">
+		<category>Games</category>
+		<description>Minecraft - PlayStation Vita Edition (USA) (v1.77) (Update) (Dupe 1)</description>
+		<game_id>UP4433-PCSE00491_00-MINECRAFTVIT0000</game_id>
+		<rom name="UP4433-PCSE00491_00-MINECRAFTVIT0000-A0177-V0100-7dab833259921df6ca3a61a8002f67406fedc99a-PE.pkg" size="1204661440" crc="1fb7dfed" md5="341116f887915001edfa1e400ada53a5" sha1="dd8aa5205345528887919e5eda67274619dd485c" sha256="1e716c5ff7d0aef72bcca70896df031e96f57f2c9dfc9a70355cc91674d0a46c"/>
+	</game>
 	<game name="Minecraft - PlayStation Vita Edition (USA) (v1.84) (Patch)" id="03550">
 		<category>Games</category>
 		<description>Minecraft - PlayStation Vita Edition (USA) (v1.84) (Patch)</description>
@@ -3586,6 +3770,17 @@
 		<description>Moe Moe 2-Ji Daisenryaku 3 (Japan) (v1.03) (Update)</description>
 		<game_id>JP0393-PCSG00989_00-MOENIJI300000000</game_id>
 		<rom name="JP0393-PCSG00989_00-MOENIJI300000000-A0103-V0100-3b6d784a8f4e262b885001cf79e210706ed42f00-PE.pkg" size="52240144" crc="50fab2b1" md5="a3a26ab56c8c01f13d658b3ccd474dbf" sha1="e51f09e3a8311891ff5d9a07c673f2c9ab9e37c5"/>
+	</game>
+	<game name="Monster Hunter Frontier G (Japan) (v1.01) (Update) (Dupe 1)" id="00729">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0102-PCSG00350_00-MHFGHDDCONTENTID</game_id>
+		<rom name="JP0102-PCSG00350_00-MHFGHDDCONTENTID-A0101-V0100-0ce22c59dcd4b881c298f60884bad8ea43e37ece-PE.pkg" size="38925424" crc="d97cebcc" md5="ec12c3f40c4309d4654200dc9c82c645" sha1="e1d7a1ff95986b635c8c25cff3c5c40b859e267b"/>
+	</game>
+	<game name="Monster Hunter Frontier G (Japan) (v1.82) (Patch) (Dupe 1)" id="04315">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G (Japan) (v1.82) (Patch) (Dupe 1)</description>
+		<rom name="JP0102-PCSG00350_00-MHFGHDDCONTENTID-A0182-V0100-8873d2c2db7d0913b3d7b732279852ab833c28ad-SP-PE.pkg" size="30650576" crc="d2df5293" md5="eac10555e2fa6939e978e3da59015caa" sha1="88d14337305134bf496d56a100aa45b0c519ec72"/>
 	</game>
 	<game name="Monster Hunter Frontier G (Japan) (v1.99) (Patch)" id="03573">
 		<category>Games</category>
@@ -3701,6 +3896,16 @@
 		<game_id>UP4293-PCSE01259_00-AGE075MUV0000000</game_id>
 		<rom name="UP4293-PCSE01259_00-AGE075MUV0000000-A0101-V0100-8fd651a4d73a2ae3d632844cca7763ee8ce42377-PE.pkg" size="4854672" crc="19d280e6" md5="ea2174be89e40d54430bd29ed770d4e3" sha1="8bef29faee629ac4ed63276e651e1ffe396f2c5c" sha256="c0f260bdb46796e4ebb3cd289d446b3fcf3660c1a1d22984f3d8ffeb8c6b8dcc"/>
 	</game>
+	<game name="Muv-Luv Alternative (USA) (v1.01) (Update) (Dupe 1)" id="04316">
+		<category>Games</category>
+		<description>Muv-Luv Alternative (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP4293-PCSE01260_00-AGE076ALT0000000-A0101-V0100-c3bad593813de7418bfbfe719a7e62cfee4dd7b7-PE.pkg" size="5652208" crc="676cc332" md5="2808253f3bf0c72a6591ef7cccd075b1" sha1="a97ff6d454f915a34cf509bbd2fa5cf021259695"/>
+	</game>
+	<game name="Muv-Luv Alternative (USA) (v1.02) (Patch)" id="04317">
+		<category>Games</category>
+		<description>Muv-Luv Alternative (USA) (v1.02) (Patch)</description>
+		<rom name="UP4293-PCSE01260_00-AGE076ALT0000000-A0102-V0100-f3a9caba9d38bfd286362a033afbfd20305de91f-SP-PE.pkg" size="26375360" crc="d19b212d" md5="b59053f79524a3b17796e10168b742e6" sha1="d0278e7836f62a6449912adb9527a9252eb8e291"/>
+	</game>
 	<game name="Muv-Luv Alternative (USA) (v1.02) (Update)" id="03101">
 		<category>Games</category>
 		<description>Muv-Luv Alternative (USA) (v1.02) (Update)</description>
@@ -3779,6 +3984,11 @@
 		<game_id>JP0031-PCSG00410_00-TRIGGERKISS00000</game_id>
 		<rom name="JP0031-PCSG00410_00-TRIGGERKISS00000-A0101-V0101-9ed75b5315f1e24511f70878c51c61298471375f-PE.pkg" size="3582080" crc="a2fa684f" md5="f4809c96bdae5eebcf5488158f1d3166" sha1="b142f891852fcaa063587fd9d9504b1d61a776c5"/>
 	</game>
+	<game name="Nelke to Densetsu no Renkinjutsutachi - Aratana Daichi no Atelier (Japan) (v1.01) (Update) (Dupe 1)" id="04318">
+		<category>Games</category>
+		<description>Nelke to Densetsu no Renkinjutsutachi - Aratana Daichi no Atelier (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0106-PCSG01223_00-ATELIER20TH00000-A0101-V0100-9ff296c61c95f83c917c0535b3025f2545720c6d-PE.pkg" size="5276656" crc="4ab91d09" md5="e03d2b65d3ce0601f3ae67f46af3dddf" sha1="11e73b8d9b1bd81735db92ac81b7b3012fda6ca8"/>
+	</game>
 	<game name="Nelke to Densetsu no Renkinjutsutachi - Aratana Daichi no Atelier (Japan) (v1.06) (Patch)" id="03580">
 		<category>Games</category>
 		<description>Nelke to Densetsu no Renkinjutsutachi - Aratana Daichi no Atelier (Japan) (v1.06) (Patch)</description>
@@ -3832,6 +4042,11 @@
 		<description>NeuroVoider (Europe) (v1.01) (Update)</description>
 		<game_id>EP1302-PCSB01222_00-NEUROVOIDERPSVEU</game_id>
 		<rom name="EP1302-PCSB01222_00-NEUROVOIDERPSVEU-A0101-V0100-7d03ae73c38e228f1745346c6a630e3fb0302c06-PE.pkg" size="10315568" crc="1f582dc3" md5="9e17de48962dedbfc67c2e21bff14939" sha1="8a13d94912f0a997a314669c8d47bc5042183512" sha256="165d4ca06910f815d233c47dce8eb7338bc798cd0cf2148a72ee4f59fd6b324a"/>
+	</game>
+	<game name="New Danganronpa V3 - Minna no Koroshiai Shingakki (Japan) (v1.02) (Update) (Dupe 1)" id="04319">
+		<category>Games</category>
+		<description>New Danganronpa V3 - Minna no Koroshiai Shingakki (Japan) (v1.02) (Update) (Dupe 1)</description>
+		<rom name="JP0365-PCSG00936_00-DANGANV3VITA0000-A0102-V0100-d495b4de918fdbfbb467a94ba6d9c742f84e82e8-PE.pkg" size="980936560" crc="e4a9fba4" md5="3c48a3f5aaf7b174289cea36489bfa0e" sha1="7e91e1fb2a8b3d48fca9e216b9fb729e6936a433"/>
 	</game>
 	<game name="New Danganronpa V3 - Minna no Koroshiai Shingakki (Japan) (v1.03) (Patch)" id="02860">
 		<category>Games</category>
@@ -3952,6 +4167,18 @@
 		<description>Nobunaga no Yabou - Tenshouki with Power-Up Kit HD Version (Japan) (v1.03) (Update)</description>
 		<game_id>JP0106-PCSG00741_00-GAME000000000000</game_id>
 		<rom name="JP0106-PCSG00741_00-GAME000000000000-A0103-V0100-d3a78b73bbfd2e436092cc99ff39508210e74f62-PE.pkg" size="4411792" crc="944f1769" md5="2fe4829b6ae58e792668fc0b10d22f03" sha1="ad7185960f9337561bbac691ac92cb796327c5b0"/>
+	</game>
+	<game name="Nobunaga no Yabou 201X (Japan) (v1.01) (Update) (Dupe 1)" id="01886">
+		<category>Games</category>
+		<description>Nobunaga no Yabou 201X (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0106-PCSG00803_00-NBG201XAPP000000</game_id>
+		<rom name="JP0106-PCSG00803_00-NBG201XAPP000000-A0101-V0100-8c4d5523625b37d94e44a4d26481a02feeabf52e-PE.pkg" size="157497376" crc="8facfb7e" md5="6faaba44be7651830783202030f00cbc" sha1="1042a327c491e74fd6b940a054ff1638543b5b43"/>
+	</game>
+	<game name="Nobunaga no Yabou 201X (Japan) (v1.31) (Patch) (Dupe 1)" id="02880">
+		<category>Games</category>
+		<description>Nobunaga no Yabou 201X (Japan) (v1.31) (Patch) (Dupe 1)</description>
+		<game_id>JP0106-PCSG00803_00-NBG201XAPP000000</game_id>
+		<rom name="JP0106-PCSG00803_00-NBG201XAPP000000-A0131-V0100-444654f749659f6b459784848ebbd0e201ff9bc6-SP-PE.pkg" size="286700496" crc="31bdf2df" md5="bf291279fedd9421bad8fb8cb94d97e2" sha1="a9aba643ef942b807bb3bad8caa275218fb2953a" sha256="c4f2a6546a76a47796bc40b8c817e0353676631998d4c395bc6975c2eccdbd07"/>
 	</game>
 	<game name="Nobunaga no Yabou 201X (Japan) (v1.39) (Patch)" id="03593">
 		<category>Games</category>
@@ -4247,11 +4474,22 @@
 		<game_id>UP4836-PCSE01342_00-PERILSBAKING1PSV</game_id>
 		<rom name="UP4836-PCSE01342_00-PERILSBAKING1PSV-A0103-V0100-cb31de56d8b131c5c6b2e4a5b5c009a2fc6efa55-PE.pkg" size="9545408" crc="fc03c7ac" md5="f71397f822a474f6c87258c1ba04e415" sha1="9d19673fbce3a95866c571a052e2d12cc73e2a2d" sha256="44c8222d9c4483741c603b742926f6c2d89d700ddf5929cfe0aa0646d39a9375"/>
 	</game>
-	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.02) (Patch)" id="02828">
+	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.01) (Update) (Dupe 1)" id="02829">
 		<category>Games</category>
-		<description>Persona 3 - Dancing Moon Night (Japan) (v1.02) (Patch)</description>
+		<description>Persona 3 - Dancing Moon Night (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0005-PCSG01031_00-PERSONA3D0000000</game_id>
+		<rom name="JP0005-PCSG01031_00-PERSONA3D0000000-A0101-V0100-683750a93ec602467811af5dd3d91a55bd6746b5-PE.pkg" size="3212816" crc="691a0275" md5="8e6077c424d73ee845a223e6275e6c90" sha1="b28c7156d2b44dc397d660083383542ff48e06cd" sha256="cd5557b2c38f985249c464025781851e0017dc4f1be02ff00e8233c26cc8e6df"/>
+	</game>
+	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.02) (Patch) (Dupe 1)" id="02828">
+		<category>Games</category>
+		<description>Persona 3 - Dancing Moon Night (Japan) (v1.02) (Patch) (Dupe 1)</description>
 		<game_id>JP0005-PCSG01031_00-PERSONA3D0000000</game_id>
 		<rom name="JP0005-PCSG01031_00-PERSONA3D0000000-A0102-V0100-7010763fa63c1736defe9ec4b1ee755b0a7a3d91-SP-PE.pkg" size="23283568" crc="150b9500" md5="c1445c0192d78b69ed57bb2f8674c448" sha1="d5be4c507529082ed1b6db051099cf80e7649141" sha256="87e74677555201712aadafefbc91cfda7f0e31f63e8f1cb37b4a83f6f3a0d3f0"/>
+	</game>
+	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.03) (Patch)" id="04353">
+		<category>Games</category>
+		<description>Persona 3 - Dancing Moon Night (Japan) (v1.03) (Patch)</description>
+		<rom name="JP0005-PCSG01031_00-PERSONA3D0000000-A0103-V0100-89b15e866aa027fea3684df95db7c1a33244488d-SP-PE.pkg" size="4049760" crc="b66cdd1f" md5="203c3ac73dba36af0a437c2853043f9c" sha1="9cb646ad5fa5afb8a83f81c43a2363526e48cf31"/>
 	</game>
 	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.03) (Update)" id="03219">
 		<category>Games</category>
@@ -4277,11 +4515,22 @@
 		<game_id>JP0005-PCSG00004_00-PERSONA4GOLDEN01</game_id>
 		<rom name="JP0005-PCSG00004_00-PERSONA4GOLDEN01-A0101-V0103-dd0210f1abfafdc798fe29446416ad576ed32d80-PE.pkg" size="3007568" crc="60c84cfa" md5="c0cf89dca634d13338571f4f2ee390ba" sha1="7d9dfcbd6aad2ba919db4b5ab271e07f6225460e"/>
 	</game>
-	<game name="Persona 5 - Dancing Star Night (Japan) (v1.02) (Patch)" id="02831">
+	<game name="Persona 5 - Dancing Star Night (Japan) (v1.01) (Update) (Dupe 1)" id="02832">
 		<category>Games</category>
-		<description>Persona 5 - Dancing Star Night (Japan) (v1.02) (Patch)</description>
+		<description>Persona 5 - Dancing Star Night (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0005-PCSG01030_00-PERSONA5D0000000</game_id>
+		<rom name="JP0005-PCSG01030_00-PERSONA5D0000000-A0101-V0100-70af17516251a54ddee9eb895d58dcdb44d3b9f6-PE.pkg" size="3223616" crc="83ff3228" md5="568d53fad6ca77808762aec5b460ef12" sha1="198b0bed85041a7516172cc63c9882b0f6902353" sha256="2df8548b2d750fb5f449952189a7ec21039ccc3d3ed864ddaeb5e38c74302f75"/>
+	</game>
+	<game name="Persona 5 - Dancing Star Night (Japan) (v1.02) (Patch) (Dupe 1)" id="02831">
+		<category>Games</category>
+		<description>Persona 5 - Dancing Star Night (Japan) (v1.02) (Patch) (Dupe 1)</description>
 		<game_id>JP0005-PCSG01030_00-PERSONA5D0000000</game_id>
 		<rom name="JP0005-PCSG01030_00-PERSONA5D0000000-A0102-V0100-5557feeef19cc53e7a1e5a73beabdb912e9d6670-SP-PE.pkg" size="23294992" crc="c8e635e5" md5="4acd27a49cb3473b503f718dd9256516" sha1="cf59d4fd17f6efa96951cd2acb47b4d65ac2c8c4" sha256="b8d1b0e7e893c920405d01e94741f87a048c3b0f71132a5f3c442209188febec"/>
+	</game>
+	<game name="Persona 5 - Dancing Star Night (Japan) (v1.03) (Patch)" id="04356">
+		<category>Games</category>
+		<description>Persona 5 - Dancing Star Night (Japan) (v1.03) (Patch)</description>
+		<rom name="JP0005-PCSG01030_00-PERSONA5D0000000-A0103-V0100-c44e43d82dd66c4110f6ca3df2f43f9818af1a64-SP-PE.pkg" size="4061072" crc="f4826eef" md5="7049c557e309d59445d47742ba6ff7cd" sha1="f0fdcbb51661ef739bfe1b04da37472131accdac"/>
 	</game>
 	<game name="Persona 5 - Dancing Star Night (Japan) (v1.03) (Update)" id="03218">
 		<category>Games</category>
@@ -4294,6 +4543,16 @@
 		<description>Phantasy Star Nova (Japan) (v1.05) (Update)</description>
 		<game_id>JP0177-PCSG00351_00-NOVAAPPLICATION0</game_id>
 		<rom name="JP0177-PCSG00351_00-NOVAAPPLICATION0-A0105-V0100-df00d35a8e3f0aba787dbce0664a7b06883e6d11-PE.pkg" size="169675760" crc="047fe207" md5="9619727fc98926e9273cca8e0e239251" sha1="6c72f521198a63b69668090771cbcfda6ab46bcd"/>
+	</game>
+	<game name="Phantasy Star Online 2 (Japan) (v6.19) (Update) (Dupe 1)" id="04357">
+		<category>Games</category>
+		<description>Phantasy Star Online 2 (Japan) (v6.19) (Update) (Dupe 1)</description>
+		<rom name="JP0177-PCSG00141_00-PHANTASYSTARONL2-A0619-V0100-139a102372382e93fbdd76d3f235aeb3faa48a44-PE.pkg" size="16143272384" crc="5cfd2bb1" md5="2476f07c966b63a3f3f8533c3ab05b15" sha1="f50d3baca5e35094f654614d90077c1f741620c1"/>
+	</game>
+	<game name="Phantasy Star Online 2 (Japan) (v6.24) (Patch) (Dupe 1)" id="04362">
+		<category>Games</category>
+		<description>Phantasy Star Online 2 (Japan) (v6.24) (Patch) (Dupe 1)</description>
+		<rom name="JP0177-PCSG00141_00-PHANTASYSTARONL2-A0624-V0100-860b6665dfbc2a728d41f4640665f6441a14cdb3-SP-PE.pkg" size="341421280" crc="2a984e16" md5="d1ddec2c03d9da8cde399a5a2cf99a1a" sha1="87b4827e70d15393cf53e47f6940b35fe982ba1f"/>
 	</game>
 	<game name="Phantasy Star Online 2 (Japan) (v6.31) (Patch)" id="03914">
 		<category>Games</category>
@@ -4439,6 +4698,17 @@
 		<game_id>JP0101-PCSG00288_00-PROBBSPIRITS2014</game_id>
 		<rom name="JP0101-PCSG00288_00-PROBBSPIRITS2014-A0110-V0100-5540562225220238cb246bdc5b394babc5dd027b-PE.pkg" size="57744272" crc="9d2195d4" md5="245a1c296a881d34f1c71d46d6775866" sha1="586a5db8fc29546217e8dd9c34e693d6b81382d8"/>
 	</game>
+	<game name="Pro Yakyuu Spirits 2015 (Japan) (v1.02) (Update) (Dupe 1)" id="00935">
+		<category>Games</category>
+		<description>Pro Yakyuu Spirits 2015 (Japan) (v1.02) (Update) (Dupe 1)</description>
+		<game_id>JP0101-PCSG00541_00-PROBBSPIRITS2015</game_id>
+		<rom name="JP0101-PCSG00541_00-PROBBSPIRITS2015-A0102-V0100-18b162d2e197eb7fa3ff76010f42a8521baf8224-PE.pkg" size="75921440" crc="df5fff95" md5="4f09b9b816d4297d0d059cf54051f66f" sha1="39d301050a5d26219b59b05ba03ca4baa3ddc13a"/>
+	</game>
+	<game name="Pro Yakyuu Spirits 2015 (Japan) (v1.09) (Patch) (Dupe 1)" id="04370">
+		<category>Games</category>
+		<description>Pro Yakyuu Spirits 2015 (Japan) (v1.09) (Patch) (Dupe 1)</description>
+		<rom name="JP0101-PCSG00541_00-PROBBSPIRITS2015-A0109-V0100-7a43a8d4bc48a2e432271448c907bcd71944ddbd-SP-PE.pkg" size="9633904" crc="fc434d45" md5="7446d8ae66a6ad0468862038e334fc98" sha1="af696b3654afd726effc3423d6867274924aa4f1"/>
+	</game>
 	<game name="Pro Yakyuu Spirits 2015 (Japan) (v1.10) (Patch)" id="02131">
 		<category>Games</category>
 		<description>Pro Yakyuu Spirits 2015 (Japan) (v1.10) (Patch)</description>
@@ -4450,6 +4720,17 @@
 		<description>Pro Yakyuu Spirits 2015 (Japan) (v1.10) (Update)</description>
 		<game_id>JP0101-PCSG00541_00-PROBBSPIRITS2015</game_id>
 		<rom name="JP0101-PCSG00541_00-PROBBSPIRITS2015-A0110-V0100-c047a855a4622a6b34a460c039dfa3d898659a35-PE.pkg" size="113981248" crc="7b94636d" md5="29c516e1035ec1a0fadc2ad1d2eef0e9" sha1="e630777daf969220ae2847fddb52ee084acdc8f3"/>
+	</game>
+	<game name="Pro Yakyuu Spirits 2019 (Japan) (v1.01) (Update) (Dupe 1)" id="03613">
+		<category>Games</category>
+		<description>Pro Yakyuu Spirits 2019 (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0101-PCSG01248_00-PROBBSPIRITS2019</game_id>
+		<rom name="JP0101-PCSG01248_00-PROBBSPIRITS2019-A0101-V0100-bdf0a117ac590f7a8167efcf8dd485fd94fd62d4-PE.pkg" size="67217504" crc="7d716d36" md5="4e3115551669bfe1649bea8e39919e73" sha1="619bc9fcda286da0b15032ac2db7045c938729a1"/>
+	</game>
+	<game name="Pro Yakyuu Spirits 2019 (Japan) (v1.10) (Patch) (Dupe 1)" id="04380">
+		<category>Games</category>
+		<description>Pro Yakyuu Spirits 2019 (Japan) (v1.10) (Patch) (Dupe 1)</description>
+		<rom name="JP0101-PCSG01248_00-PROBBSPIRITS2019-A0110-V0100-c48679e1237c20d44a35e6a6145d829ba58d45ee-SP-PE.pkg" size="21315616" crc="19652efc" md5="9366a13bf85e19842babe0d322a4b7a1" sha1="7505d92f260e7a02d9f160172dd32e9d43be1281"/>
 	</game>
 	<game name="Pro Yakyuu Spirits 2019 (Japan) (v1.15) (Patch)" id="03921">
 		<category>Games</category>
@@ -4727,11 +5008,10 @@
 		<game_id>UP5015-PCSE00761_00-RB20000000000001</game_id>
 		<rom name="UP5015-PCSE00761_00-RB20000000000001-A0104-V0100-5f0ef5dc5227c9e3920809ca274a91750037f61f-PE.pkg" size="483139872" crc="643da8f8" md5="bf3181ee21152c8af60f3e2cf59d2a54" sha1="d7f965a0da32c09b860859ff27d6f627b37f62ca"/>
 	</game>
-	<game name="Rogue Aces (Europe) (v1.02) (Patch)" id="03627">
+	<game name="Rogue Aces (USA) (v1.02) (Patch)" id="04381">
 		<category>Games</category>
-		<description>Rogue Aces (Europe) (v1.02) (Patch)</description>
-		<game_id>EP4395-PCSB00823_00-ROGUEACES0000000</game_id>
-		<rom name="EP4395-PCSB00823_00-ROGUEACES0000000-A0102-V0100-3720e7d54448f8e04b47932fbc8ee2e505f8a85a-SP-PE.pkg" size="2699104" crc="2601ad07" md5="443e9bf0abe700d1433fad074dde461b" sha1="fe7c4d142ae0605a614e3b171530411ad07455f0"/>
+		<description>Rogue Aces (USA) (v1.02) (Patch)</description>
+		<rom name="UP4395-PCSE01198_00-ROGUEACES0000000-A0102-V0100-c5d85692f5239a3317cf93e2bda84841b47b0ad8-SP-PE.pkg" size="2699040" crc="d10949c2" md5="1dc2fcd221677c1266b97abbc97f49a3" sha1="edd4a46b71797f2a8e6b54aacd87941781b97cc3"/>
 	</game>
 	<game name="Rogue Aces (USA) (v1.02) (Update)" id="03089">
 		<category>Games</category>
@@ -4847,6 +5127,17 @@
 		<game_id>HP0700-PCSH00242_00-GGGENESISPSVEN00</game_id>
 		<rom name="HP0700-PCSH00242_00-GGGENESISPSVEN00-A0106-V0100-ce80423f2de38379c8f31788f1507ed21ba10a5e-PE.pkg" size="1719060048" crc="e14e53c0" md5="5c150d05f5d6e07137b81af0eecb3c1c" sha1="b258c384aa8d7684ac63a75a502118274589e10e"/>
 	</game>
+	<game name="SD Gundam G Generation Genesis (Japan) (v1.02) (Update) (Dupe 1)" id="02555">
+		<category>Games</category>
+		<description>SD Gundam G Generation Genesis (Japan) (v1.02) (Update) (Dupe 1)</description>
+		<game_id>JP0700-PCSG00793_00-GGGENESISPSVJP00</game_id>
+		<rom name="JP0700-PCSG00793_00-GGGENESISPSVJP00-A0102-V0100-8c6cb4a7cea03db3abbb3a017628b0e3258b63d4-PE.pkg" size="554018480" crc="24cf4347" md5="4015964fb80b78030f5fc72478b268d5" sha1="67f8312c0ac4e6bf164b6abb91967d47629a6235"/>
+	</game>
+	<game name="SD Gundam G Generation Genesis (Japan) (v1.05) (Patch) (Dupe 1)" id="04456">
+		<category>Games</category>
+		<description>SD Gundam G Generation Genesis (Japan) (v1.05) (Patch) (Dupe 1)</description>
+		<rom name="JP0700-PCSG00793_00-GGGENESISPSVJP00-A0105-V0100-cb1acd4d3d0e49c6adc96bd0c9955e4f3b438b8a-SP-PE.pkg" size="518101440" crc="c2191cad" md5="b541e3c1af1a92120547e1edb9afdad8" sha1="2c594d239bd300586353f2512deaaa7c1c01da5b"/>
+	</game>
 	<game name="Saki - Zenkoku-hen (Japan) (v1.03) (Patch)" id="02135">
 		<category>Games</category>
 		<description>Saki - Zenkoku-hen (Japan) (v1.03) (Patch)</description>
@@ -4858,6 +5149,18 @@
 		<description>Saki - Zenkoku-hen (Japan) (v1.03) (Update)</description>
 		<game_id>JP0394-PCSG00646_00-SAKIGAME00000003</game_id>
 		<rom name="JP0394-PCSG00646_00-SAKIGAME00000003-A0103-V0100-9c47c57569c58cf2c73f85b3f3691ede1dd58585-PE.pkg" size="103737520" crc="b2f06b93" md5="9f74fdf2f75523c071336cabb7097f09" sha1="535d7424fd15de1055fcd38892be68d00814e7f9"/>
+	</game>
+	<game name="Saki - Zenkoku-hen Plus (Japan) (v1.02) (Update) (Dupe 1)" id="02539">
+		<category>Games</category>
+		<description>Saki - Zenkoku-hen Plus (Japan) (v1.02) (Update) (Dupe 1)</description>
+		<game_id>JP0741-PCSG00908_00-SAKIGAME00000003</game_id>
+		<rom name="JP0741-PCSG00908_00-SAKIGAME00000003-A0102-V0100-5def47d6cde7d4925f4ef63cffc6561d342cb8e2-PE.pkg" size="29222208" crc="6eca352e" md5="9d043aa52de2b85d25c1bcbc32e581f2" sha1="5c8e0c592b7fc01a0a6bcc150e299fcd8286f079"/>
+	</game>
+	<game name="Saki - Zenkoku-hen Plus (Japan) (v2.00) (Patch) (Dupe 1)" id="02540">
+		<category>Games</category>
+		<description>Saki - Zenkoku-hen Plus (Japan) (v2.00) (Patch) (Dupe 1)</description>
+		<game_id>JP0741-PCSG00908_00-SAKIGAME00000003</game_id>
+		<rom name="JP0741-PCSG00908_00-SAKIGAME00000003-A0200-V0101-c2b876c3d00fea49d778c3c022d467a1520f48e9-SP-PE.pkg" size="106756064" crc="77844557" md5="02e08c89222d320c25ae03a4a9836a47" sha1="dda51a562f39b8ba91a4fe12c426b7b9396c2370"/>
 	</game>
 	<game name="Saki - Zenkoku-hen Plus (Japan) (v2.01) (Patch)" id="02872">
 		<category>Games</category>
@@ -4895,6 +5198,16 @@
 		<game_id>UP4108-PCSE00503_00-APPLICATION00000</game_id>
 		<rom name="UP4108-PCSE00503_00-APPLICATION00000-A0101-V0100-cd1c88890d8037cacd9c7c8c9dd7c670b9713839-PE.pkg" size="3063504" crc="2858f304" md5="bdd802e29fa7ebcc6bec3a5162ca050c" sha1="b6388204b83c35665c978d8bd64aa052665e3ebb"/>
 	</game>
+	<game name="San Goku Shi 12 (Japan) (v1.10) (Update) (Dupe 1)" id="04385">
+		<category>Games</category>
+		<description>San Goku Shi 12 (Japan) (v1.10) (Update) (Dupe 1)</description>
+		<rom name="JP0106-PCSG00154_00-SANGOKUSHI12VITA-A0110-V0102-bed3d59404a887ac6d535837cb45cf4cc7094715-PE.pkg" size="208361104" crc="915d5a0c" md5="6bccaf8f187ebbf97eb115dec9d9efe1" sha1="617a30358b398fb91824506637a172265c570c72"/>
+	</game>
+	<game name="San Goku Shi 12 (Japan) (v1.25) (Patch) (Dupe 1)" id="04400">
+		<category>Games</category>
+		<description>San Goku Shi 12 (Japan) (v1.25) (Patch) (Dupe 1)</description>
+		<rom name="JP0106-PCSG00154_00-SANGOKUSHI12VITA-A0125-V0100-f4eb6e0283a0c28e6687fd6ab895a2b8b48a59ea-SP-PE.pkg" size="15032864" crc="c5a8e245" md5="63202e7f2b9e50eb148041edeb03ecb9" sha1="dbd5736cf821e4538ae6615e548cdfe0025d1eee"/>
+	</game>
 	<game name="San Goku Shi 12 (Japan) (v1.31) (Patch)" id="01956">
 		<category>Games</category>
 		<description>San Goku Shi 12 (Japan) (v1.31) (Patch)</description>
@@ -4919,17 +5232,37 @@
 		<game_id>JP0106-PCSG00211_00-SANGOKUSHI12VS00</game_id>
 		<rom name="JP0106-PCSG00211_00-SANGOKUSHI12VS00-A0134-V0100-ba0b7c14c7c9a1958c572cebd7b2ec97e521333e-PE.pkg" size="252193424" crc="7fa7eca5" md5="1ccdbcc3989452a267989c80bbc42f17" sha1="fd5002b11f249fc6cae7ba0fdae1e18845021fbe" sha256="0c670ca3ea07f4ff1f721a44012302982597eb98d659a6496358b46590f57f29"/>
 	</game>
-	<game name="San Goku Shi 12 Taisenban (Japan) (v1.28) (Patch)" id="01968">
+	<game name="San Goku Shi 12 Taisenban (Japan) (v1.01) (Update) (Dupe 1)" id="04401">
 		<category>Games</category>
-		<description>San Goku Shi 12 Taisenban (Japan) (v1.28) (Patch)</description>
-		<game_id>JP0106-PCSG00211_00-SANGOKUSHI12VS00</game_id>
-		<rom name="JP0106-PCSG00211_00-SANGOKUSHI12VS00-A0128-V0100-b881f221e98c494443c41d0d38b8d38ba55eacbe-SP-PE.pkg" size="2890080" crc="59df455f" md5="bef3bcbda0e202764a7a220eecfcfb97" sha1="8f8527ff5d5430f4a23a2e248d3cbdd21ed93035"/>
+		<description>San Goku Shi 12 Taisenban (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0106-PCSG00211_00-SANGOKUSHI12VS00-A0101-V0100-353962aadf843a63d909858e1e686f08671b9e6d-PE.pkg" size="3475664" crc="b2906aa5" md5="6a4715f83ebc1f5ec8eee1f72660dea8" sha1="b528931cb9e30b20b15ed17fc067e32c54784e05"/>
+	</game>
+	<game name="San Goku Shi 12 Taisenban (Japan) (v1.28) (Patch) (Dupe 1)" id="04428">
+		<category>Games</category>
+		<description>San Goku Shi 12 Taisenban (Japan) (v1.28) (Patch) (Dupe 1)</description>
+		<rom name="JP0106-PCSG00211_00-SANGOKUSHI12VS00-A0128-V0100-d514a252e649cf4e82363be834b697c99d16b4b6-SP-PE.pkg" size="2890080" crc="59df455f" md5="bef3bcbda0e202764a7a220eecfcfb97" sha1="8f8527ff5d5430f4a23a2e248d3cbdd21ed93035"/>
 	</game>
 	<game name="San Goku Shi 12 Taisenban (Japan) (v1.28) (Update)" id="01969">
 		<category>Games</category>
 		<description>San Goku Shi 12 Taisenban (Japan) (v1.28) (Update)</description>
 		<game_id>JP0106-PCSG00211_00-SANGOKUSHI12VS00</game_id>
 		<rom name="JP0106-PCSG00211_00-SANGOKUSHI12VS00-A0128-V0100-3ac0557f98faa2e4790dd51dd31b174e9ed2403d-PE.pkg" size="245442896" crc="06c7f422" md5="85fd17f18dc33efefcb5cf3c00b60fbb" sha1="ea7d7aa1da9993a3e3ae2691d64cd1febaf4e477"/>
+	</game>
+	<game name="San Goku Shi 12 Taisenban (Japan) (v1.31) (Patch)" id="04431">
+		<category>Games</category>
+		<description>San Goku Shi 12 Taisenban (Japan) (v1.31) (Patch)</description>
+		<rom name="JP0106-PCSG00211_00-SANGOKUSHI12VS00-A0131-V0100-73814388bec79f10f43f1df43aed6b80e60fb47f-SP-PE.pkg" size="5032688" crc="7eab1e0d" md5="9e279690d7abd3027828ff2c69af8de2" sha1="a8ba3f171f266ffac39d7d838ad12995e257c564"/>
+	</game>
+	<game name="San Goku Shi 12 with Power-Up Kit (Japan) (v1.01) (Update) (Dupe 1)" id="01052">
+		<category>Games</category>
+		<description>San Goku Shi 12 with Power-Up Kit (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0106-PCSG00210_00-SANGOKUSHI12WPKV</game_id>
+		<rom name="JP0106-PCSG00210_00-SANGOKUSHI12WPKV-A0101-V0100-42256172372ee42d0a4878d565fcc800879bee74-PE.pkg" size="5436256" crc="9430c248" md5="12e227b73efab4f68c847ab966ead7cf" sha1="53367d6ddf00648d850ba056152d80ece2c99052"/>
+	</game>
+	<game name="San Goku Shi 12 with Power-Up Kit (Japan) (v1.16) (Patch) (Dupe 1)" id="04447">
+		<category>Games</category>
+		<description>San Goku Shi 12 with Power-Up Kit (Japan) (v1.16) (Patch) (Dupe 1)</description>
+		<rom name="JP0106-PCSG00210_00-SANGOKUSHI12WPKV-A0116-V0100-a3b5fa52cd610fa912764274ba6aaad35741a91b-SP-PE.pkg" size="15403616" crc="ef2e7f1f" md5="6765f1343292cc7648cbb47e9edb6dbd" sha1="c2971b2ad9761dd803f9c6bb956406ed63c5f580"/>
 	</game>
 	<game name="San Goku Shi 12 with Power-Up Kit (Japan) (v1.22) (Patch)" id="01975">
 		<category>Games</category>
@@ -4991,6 +5324,18 @@
 		<game_id>UP4290-PCSE00642_00-SCRAMKITTYSCRAMS</game_id>
 		<rom name="UP4290-PCSE00642_00-SCRAMKITTYSCRAMS-A0101-V0100-27dd1b49fc82cdca229380ad14ba8d8294018ac7-PE.pkg" size="76226368" crc="9bc0bb0f" md5="6473b1987687224091be232b7432e671" sha1="bf0b82e45895efdcccbe077f2e4887120af268a1"/>
 	</game>
+	<game name="Secret of Mana (USA) (v1.01) (Update) (Dupe 1)" id="03080">
+		<category>Games</category>
+		<description>Secret of Mana (USA) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>UP0082-PCSE01153_00-SECRETOFMANAPSV0</game_id>
+		<rom name="UP0082-PCSE01153_00-SECRETOFMANAPSV0-A0101-V0100-ad414d4f5aabaef4033a37da879e5929eb1d237e-PE.pkg" size="399275488" crc="b3ab3d9a" md5="8c0b77af393f401b5965bf08e00d823f" sha1="d0520edc8afa1b5196fa33a3d990e926f0c1a8d3" sha256="9eca345a8a54d391b7e513e01e6e2ed9688323282160c11ba813827fb42e196c"/>
+	</game>
+	<game name="Secret of Mana (USA) (v1.02) (Patch) (Dupe 1)" id="02958">
+		<category>Games</category>
+		<description>Secret of Mana (USA) (v1.02) (Patch) (Dupe 1)</description>
+		<game_id>UP0082-PCSE01153_00-SECRETOFMANAPSV0</game_id>
+		<rom name="UP0082-PCSE01153_00-SECRETOFMANAPSV0-A0102-V0100-3a9f401cc1c975be73035bee71c8fe568aa210f6-SP-PE.pkg" size="26128576" crc="06772b28" md5="b17749961f27deb00d352307bc80322f" sha1="35a4afdc5c865062e9e1e72431e947f91a6384ff" sha256="4acd248da40fca8e1010b0483815418ddea906975f0ab795d2c42dedf8af6b1a"/>
+	</game>
 	<game name="Secret of Mana (USA) (v1.03) (Patch)" id="03932">
 		<category>Games</category>
 		<description>Secret of Mana (USA) (v1.03) (Patch)</description>
@@ -5008,6 +5353,16 @@
 		<description>Sei Madou Monogatari (Japan) (v1.03) (Update)</description>
 		<game_id>JP0031-PCSG00168_00-SEIMADOUMONOGATA</game_id>
 		<rom name="JP0031-PCSG00168_00-SEIMADOUMONOGATA-A0103-V0100-75296031b5f520ff891181849744961178831bd9-PE.pkg" size="4052064" crc="f6d72ffa" md5="a6895c9dbd3471dad8d54925346b59ae" sha1="1c80939f6cdf29f20765169be5ff765ca61d758d"/>
+	</game>
+	<game name="Seiken Densetsu 2 - Secret of Mana (Japan) (v1.01) (Update) (Dupe 1)" id="04463">
+		<category>Games</category>
+		<description>Seiken Densetsu 2 - Secret of Mana (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0082-PCSG01121_00-SECRETOFMANPSVPK-A0101-V0100-b1a584499a2bd8e6327fd4d4ac19c172909e0383-PE.pkg" size="397073056" crc="c957161e" md5="82e1e598ce46d4ce91a1d4df9379e407" sha1="6ce5de892df7a042abf93f7af7948a4cc2bed584"/>
+	</game>
+	<game name="Seiken Densetsu 2 - Secret of Mana (Japan) (v1.02) (Patch) (Dupe 1)" id="04464">
+		<category>Games</category>
+		<description>Seiken Densetsu 2 - Secret of Mana (Japan) (v1.02) (Patch) (Dupe 1)</description>
+		<rom name="JP0082-PCSG01121_00-SECRETOFMANPSVPK-A0102-V0100-bca03a8bc512f8b3ffb8faafefee7779b042fcd3-SP-PE.pkg" size="25994256" crc="fe0a7ec9" md5="c11ac9ea61dd5111b86f9838e1caf23a" sha1="a0f841eae5ac354d46cdfe28b1c93fec1cbe9501"/>
 	</game>
 	<game name="Seiken Densetsu 2 - Secret of Mana (Japan) (v1.03) (Patch)" id="03933">
 		<category>Games</category>
@@ -5141,6 +5496,16 @@
 		<game_id>JP0106-PCSG00821_00-SHALLIEPLSMASTER</game_id>
 		<rom name="JP0106-PCSG00821_00-SHALLIEPLSMASTER-A0103-V0100-a75ea1139c95d9537b771b5115566230c419f932-PE.pkg" size="64650736" crc="d1e22ef6" md5="039abd1298f832c2d57043133a93c1d3" sha1="593d14f6bade7a3a00a29cb44acc7aab71874028"/>
 	</game>
+	<game name="Shantae - Half-Genie Hero (USA) (v1.01) (Update) (Dupe 1)" id="04469">
+		<category>Games</category>
+		<description>Shantae - Half-Genie Hero (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP1023-PCSE00950_00-SHANTAEHALFGENIE-A0101-V0100-a9ec64e08168379048e0123e20d5c308760f9a6a-PE.pkg" size="275694320" crc="7060eb07" md5="d14c454b2379a7be16409ae2d18248e1" sha1="dfaeab16f46bea9298ce5491642fd76684ddc2bc"/>
+	</game>
+	<game name="Shantae - Half-Genie Hero (USA) (v1.04) (Patch) (Dupe 1)" id="04472">
+		<category>Games</category>
+		<description>Shantae - Half-Genie Hero (USA) (v1.04) (Patch) (Dupe 1)</description>
+		<rom name="UP1023-PCSE00950_00-SHANTAEHALFGENIE-A0104-V0100-a5d5d3ca6df6df12e33dfa41528e88e8268cb9d4-SP-PE.pkg" size="229219824" crc="98deb9dd" md5="c19d3ff2e5f4879db0cd95227cfbe118" sha1="1bfe830dae9370ad7e5006a8cf3b673c4de0445a"/>
+	</game>
 	<game name="Shantae - Half-Genie Hero (USA) (v1.05) (Patch)" id="03937">
 		<category>Games</category>
 		<description>Shantae - Half-Genie Hero (USA) (v1.05) (Patch)</description>
@@ -5242,6 +5607,18 @@
 		<description>Shingeki no Kyojin (Japan) (v1.03) (Update)</description>
 		<game_id>JP0106-PCSG00762_00-AT1JPHDDGAME0000</game_id>
 		<rom name="JP0106-PCSG00762_00-AT1JPHDDGAME0000-A0103-V0100-aa6d98ceb70e5dcc346f0af065e7edec51f0f7ce-PE.pkg" size="24183952" crc="a98debd8" md5="dbd499244f16168a71fad15d9efcf5c8" sha1="ae4b88fdd592661dd2519e14e1555a15c9677039"/>
+	</game>
+	<game name="Shingeki no Kyojin 2 (Japan) (v1.01) (Update) (Dupe 1)" id="02800">
+		<category>Games</category>
+		<description>Shingeki no Kyojin 2 (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0106-PCSG01102_00-AT2JPHDDGAME0000</game_id>
+		<rom name="JP0106-PCSG01102_00-AT2JPHDDGAME0000-A0101-V0100-9b6f3a8969baa5b8b4f714961e74f423e7bed422-PE.pkg" size="186604784" crc="c2bf986c" md5="ade99c98eb78c378b5b24502f19121f7" sha1="13abe4716d60402a40e88f3977a79129294b8423" sha256="f7fb215c8416a321303783205056a7f1fbead102966a5e52462598ceb69a43b5"/>
+	</game>
+	<game name="Shingeki no Kyojin 2 (Japan) (v1.04) (Patch) (Dupe 1)" id="02796">
+		<category>Games</category>
+		<description>Shingeki no Kyojin 2 (Japan) (v1.04) (Patch) (Dupe 1)</description>
+		<game_id>JP0106-PCSG01102_00-AT2JPHDDGAME0000</game_id>
+		<rom name="JP0106-PCSG01102_00-AT2JPHDDGAME0000-A0104-V0100-d39b8d46db3be408256eb2d955ae86d015b81cb4-SP-PE.pkg" size="31821184" crc="46137cfc" md5="1789ff53236a82a509c7832a786c2365" sha1="434c3d8409fdb6b48f775decd1e652efd5f6b892" sha256="6e1baa7dbd8c3ff82aa85bb2d2f1f8bd08c490115ccd083de855c5ee68fe88f1"/>
 	</game>
 	<game name="Shingeki no Kyojin 2 (Japan) (v1.05) (Patch)" id="03938">
 		<category>Games</category>
@@ -5753,6 +6130,28 @@
 		<game_id>JP0700-PCSG00920_00-EST001VTSRWJP000</game_id>
 		<rom name="JP0700-PCSG00920_00-EST001VTSRWJP000-A0103-V0100-63d31188c1620bea5fd21ced1de3a0fa94865db3-PE.pkg" size="18378768" crc="65397194" md5="915401f74a9c924522d096ece94cd337" sha1="caa75f5706181135af68e73413761699c61f340a"/>
 	</game>
+	<game name="Super Robot Taisen X (Japan) (v1.01) (Premium Anime &amp; Sound Edition) (Update) (Dupe 1)" id="04478">
+		<category>Games</category>
+		<description>Super Robot Taisen X (Japan) (v1.01) (Premium Anime &amp; Sound Edition) (Update) (Dupe 1)</description>
+		<rom name="JP0700-PCSG01129_00-EST002VTSRWJPPE0-A0101-V0100-d7d96f8f976d73220aa8825a3d3c8aaccee371f4-PE.pkg" size="172628464" crc="3de4f796" md5="8dbac991396d8334a8844caf0c12be45" sha1="bd573bcebe19dbddd337eb8673766bc04e765499"/>
+	</game>
+	<game name="Super Robot Taisen X (Japan) (v1.01) (Update) (Dupe 1)" id="02783">
+		<category>Games</category>
+		<description>Super Robot Taisen X (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0700-PCSG01128_00-EST002VTSRWJP000</game_id>
+		<rom name="JP0700-PCSG01128_00-EST002VTSRWJP000-A0101-V0100-f64d8ed638e41d94a3644ca12b10cb71e3054996-PE.pkg" size="172600096" crc="6f1378fb" md5="73519ade971b926573d62fd0705d73c9" sha1="e5a59dde1337adc86dc71b852081b09d4fb0b524" sha256="61d07fd3888462bc25c977709fdfa4a2d2f4ee5fd44c19f7c1c4acf748884ada"/>
+	</game>
+	<game name="Super Robot Taisen X (Japan) (v1.03) (Patch) (Dupe 1)" id="04483">
+		<category>Games</category>
+		<description>Super Robot Taisen X (Japan) (v1.03) (Patch) (Dupe 1)</description>
+		<rom name="JP0700-PCSG01128_00-EST002VTSRWJP000-A0103-V0100-213c14adb6a82d5a4039c96b5e7a0b690f64824c-SP-PE.pkg" size="6602960" crc="44b0d8b4" md5="8283680925262ab863afce4d43f5df27" sha1="53e77a537b78fe87140602a5e9ce248e7eb795e1"/>
+	</game>
+	<game name="Super Robot Taisen X (Japan) (v1.03) (Premium Anime &amp; Sound Edition) (Patch) (Dupe 1)" id="02777">
+		<category>Games</category>
+		<description>Super Robot Taisen X (Japan) (v1.03) (Premium Anime &amp; Sound Edition) (Patch) (Dupe 1)</description>
+		<game_id>JP0700-PCSG01129_00-EST002VTSRWJPPE0</game_id>
+		<rom name="JP0700-PCSG01129_00-EST002VTSRWJPPE0-A0103-V0100-9d8cdf3944c891f6d5e389b8f3c6168eeaf77775-SP-PE.pkg" size="6603248" crc="4402e0e6" md5="08969679b76e370ea6feefa542f1051b" sha1="20ed493b9c1f3c2b5cee7b66138c062ca14dcc04" sha256="ab22b505c8ab2030fc6971badb853b8425118145088e3da15901e94bf366806c"/>
+	</game>
 	<game name="Super Robot Taisen X (Japan) (v1.05) (Patch)" id="03654">
 		<category>Games</category>
 		<description>Super Robot Taisen X (Japan) (v1.05) (Patch)</description>
@@ -5872,6 +6271,17 @@
 		<description>Swindle, The (USA) (v1.03) (Update)</description>
 		<game_id>UP4395-PCSE00684_00-THESWINDLEUSAVIT</game_id>
 		<rom name="UP4395-PCSE00684_00-THESWINDLEUSAVIT-A0103-V0100-01660dc8ba71579e7b169d6ae421089d23efd083-PE.pkg" size="144713408" crc="a2baa32b" md5="fa14737bb48073df82c3150ae49646d4" sha1="d33d173ca5fa5cdaeb9ea347136d066169fb94e0"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Japan) (v1.01) (Update) (Dupe 1)" id="01194">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Fragment (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0700-PCSG00294_00-SWORDART00000002</game_id>
+		<rom name="JP0700-PCSG00294_00-SWORDART00000002-A0101-V0100-9783eaa81e49f44308686a246d136801b07e9c73-PE.pkg" size="10835552" crc="81060fa0" md5="10818c261fef431b33f5ae3e3d05d05b" sha1="25ff02078d26e471df97cadc0ff12ab75a9cebef"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Japan) (v1.06) (Patch) (Dupe 1)" id="04493">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Fragment (Japan) (v1.06) (Patch) (Dupe 1)</description>
+		<rom name="JP0700-PCSG00294_00-SWORDART00000002-A0106-V0101-6c85762b217299cc94623ebe9e26e6893f4875b1-SP-PE.pkg" size="508348720" crc="84577e2d" md5="348746379ed76ce6fdc9e21cd91d1d0d" sha1="20c91fb991bb76af27bcab51be1a497c51770b15"/>
 	</game>
 	<game name="Sword Art Online - Hollow Fragment (USA) (v1.02) (Patch)" id="01202">
 		<category>Games</category>
@@ -6269,6 +6679,17 @@
 		<game_id>JP0704-PCSG00977_00-ICHIGOBOSE001600</game_id>
 		<rom name="JP0704-PCSG00977_00-ICHIGOBOSE001600-A0107-V0100-378c922185d7bb67f5d5f603241e8d3c6536bb3c-PE.pkg" size="638604944" crc="e8519a60" md5="d17a97c6b474944946b17f9e2af5c8ae" sha1="7641caad57bfe435dee9fe3c3e2810327df4eb76"/>
 	</game>
+	<game name="Touhou Kobuto V - Burst Battle (USA) (v1.01) (Update) (Dupe 1)" id="04502">
+		<category>Games</category>
+		<description>Touhou Kobuto V - Burst Battle (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP1063-PCSE01104_00-KBTVGAME00000001-A0101-V0101-c2d5d8edfb88b181a622e817bef9e2cb642b8306-PE.pkg" size="40786608" crc="f5bc6d0a" md5="7d2ed2150bfc69d7edc564f300eb50b5" sha1="268bad23cdffe401f96fe6eb6445be8850f07564"/>
+	</game>
+	<game name="Touhou Kobuto V - Burst Battle (USA) (v1.02) (Patch) (Dupe 1)" id="02965">
+		<category>Games</category>
+		<description>Touhou Kobuto V - Burst Battle (USA) (v1.02) (Patch) (Dupe 1)</description>
+		<game_id>UP1063-PCSE01104_00-KBTVGAME00000001</game_id>
+		<rom name="UP1063-PCSE01104_00-KBTVGAME00000001-A0102-V0100-aedfcb75b1096488c278e18ff31b4f1118683966-SP-PE.pkg" size="94491088" crc="dc18d90f" md5="f170eccdbf314da54bd6a7d9a3ff2848" sha1="019765762a6d2435e88f30a2ba824288fffedbba" sha256="b0f617a0b7dfb275effee903ed59882c59c1d678610a350336626a1ac9c6ad03"/>
+	</game>
 	<game name="Touhou Kobuto V - Burst Battle (USA) (v1.03) (Patch)" id="03671">
 		<category>Games</category>
 		<description>Touhou Kobuto V - Burst Battle (USA) (v1.03) (Patch)</description>
@@ -6281,6 +6702,16 @@
 		<game_id>UP1063-PCSE01104_00-KBTVGAME00000001</game_id>
 		<rom name="UP1063-PCSE01104_00-KBTVGAME00000001-A0103-V0100-edbe010223b30c3c51ecb3342db4eed5bc6c6639-PE.pkg" size="195742576" crc="10464ba0" md5="6be78412d9203a3b867f53930450d54d" sha1="2e0f7388ccc880eb2ff2e0fd790e61cedee7f133"/>
 	</game>
+	<game name="Touhou Koubutou V (Japan) (v1.01) (Update) (Dupe 1)" id="04504">
+		<category>Games</category>
+		<description>Touhou Koubutou V (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0704-PCSG00999_00-KBTVGAME00000001-A0101-V0100-d40e5b8eed06ddda0b6749a141226f61d2ced14e-PE.pkg" size="27590016" crc="d34810da" md5="85aa711b70e2a6bbd84c2c778380475b" sha1="3dbc19ec9fb05b0eb6ef23e75e77415fd2106bb2"/>
+	</game>
+	<game name="Touhou Koubutou V (Japan) (v1.06) (Patch) (Dupe 1)" id="04509">
+		<category>Games</category>
+		<description>Touhou Koubutou V (Japan) (v1.06) (Patch) (Dupe 1)</description>
+		<rom name="JP0704-PCSG00999_00-KBTVGAME00000001-A0106-V0100-33b73728fec4ec2acbe9ab35ed6f2d486ebd0ddd-SP-PE.pkg" size="338773248" crc="7776702d" md5="07acd9ea2c51837af66e9ca855a2cdca" sha1="8f01c4e0a8e7785d984d0e076d9af81d6435a06a"/>
+	</game>
 	<game name="Touhou Koubutou V (Japan) (v1.07) (Patch)" id="03673">
 		<category>Games</category>
 		<description>Touhou Koubutou V (Japan) (v1.07) (Patch)</description>
@@ -6292,6 +6723,11 @@
 		<description>Touhou Koubutou V (Japan) (v1.07) (Update)</description>
 		<game_id>JP0704-PCSG00999_00-KBTVGAME00000001</game_id>
 		<rom name="JP0704-PCSG00999_00-KBTVGAME00000001-A0107-V0101-b3ba8343ee82b7323941c5dcc23e082b9cf20eab-PE.pkg" size="392785072" crc="88adbbdc" md5="d6283f7fc61f02a6dc76060e79a7fc42" sha1="76050b641af95c00403042f5e7f193713a1fe845"/>
+	</game>
+	<game name="Touhou Sky Arena - Gensoukyou Kuusen Hime Matsuri Climax (Japan) (v1.01) (Update) (Dupe 1)" id="04510">
+		<category>Games</category>
+		<description>Touhou Sky Arena - Gensoukyou Kuusen Hime Matsuri Climax (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="JP0704-PCSG00701_00-AREZ0001TSAMCPSV-A0101-V0100-088ce822cef326342aa850fb4583a324b0abf9ca-PE.pkg" size="611482448" crc="fd6464b2" md5="e7b4478d856803ca993f247f1b73b9df" sha1="416425f3ef152cd9f554a9edd7bd62e2d9e6bd1f"/>
 	</game>
 	<game name="Touhou Sky Arena - Gensoukyou Kuusen Hime Matsuri Climax (Japan) (v1.03) (Patch)" id="03676">
 		<category>Games</category>
@@ -6461,6 +6897,16 @@
 		<game_id>UT0020-PCSE00304_00-TUNEIN0000000000</game_id>
 		<rom name="UT0020-PCSE00304_00-TUNEIN0000000000-A0101-V0101-567aac565bc0fe74c773d5a4ab2ea75d27d161bc-PE.pkg" size="3232688" crc="d747d716" md5="fb6a1e7d7ce563c3a6f61bbbf5b3d1cb" sha1="fddd393a0b57f10a17df5e7145d5da08b2e7cab9"/>
 	</game>
+	<game name="Twin Breaker - A Sacred Symbols Adventure (USA) (v1.01) (Update) (Dupe 1)" id="04512">
+		<category>Games</category>
+		<description>Twin Breaker - A Sacred Symbols Adventure (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP4836-PCSE01452_00-TWINBREAKERONPSV-A0101-V0100-25266b23340314f90117981beb3f994584179663-PE.pkg" size="4916928" crc="9fe3322a" md5="a636010446d804c7b9773fd4ed748c21" sha1="31c212928e3fccca863ec4239672b436575f1447"/>
+	</game>
+	<game name="Twin Breaker - A Sacred Symbols Adventure (USA) (v1.04) (Patch) (Dupe 1)" id="04515">
+		<category>Games</category>
+		<description>Twin Breaker - A Sacred Symbols Adventure (USA) (v1.04) (Patch) (Dupe 1)</description>
+		<rom name="UP4836-PCSE01452_00-TWINBREAKERONPSV-A0104-V0100-8779eb0ac1a85b14b8fb0a6f866e49ecacbc54f8-SP-PE.pkg" size="4162992" crc="39b5911d" md5="581254ed4517c701fa328613a7a07629" sha1="2b6399de787779374f70ff7ea59500bd8d908023"/>
+	</game>
 	<game name="Twin Breaker - A Sacred Symbols Adventure (USA) (v1.05) (Patch)" id="03950">
 		<category>Games</category>
 		<description>Twin Breaker - A Sacred Symbols Adventure (USA) (v1.05) (Patch)</description>
@@ -6550,6 +6996,11 @@
 		<description>Undertale (Japan) (v1.08) (Card) (Update)</description>
 		<game_id>JP0215-PCSG01176_00-TF000000PSVJP085</game_id>
 		<rom name="JP0215-PCSG01176_00-TF000000PSVJP085-A0108-V0100-b8d8ebec36c83cbfd9479e826eff75c154f8ff1c-PE.pkg" size="67603040" crc="2a439f4a" md5="7f19642a36d3adc55796ed06343a5518" sha1="e7e476914d6d7af0b787456d8345513a87046247" sha256="ea76fba4aad604a8d5c6373b3ad4ad0949d2078961658cc5156ff90cf748fead"/>
+	</game>
+	<game name="Undertale (USA) (v1.06) (Patch) (Dupe 1)" id="04517">
+		<category>Games</category>
+		<description>Undertale (USA) (v1.06) (Patch) (Dupe 1)</description>
+		<rom name="UP3893-PCSE01116_00-TFSHVCUTPSV00084-A0106-V0100-eff4adb889ae4a42979843eb46542b448fdbf856-SP-PE.pkg" size="67474768" crc="5de11232" md5="e683c5cb535fdb0c3b6fdaa6ca0b83ca" sha1="7c4a55192b88c5a35eae2a0dc94023d4bae5d123"/>
 	</game>
 	<game name="Undertale (USA) (v1.08) (Patch)" id="02689">
 		<category>Games</category>
@@ -6670,6 +7121,16 @@
 		<description>Velocibox (USA) (v1.01) (Update)</description>
 		<game_id>UP2135-PCSE00712_00-VELOCIBOXPSVLOOT</game_id>
 		<rom name="UP2135-PCSE00712_00-VELOCIBOXPSVLOOT-A0101-V0100-b7e920dc7d07ca23f5e1d47e9c12b149b22e878e-PE.pkg" size="20907184" crc="49f84a2c" md5="d93ca76c0cb699043fe770c269a7b0c7" sha1="75a34df3ef2b175433a9d2274fe5ca4ae1c6e8cb"/>
+	</game>
+	<game name="Velocity 2X (Europe) (v1.01) (Update) (Dupe 1)" id="04518">
+		<category>Games</category>
+		<description>Velocity 2X (Europe) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="EP4143-PCSB00410_00-FUTURLABV2XVITA0-A0101-V0100-6bd985a146b8b706f98e6a90071c1fb2f40165d4-PE.pkg" size="43080752" crc="8247a343" md5="e79ff2e43494a76880201e08bcddfd65" sha1="fda02df95489eb0a3fc95c382a47894b4d6d6b3d"/>
+	</game>
+	<game name="Velocity 2X (Europe) (v1.03) (Patch) (Dupe 1)" id="04520">
+		<category>Games</category>
+		<description>Velocity 2X (Europe) (v1.03) (Patch) (Dupe 1)</description>
+		<rom name="EP4143-PCSB00410_00-FUTURLABV2XVITA0-A0103-V0100-810a635d9f54d12c410d9f610573f8c7d2bd1615-SP-PE.pkg" size="6041456" crc="29949e23" md5="b940b0c5c3963c7775ab051fcb3678ae" sha1="25f4d79fbcebf221f170a1e340e310b3d3d0a45c"/>
 	</game>
 	<game name="Velocity 2X (USA) (En,Fr,De,Es,It,Pt) (v1.04) (Patch)" id="01617">
 		<category>Games</category>
@@ -6995,6 +7456,11 @@
 		<game_id>UP1482-PCSE01033_00-DOTYSORIGINVITA1</game_id>
 		<rom name="UP1482-PCSE01033_00-DOTYSORIGINVITA1-A0102-V0100-486386ba66de8f0bebaae89b4224179964868927-PE.pkg" size="1440502464" crc="fd4cfedf" md5="696faff3b9cabb3bee7a65ea81cb28ef" sha1="57eb57df20eade8c48d3b19991e40596da047475"/>
 	</game>
+	<game name="Ys VIII - Lacrimosa of Dana (USA) (v1.01) (Update) (Dupe 1)" id="04525">
+		<category>Games</category>
+		<description>Ys VIII - Lacrimosa of Dana (USA) (v1.01) (Update) (Dupe 1)</description>
+		<rom name="UP1063-PCSE01103_00-YSVIIIGAME000000-A0101-V0100-c3cd6e5f4e3ff679441778872ff8f8c5ddf7ccc5-PE.pkg" size="90497040" crc="f3a096ac" md5="b8e1633e0581259b301b328a4295a0cd" sha1="b4f286631b5be5355181b2ab749afeb2f96414f7"/>
+	</game>
 	<game name="Ys VIII - Lacrimosa of Dana (USA) (v1.02) (Patch)" id="02966">
 		<category>Games</category>
 		<description>Ys VIII - Lacrimosa of Dana (USA) (v1.02) (Patch)</description>
@@ -7066,6 +7532,12 @@
 		<description>Z-Run (USA) (v1.01) (Update)</description>
 		<game_id>UP4101-PCSE00310_00-ZOMBIEENDLESSRUN</game_id>
 		<rom name="UP4101-PCSE00310_00-ZOMBIEENDLESSRUN-A0101-V0100-e48f94c56b4e0d3090d46be776c3001645fc34da-PE.pkg" size="9011376" crc="ef70c1b4" md5="eceabb15acf576e041f24eb4b053f0a0" sha1="f64362b4f01ddceda222fa528c993405ad07d66b"/>
+	</game>
+	<game name="Zanki Zero (Japan) (v1.01) (Update) (Dupe 1)" id="03230">
+		<category>Games</category>
+		<description>Zanki Zero (Japan) (v1.01) (Update) (Dupe 1)</description>
+		<game_id>JP0365-PCSG01113_00-ZANKIZEROVITA000</game_id>
+		<rom name="JP0365-PCSG01113_00-ZANKIZEROVITA000-A0101-V0100-bc6b7565006278b9fc55de50bd73722baa33aa95-PE.pkg" size="6453328" crc="031985bc" md5="343530adbf58d97576edf82944a86777" sha1="cc90f3f42f1406970ffbff7a86bea2973aef12af" sha256="7f1dc4fb42a40257a8b3553b012220a70f5e124ec29b31210a7cbfdc2bca8694"/>
 	</game>
 	<game name="Zanki Zero (Japan) (v1.05) (Patch)" id="03692">
 		<category>Games</category>

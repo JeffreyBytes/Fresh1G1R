@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,700) (-y) [-aAbBcefkmMoprv] (20260331-153403) (Retool)</description>
-		<version>20260331-153403</version>
-		<date>2026-04-07 04-51-39</date>
-		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
+		<description>Nintendo - Game Boy Advance (1,715) (-y) [-aAbBcefkmMoprv] (20260407-005645) (Retool)</description>
+		<version>20260407-005645</version>
+		<date>2026-04-08 04-52-21</date>
+		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -7273,6 +7273,11 @@
 		<description>Super Street Fighter II Turbo - Revival (USA)</description>
 		<rom name="Super Street Fighter II Turbo - Revival (USA).gba" size="8388608" crc="063045aa" md5="7a36a7486ef2c534111ee417b8acf9b7" sha1="00b0508e2774d0bbcb8f0994766cb362e62d7537"/>
 	</game>
+	<game name="SuperTux (World) (Proto) (Unl)" id="3320">
+		<category>Preproduction</category>
+		<description>SuperTux (World) (Proto) (Unl)</description>
+		<rom name="SuperTux (World) (Proto) (Unl).gba" size="276276" crc="5f87099f" md5="02437ac1f7a9795a286dd628b40bded1" sha1="70f2f645688b1518b9d0a25837e3024ef2c04782" sha256="78f8d90e23f84c2e08dd46d2648b46e839fb5ff007dbbc478d34644699a24980"/>
+	</game>
 	<game name="Superman - Countdown to Apokolips (USA)" id="0910">
 		<category>Games</category>
 		<description>Superman - Countdown to Apokolips (USA)</description>
@@ -8325,6 +8330,16 @@
 		<description>Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="584db6a6" md5="27f9f0e73752cc2df3b73bc46048e8a2" sha1="e7a2fb1901a691b3fdd0a39fb574e6dd536b165e" sha256="321ac103afa7c647041d62606522d14edc33490af2f948ecccbdd9f57319de98"/>
 	</game>
+	<game name="Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection)" id="3316">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="6f749a70" md5="5cdf70b8eb82b52f18be9b496d6ddbc1" sha1="8fa2c60e5ce03fecf537931cee2df89db75fff00" sha256="056a204ed9022be6eab064b1e2f94bb5cdf8e3c4124a4aed4ced372d8f4d3706"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005 (Europe) (En,Ja,Fr,De,Es,It) (Early Days Collection)" id="3314">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005 (Europe) (En,Ja,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005 (Europe) (En,Ja,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="3e276294" md5="e2ef84f13c9be7389686cec97c99c567" sha1="44cbd13738afa9767f9acd6f03b2a6af9c82e620" sha256="aa35deacb34bdd337c7957e2ef87e506247b34dcc1a36914cf40c29144076b7f"/>
+	</game>
 	<game name="Yu-Gi-Oh! - Destiny Board Traveler (USA)" id="1705">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - Destiny Board Traveler (USA)</description>
@@ -8335,6 +8350,11 @@
 		<description>Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es)</description>
 		<rom name="Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).gba" size="8388608" crc="8b5e0a27" md5="1ac4901f9a831d6b86ca776bb61f8d8b" sha1="fdd69455a072b2f74e6c5c50b96daa0438156b27" sha256="298bb77f816272c4e0bb7ab2c75f31f7270621b07e43db2d5198357a4c7b2cb0"/>
 	</game>
+	<game name="Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It) (Early Days Collection)" id="3309">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="6821c1f3" md5="38fd9bcd89d2599c5f4a530009932b54" sha1="a52e3b0989fdcdf4728d4a4baecd5923fb02153e" sha256="a03d287b0b9d8223788cb914233e67b810dcac6ffb8c93086e460f2de3b61283"/>
+	</game>
 	<game name="Yu-Gi-Oh! - Reshef of Destruction (USA)" id="1536">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - Reshef of Destruction (USA)</description>
@@ -8344,6 +8364,16 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - The Eternal Duelist Soul (USA)</description>
 		<rom name="Yu-Gi-Oh! - The Eternal Duelist Soul (USA).gba" size="8388608" crc="dfd07a36" md5="ec3f000ffde5754cb164a05d2d6f9053" sha1="510fbba212aca9bab95ea12f8fd933e62ee34dea" sha256="1085ec7471106d1507ca205c29d424ceb46159fa6392ec4fa2c41c6072ae3a98"/>
+	</game>
+	<game name="Yu-Gi-Oh! - The Eternal Duelist Soul (USA) (Early Days Collection)" id="3305">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - The Eternal Duelist Soul (USA) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - The Eternal Duelist Soul (USA) (Early Days Collection).gba" size="8388608" crc="27a52ea7" md5="b7fae231ea1950fda67f8daa481debca" sha1="ad9b45744b40fda69da96c40861e8f5059c11c87" sha256="1bd97453ebdbe7f5321685ffd41ebcb13ad086a1e5a09f776260ad6cb8e7ee4d"/>
+	</game>
+	<game name="Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It) (Early Days Collection)" id="3308">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="ce6adacf" md5="35f01cfcbaf371f8580321c246255ac4" sha1="0dc0b509c24a62ff551dfc1c88901b57aa860ec0" sha256="6138bcac686b80a7663fd574fea502f9bfa04498d30d6180dbcbda72166bacde"/>
 	</game>
 	<game name="Yu-Gi-Oh! - The Sacred Cards (USA)" id="1221">
 		<category>Games</category>
@@ -8360,10 +8390,25 @@
 		<description>Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="69b6f229" md5="8517049ce498d84530c953d6a8b3112e" sha1="3a7fceffa1405640fe4606e006d272d1af542f2b" sha256="516530e73ba2ebd2fc8c4280cac13bc125dfb6c1fa1678d35fb5dc8a2a9c063c"/>
 	</game>
+	<game name="Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection)" id="3319">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="dd5efbf4" md5="22e3f8a1ccdebfb89777d371f7a57db3" sha1="b8285e2e5c934b167767485dc3dd0c80c5cff555" sha256="a4e2f085d198d5284c1f4427fe40ce0ed89d7fa82db3400360beca2b3c4d9889"/>
+	</game>
 	<game name="Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It)" id="1003">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="39b5e771" md5="1e52d66f5f8a7c4f207d80ba4fccf55e" sha1="53d4ae06d1b605f8925c53d6c585478d73ff55c0" sha256="c4c3ef5c8980996be049a3b6efd1c99b165e565405e040ea428801a14b8c8aa9"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection)" id="3313">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="9f64379c" md5="1df9e439464c27c5da6df24d66bd7d35" sha1="69a258f99c06db3673fa7fa701b3adeee1197404" sha256="a47fe1f614e4a94fabe450eac27cde21a77134f9a6cab2d341c43ac58671302f"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan) (Early Days Collection)" id="3304">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan) (Early Days Collection).gba" size="8388608" crc="2e809f33" md5="7673372484e39cbc94c07b9d8578f579" sha1="d8289ff1bfb6f99716eea32dde511a5d2296b57d" sha256="638181ea04601888fb118799ab9a07c4470cd9565080f982935ac26b6c6e5d1e"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)" id="3299">
 		<category>Demos</category>
@@ -8375,6 +8420,36 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan).gba" size="16777216" crc="a7054d60" md5="2820981c97087b1181fc44e722c64dc3" sha1="e5ee6fb7a6a4eb0e33197549fd30f8fe402b595f" sha256="6b75a36a9da1d1575c976dc6954222061fed15c6cdd4b8081832b810b0b82b02"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan) (Early Days Collection)" id="3306">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan) (Early Days Collection).gba" size="16777216" crc="c65253cc" md5="f1319dc593397341a307fbed618b631a" sha1="945b0d99cae62c63170b7a310fb39028d787a397" sha256="bd284b9c2a93e4b3597d5d2e58e92e2f46136535e9469e64938c28d8dadff9cb"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection)" id="3307">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection).gba" size="16777216" crc="e96149f8" md5="e93b0f1cce9695701a28ab8e1fd3331b" sha1="9de3c09baa32d59c68c402692413eb60a1d0a9c3" sha256="6ada5b6227cd65bb78d2ae6cd7b602bad0f8ef92e023660b2669b0d24f50fb52"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (Early Days Collection)" id="3310">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (Early Days Collection).gba" size="16777216" crc="bdac8c98" md5="a843967d8d63f49d47a75f3437038645" sha1="851fc4c46e5e50e2ed3fa1ef755d843d2df3e550" sha256="71f029a09c7dc98cbd659f7c297541cf9613377d5f4399b96150c999e3710012"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters Expert 3 EX (Japan) (En,Ja,Fr,De,Es,It) (Early Days Collection)" id="3318">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters Expert 3 EX (Japan) (En,Ja,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters Expert 3 EX (Japan) (En,Ja,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="1c82463d" md5="81ae1cabe6d3bb7cdf4ee538a2e483a2" sha1="cb4197e0f0aab5b31c581caa11fb9bc33b040d66" sha256="af075e72d3d071446f5f18db685cb6148161231de35cc7d6f1405e2418e2ae45"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Early Days Collection)" id="3312">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="dd6a43f9" md5="13e17b996a773d6d161e1d64a4c41436" sha1="c4981e9df360165e05a97e58fdfbdafbfcaa077c" sha256="d258292bec9cdb1024b0a26d884b24fecac7967ad8c083eba6d1b5e3e8cc1c22"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja) (Early Days Collection)" id="3315">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja) (Early Days Collection).gba" size="16777216" crc="88ec163b" md5="89e81c6a30d524fce703eea4e3ee1e61" sha1="032073cc5e014112c004f94b0e5031159b577ff7" sha256="9dde38c4839c6220bfdfc7ebc03bd105839d077da20e50509e2112d6dc2e7ec5"/>
 	</game>
 	<game name="Yu-Gi-Oh! GX - Duel Academy (USA)" id="2273">
 		<category>Games</category>

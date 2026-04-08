@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,049) (-y) [-aAbBcdkmMpPuv] (20260405-031740) (Retool)</description>
-		<version>20260405-031740</version>
-		<date>2026-04-07 05-01-25</date>
+		<description>Nintendo - Game Boy (1,051) (-y) [-aAbBcdkmMpPuv] (20260407-012636) (Retool)</description>
+		<version>20260407-012636</version>
+		<date>2026-04-08 05-01-32</date>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5206,10 +5206,20 @@
 		<description>Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced)</description>
 		<rom name="Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced).gb" size="262144" crc="3e7c6b2b" md5="bfc83dd55f64f6c472ef45d3592a7b92" sha1="14a8e39f1adfa6acce11f902eb6763c73ababa47" sha256="9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70"/>
 	</game>
+	<game name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)" id="2557">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection).gb" size="16777216" crc="bf7fbd2e" md5="5dae2d0218e07534e0744043780eec90" sha1="d3710031520d9cdae70d870c60b1667285fe5230" sha256="12d28e0994cbe3a6cc4903fdd3434646c6e912142b73324ffabb2b322a04a411"/>
+	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)" id="1538">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced).gb" size="1048576" crc="8875ec54" md5="770a917f18e0aa1f3bb027d0783f548b" sha1="07ae4a6437f00f6af462bf84fd0ac1cf345c8365" sha256="d3f7abeecd28e53c0633032eb6f84f27a626f683b31821f1894814078eeed32e"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced)" id="2552">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="6f2c0376" md5="0c21cf8df56d55f0696036ed7508946b" sha1="2c98fde34025fdca4131d93b96a09fea717f0fac" sha256="7f76f02c91a11d52409c916d169fa50df760125c30622d93be95b1668a6e0d35"/>
 	</game>
 	<game name="Zen - Intergalactic Ninja (USA)" id="1547">
 		<category>Games</category>
