@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Acorn - Archimedes (Retool)</name>
-		<description>Acorn - Archimedes (27) (-y) [-aAbBcdkmMpPuv] (2025-10-23 18-11-28) (Retool)</description>
-		<version>2025-10-23 18-11-28</version>
-		<date>2026-04-08 04-59-39</date>
+		<description>Acorn - Archimedes (29) (-y) [-aAbBcdkmMpPuv] (2026-04-08 14-44-18) (Retool)</description>
+		<version>2026-04-08 14-44-18</version>
+		<date>2026-04-09 04-55-51</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -41,6 +41,12 @@
 		<rom name="Ankh - The Tales of Mystery (UK) (Track 7).bin" size="145021968" crc="6a57b253" md5="3d83b4b85565f763d2f26f1561b49012" sha1="7a73b1140166990db162497e2d0b4fa15cf87299"/>
 		<rom name="Ankh - The Tales of Mystery (UK) (Track 8).bin" size="18601968" crc="460724d3" md5="59f6a92279e1bd0619df13f2f76a00b0" sha1="14b15a9c315b7a765d03602a9ec0fdaa6005d013"/>
 		<rom name="Ankh - The Tales of Mystery (UK).cue" size="875" crc="7b50f259" md5="1f3e6e530736bb93ff289e1aa0c77fcb" sha1="29cd0a7a313f6c0b6f7932f4103e83602a894bb1"/>
+	</game>
+	<game name="Being a Scientist (UK)">
+		<category>Educational</category>
+		<description>Being a Scientist (UK)</description>
+		<rom name="Being a Scientist (UK).bin" size="390721296" crc="2a51e171" md5="fe25e92ff47fa1e01ff885635d5b358f" sha1="abef2b5bd95cec24692a3e9eb71c0470d0faa0de"/>
+		<rom name="Being a Scientist (UK).cue" size="111" crc="91fcb8a2" md5="cc7bc6a60d5a21972937e15227fe7aab" sha1="8939a7de0d688730d86617285e3233f9de367380"/>
 	</game>
 	<game name="British Countrysides - Education Version (UK)">
 		<category>Educational</category>
@@ -155,6 +161,12 @@
 		<description>Soft Rock Games Collection CD, The (UK)</description>
 		<rom name="Soft Rock Games Collection CD, The (UK).bin" size="10346448" crc="ea41adb1" md5="03aa81149d475b0e2f97a225ee36fc0a" sha1="62bcf0e6c4a7706a494f067c9d1c1e3c6bcba916"/>
 		<rom name="Soft Rock Games Collection CD, The (UK).cue" size="120" crc="9a19b4a9" md5="bf6de1c7ce28fd6ecbbfeba3557b1aa2" sha1="dbf6375a756923b34b325ded92f802799144299f"/>
+	</game>
+	<game name="Survival - Mysteries of Nature (UK)">
+		<category>Educational</category>
+		<description>Survival - Mysteries of Nature (UK)</description>
+		<rom name="Survival - Mysteries of Nature (UK).bin" size="564510576" crc="b060177f" md5="868d4881ce544bd845bc23fda45a03f4" sha1="935857495a255676684dd37e14ac8566cadd4bcd"/>
+		<rom name="Survival - Mysteries of Nature (UK).cue" size="124" crc="46bf1011" md5="a5aee293bb93d110df7d8a795f5c469d" sha1="1de13e6515f5d447f66e1f15380029850f6661a4"/>
 	</game>
 	<game name="Technology and Design for My World 2 (UK)">
 		<category>Educational</category>

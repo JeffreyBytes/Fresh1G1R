@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,577) (-y) [-aAbBcdkmMpPuv] (20260407-005645) (Retool)</description>
-		<version>20260407-005645</version>
-		<date>2026-04-08 05-03-50</date>
+		<description>Nintendo - Game Boy Advance (1,578) (-y) [-aAbBcdkmMpPuv] (20260407-142719) (Retool)</description>
+		<version>20260407-142719</version>
+		<date>2026-04-09 04-58-46</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7641,20 +7641,25 @@
 		<description>Yu-Gi-Oh! - Destiny Board Traveler (USA)</description>
 		<rom name="Yu-Gi-Oh! - Destiny Board Traveler (USA).gba" size="8388608" crc="611e7bbd" md5="875524c19ada69a0c9f3e585e6bedaa2" sha1="df001a60b7ab52e9735906fcd80f6c8b834ed684" sha256="ca818f32cba69d4ade8bdea200ae39206747c50d6d4f256eca89b81c357caff4"/>
 	</game>
+	<game name="Yu-Gi-Oh! - Destiny Board Traveler (USA) (Early Days Collection)" id="3322">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Destiny Board Traveler (USA) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Destiny Board Traveler (USA) (Early Days Collection).gba" size="8388608" crc="297dcb65" md5="db4eca15664f70e935595a9fd810a417" sha1="8c69db661aa3adf660aa6dab9e3ad217b0b1297c" sha256="3a8debcdc64eaf91ce11287d2f9112ea876d6b40ee338026db3fcb3c825a9074"/>
+	</game>
 	<game name="Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es)" id="0851">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es)</description>
 		<rom name="Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).gba" size="8388608" crc="8b5e0a27" md5="1ac4901f9a831d6b86ca776bb61f8d8b" sha1="fdd69455a072b2f74e6c5c50b96daa0438156b27" sha256="298bb77f816272c4e0bb7ab2c75f31f7270621b07e43db2d5198357a4c7b2cb0"/>
 	</game>
-	<game name="Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It) (Early Days Collection)" id="3309">
-		<category>Games</category>
-		<description>Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It) (Early Days Collection)</description>
-		<rom name="Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="6821c1f3" md5="38fd9bcd89d2599c5f4a530009932b54" sha1="a52e3b0989fdcdf4728d4a4baecd5923fb02153e" sha256="a03d287b0b9d8223788cb914233e67b810dcac6ffb8c93086e460f2de3b61283"/>
-	</game>
 	<game name="Yu-Gi-Oh! - Reshef of Destruction (USA)" id="1536">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - Reshef of Destruction (USA)</description>
 		<rom name="Yu-Gi-Oh! - Reshef of Destruction (USA).gba" size="16777216" crc="09e0c559" md5="c06decdf51468503434dcb5e7bbdcca5" sha1="dad3aa7dd470c9b475236fed2ea867b04ab1b089"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Reshef of Destruction (USA) (Early Days Collection)" id="3325">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Reshef of Destruction (USA) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Reshef of Destruction (USA) (Early Days Collection).gba" size="16777216" crc="b23339ce" md5="1d49be8c72bc513efc4445a1d45bcc15" sha1="1ccbfa7b14e448908b7f05bdc6e845ac2e8c747c" sha256="d0a82dfb944bb23ac86dcebfed1bd7bbee0e880d29a08e3af662db02f09fb1e9"/>
 	</game>
 	<game name="Yu-Gi-Oh! - The Eternal Duelist Soul (USA)" id="0654">
 		<category>Games</category>
@@ -7666,15 +7671,15 @@
 		<description>Yu-Gi-Oh! - The Eternal Duelist Soul (USA) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! - The Eternal Duelist Soul (USA) (Early Days Collection).gba" size="8388608" crc="27a52ea7" md5="b7fae231ea1950fda67f8daa481debca" sha1="ad9b45744b40fda69da96c40861e8f5059c11c87" sha256="1bd97453ebdbe7f5321685ffd41ebcb13ad086a1e5a09f776260ad6cb8e7ee4d"/>
 	</game>
-	<game name="Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It) (Early Days Collection)" id="3308">
-		<category>Games</category>
-		<description>Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It) (Early Days Collection)</description>
-		<rom name="Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It) (Early Days Collection).gba" size="16777216" crc="ce6adacf" md5="35f01cfcbaf371f8580321c246255ac4" sha1="0dc0b509c24a62ff551dfc1c88901b57aa860ec0" sha256="6138bcac686b80a7663fd574fea502f9bfa04498d30d6180dbcbda72166bacde"/>
-	</game>
 	<game name="Yu-Gi-Oh! - The Sacred Cards (USA)" id="1221">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - The Sacred Cards (USA)</description>
 		<rom name="Yu-Gi-Oh! - The Sacred Cards (USA).gba" size="16777216" crc="141fb1cc" md5="0a7c58069d5390165482e88a22158bd2" sha1="a06735f9c3d10be9339657026981aef77af34b27" sha256="093f986a92d73c48e11de0a83c6678c3620f8def6173f5e69133815301b40d8f"/>
+	</game>
+	<game name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)" id="3321">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection).gba" size="16777216" crc="bf7fbd2e" md5="5dae2d0218e07534e0744043780eec90" sha1="d3710031520d9cdae70d870c60b1667285fe5230" sha256="12d28e0994cbe3a6cc4903fdd3434646c6e912142b73324ffabb2b322a04a411"/>
 	</game>
 	<game name="Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It)" id="2313">
 		<category>Games</category>
@@ -7716,10 +7721,10 @@
 		<description>Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan) (Early Days Collection).gba" size="16777216" crc="c65253cc" md5="f1319dc593397341a307fbed618b631a" sha1="945b0d99cae62c63170b7a310fb39028d787a397" sha256="bd284b9c2a93e4b3597d5d2e58e92e2f46136535e9469e64938c28d8dadff9cb"/>
 	</game>
-	<game name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection)" id="3307">
+	<game name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (v1.1) (Early Days Collection)" id="3324">
 		<category>Games</category>
-		<description>Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection)</description>
-		<rom name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection).gba" size="16777216" crc="e96149f8" md5="e93b0f1cce9695701a28ab8e1fd3331b" sha1="9de3c09baa32d59c68c402692413eb60a1d0a9c3" sha256="6ada5b6227cd65bb78d2ae6cd7b602bad0f8ef92e023660b2669b0d24f50fb52"/>
+		<description>Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (v1.1) (Early Days Collection).gba" size="16777216" crc="8040b20c" md5="1b4e6d6d5d2e416a600c2e105258cf27" sha1="5e44faaa4b1c4cb25b2f825bdaf788e46ce76f83" sha256="7c1ef5e0bc28761eb1e0e9e885e35f4b84742b146480fd7877f4998d9b44987a"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (Early Days Collection)" id="3310">
 		<category>Games</category>

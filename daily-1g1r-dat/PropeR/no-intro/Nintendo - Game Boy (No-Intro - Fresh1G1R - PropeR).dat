@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,051) (-y) [-aAbBcdkmMpPuv] (20260407-012636) (Retool)</description>
-		<version>20260407-012636</version>
-		<date>2026-04-08 05-01-32</date>
+		<description>Nintendo - Game Boy (1,051) (-y) [-aAbBcdkmMpPuv] (20260407-072210) (Retool)</description>
+		<version>20260407-072210</version>
+		<date>2026-04-09 05-00-23</date>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3991,6 +3991,11 @@
 		<description>Sagaia (Japan) (En)</description>
 		<rom name="Sagaia (Japan) (En).gb" size="131072" crc="e43da090" md5="70a9ef90ad443881ca90cdd8d910ae66" sha1="79600f8602ca33f2b39a9b8d9824dff55dfc1ef0" sha256="7ddb7a972c2aee5af6240f6f4cd46fcef68bfaebd5d68216c6712a42ebfa147b"/>
 	</game>
+	<game name="Sagaia (World) (Darius Cozmic Revelation)" id="2557">
+		<category>Games</category>
+		<description>Sagaia (World) (Darius Cozmic Revelation)</description>
+		<rom name="Sagaia (World) (Darius Cozmic Revelation).gb" size="131072" crc="1a4eb519" md5="a589cea1963c1a1fa39b60882d654db5" sha1="c800f2f99f3a4763e9d5ec133e2b18ac4dd2cf77" sha256="23ed44b8be4cec6e353f285d2b758f552c95376cec1b03d95dfcbab0558914e6"/>
+	</game>
 	<game name="Saigo no Nindou (Japan) (En)" id="1161">
 		<category>Games</category>
 		<description>Saigo no Nindou (Japan) (En)</description>
@@ -5205,11 +5210,6 @@
 		<category>Games</category>
 		<description>Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced)</description>
 		<rom name="Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced).gb" size="262144" crc="3e7c6b2b" md5="bfc83dd55f64f6c472ef45d3592a7b92" sha1="14a8e39f1adfa6acce11f902eb6763c73ababa47" sha256="9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70"/>
-	</game>
-	<game name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)" id="2557">
-		<category>Games</category>
-		<description>Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)</description>
-		<rom name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection).gb" size="16777216" crc="bf7fbd2e" md5="5dae2d0218e07534e0744043780eec90" sha1="d3710031520d9cdae70d870c60b1667285fe5230" sha256="12d28e0994cbe3a6cc4903fdd3434646c6e912142b73324ffabb2b322a04a411"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)" id="1538">
 		<category>Games</category>

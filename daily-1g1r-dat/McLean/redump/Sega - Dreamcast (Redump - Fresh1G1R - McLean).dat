@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (292) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-06 22-46-49) (Retool)</description>
-		<version>2026-04-06 22-46-49</version>
-		<date>2026-04-08 04-55-20</date>
+		<description>Sega - Dreamcast (291) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-08 23-21-08) (Retool)</description>
+		<version>2026-04-08 23-21-08</version>
+		<date>2026-04-09 04-51-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1487,16 +1487,6 @@
 		<rom name="Kao the Kangaroo (USA) (En,Es) (Track 57).bin" size="11644752" crc="db789226" md5="48674eaa5525ace83c49ce02f362e7f4" sha1="b561764b84d2f5edac20f724bb5def6a2b6b7c69"/>
 		<rom name="Kao the Kangaroo (USA) (En,Es) (Track 58).bin" size="107909760" crc="46ba1385" md5="a0b1debfc27465b02b820cce058cb326" sha1="602e797f192d9675adb8996d4d150a4e1340db22"/>
 		<rom name="Kao the Kangaroo (USA) (En,Es).cue" size="7267" crc="727bd0d0" md5="a18aec7ef73239b9f07c43475509c835" sha1="2113b73e2dc443efd6302b8143f76dda04a79cbb"/>
-	</game>
-	<game name="King of Fighters 2002, The (Japan) (En,Ja)">
-		<category>Games</category>
-		<description>King of Fighters 2002, The (Japan) (En,Ja)</description>
-		<rom name="King of Fighters 2002, The (Japan) (En,Ja) (Track 1).bin" size="1058400" crc="d7999d5e" md5="bfe39deb92d72055b16b69076fe7507e" sha1="ef03345dd9c490a09344f770887a4c6f4aec340e"/>
-		<rom name="King of Fighters 2002, The (Japan) (En,Ja) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="King of Fighters 2002, The (Japan) (En,Ja) (Track 3).bin" size="874172544" crc="47ea4e9e" md5="72bc25b64ec71e0d21415f106644b6de" sha1="9521b2c65f3a593047620cff7e07092af826ebdb"/>
-		<rom name="King of Fighters 2002, The (Japan) (En,Ja) (Track 4).bin" size="1735776" crc="5794831d" md5="0e5ffc3bb7e5718fd8c6461cda47c4c8" sha1="7655dc694846b27043e13ccb1044ac9e79f00669"/>
-		<rom name="King of Fighters 2002, The (Japan) (En,Ja) (Track 5).bin" size="309852480" crc="3cae7e7b" md5="63bf224bb004f60adecd233bb335e684" sha1="c933333f81004736f5555b73c8a3d00d2a267a68"/>
-		<rom name="King of Fighters 2002, The (Japan) (En,Ja).cue" size="697" crc="1a18694c" md5="8795ece4e581bd38ed08526c6d8c0f38" sha1="d4f2c101cab9ce4a8436c0704bcc1ffc911f762f"/>
 	</game>
 	<game name="King of Fighters, The - Dream Match 1999 (USA) (En,Ja,Es,Pt)">
 		<category>Games</category>
