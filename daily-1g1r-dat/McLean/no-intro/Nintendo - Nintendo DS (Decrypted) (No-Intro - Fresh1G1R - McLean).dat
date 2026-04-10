@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260407-210758) (Retool)</description>
-		<version>20260407-210758</version>
-		<date>2026-04-09 04-55-48</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260409-005244) (Retool)</description>
+		<version>20260409-005244</version>
+		<date>2026-04-10 05-05-59</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5574,7 +5574,7 @@
 	<game name="Magical Starsign (USA)" id="0614">
 		<category>Games</category>
 		<description>Magical Starsign (USA)</description>
-		<rom name="Magical Starsign (USA).nds" size="67108864" crc="260e90b2" md5="149f87ee73c0d792623c2382463e1d18" sha1="e89ab031edf8c8dac9bcc75cd962374278f98edd"/>
+		<rom name="Magical Starsign (USA).nds" size="67108864" crc="260e90b2" md5="149f87ee73c0d792623c2382463e1d18" sha1="e89ab031edf8c8dac9bcc75cd962374278f98edd" sha256="0c53d4a89454c9cd610ccd3b4f61fe2b0a58de188158117004c229c7ee6d0a2b"/>
 	</game>
 	<game name="Magical Zhu Zhu Princess - Carriages and Castles (USA)" id="5647">
 		<category>Games</category>
@@ -7359,7 +7359,7 @@
 	<game name="Phantasy Star 0 (USA)" id="4429">
 		<category>Games</category>
 		<description>Phantasy Star 0 (USA)</description>
-		<rom name="Phantasy Star 0 (USA).nds" size="134217728" crc="affb07cf" md5="0ef2ab31b0068c0832bd6a5ef901dd0c" sha1="d95f55963792716cdbc5904418190d6ca654fffa"/>
+		<rom name="Phantasy Star 0 (USA).nds" size="134217728" crc="affb07cf" md5="0ef2ab31b0068c0832bd6a5ef901dd0c" sha1="d95f55963792716cdbc5904418190d6ca654fffa" sha256="a4fb8d5b2768b1f9b1d0bfbee1a913bcef487a729133ba11797c2cec936f4156"/>
 	</game>
 	<game name="Phil Taylor's Power Play Darts (Europe) (Rev 1)" id="6158">
 		<category>Games</category>
@@ -7539,7 +7539,7 @@
 	<game name="Point Blank DS (USA)" id="0469">
 		<category>Games</category>
 		<description>Point Blank DS (USA)</description>
-		<rom name="Point Blank DS (USA).nds" size="33554432" crc="8497f1bf" md5="cf017d1a89d6b49d7dd96eb4ad277fa9" sha1="720da706cbdf9ca483135fa15d49fbff68ace810"/>
+		<rom name="Point Blank DS (USA).nds" size="33554432" crc="8497f1bf" md5="cf017d1a89d6b49d7dd96eb4ad277fa9" sha1="720da706cbdf9ca483135fa15d49fbff68ace810" sha256="7c4238b7cfc506aecd8fccc504194a63109cad2992cf92476e156d991c7cf4a8"/>
 	</game>
 	<game name="Pokemon - Black Version (USA, Europe) (NDSi Enhanced)" id="5585">
 		<category>Games</category>

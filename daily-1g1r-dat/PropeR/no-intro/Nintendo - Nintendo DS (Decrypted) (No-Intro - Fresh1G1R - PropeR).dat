@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260407-210758) (Retool)</description>
-		<version>20260407-210758</version>
-		<date>2026-04-09 05-02-02</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260409-005244) (Retool)</description>
+		<version>20260409-005244</version>
+		<date>2026-04-10 05-11-49</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3169,7 +3169,7 @@
 	<game name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan)" id="0980">
 		<category>Games</category>
 		<description>DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan)</description>
-		<rom name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan).nds" size="33554432" crc="0a6bc302" md5="0a33f2b9dbbaafd217d62a944ed00e08" sha1="e4119801c07d031f4279690db81459a086fe51e0"/>
+		<rom name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan).nds" size="33554432" crc="0a6bc302" md5="0a33f2b9dbbaafd217d62a944ed00e08" sha1="e4119801c07d031f4279690db81459a086fe51e0" sha256="98d1aa9501d110eba30db1ef71f2e711c14df36c7c67127bcea314d6f98d8de4"/>
 	</game>
 	<game name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan) (Rev 2)" id="z270">
 		<category>Games</category>
@@ -3474,7 +3474,7 @@
 	<game name="Densetsu no Stafy 4 (Japan)" id="0401">
 		<category>Games</category>
 		<description>Densetsu no Stafy 4 (Japan)</description>
-		<rom name="Densetsu no Stafy 4 (Japan).nds" size="67108864" crc="45fe3a37" md5="668ac6e34e5c149fa15ad68e1a33ebb5" sha1="07a04f32c7f49439c9555d58211268b486a44d2a"/>
+		<rom name="Densetsu no Stafy 4 (Japan).nds" size="67108864" crc="45fe3a37" md5="668ac6e34e5c149fa15ad68e1a33ebb5" sha1="07a04f32c7f49439c9555d58211268b486a44d2a" sha256="a60dd45410db047765919492d9b8395b3e2c72e1235c7c1867d61e61b5ae335c"/>
 	</game>
 	<game name="Derby Stallion DS (Japan)" id="2397">
 		<category>Games</category>
@@ -4769,7 +4769,7 @@
 	<game name="Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced)" id="5097">
 		<category>Games</category>
 		<description>Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced)</description>
-		<rom name="Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced).nds" size="134217728" crc="2da8a814" md5="76a346e915e2bae57432b166ca7b74e6" sha1="c724754fb09800833e9aceb2022fa100475b4369"/>
+		<rom name="Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced).nds" size="134217728" crc="2da8a814" md5="76a346e915e2bae57432b166ca7b74e6" sha1="c724754fb09800833e9aceb2022fa100475b4369" sha256="5fe1360fd8448e9dbeb08dc23941921df89e8bb7e1565568ed39bf0c8d60df89"/>
 	</game>
 	<game name="Fireman Sam (Europe)" id="5195">
 		<category>Games</category>
@@ -9204,7 +9204,7 @@
 	<game name="Magical Starsign (USA)" id="0614">
 		<category>Games</category>
 		<description>Magical Starsign (USA)</description>
-		<rom name="Magical Starsign (USA).nds" size="67108864" crc="260e90b2" md5="149f87ee73c0d792623c2382463e1d18" sha1="e89ab031edf8c8dac9bcc75cd962374278f98edd"/>
+		<rom name="Magical Starsign (USA).nds" size="67108864" crc="260e90b2" md5="149f87ee73c0d792623c2382463e1d18" sha1="e89ab031edf8c8dac9bcc75cd962374278f98edd" sha256="0c53d4a89454c9cd610ccd3b4f61fe2b0a58de188158117004c229c7ee6d0a2b"/>
 	</game>
 	<game name="Magical Zhu Zhu Princess - Carriages and Castles (USA)" id="5647">
 		<category>Games</category>
@@ -10319,7 +10319,7 @@
 	<game name="Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)" id="1081">
 		<category>Games</category>
 		<description>Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)</description>
-		<rom name="Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan).nds" size="134217728" crc="68e3b021" md5="1cf939cdb85b257fcce93c8716993d38" sha1="aaa518e816fff9d9b878c8a9e0ee242a6cdc8697"/>
+		<rom name="Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan).nds" size="134217728" crc="68e3b021" md5="1cf939cdb85b257fcce93c8716993d38" sha1="aaa518e816fff9d9b878c8a9e0ee242a6cdc8697" sha256="22c81d400ef0713638ee6d8a6a24a19ab3fcb76239117896c6ea9a5cfa83dd03"/>
 	</game>
 	<game name="Moetan DS (Japan)" id="2536">
 		<category>Games</category>
@@ -12430,7 +12430,7 @@
 	<game name="Phantasy Star 0 (USA)" id="4429">
 		<category>Games</category>
 		<description>Phantasy Star 0 (USA)</description>
-		<rom name="Phantasy Star 0 (USA).nds" size="134217728" crc="affb07cf" md5="0ef2ab31b0068c0832bd6a5ef901dd0c" sha1="d95f55963792716cdbc5904418190d6ca654fffa"/>
+		<rom name="Phantasy Star 0 (USA).nds" size="134217728" crc="affb07cf" md5="0ef2ab31b0068c0832bd6a5ef901dd0c" sha1="d95f55963792716cdbc5904418190d6ca654fffa" sha256="a4fb8d5b2768b1f9b1d0bfbee1a913bcef487a729133ba11797c2cec936f4156"/>
 	</game>
 	<game name="Phil Taylor's Power Play Darts (Europe) (Rev 1)" id="6158">
 		<category>Games</category>
@@ -12685,7 +12685,7 @@
 	<game name="Point Blank DS (USA)" id="0469">
 		<category>Games</category>
 		<description>Point Blank DS (USA)</description>
-		<rom name="Point Blank DS (USA).nds" size="33554432" crc="8497f1bf" md5="cf017d1a89d6b49d7dd96eb4ad277fa9" sha1="720da706cbdf9ca483135fa15d49fbff68ace810"/>
+		<rom name="Point Blank DS (USA).nds" size="33554432" crc="8497f1bf" md5="cf017d1a89d6b49d7dd96eb4ad277fa9" sha1="720da706cbdf9ca483135fa15d49fbff68ace810" sha256="7c4238b7cfc506aecd8fccc504194a63109cad2992cf92476e156d991c7cf4a8"/>
 	</game>
 	<game name="Pokemon - Black Version (USA, Europe) (NDSi Enhanced)" id="5585">
 		<category>Games</category>
@@ -18435,7 +18435,7 @@
 	<game name="Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan)" id="2358">
 		<category>Games</category>
 		<description>Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan)</description>
-		<rom name="Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan).nds" size="67108864" crc="fef506e1" md5="81c4804de34d4e365ec1abbd1f34d29f" sha1="2d86b144b184f2f6c291af2b48ebcdf38e1c5601"/>
+		<rom name="Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan).nds" size="67108864" crc="fef506e1" md5="81c4804de34d4e365ec1abbd1f34d29f" sha1="2d86b144b184f2f6c291af2b48ebcdf38e1c5601" sha256="623e61a490bdb37c4f1288ca5ad5da87d847f4e42ba8bab3343c795aad8388f4"/>
 	</game>
 	<game name="Zombiez Seeker (USA) (En,Fr,Es)" id="5999">
 		<category>Games</category>
