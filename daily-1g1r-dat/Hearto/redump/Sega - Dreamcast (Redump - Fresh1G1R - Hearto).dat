@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-04-08 23-21-08) (Retool)</description>
-		<version>2026-04-08 23-21-08</version>
-		<date>2026-04-10 04-58-39</date>
+		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-04-11 17-12-47) (Retool)</description>
+		<version>2026-04-11 17-12-47</version>
+		<date>2026-04-12 05-17-03</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4106,17 +4106,17 @@
 		<rom name="Kanon (Japan) (Track 6).bin" size="806592528" crc="42b7388f" md5="666b3531fd7ef7c31b3d1cd9052dfba9" sha1="24d49e7e082283432d67fc84ebfa0aba02f4f0bf"/>
 		<rom name="Kanon (Japan).cue" size="659" crc="0a15c496" md5="16155df15966dd853ec08f8bbe5a4318" sha1="43e39d39fd5f367ab1711211ddbee797bb7d6a12"/>
 	</game>
-	<game name="Kao the Kangaroo (Europe) (Demo)">
+	<game name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo)">
 		<category>Demos</category>
-		<description>Kao the Kangaroo (Europe) (Demo)</description>
-		<rom name="Kao the Kangaroo (Europe) (Demo) (Track 1).bin" size="1425312" crc="54ec4373" md5="4611d33c74bc5f2fa81653a0df235c3d" sha1="f1ed5f55313e19a5021df94a278b3ece114f11a4"/>
-		<rom name="Kao the Kangaroo (Europe) (Demo) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
-		<rom name="Kao the Kangaroo (Europe) (Demo) (Track 3).bin" size="1059472512" crc="d6165f3e" md5="0863710d346bc20bbcdd7ba8bf6e191a" sha1="c71f49d393cac1e9e582cdbb83a06db9fda6a902"/>
-		<rom name="Kao the Kangaroo (Europe) (Demo) (Track 4).bin" size="21525504" crc="102c93af" md5="7ce06a29f4845fc73ef4191c1715a44a" sha1="1558f01f8e46548145431fd7b025ce197827c2ce"/>
-		<rom name="Kao the Kangaroo (Europe) (Demo) (Track 5).bin" size="25448640" crc="4522bfd8" md5="d65ae4a008e5b8b03d20a093893ebbbe" sha1="6da80b1e4a5f81198a330217fc905da67473f25a"/>
-		<rom name="Kao the Kangaroo (Europe) (Demo) (Track 6).bin" size="25975488" crc="484ae2ea" md5="ec31a84d5214402a8b69d3dbde99f1b5" sha1="510b45a0711a9e4600858a22867da3d617ec04a3"/>
-		<rom name="Kao the Kangaroo (Europe) (Demo) (Track 7).bin" size="53338656" crc="7a8d4044" md5="b3beae18a0eb064b36ac1af978407400" sha1="31d03ce5ab524dc2edf0b192e8bd748db6ad8199"/>
-		<rom name="Kao the Kangaroo (Europe) (Demo).cue" size="899" crc="9cc1f033" md5="90611c3ead0e4a9c52c67af85f05c9cb" sha1="063513b81c2e22731eb8894cc05e5f4b344bc66e"/>
+		<description>Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo)</description>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo) (Track 1).bin" size="1425312" crc="54ec4373" md5="4611d33c74bc5f2fa81653a0df235c3d" sha1="f1ed5f55313e19a5021df94a278b3ece114f11a4"/>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo) (Track 3).bin" size="1059472512" crc="d6165f3e" md5="0863710d346bc20bbcdd7ba8bf6e191a" sha1="c71f49d393cac1e9e582cdbb83a06db9fda6a902"/>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo) (Track 4).bin" size="21525504" crc="102c93af" md5="7ce06a29f4845fc73ef4191c1715a44a" sha1="1558f01f8e46548145431fd7b025ce197827c2ce"/>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo) (Track 5).bin" size="25448640" crc="4522bfd8" md5="d65ae4a008e5b8b03d20a093893ebbbe" sha1="6da80b1e4a5f81198a330217fc905da67473f25a"/>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo) (Track 6).bin" size="25975488" crc="484ae2ea" md5="ec31a84d5214402a8b69d3dbde99f1b5" sha1="510b45a0711a9e4600858a22867da3d617ec04a3"/>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo) (Track 7).bin" size="53338656" crc="7a8d4044" md5="b3beae18a0eb064b36ac1af978407400" sha1="31d03ce5ab524dc2edf0b192e8bd748db6ad8199"/>
+		<rom name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo).cue" size="1018" crc="413a6af8" md5="25388701b83c31c9251fd52669c3f113" sha1="baae3b768d4f0e430e2eb6279c7a8468134e54ac"/>
 	</game>
 	<game name="Kao the Kangaroo (USA) (En,Es)">
 		<category>Games</category>
