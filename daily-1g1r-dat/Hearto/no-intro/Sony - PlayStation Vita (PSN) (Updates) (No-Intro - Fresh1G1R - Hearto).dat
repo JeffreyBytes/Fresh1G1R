@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Updates) (1,190) (-y) [-aAbBcefkmMoprv] (20250724-193756) (Retool)</description>
-		<version>20250724-193756</version>
-		<date>2026-04-12 05-18-12</date>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (1,191) (-y) [-aAbBcefkmMoprv] (20260411-120905) (Retool)</description>
+		<version>20260411-120905</version>
+		<date>2026-04-13 05-28-22</date>
 		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, root, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -659,11 +659,10 @@
 		<game_id>UP2151-PCSE01031_00-CHASM0000000SIEA</game_id>
 		<rom name="UP2151-PCSE01031_00-CHASM0000000SIEA-A0106-V0100-de0e1840bb416478ca61298e8f26c04a8f7436f7-PE.pkg" size="57944480" crc="4550b267" md5="4eeb6f1695ea9429dfd71e638842759a" sha1="9d37e5db61596ba2089df159f17b27288ff229ca"/>
 	</game>
-	<game name="Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.02) (Patch)" id="01433">
+	<game name="Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.03) (Patch)" id="03971">
 		<category>Games</category>
-		<description>Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.02) (Patch)</description>
-		<game_id>JP0704-PCSG00837_00-BUNNYMUSTDIE0000</game_id>
-		<rom name="JP0704-PCSG00837_00-BUNNYMUSTDIE0000-A0102-V0100-bd510574172c9cd6d8d5c379de367768b170abc5-SP-PE.pkg" size="14835264" crc="e234cc22" md5="62da637e85179910886875c2dece32ea" sha1="008b8e48d8d6e690d9a74f03df46583dc6e4dbbf"/>
+		<description>Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.03) (Patch)</description>
+		<rom name="JP0704-PCSG00837_00-BUNNYMUSTDIE0000-A0103-V0100-400ec17fa96559f0be80ccfc8ae28833062189ad-SP-PE.pkg" size="7673136" crc="bc2c9ac7" md5="7c24b44ec6a6f0367cfb1b2a5b599dee" sha1="7355a3c470692bb3fb3c0f057ece7bce4365673c"/>
 	</game>
 	<game name="Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan) (v1.03) (Update)" id="03206">
 		<category>Games</category>
@@ -3701,6 +3700,11 @@
 		<game_id>UP4293-PCSE01259_00-AGE075MUV0000000</game_id>
 		<rom name="UP4293-PCSE01259_00-AGE075MUV0000000-A0101-V0100-8fd651a4d73a2ae3d632844cca7763ee8ce42377-PE.pkg" size="4854672" crc="19d280e6" md5="ea2174be89e40d54430bd29ed770d4e3" sha1="8bef29faee629ac4ed63276e651e1ffe396f2c5c" sha256="c0f260bdb46796e4ebb3cd289d446b3fcf3660c1a1d22984f3d8ffeb8c6b8dcc"/>
 	</game>
+	<game name="Muv-Luv Alternative (USA) (v1.02) (Patch)" id="03972">
+		<category>Games</category>
+		<description>Muv-Luv Alternative (USA) (v1.02) (Patch)</description>
+		<rom name="UP4293-PCSE01260_00-AGE076ALT0000000-A0102-V0100-f3a9caba9d38bfd286362a033afbfd20305de91f-SP-PE.pkg" size="26375360" crc="d19b212d" md5="b59053f79524a3b17796e10168b742e6" sha1="d0278e7836f62a6449912adb9527a9252eb8e291"/>
+	</game>
 	<game name="Muv-Luv Alternative (USA) (v1.02) (Update)" id="03101">
 		<category>Games</category>
 		<description>Muv-Luv Alternative (USA) (v1.02) (Update)</description>
@@ -4247,11 +4251,10 @@
 		<game_id>UP4836-PCSE01342_00-PERILSBAKING1PSV</game_id>
 		<rom name="UP4836-PCSE01342_00-PERILSBAKING1PSV-A0103-V0100-cb31de56d8b131c5c6b2e4a5b5c009a2fc6efa55-PE.pkg" size="9545408" crc="fc03c7ac" md5="f71397f822a474f6c87258c1ba04e415" sha1="9d19673fbce3a95866c571a052e2d12cc73e2a2d" sha256="44c8222d9c4483741c603b742926f6c2d89d700ddf5929cfe0aa0646d39a9375"/>
 	</game>
-	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.02) (Patch)" id="02828">
+	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.03) (Patch)" id="03973">
 		<category>Games</category>
-		<description>Persona 3 - Dancing Moon Night (Japan) (v1.02) (Patch)</description>
-		<game_id>JP0005-PCSG01031_00-PERSONA3D0000000</game_id>
-		<rom name="JP0005-PCSG01031_00-PERSONA3D0000000-A0102-V0100-7010763fa63c1736defe9ec4b1ee755b0a7a3d91-SP-PE.pkg" size="23283568" crc="150b9500" md5="c1445c0192d78b69ed57bb2f8674c448" sha1="d5be4c507529082ed1b6db051099cf80e7649141" sha256="87e74677555201712aadafefbc91cfda7f0e31f63e8f1cb37b4a83f6f3a0d3f0"/>
+		<description>Persona 3 - Dancing Moon Night (Japan) (v1.03) (Patch)</description>
+		<rom name="JP0005-PCSG01031_00-PERSONA3D0000000-A0103-V0100-89b15e866aa027fea3684df95db7c1a33244488d-SP-PE.pkg" size="4049760" crc="b66cdd1f" md5="203c3ac73dba36af0a437c2853043f9c" sha1="9cb646ad5fa5afb8a83f81c43a2363526e48cf31"/>
 	</game>
 	<game name="Persona 3 - Dancing Moon Night (Japan) (v1.03) (Update)" id="03219">
 		<category>Games</category>
@@ -4277,11 +4280,10 @@
 		<game_id>JP0005-PCSG00004_00-PERSONA4GOLDEN01</game_id>
 		<rom name="JP0005-PCSG00004_00-PERSONA4GOLDEN01-A0101-V0103-dd0210f1abfafdc798fe29446416ad576ed32d80-PE.pkg" size="3007568" crc="60c84cfa" md5="c0cf89dca634d13338571f4f2ee390ba" sha1="7d9dfcbd6aad2ba919db4b5ab271e07f6225460e"/>
 	</game>
-	<game name="Persona 5 - Dancing Star Night (Japan) (v1.02) (Patch)" id="02831">
+	<game name="Persona 5 - Dancing Star Night (Japan) (v1.03) (Patch)" id="03974">
 		<category>Games</category>
-		<description>Persona 5 - Dancing Star Night (Japan) (v1.02) (Patch)</description>
-		<game_id>JP0005-PCSG01030_00-PERSONA5D0000000</game_id>
-		<rom name="JP0005-PCSG01030_00-PERSONA5D0000000-A0102-V0100-5557feeef19cc53e7a1e5a73beabdb912e9d6670-SP-PE.pkg" size="23294992" crc="c8e635e5" md5="4acd27a49cb3473b503f718dd9256516" sha1="cf59d4fd17f6efa96951cd2acb47b4d65ac2c8c4" sha256="b8d1b0e7e893c920405d01e94741f87a048c3b0f71132a5f3c442209188febec"/>
+		<description>Persona 5 - Dancing Star Night (Japan) (v1.03) (Patch)</description>
+		<rom name="JP0005-PCSG01030_00-PERSONA5D0000000-A0103-V0100-c44e43d82dd66c4110f6ca3df2f43f9818af1a64-SP-PE.pkg" size="4061072" crc="f4826eef" md5="7049c557e309d59445d47742ba6ff7cd" sha1="f0fdcbb51661ef739bfe1b04da37472131accdac"/>
 	</game>
 	<game name="Persona 5 - Dancing Star Night (Japan) (v1.03) (Update)" id="03218">
 		<category>Games</category>
@@ -4727,11 +4729,10 @@
 		<game_id>UP5015-PCSE00761_00-RB20000000000001</game_id>
 		<rom name="UP5015-PCSE00761_00-RB20000000000001-A0104-V0100-5f0ef5dc5227c9e3920809ca274a91750037f61f-PE.pkg" size="483139872" crc="643da8f8" md5="bf3181ee21152c8af60f3e2cf59d2a54" sha1="d7f965a0da32c09b860859ff27d6f627b37f62ca"/>
 	</game>
-	<game name="Rogue Aces (Europe) (v1.02) (Patch)" id="03627">
+	<game name="Rogue Aces (USA) (v1.02) (Patch)" id="03975">
 		<category>Games</category>
-		<description>Rogue Aces (Europe) (v1.02) (Patch)</description>
-		<game_id>EP4395-PCSB00823_00-ROGUEACES0000000</game_id>
-		<rom name="EP4395-PCSB00823_00-ROGUEACES0000000-A0102-V0100-3720e7d54448f8e04b47932fbc8ee2e505f8a85a-SP-PE.pkg" size="2699104" crc="2601ad07" md5="443e9bf0abe700d1433fad074dde461b" sha1="fe7c4d142ae0605a614e3b171530411ad07455f0"/>
+		<description>Rogue Aces (USA) (v1.02) (Patch)</description>
+		<rom name="UP4395-PCSE01198_00-ROGUEACES0000000-A0102-V0100-c5d85692f5239a3317cf93e2bda84841b47b0ad8-SP-PE.pkg" size="2699040" crc="d10949c2" md5="1dc2fcd221677c1266b97abbc97f49a3" sha1="edd4a46b71797f2a8e6b54aacd87941781b97cc3"/>
 	</game>
 	<game name="Rogue Aces (USA) (v1.02) (Update)" id="03089">
 		<category>Games</category>

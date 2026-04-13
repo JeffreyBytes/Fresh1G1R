@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (814) (-ly) [-aAbBcdDefkmMopPruv] (20260409-230535) (Retool)</description>
-		<version>20260409-230535</version>
-		<date>2026-04-12 05-24-54</date>
+		<description>Sega - Mega Drive - Genesis (814) (-ly) [-aAbBcdDefkmMopPruv] (20260412-041716) (Retool)</description>
+		<version>20260412-041716</version>
+		<date>2026-04-13 05-32-01</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2001,11 +2001,6 @@
 		<description>Math Blaster - Episode 1 (USA)</description>
 		<rom name="Math Blaster - Episode 1 (USA).md" size="1048576" crc="d055a462" md5="84873c9aef8ad04e4a2b6a113bd68015" sha1="119c2615db2607b8102ccb57d862ac6084e37c9d" sha256="dab2cf63787ec7fff81f41f7650ac7f7203669f2c678c3bc6328eb14da63520a"/>
 	</game>
-	<game name="Maximum Carnage (World)" id="1256">
-		<category>Games</category>
-		<description>Maximum Carnage (World)</description>
-		<rom name="Maximum Carnage (World).md" size="2097152" crc="8fa0b6e6" md5="75af3f1e3b16d725cac258bfafaaea8a" sha1="43624536cbebd65232abe4af042c0fa4b0d9e3b7" sha256="7fa9b45511fa1d54084dd3bfbe87dc77288e18376a0afc3c37bb9782ac1e3511"/>
-	</game>
 	<game name="Mazin Saga - Mutant Fighter (USA)" id="0797">
 		<category>Games</category>
 		<description>Mazin Saga - Mutant Fighter (USA)</description>
@@ -2901,11 +2896,6 @@
 		<description>Sensible Soccer (Europe) (En,Fr,De,It)</description>
 		<rom name="Sensible Soccer (Europe) (En,Fr,De,It).md" size="524288" crc="f9b396b8" md5="f6fcf5843786bd44f8df6b648661a437" sha1="2ee1ad4aac354b6d227b16976f0875f4625ff604" sha256="cb263888f48f49452ef8544831d4bb2d95f8b4e970701f3423cff9af2fae1741"/>
 	</game>
-	<game name="Separation Anxiety (USA, Europe)" id="1257">
-		<category>Games</category>
-		<description>Separation Anxiety (USA, Europe)</description>
-		<rom name="Separation Anxiety (USA, Europe).md" size="3145728" crc="512ade32" md5="41d79267b01e983c0956151de10d9646" sha1="563b45254c168aa0de0bba8fadd75a2d1e8e094b" sha256="52a2bab513f4212e1c3b44ec8f469d6cf3a4900e521619ff721502b15834c761"/>
-	</game>
 	<game name="Sesame Street Counting Cafe (USA)" id="1157">
 		<category>Games</category>
 		<description>Sesame Street Counting Cafe (USA)</description>
@@ -3112,20 +3102,25 @@
 		<description>Spider-Man (USA, Europe)</description>
 		<rom name="Spider-Man (USA, Europe).md" size="2097152" crc="11b5b590" md5="af2a9fdd4a378593e47289eb8068164d" sha1="a38d5ad7d503999b7fea3ebf59f3dda9d667758b" sha256="c22c1b2e51dd8ab77c6da1b90c33b307ad88808eb007934171e39ffa12630cb0"/>
 	</game>
+	<game name="Spider-Man - Venom - Maximum Carnage (World)" id="1256">
+		<category>Games</category>
+		<description>Spider-Man - Venom - Maximum Carnage (World)</description>
+		<rom name="Spider-Man - Venom - Maximum Carnage (World).md" size="2097152" crc="8fa0b6e6" md5="75af3f1e3b16d725cac258bfafaaea8a" sha1="43624536cbebd65232abe4af042c0fa4b0d9e3b7" sha256="7fa9b45511fa1d54084dd3bfbe87dc77288e18376a0afc3c37bb9782ac1e3511"/>
+	</game>
 	<game name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)" id="3774">
 		<category>Games</category>
 		<description>Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)</description>
 		<rom name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection).md" size="2097152" crc="f4726918" md5="6f5baac0812db4ceeecdbb9a3062cf10" sha1="8ad3133e02747c3966ad6cfa206f483fb78cf1b1" sha256="0fcc855dd503adb8a77e94f7ad4d22912e3f4a76da55147d18f3900eba4e2f3a"/>
 	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (USA, Europe)" id="1258">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (USA, Europe)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (USA, Europe).md" size="1048576" crc="4a4414ea" md5="16205f67804ec434085121f3c4a81bf5" sha1="978dabcc7d098edebc9d3f2fef04f27fd6aeab19" sha256="17af8a58e549a990a282289e5bad1375b8d64ff01d696348fe6d26007b80ca2d"/>
+	</game>
 	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="3776">
 		<category>Games</category>
 		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
 		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).md" size="1048576" crc="b3a67ed5" md5="c62557c957e70234df4094a67c8a4b3e" sha1="f864904e386c55962c38edef736f57c7906370c4" sha256="d66bf7f13ada8eab599f3bca13079c697797e67a2a004aafc4c0ff973e0aa240"/>
-	</game>
-	<game name="Spider-Man X-Men - Arcade's Revenge (USA, Europe)" id="1258">
-		<category>Games</category>
-		<description>Spider-Man X-Men - Arcade's Revenge (USA, Europe)</description>
-		<rom name="Spider-Man X-Men - Arcade's Revenge (USA, Europe).md" size="1048576" crc="4a4414ea" md5="16205f67804ec434085121f3c4a81bf5" sha1="978dabcc7d098edebc9d3f2fef04f27fd6aeab19" sha256="17af8a58e549a990a282289e5bad1375b8d64ff01d696348fe6d26007b80ca2d"/>
 	</game>
 	<game name="Spider-Man vs. The Kingpin (World)" id="1255">
 		<category>Games</category>
@@ -3756,6 +3751,11 @@
 		<category>Games</category>
 		<description>Vectorman 2 (USA)</description>
 		<rom name="Vectorman 2 (USA).md" size="3145728" crc="c1a24088" md5="9666d682cc7c69b26b834b4d8a949277" sha1="c5adca10408f055c0431e1ffc01d4fbab53ade01" sha256="02a5d53336729ad41881ea97c66018da92152d9cef65fd46d6965730cb57af04"/>
+	</game>
+	<game name="Venom - Spider-Man - Separation Anxiety (USA, Europe)" id="1257">
+		<category>Games</category>
+		<description>Venom - Spider-Man - Separation Anxiety (USA, Europe)</description>
+		<rom name="Venom - Spider-Man - Separation Anxiety (USA, Europe).md" size="3145728" crc="512ade32" md5="41d79267b01e983c0956151de10d9646" sha1="563b45254c168aa0de0bba8fadd75a2d1e8e094b" sha256="52a2bab513f4212e1c3b44ec8f469d6cf3a4900e521619ff721502b15834c761"/>
 	</game>
 	<game name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)" id="3778">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Updates) (601) (-ly) [-aAbBcdDefkmMopPruv] (20250724-193756) (Retool)</description>
-		<version>20250724-193756</version>
-		<date>2026-04-12 05-24-18</date>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (602) (-ly) [-aAbBcdDefkmMopPruv] (20260411-120905) (Retool)</description>
+		<version>20260411-120905</version>
+		<date>2026-04-13 05-32-25</date>
 		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, root, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1877,6 +1877,11 @@
 		<game_id>UP4293-PCSE01259_00-AGE075MUV0000000</game_id>
 		<rom name="UP4293-PCSE01259_00-AGE075MUV0000000-A0101-V0100-8fd651a4d73a2ae3d632844cca7763ee8ce42377-PE.pkg" size="4854672" crc="19d280e6" md5="ea2174be89e40d54430bd29ed770d4e3" sha1="8bef29faee629ac4ed63276e651e1ffe396f2c5c" sha256="c0f260bdb46796e4ebb3cd289d446b3fcf3660c1a1d22984f3d8ffeb8c6b8dcc"/>
 	</game>
+	<game name="Muv-Luv Alternative (USA) (v1.02) (Patch)" id="03972">
+		<category>Games</category>
+		<description>Muv-Luv Alternative (USA) (v1.02) (Patch)</description>
+		<rom name="UP4293-PCSE01260_00-AGE076ALT0000000-A0102-V0100-f3a9caba9d38bfd286362a033afbfd20305de91f-SP-PE.pkg" size="26375360" crc="d19b212d" md5="b59053f79524a3b17796e10168b742e6" sha1="d0278e7836f62a6449912adb9527a9252eb8e291"/>
+	</game>
 	<game name="Muv-Luv Alternative (USA) (v1.02) (Update)" id="03101">
 		<category>Games</category>
 		<description>Muv-Luv Alternative (USA) (v1.02) (Update)</description>
@@ -2375,11 +2380,10 @@
 		<game_id>UP5015-PCSE00761_00-RB20000000000001</game_id>
 		<rom name="UP5015-PCSE00761_00-RB20000000000001-A0104-V0100-5f0ef5dc5227c9e3920809ca274a91750037f61f-PE.pkg" size="483139872" crc="643da8f8" md5="bf3181ee21152c8af60f3e2cf59d2a54" sha1="d7f965a0da32c09b860859ff27d6f627b37f62ca"/>
 	</game>
-	<game name="Rogue Aces (Europe) (v1.02) (Patch)" id="03627">
+	<game name="Rogue Aces (USA) (v1.02) (Patch)" id="03975">
 		<category>Games</category>
-		<description>Rogue Aces (Europe) (v1.02) (Patch)</description>
-		<game_id>EP4395-PCSB00823_00-ROGUEACES0000000</game_id>
-		<rom name="EP4395-PCSB00823_00-ROGUEACES0000000-A0102-V0100-3720e7d54448f8e04b47932fbc8ee2e505f8a85a-SP-PE.pkg" size="2699104" crc="2601ad07" md5="443e9bf0abe700d1433fad074dde461b" sha1="fe7c4d142ae0605a614e3b171530411ad07455f0"/>
+		<description>Rogue Aces (USA) (v1.02) (Patch)</description>
+		<rom name="UP4395-PCSE01198_00-ROGUEACES0000000-A0102-V0100-c5d85692f5239a3317cf93e2bda84841b47b0ad8-SP-PE.pkg" size="2699040" crc="d10949c2" md5="1dc2fcd221677c1266b97abbc97f49a3" sha1="edd4a46b71797f2a8e6b54aacd87941781b97cc3"/>
 	</game>
 	<game name="Rogue Aces (USA) (v1.02) (Update)" id="03089">
 		<category>Games</category>
