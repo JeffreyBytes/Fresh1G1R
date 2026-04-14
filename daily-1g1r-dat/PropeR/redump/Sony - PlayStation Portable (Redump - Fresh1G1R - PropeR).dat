@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,760) (-y) [-aAbBcdkmMpPuv] (2026-04-11 05-20-09) (Retool)</description>
-		<version>2026-04-11 05-20-09</version>
-		<date>2026-04-12 05-29-30</date>
+		<description>Sony - PlayStation Portable (1,762) (-y) [-aAbBcdkmMpPuv] (2026-04-13 18-41-17) (Retool)</description>
+		<version>2026-04-13 18-41-17</version>
+		<date>2026-04-14 05-09-45</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4411,6 +4411,11 @@
 		<description>Mahou Shoujo Madoka Magica Portable (Japan)</description>
 		<rom name="Mahou Shoujo Madoka Magica Portable (Japan).iso" size="1564049408" crc="c1824a2c" md5="c62edbc718367597feb3deced5032e4d" sha1="71c5af5f9b86f2cc0de176e313d00afa9034b004"/>
 	</game>
+	<game name="Mahou Tsukai to Goshujin-sama - New Ground (Japan)">
+		<category>Games</category>
+		<description>Mahou Tsukai to Goshujin-sama - New Ground (Japan)</description>
+		<rom name="Mahou Tsukai to Goshujin-sama - New Ground (Japan).iso" size="1443430400" crc="c109e3e5" md5="bc14c6908837f0f81cf32761498f733c" sha1="e4d0f6c72764e51ebc5c9bdcfe187b8f5664c8f5"/>
+	</game>
 	<game name="Mai-HiME - Bakuretsu! Fuuka Gakuen Gekitoushi! (Japan)">
 		<category>Games</category>
 		<description>Mai-HiME - Bakuretsu! Fuuka Gakuen Gekitoushi! (Japan)</description>
@@ -6115,6 +6120,11 @@
 		<category>Games</category>
 		<description>Rainbow Islands Evolution (USA) (En,Fr,Es)</description>
 		<rom name="Rainbow Islands Evolution (USA) (En,Fr,Es).iso" size="847020032" crc="6c4aeecd" md5="a50b6d4401d0d22c34d4332f01c3eec9" sha1="8e9de125fe87a99ff0fb35dd4892fde9b2c40d72"/>
+	</game>
+	<game name="Rakuen Danshi (Japan)">
+		<category>Games</category>
+		<description>Rakuen Danshi (Japan)</description>
+		<rom name="Rakuen Danshi (Japan).iso" size="1233125376" crc="268e99e7" md5="2368a0d22e256385cb94820f9ec8f9e1" sha1="27594495667e47e4e519bea0ddf69d13e7b3f8c7"/>
 	</game>
 	<game name="Ranshima Monogatari - Lair Land Story - Shoujo no Yakujou (Japan)">
 		<category>Games</category>

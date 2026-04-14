@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Microsoft - Xbox 360 (Digital) (Retool)</name>
-		<description>Microsoft - Xbox 360 (Digital) (3,443) (-ly) [-aAbBcdDefkmMopPruv] (20260313-093658) (Retool)</description>
-		<version>20260313-093658</version>
-		<date>2026-04-13 05-29-39</date>
+		<description>Microsoft - Xbox 360 (Digital) (3,451) (-ly) [-aAbBcdDefkmMopPruv] (20260412-175259) (Retool)</description>
+		<version>20260412-175259</version>
+		<date>2026-04-14 05-06-12</date>
 		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21,10 +21,22 @@
 		<description>'Splosion Man (World) (XBLA)</description>
 		<rom name="5841098F\000D0000\E42409217241BEFFDAE1EFBA10F7DA460283CFB358" size="355491840" crc="3560bce2" md5="216f81886638350fe215cff56454b156" sha1="c31519e34443c04ea231254b2253bd24f4aec0a6"/>
 	</game>
+	<game name="'Splosion Man - Splosion Man (World) (v5) (Title Update)" id="05712">
+		<category>Games</category>
+		<description>'Splosion Man - Splosion Man (World) (v5) (Title Update)</description>
+		<game_id>1F967A36</game_id>
+		<rom name="Cache\TU_1C422CF_0000104000000.0000000000181" size="3051520" crc="976b57d1" md5="82d92459f43f87d873b4869a707ac8bc" sha1="ae79f205daabbc3367a4aaa9e4c28cca2c0653e7" sha256="25e1f8f83ad9253a6a09a7090eecac0c26408f80bdfa397b581ec3e648893e2e"/>
+	</game>
 	<game name="0 Day Attack on Earth (World) (XBLA)" id="00044">
 		<category>Games</category>
 		<description>0 Day Attack on Earth (World) (XBLA)</description>
 		<rom name="584109B7\000D0000\B2080E9FFF47FE2DA382BD55EDFCA2152078AEBD58" size="426381312" crc="a0eb61b6" md5="1c74c41b315da93fd12c756e5f318714" sha1="dbaad2257333d483a2d7c5764c8bc036a2682492"/>
+	</game>
+	<game name="0 Day Attack on Earth (World) (v2) (Title Update)" id="05713">
+		<category>Games</category>
+		<description>0 Day Attack on Earth (World) (v2) (Title Update)</description>
+		<game_id>79595405</game_id>
+		<rom name="Cache\TU_1C422DN_0000108000000.00000000000G2" size="233472" crc="8ae9ea77" md5="7271adbf3404540c17b8377e0029886a" sha1="d6c70930f4acf3d8cadeb214042bbe7304f86ee9" sha256="8152ab8ea42b9c278d72c7b9cf242632c9dfb542aca4312af5646441db90cce5"/>
 	</game>
 	<game name="0 Gravity Y3030 (World) (XBLIG)" id="11791">
 		<category>Games</category>
@@ -110,6 +122,12 @@
 		<category>Games</category>
 		<description>2012 Athletics Tournament (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\26ABFA31D26B3833DC819E46A248364DB6267A1F58" size="14893056" crc="a25d0f0b" md5="bb58091ab1286f35a02b2e249ca57613" sha1="4a0796e6f594f8a4729dea5572122ef68578cb71"/>
+	</game>
+	<game name="2014 FIFA World Cup Brazil (World) (Title Update)" id="05714">
+		<category>Games</category>
+		<description>2014 FIFA World Cup Brazil (World) (Title Update)</description>
+		<game_id>5D31A745</game_id>
+		<rom name="Cache\TU_12K22EK_000001K000000.000000000008D" size="3391488" crc="5b4bf5c0" md5="f6705de055c42d41e3dbfcafaf790c31" sha1="d1af483540a4d9631053a54a03fbf5913c34b08c" sha256="acb3cb6c154ee8c7a5f72f47d9a992d3375766f77913f8a57fd3c0d2327f5916"/>
 	</game>
 	<game name="2048 - Xbox 360 Edition (World) (XBLIG)" id="11805">
 		<category>Games</category>
@@ -622,6 +640,18 @@
 		<description>Advanced Rock Paper Scissors (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\EF03265D828543310C897293B9478DADB188438058" size="11632640" crc="3d4da656" md5="1c9c413619db2c4611125173dd2a7795" sha1="9d169b1179bd1a7b1c356cca8c5204f78f2df70b"/>
 	</game>
+	<game name="Adventure Time - Explore the Dungeon Because I Don't Know! (World) (Title Update)" id="05716">
+		<category>Games</category>
+		<description>Adventure Time - Explore the Dungeon Because I Don't Know! (World) (Title Update)</description>
+		<game_id>2C32D8E2</game_id>
+		<rom name="44500807\000B0000\tu00000001_00000000" size="33783808" crc="2c3f7578" md5="6ca213647061680ef30cb6ca914aa282" sha1="4f2fec668df66fe29d708910b0824c3e51a9ba7d" sha256="6e63b8cf2c4fd2c4f26353a52103343fc3585ae19d8e6e36a5ac2407eabb6228"/>
+	</game>
+	<game name="Adventure Time - Finn &amp; Jake Investigations (World) (Title Update)" id="05717">
+		<category>Games</category>
+		<description>Adventure Time - Finn &amp; Jake Investigations (World) (Title Update)</description>
+		<game_id>320BCCE1</game_id>
+		<rom name="373407D8\000B0000\tu00000001_00000000" size="36593664" crc="288fdfd0" md5="1b4cd05b42f5fed42a71de56edd58bcc" sha1="c65da87601dd483ce3fdea744f7494b70d5f6a39" sha256="35bf265dacd296c0c35fa0873f2a77ab55be8639c6fc75e23ff750a6ddc29d44"/>
+	</game>
 	<game name="Adventurer Pets HD (World) (XBLIG)" id="11891">
 		<category>Games</category>
 		<description>Adventurer Pets HD (World) (XBLIG)</description>
@@ -810,6 +840,12 @@
 		<description>Alexander Learning Series 360 (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\13F9731926E07209962DB052AD6F5849A9D5219658" size="18710528" crc="7d5bab34" md5="f52fd28b0b5dd168f9e1b1f094400f14" sha1="35d18c456431b40a35879b582bc2839c97e3ca80"/>
 	</game>
+	<game name="Alien - Isolation (World) (v2) (Title Update)" id="05722">
+		<category>Games</category>
+		<description>Alien - Isolation (World) (v2) (Title Update)</description>
+		<game_id>6C4728D7</game_id>
+		<rom name="5345085E\000B0000\tu00000005_00000000" size="945115136" crc="911d5f21" md5="a177219f488ad06008b77ae5bd3d77ef" sha1="6fdd3733abd1b2c3b3a10df7276b1cb63204215e" sha256="23751fefe508d3058e2d97feabb52937125be7f93887f920950192279dbd50a0"/>
+	</game>
 	<game name="Alien Breed - Evolution (World) (XBLA)" id="00050">
 		<category>Games</category>
 		<description>Alien Breed - Evolution (World) (XBLA)</description>
@@ -915,6 +951,12 @@
 		<description>All the Bad Parts (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\D8E8A1761F42BF6FC5D6890BC0C0D98630EADAF258" size="41259008" crc="a4dc6ff5" md5="3c19728f0e34e815f5db3f71b4e8799d" sha1="400bba4549254220350fcbe99a4c56f652d1b9f4"/>
 	</game>
+	<game name="All-Pro Football 2K8 (World) (Title Update)" id="05724">
+		<category>Games</category>
+		<description>All-Pro Football 2K8 (World) (Title Update)</description>
+		<game_id>7744078F</game_id>
+		<rom name="Cache\TU_1A58207_0000008000000.0000000000082" size="839680" crc="06f5fde6" md5="b5d523eb8ae13cfbdd8048350113b1cd" sha1="e2765e95b978d58fced16f8b5369144179943f1b" sha256="8a09c837a3ac4c8f8654d0093c275ae7659db3c941d325d1e8c8382b2a083a31"/>
+	</game>
 	<game name="Allegory (World) (XBLIG)" id="11934">
 		<category>Games</category>
 		<description>Allegory (World) (XBLIG)</description>
@@ -999,6 +1041,12 @@
 		<category>Games</category>
 		<description>Amazing Princess Sarah (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\7E570AB4566D7919DBEAF78506FEF312395B8D0C58" size="37126144" crc="28857beb" md5="47244f0c8eaa187e3fe38889422b7354" sha1="da1e93e98c5da66c5940f961433076e403fa1362"/>
+	</game>
+	<game name="Amazing Spider-Man, The (World) (v2) (Title Update)" id="05725">
+		<category>Games</category>
+		<description>Amazing Spider-Man, The (World) (v2) (Title Update)</description>
+		<game_id>63461509</game_id>
+		<rom name="Cache\TU_10LC25L_000000O000000.00000000000G6" size="1146880" crc="88f1bc7a" md5="6a89de3f32d0c2eb2f452d2f6d47689d" sha1="b82f5b0cb06d167021f4f3a999ac4c54beb5e706" sha256="4ccfa056e211ba3270d0551e85863ea45067773c90074ea1ef6ac376ec7effca"/>
 	</game>
 	<game name="Amazing Wizard (World) (XBLIG)" id="11951">
 		<category>Games</category>
