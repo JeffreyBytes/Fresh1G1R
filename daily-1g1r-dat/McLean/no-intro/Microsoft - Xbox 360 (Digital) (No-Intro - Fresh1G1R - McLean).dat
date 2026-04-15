@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Microsoft - Xbox 360 (Digital) (Retool)</name>
-		<description>Microsoft - Xbox 360 (Digital) (3,451) (-ly) [-aAbBcdDefkmMopPruv] (20260412-175259) (Retool)</description>
-		<version>20260412-175259</version>
-		<date>2026-04-14 05-06-12</date>
+		<description>Microsoft - Xbox 360 (Digital) (3,452) (-ly) [-aAbBcdDefkmMopPruv] (20260413-063933) (Retool)</description>
+		<version>20260413-063933</version>
+		<date>2026-04-15 05-08-10</date>
 		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2472,6 +2472,11 @@
 		<category>Games</category>
 		<description>Avatar Tennis! (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\BF36ED5BD4B1026A7F3DCBD14D8B17F12A5A734358" size="71098368" crc="0a31bae8" md5="779acf4840832dde3f6686d6bf023b58" sha1="3fc85a856ec9833e80528ca7591ab3124b5f1a31"/>
+	</game>
+	<game name="Avatar Threads - 8 Bit Bling (World) (Avatar Item)" id="06311">
+		<category>Games</category>
+		<description>Avatar Threads - 8 Bit Bling (World) (Avatar Item)</description>
+		<rom name="444D07D9\00009000\00001000A1473263C8C939CE444D07D9" size="253952" crc="ed8b3999" md5="508e6888f5c73b40eee618f0851056d3" sha1="bda4d152b8112f7b5732583909bafb99f9f97128"/>
 	</game>
 	<game name="Avatar Thunder Cars (World) (XBLIG)" id="12219">
 		<category>Games</category>

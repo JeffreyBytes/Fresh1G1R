@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (547) (-ly) [-aAbBcdDefkmMopPruv] (20260411-200109) (Retool)</description>
-		<version>20260411-200109</version>
-		<date>2026-04-14 05-07-16</date>
+		<description>Nintendo - Game Boy Color (550) (-ly) [-aAbBcdDefkmMopPruv] (20260413-135903) (Retool)</description>
+		<version>20260413-135903</version>
+		<date>2026-04-15 05-05-16</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2730,6 +2730,21 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - Dark Duel Stories (USA)</description>
 		<rom name="Yu-Gi-Oh! - Dark Duel Stories (USA).gbc" size="4194304" crc="803a56ae" md5="c30add585d87114288ff8e3726c5381b" sha1="1952d343bdfb5625bd23a8569cde6fd61a911502" sha256="4336ce47861a57c2127aebb3d81cf02e4eb418bf01f3a342afca9f8dd3a1c618"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Early Days Collection)" id="2760">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Early Days Collection).gbc" size="4194304" crc="49f9197a" md5="abd8693c2f03acd8c0e2508e61268b70" sha1="31bace85728b88b2af7afb3b7fe82d7bf7279ad7" sha256="ba81ddf774b7e26cba20df39201c2eeb009493fba0464effa62f3d98ea4c7efe"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Early Days Collection)" id="2766">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Early Days Collection).gbc" size="4194304" crc="aeca7189" md5="7d817adcce9ecb3ad270dc053781f3d6" sha1="ede1b6dad61376f03da154deb94c1a1ae51c1c6e" sha256="42f4e03429cd39c2394fa316209ab7b16e1d825c5783f3c257d78771bbc15de7"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Early Days Collection)" id="2772">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Early Days Collection).gbc" size="4194304" crc="8813b725" md5="0b9b51fdd41a15a10d02d7fbf64ac7de" sha1="56e3a8afd42da8a42769e8f4fbe3485215927bfb" sha256="212f41b8db8cfbb59636b32a8f5b5d55c4b6d834220028a5c18b3f838dc36053"/>
 	</game>
 	<game name="Zebco Fishing! (USA) (Rumble Version)" id="1354">
 		<category>Games</category>
