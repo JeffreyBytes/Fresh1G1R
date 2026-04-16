@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,820) (-y) [-aAbBcefkmMoprv] (2026-04-14 17-47-22) (Retool)</description>
-		<version>2026-04-14 17-47-22</version>
-		<date>2026-04-15 04-58-54</date>
+		<description>Sony - PlayStation Portable (1,827) (-y) [-aAbBcefkmMoprv] (2026-04-16 05-31-54) (Retool)</description>
+		<version>2026-04-16 05-31-54</version>
+		<date>2026-04-16 05-09-29</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2016,6 +2016,11 @@
 		<description>Enkeltbillet (Japan)</description>
 		<rom name="Enkeltbillet (Japan).iso" size="1469841408" crc="d5a0e58e" md5="7a1e7644f6c244684b242c697f9b537c" sha1="db0f48d897131f392e326d6f2cf8b17502a1aacc"/>
 	</game>
+	<game name="Entaku no Seito - The Eternal Legend (Japan)">
+		<category>Games</category>
+		<description>Entaku no Seito - The Eternal Legend (Japan)</description>
+		<rom name="Entaku no Seito - The Eternal Legend (Japan).iso" size="506855424" crc="1246b861" md5="ff12b79d6d07f376763bedc1cc20a959" sha1="06b30a3a68081786529a39a1e2506c113efef3e0"/>
+	</game>
 	<game name="Eragon (USA)">
 		<category>Games</category>
 		<description>Eragon (USA)</description>
@@ -2230,6 +2235,11 @@
 		<category>Games</category>
 		<description>Field Commander (USA)</description>
 		<rom name="Field Commander (USA).iso" size="1199013888" crc="0a0fc839" md5="8ff489f13f8654f4b35038cafe968888" sha1="945b911e2e85bd876b5603c9bbb9a6bc7be21ec7"/>
+	</game>
+	<game name="Fight Ippatsu! Juuden-chan!! CC (Japan)">
+		<category>Games</category>
+		<description>Fight Ippatsu! Juuden-chan!! CC (Japan)</description>
+		<rom name="Fight Ippatsu! Juuden-chan!! CC (Japan).iso" size="1043988480" crc="adc07767" md5="1ba78d93f5332a3f9a2a9c7892323012" sha1="3ca69f2a49b736662e4f481b61d58c9a738aa580"/>
 	</game>
 	<game name="Fight Night Round 3 (USA)">
 		<category>Games</category>
@@ -3695,6 +3705,11 @@
 		<category>Games</category>
 		<description>Kamen no Maid Guy - Boyoyon Battle Royale (Japan, Asia)</description>
 		<rom name="Kamen no Maid Guy - Boyoyon Battle Royale (Japan, Asia).iso" size="258113536" crc="959ea52b" md5="9fa8fad23907bcce2c6a4de72d4be329" sha1="b6860e3e6da71502f53613747b8ec4da5abae99a"/>
+	</game>
+	<game name="Kamigami no Asobi (Japan)">
+		<category>Games</category>
+		<description>Kamigami no Asobi (Japan)</description>
+		<rom name="Kamigami no Asobi (Japan).iso" size="1445789696" crc="83966ddc" md5="e89406c87dbff5b34812a8355e3ecec2" sha1="0367bbfd2d17c1f36f057970d5f472d316d98d6d"/>
 	</game>
 	<game name="Kamigami no Asobi - InFinite (Japan)">
 		<category>Games</category>
@@ -6911,6 +6926,11 @@
 		<description>Sengoku Hime 2 - Ran - Hyakka, Senran Tatsukaze no Gotoku (Japan)</description>
 		<rom name="Sengoku Hime 2 - Ran - Hyakka, Senran Tatsukaze no Gotoku (Japan).iso" size="767983616" crc="84ecc02e" md5="321e372aad9553debeb22a3497a23023" sha1="d8c65457a402349358c33b816930fde52eadcc19"/>
 	</game>
+	<game name="Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)</description>
+		<rom name="Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan).iso" size="1621327872" crc="91dc7fd3" md5="1aa2a05531c3d031951e84c37c64c7e2" sha1="2d166c61acaac5261f5666caa5f012308f63d831"/>
+	</game>
 	<game name="Sengoku Musou 3 Z Special (Japan)">
 		<category>Games</category>
 		<description>Sengoku Musou 3 Z Special (Japan)</description>
@@ -7951,6 +7971,11 @@
 		<description>Tales of the World - Radiant Mythology 3 (Japan)</description>
 		<rom name="Tales of the World - Radiant Mythology 3 (Japan).iso" size="1807089664" crc="7a5ce0bd" md5="5d63d1652b851e005d27fe42db7d6241" sha1="aa1df96ecfa1b53fdda9391dc711c239827bfd91"/>
 	</game>
+	<game name="Tamayura - Mitama Okuri no Uta (Japan)">
+		<category>Games</category>
+		<description>Tamayura - Mitama Okuri no Uta (Japan)</description>
+		<rom name="Tamayura - Mitama Okuri no Uta (Japan).iso" size="1301184512" crc="6bbac9eb" md5="fd7d57c501bee12392dfc7e1c6e8b586" sha1="e148c077d5ae779bdcfb488292f5121e3e9bf081"/>
+	</game>
 	<game name="Tantei Jinguuji Saburou - Hai to Diamond (Japan)">
 		<category>Games</category>
 		<description>Tantei Jinguuji Saburou - Hai to Diamond (Japan)</description>
@@ -8400,6 +8425,16 @@
 		<category>Games</category>
 		<description>Umihara Kawase Portable (Japan)</description>
 		<rom name="Umihara Kawase Portable (Japan).iso" size="288063488" crc="a0883dcc" md5="b349e6f305bb40f8c5a9cb95fc315ebb" sha1="e8838bb66f8c5558115f57fc59ea6bf13f4f39ff"/>
+	</game>
+	<game name="Umineko no Naku Koro ni Portable 1 (Japan)">
+		<category>Games</category>
+		<description>Umineko no Naku Koro ni Portable 1 (Japan)</description>
+		<rom name="Umineko no Naku Koro ni Portable 1 (Japan).iso" size="1183383552" crc="4b81e5a9" md5="e23af333e3c9c6346eae05247ab4a42e" sha1="5819b5cfa90065c63605e544d3be0262af3acc99"/>
+	</game>
+	<game name="Umineko no Naku Koro ni Portable 2 (Japan)">
+		<category>Games</category>
+		<description>Umineko no Naku Koro ni Portable 2 (Japan)</description>
+		<rom name="Umineko no Naku Koro ni Portable 2 (Japan).iso" size="1624145920" crc="728d8524" md5="1cca4cccb4fb3f732e7572cb5d886ae3" sha1="22a65af09e1516e6b49a74739d542a56ac43428c"/>
 	</game>
 	<game name="UnchainBlades EXXiV (Japan)">
 		<category>Games</category>

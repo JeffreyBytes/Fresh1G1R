@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (1,172) (-y) [-aAbBcefkmMoprv] (20260412-211135) (Retool)</description>
-		<version>20260412-211135</version>
-		<date>2026-04-15 05-01-03</date>
+		<description>Sega - Mega Drive - Genesis (1,173) (-y) [-aAbBcefkmMoprv] (20260414-223451) (Retool)</description>
+		<version>20260414-223451</version>
+		<date>2026-04-16 05-11-47</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2437,6 +2437,11 @@
 		<category>Games</category>
 		<description>Jungle Book, The (USA)</description>
 		<rom name="Jungle Book, The (USA).md" size="2097152" crc="3fb6d92e" md5="2e1c1f784c9463152cd1a772f87677af" sha1="306021e52501c9d51afd9c51acf384356c84ffbf" sha256="bacfb9ba38dd0df73953598bca6199a32c00959071856a490a85608d56bdac08"/>
+	</game>
+	<game name="Jungle Book, The (USA) (Blockbuster Flash ROM)" id="3788">
+		<category>Games</category>
+		<description>Jungle Book, The (USA) (Blockbuster Flash ROM)</description>
+		<rom name="Jungle Book, The (USA) (Blockbuster Flash ROM).md" size="2097152" crc="87780266" md5="1e44ca4090d4ecb95d47cb6cdb2e8dba" sha1="402fa371c8144c15f1ad43e542c4abc65c258a00" sha256="c46f20800f67e6c8cbda0f441efc1fc251f315318af02f41bdbf140a176047b7"/>
 	</game>
 	<game name="Jungle Strike (USA, Europe)" id="0681">
 		<category>Games</category>
