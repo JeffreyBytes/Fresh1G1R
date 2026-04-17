@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (975) (-y) [-aAbBcefkmMoprv] (20260414-122930) (Retool)</description>
-		<version>20260414-122930</version>
-		<date>2026-04-16 05-12-02</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (975) (-y) [-aAbBcefkmMoprv] (20260415-152126) (Retool)</description>
+		<version>20260415-152126</version>
+		<date>2026-04-17 05-05-17</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -830,7 +830,7 @@
 		<category>Games</category>
 		<description>Code of Princess (USA)</description>
 		<game_id>00040000000A2C00</game_id>
-		<rom name="Code of Princess (USA).3ds" size="2147483648" crc="5ed24983" md5="a12aa7ae5ca27a096e14e9cee6316353" sha1="3363a2d7c9b8ca0beed5989f4626984b485b6e96"/>
+		<rom name="Code of Princess (USA).3ds" size="2147483648" crc="5ed24983" md5="a12aa7ae5ca27a096e14e9cee6316353" sha1="3363a2d7c9b8ca0beed5989f4626984b485b6e96" sha256="27f758d13763efc9bd3971f33de6600f4683d77ab204a24e126f19b2c7bfc8e4"/>
 	</game>
 	<game name="Combat of Giants - Dinosaurs 3D (USA) (En,Fr,Es)" id="0127">
 		<category>Games</category>
@@ -920,7 +920,7 @@
 		<category>Games</category>
 		<description>Crush 3D (USA) (En,Fr,Es)</description>
 		<game_id>0004000000037100</game_id>
-		<rom name="Crush 3D (USA) (En,Fr,Es).3ds" size="536870912" crc="b404cb5e" md5="4f5963bbca59548d6c4f19b3d223137f" sha1="1bb13c56b1bcaf1c2488c40d0257fff05b6411cb"/>
+		<rom name="Crush 3D (USA) (En,Fr,Es).3ds" size="536870912" crc="b404cb5e" md5="4f5963bbca59548d6c4f19b3d223137f" sha1="1bb13c56b1bcaf1c2488c40d0257fff05b6411cb" sha256="738f993f65289e5253eabec529a9137dcc03fbf7f15ee81011671819ad4bd738"/>
 	</game>
 	<game name="Cube Creator DX (Japan)" id="1698">
 		<category>Games</category>
@@ -1574,7 +1574,7 @@
 		<category>Games</category>
 		<description>Fossil Fighters - Frontier (USA) (Rev 1)</description>
 		<game_id>000400000012DB00</game_id>
-		<rom name="Fossil Fighters - Frontier (USA) (Rev 1).3ds" size="2147483648" crc="00167d76" md5="e72db197b173f70e58380c2717052e76" sha1="c3182a0e579855be3f583cb8dae9691e5bd2e7ec"/>
+		<rom name="Fossil Fighters - Frontier (USA) (Rev 1).3ds" size="2147483648" crc="00167d76" md5="e72db197b173f70e58380c2717052e76" sha1="c3182a0e579855be3f583cb8dae9691e5bd2e7ec" sha256="72e20726fa770b5a8ce41090d8a26a20c0fa5706291ca2fe52d87e525b1c7c38"/>
 	</game>
 	<game name="Fragrant Story (USA)" id="z074">
 		<category>Games</category>
@@ -3073,7 +3073,7 @@
 		<category>Games</category>
 		<description>Mario vs. Donkey Kong - Minna de Mini-Land (Japan)</description>
 		<game_id>000400000012C900</game_id>
-		<rom name="Mario vs. Donkey Kong - Minna de Mini-Land (Japan).3ds" size="268435456" crc="00c85182" md5="e8fbcda4dc0deed1fc81808ca9d09846" sha1="3e759158730a24e9a14c3fcd0cc291ca79b65d82"/>
+		<rom name="Mario vs. Donkey Kong - Minna de Mini-Land (Japan).3ds" size="268435456" crc="00c85182" md5="e8fbcda4dc0deed1fc81808ca9d09846" sha1="3e759158730a24e9a14c3fcd0cc291ca79b65d82" sha256="a5bac4f5568981b4344688595ee2e54eeb7d7b03a88d09e25b8a459180bb2e0b"/>
 	</game>
 	<game name="Marvel Disk Wars - Avengers - Ultimate Heroes (Japan)" id="1200">
 		<category>Games</category>
@@ -4331,7 +4331,7 @@
 		<category>Games</category>
 		<description>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA)</description>
 		<game_id>0004000000137700</game_id>
-		<rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA).3ds" size="1073741824" crc="8288d02d" md5="3a9d892a4c69c0d0ff9e79c04635809b" sha1="8b806587c514fe89f9b593d63a13acb8861ee8b1"/>
+		<rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA).3ds" size="1073741824" crc="5f9384e3" md5="ca0085bc81afd51b7c6df7a3d1dae843" sha1="16e0d0678942ce90a0697f87bf52ef21311ba8cf" sha256="9ef69584ee33187f80810346bf0c537e5d0d585ecc6e74d5326324dda4f8142f"/>
 	</game>
 	<game name="Puzzler Brain Games (Europe) (En,Fr,De,Es,It)" id="0401">
 		<category>Games</category>

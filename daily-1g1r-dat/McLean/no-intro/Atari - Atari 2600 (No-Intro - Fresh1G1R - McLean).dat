@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari 2600 (Retool)</name>
-		<description>Atari - Atari 2600 (487) (-ly) [-aAbBcdDefkmMopPruv] (20260405-051359) (Retool)</description>
-		<version>20260405-051359</version>
-		<date>2026-04-16 05-18-00</date>
+		<description>Atari - Atari 2600 (488) (-ly) [-aAbBcdDefkmMopPruv] (20260415-093854) (Retool)</description>
+		<version>20260415-093854</version>
+		<date>2026-04-17 05-10-02</date>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1150,6 +1150,11 @@
 		<category>Games</category>
 		<description>Math Gran Prix (USA)</description>
 		<rom name="Math Gran Prix (USA).a26" size="4096" crc="ccc90c98" md5="470878b9917ea0348d64b5750af149aa" sha1="18fac606400c08a0469aebd9b071ae3aec2a3cf2"/>
+	</game>
+	<game name="Maze Craze - A Game of Cops 'n Robbers (Europe)" id="0927">
+		<category>Games</category>
+		<description>Maze Craze - A Game of Cops 'n Robbers (Europe)</description>
+		<rom name="Maze Craze - A Game of Cops 'n Robbers (Europe).a26" size="4096" crc="328075b8" md5="ed2218b3075d15eaa34e3356025ccca3" sha1="4a255c1d277f9ceb98dfe61ec2c6f7537ca4e7bf" sha256="3c6b01041b1788d582f7b5b526d20457c46a2b080c8126f23b6892b02a16932d"/>
 	</game>
 	<game name="Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)" id="0258">
 		<category>Games</category>

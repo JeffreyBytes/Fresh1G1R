@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (550) (-ly) [-aAbBcdDefkmMopPruv] (20260414-083539) (Retool)</description>
-		<version>20260414-083539</version>
-		<date>2026-04-16 05-18-33</date>
+		<description>Nintendo - Game Boy Color (553) (-ly) [-aAbBcdDefkmMopPruv] (20260415-130209) (Retool)</description>
+		<version>20260415-130209</version>
+		<date>2026-04-17 05-10-54</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2731,6 +2731,16 @@
 		<description>Yu-Gi-Oh! - Dark Duel Stories (USA)</description>
 		<rom name="Yu-Gi-Oh! - Dark Duel Stories (USA).gbc" size="4194304" crc="803a56ae" md5="c30add585d87114288ff8e3726c5381b" sha1="1952d343bdfb5625bd23a8569cde6fd61a911502" sha256="4336ce47861a57c2127aebb3d81cf02e4eb418bf01f3a342afca9f8dd3a1c618"/>
 	</game>
+	<game name="Yu-Gi-Oh! - Monster Capsule GB (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)" id="2784">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Monster Capsule GB (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Yu-Gi-Oh! - Monster Capsule GB (World) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="88198db7" md5="308ed22c743901070fa520f982f0c95b" sha1="b2503c22c9d9b6e95b5b450251ff20282a0f53da" sha256="4f69b021a957e4f25f18839cb5b505c5b8a754ae3678a4f8a6d0e1ebddf342f9"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters - Dark Duel Stories (World) (Early Days Collection)" id="2796">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters - Dark Duel Stories (World) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters - Dark Duel Stories (World) (Early Days Collection).gbc" size="4194304" crc="cb291fda" md5="415a515431f475a205677f5ce6e8f06f" sha1="4daf19bd6d6535924ace90b426b329cc9b50eecc" sha256="f4e0f2428b00a8ddba96639b6e664125aa1e77d4d9708cdcf7d839c8febcb97d"/>
+	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Early Days Collection)" id="2760">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Early Days Collection)</description>
@@ -2745,6 +2755,11 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Early Days Collection).gbc" size="4194304" crc="8813b725" md5="0b9b51fdd41a15a10d02d7fbf64ac7de" sha1="56e3a8afd42da8a42769e8f4fbe3485215927bfb" sha256="212f41b8db8cfbb59636b32a8f5b5d55c4b6d834220028a5c18b3f838dc36053"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)" id="2790">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="6a5c73ff" md5="f7000cf59d9f402f88053b58b285399f" sha1="d05bd5115066e4805c63a8e27b490ecd3d81ce99" sha256="2411d5590fdb062832cc54348424c936ac52b42006fc714e86066ce4a4eafb78"/>
 	</game>
 	<game name="Zebco Fishing! (USA) (Rumble Version)" id="1354">
 		<category>Games</category>

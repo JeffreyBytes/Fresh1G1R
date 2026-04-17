@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation Vita (PSN) (Updates) (602) (-ly) [-aAbBcdDefkmMopPruv] (20260411-120905) (Retool)</description>
-		<version>20260411-120905</version>
-		<date>2026-04-16 05-20-02</date>
-		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, root, UnlockerPT</author>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (602) (-ly) [-aAbBcdDefkmMopPruv] (20260415-165728) (Retool)</description>
+		<version>20260415-165728</version>
+		<date>2026-04-17 05-10-08</date>
+		<author>[mRg], baldjared, buckwheat, C. V. Reynolds, Landcross, norkmetnoil577, root, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>

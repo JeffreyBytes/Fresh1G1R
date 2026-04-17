@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Bandai - WonderSwan Color (Retool)</name>
-		<description>Bandai - WonderSwan Color (201) (-y) [-aAbBcefkmMoprv] (20251104-101041) (Retool)</description>
-		<version>20251104-101041</version>
-		<date>2026-04-16 05-12-42</date>
+		<description>Bandai - WonderSwan Color (201) (-y) [-aAbBcefkmMoprv] (20260415-165647) (Retool)</description>
+		<version>20260415-165647</version>
+		<date>2026-04-17 05-03-29</date>
 		<author>Arctic Circle System, C. V. Reynolds, Gefflon, Goratrix, Hiccup, nnssxx, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -494,10 +494,10 @@
 		<description>Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan)</description>
 		<rom name="Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).wsc" size="4194304" crc="d4061551" md5="399e48a3347c378554de65848f1f496c" sha1="20b671bc14a8ab6373deecc641479d09658ac21f"/>
 	</game>
-	<game name="Kidou Senshi Gundam Seed (Japan)" id="0047">
+	<game name="Kidou Senshi Gundam SEED (Japan)" id="0047">
 		<category>Games</category>
-		<description>Kidou Senshi Gundam Seed (Japan)</description>
-		<rom name="Kidou Senshi Gundam Seed (Japan).wsc" size="4194304" crc="bce15137" md5="8e7aabf85435384bd5e80a1eb6e6409a" sha1="e933ff8eace56a462019ae4654b0bab1b21b1d6c"/>
+		<description>Kidou Senshi Gundam SEED (Japan)</description>
+		<rom name="Kidou Senshi Gundam SEED (Japan).wsc" size="4194304" crc="bce15137" md5="8e7aabf85435384bd5e80a1eb6e6409a" sha1="e933ff8eace56a462019ae4654b0bab1b21b1d6c"/>
 	</game>
 	<game name="Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)" id="0048">
 		<category>Games</category>

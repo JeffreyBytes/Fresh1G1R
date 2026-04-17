@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (936) (-y) [-aAbBcdkmMpPuv] (20260414-083539) (Retool)</description>
-		<version>20260414-083539</version>
-		<date>2026-04-16 05-24-54</date>
+		<description>Nintendo - Game Boy Color (944) (-y) [-aAbBcdkmMpPuv] (20260415-130209) (Retool)</description>
+		<version>20260415-130209</version>
+		<date>2026-04-17 05-17-11</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4616,10 +4616,40 @@
 		<description>Yu-Gi-Oh! - Dark Duel Stories (USA)</description>
 		<rom name="Yu-Gi-Oh! - Dark Duel Stories (USA).gbc" size="4194304" crc="803a56ae" md5="c30add585d87114288ff8e3726c5381b" sha1="1952d343bdfb5625bd23a8569cde6fd61a911502" sha256="4336ce47861a57c2127aebb3d81cf02e4eb418bf01f3a342afca9f8dd3a1c618"/>
 	</game>
+	<game name="Yu-Gi-Oh! - Das Dunkle Duell (World) (De) (Early Days Collection)" id="2795">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Das Dunkle Duell (World) (De) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Das Dunkle Duell (World) (De) (Early Days Collection).gbc" size="4194304" crc="3b68d368" md5="deb664a34525670c74e7125ae1cb9b44" sha1="d232964de9dc386bca3c23802eaa3e71f2e7602b" sha256="81e4923c67ca4735f74ba1a26af38f2792001ce3c9bb913c9c5ee13dc5c5ec23"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Duel des Tenebres (World) (Fr) (Early Days Collection)" id="2797">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Duel des Tenebres (World) (Fr) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Duel des Tenebres (World) (Fr) (Early Days Collection).gbc" size="4194304" crc="24023cd2" md5="874b0bd243476ea3e499c4a197340b7a" sha1="66bedfdb3e61ade6edac3ebe6a157b72c5aa07d3" sha256="c252f24922ef3cc9af2236949474e1b9c868d9a8562021313d3f8d7f1fbee1ee"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Duelo en las Tinieblas (World) (Es) (Early Days Collection)" id="2798">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Duelo en las Tinieblas (World) (Es) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Duelo en las Tinieblas (World) (Es) (Early Days Collection).gbc" size="4194304" crc="70b0ccc8" md5="57668627e94a89a7af41106f1e824f29" sha1="a5aba657a53d94e702912312c3432a592fef8161" sha256="ac9080dcd9be7ccaa73ff65b78c589d5e576c3a424f2ad63aef6fe5fb5eba3cc"/>
+	</game>
 	<game name="Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)" id="1347">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="1371e872" md5="b980da92693762bd3a7a4791fe08766e" sha1="4ed5607dd83ebe7975c492b08d36870f8dd6e302" sha256="daf4055a1e873944130b0e3e4a61ed9991831fb66a7c91ae52fca7da0e2d61db"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Monster Capsule GB (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)" id="2784">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Monster Capsule GB (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Yu-Gi-Oh! - Monster Capsule GB (World) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="88198db7" md5="308ed22c743901070fa520f982f0c95b" sha1="b2503c22c9d9b6e95b5b450251ff20282a0f53da" sha256="4f69b021a957e4f25f18839cb5b505c5b8a754ae3678a4f8a6d0e1ebddf342f9"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Racconti Oscuri (World) (It) (Early Days Collection)" id="2799">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Racconti Oscuri (World) (It) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - Racconti Oscuri (World) (It) (Early Days Collection).gbc" size="4194304" crc="4a88c023" md5="5502be61fa069a471986660038855a49" sha1="13d2e9c31096639596592fdc4b7bde4365f21244" sha256="99a99e9da2201164abddc14b5e2be8a00ad2eb69a49b68ef20d21c79a4fc4210"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters - Dark Duel Stories (World) (Early Days Collection)" id="2796">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters - Dark Duel Stories (World) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters - Dark Duel Stories (World) (Early Days Collection).gbc" size="4194304" crc="cb291fda" md5="415a515431f475a205677f5ce6e8f06f" sha1="4daf19bd6d6535924ace90b426b329cc9b50eecc" sha256="f4e0f2428b00a8ddba96639b6e664125aa1e77d4d9708cdcf7d839c8febcb97d"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)" id="1349">
 		<category>Games</category>
@@ -4655,6 +4685,16 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="ba7182c3" md5="782b88b1bf9768a2b1b139177a0c1c33" sha1="6a96c30c1f9ecc207f962ec156f6d22a652ae41d" sha256="415d2c1008bb25ab4c11e5218266195232ac544b979e1234ddb8ca5b04b6ead7"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)" id="2790">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="6a5c73ff" md5="f7000cf59d9f402f88053b58b285399f" sha1="d05bd5115066e4805c63a8e27b490ecd3d81ce99" sha256="2411d5590fdb062832cc54348424c936ac52b42006fc714e86066ce4a4eafb78"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection)" id="2800">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection).gbc" size="4194304" crc="09d03ee2" md5="e32f8091f32772b4132710c96c69351b" sha1="31ac45e866b015450d6d5ac50a83e5772a883e65" sha256="8ec7beb4cca3ee56933132eb957d50f8f2e4908594e14c3c48db5141bdc23798"/>
 	</game>
 	<game name="Zebco Fishing! (USA) (Rumble Version)" id="1354">
 		<category>Games</category>

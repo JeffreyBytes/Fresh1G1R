@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,066) (-ly) [-aAbBcdDefkmMopPruv] (20260413-125232) (Retool)</description>
-		<version>20260413-125232</version>
-		<date>2026-04-16 05-16-25</date>
+		<description>Nintendo - Game Boy Advance (1,066) (-ly) [-aAbBcdDefkmMopPruv] (20260415-162620) (Retool)</description>
+		<version>20260415-162620</version>
+		<date>2026-04-17 05-12-22</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2986,10 +2986,10 @@
 		<description>Mission Impossible - Operation Surma (USA) (En,Fr,Es)</description>
 		<rom name="Mission Impossible - Operation Surma (USA) (En,Fr,Es).gba" size="4194304" crc="f3dc4e3e" md5="6ce6741e0a522351047b79851cd2d651" sha1="50e09660f2d9588f8cad8c43fca719cc78006e1a"/>
 	</game>
-	<game name="Mobile Suit Gundam Seed - Battle Assault (USA)" id="1592">
+	<game name="Mobile Suit Gundam SEED - Battle Assault (USA)" id="1592">
 		<category>Games</category>
-		<description>Mobile Suit Gundam Seed - Battle Assault (USA)</description>
-		<rom name="Mobile Suit Gundam Seed - Battle Assault (USA).gba" size="4194304" crc="180d1491" md5="20bb7717258c3bd2e87b9b7617e95df2" sha1="8287d3d336d94a85c5cb22da0fd84918199197e1"/>
+		<description>Mobile Suit Gundam SEED - Battle Assault (USA)</description>
+		<rom name="Mobile Suit Gundam SEED - Battle Assault (USA).gba" size="4194304" crc="180d1491" md5="20bb7717258c3bd2e87b9b7617e95df2" sha1="8287d3d336d94a85c5cb22da0fd84918199197e1"/>
 	</game>
 	<game name="Monopoly (USA)" id="1795">
 		<category>Games</category>

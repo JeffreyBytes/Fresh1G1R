@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260414-122930) (Retool)</description>
-		<version>20260414-122930</version>
-		<date>2026-04-16 05-18-55</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260415-152126) (Retool)</description>
+		<version>20260415-152126</version>
+		<date>2026-04-17 05-09-29</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -482,7 +482,7 @@
 		<category>Games</category>
 		<description>Code of Princess (USA)</description>
 		<game_id>00040000000A2C00</game_id>
-		<rom name="Code of Princess (USA).3ds" size="2147483648" crc="e7e79bda" md5="a2212dccc8ec6bcca4132aab19c4df8c" sha1="cc85b5f63715ec91fd85ba1942637951b4a64fff"/>
+		<rom name="Code of Princess (USA).3ds" size="2147483648" crc="e7e79bda" md5="a2212dccc8ec6bcca4132aab19c4df8c" sha1="cc85b5f63715ec91fd85ba1942637951b4a64fff" sha256="4c4d01b513c2f3bc4186c0d8ec759f92c8d77dffad909da3da517b6f153fb948"/>
 	</game>
 	<game name="Combat of Giants - Dinosaurs 3D (USA) (En,Fr,Es)" id="0127">
 		<category>Games</category>
@@ -554,7 +554,7 @@
 		<category>Games</category>
 		<description>Crush 3D (USA) (En,Fr,Es)</description>
 		<game_id>0004000000037100</game_id>
-		<rom name="Crush 3D (USA) (En,Fr,Es).3ds" size="536870912" crc="6fb4781e" md5="04daf0fa2fd288eeb99c5975a56817a1" sha1="4159d8ee223a31840883c253080149c99e4e2bc9"/>
+		<rom name="Crush 3D (USA) (En,Fr,Es).3ds" size="536870912" crc="6fb4781e" md5="04daf0fa2fd288eeb99c5975a56817a1" sha1="4159d8ee223a31840883c253080149c99e4e2bc9" sha256="70205d4d88ad2540a3051c585dc822f78b006d7a08aad748bf2d3c228aa7f06f"/>
 	</game>
 	<game name="Cube, The (Europe) (En,Es,It)" id="0938">
 		<category>Games</category>
@@ -908,7 +908,7 @@
 		<category>Games</category>
 		<description>Fossil Fighters - Frontier (USA) (Rev 1)</description>
 		<game_id>000400000012DB00</game_id>
-		<rom name="Fossil Fighters - Frontier (USA) (Rev 1).3ds" size="2147483648" crc="a7dd4ebc" md5="de2b19678c96c18eb234d0c85bf190c2" sha1="00247dbda89cb50657de984b3198d28b426d681e"/>
+		<rom name="Fossil Fighters - Frontier (USA) (Rev 1).3ds" size="2147483648" crc="a7dd4ebc" md5="de2b19678c96c18eb234d0c85bf190c2" sha1="00247dbda89cb50657de984b3198d28b426d681e" sha256="4373b0a4afc33136f04aef452b329577e34193c1490bbc0154aff2973b514ec8"/>
 	</game>
 	<game name="Fragrant Story (USA)" id="z074">
 		<category>Games</category>
@@ -2410,7 +2410,7 @@
 		<category>Games</category>
 		<description>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA)</description>
 		<game_id>0004000000137700</game_id>
-		<rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA).3ds" size="1073741824" crc="dfa821e4" md5="0b328857dbd52ac663e5f48d73ec051a" sha1="8b386e3d70599410d7fe65019d5d93896c3ff4e1"/>
+		<rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA).3ds" size="1073741824" crc="f4c8ba48" md5="fa6ca49a1546a999ed62e38008accfe1" sha1="d1493a6a239ce41ba152ba2d63373d1937a344c7" sha256="f7683e402af4e7f933acc9ae8db46537a827c601160467f48a611bb133a52359"/>
 	</game>
 	<game name="Puzzler Brain Games (Europe) (En,Fr,De,Es,It)" id="0401">
 		<category>Games</category>
