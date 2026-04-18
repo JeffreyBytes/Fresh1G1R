@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,578) (-y) [-aAbBcdkmMpPuv] (20260415-162620) (Retool)</description>
-		<version>20260415-162620</version>
-		<date>2026-04-17 05-18-48</date>
+		<description>Nintendo - Game Boy Advance (1,578) (-y) [-aAbBcdkmMpPuv] (20260416-123929) (Retool)</description>
+		<version>20260416-123929</version>
+		<date>2026-04-18 04-56-16</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7726,10 +7726,10 @@
 		<description>Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (v1.1) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (v1.1) (Early Days Collection).gba" size="16777216" crc="8040b20c" md5="1b4e6d6d5d2e416a600c2e105258cf27" sha1="5e44faaa4b1c4cb25b2f825bdaf788e46ce76f83" sha256="7c1ef5e0bc28761eb1e0e9e885e35f4b84742b146480fd7877f4998d9b44987a"/>
 	</game>
-	<game name="Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (Early Days Collection)" id="3310">
+	<game name="Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (v1.1) (Early Days Collection)" id="3327">
 		<category>Games</category>
-		<description>Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (Early Days Collection)</description>
-		<rom name="Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (Early Days Collection).gba" size="16777216" crc="bdac8c98" md5="a843967d8d63f49d47a75f3437038645" sha1="851fc4c46e5e50e2ed3fa1ef755d843d2df3e550" sha256="71f029a09c7dc98cbd659f7c297541cf9613377d5f4399b96150c999e3710012"/>
+		<description>Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan) (v1.1) (Early Days Collection).gba" size="16777216" crc="dd14d6e4" md5="6a8b727441bce1835fbedeb50cdaa010" sha1="37e8f7bc37adbad52be63c01e9535aacb013f81c" sha256="ae4eb3f919827804aa33565f453f284cb38238bee1f830bc1c7ff8e94bbfa1e8"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters Expert 3 EX (Japan) (En,Ja,Fr,De,Es,It) (Early Days Collection)" id="3318">
 		<category>Games</category>

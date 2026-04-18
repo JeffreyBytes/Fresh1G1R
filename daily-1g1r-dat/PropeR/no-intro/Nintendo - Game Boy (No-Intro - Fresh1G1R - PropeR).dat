@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,051) (-y) [-aAbBcdkmMpPuv] (20260414-084400) (Retool)</description>
-		<version>20260414-084400</version>
-		<date>2026-04-17 05-15-50</date>
+		<description>Nintendo - Game Boy (1,051) (-y) [-aAbBcdkmMpPuv] (20260416-143302) (Retool)</description>
+		<version>20260416-143302</version>
+		<date>2026-04-18 05-00-45</date>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5216,10 +5216,10 @@
 		<description>Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced).gb" size="1048576" crc="8875ec54" md5="770a917f18e0aa1f3bb027d0783f548b" sha1="07ae4a6437f00f6af462bf84fd0ac1cf345c8365" sha256="d3f7abeecd28e53c0633032eb6f84f27a626f683b31821f1894814078eeed32e"/>
 	</game>
-	<game name="Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced)" id="2552">
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (v1.1) (Early Days Collection) (SGB Enhanced)" id="2565">
 		<category>Games</category>
-		<description>Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced)</description>
-		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="6f2c0376" md5="0c21cf8df56d55f0696036ed7508946b" sha1="2c98fde34025fdca4131d93b96a09fea717f0fac" sha256="7f76f02c91a11d52409c916d169fa50df760125c30622d93be95b1668a6e0d35"/>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (v1.1) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (v1.1) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="1722e5b2" md5="87104dfa7a2e3321d35fdb3424f06afc" sha1="e9bda18d44d030572d7bcb2f936b9dcf8d7f5abf" sha256="20dc0dab8d389cf6e38c4386f843969130960f49be9f2660b62fb5ab17ee5ea2"/>
 	</game>
 	<game name="Zen - Intergalactic Ninja (USA)" id="1547">
 		<category>Games</category>

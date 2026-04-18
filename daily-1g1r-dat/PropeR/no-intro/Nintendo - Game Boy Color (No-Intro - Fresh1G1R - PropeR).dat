@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (944) (-y) [-aAbBcdkmMpPuv] (20260415-130209) (Retool)</description>
-		<version>20260415-130209</version>
-		<date>2026-04-17 05-17-11</date>
+		<description>Nintendo - Game Boy Color (944) (-y) [-aAbBcdkmMpPuv] (20260416-141525) (Retool)</description>
+		<version>20260416-141525</version>
+		<date>2026-04-18 04-59-39</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4691,10 +4691,10 @@
 		<description>Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (World) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="6a5c73ff" md5="f7000cf59d9f402f88053b58b285399f" sha1="d05bd5115066e4805c63a8e27b490ecd3d81ce99" sha256="2411d5590fdb062832cc54348424c936ac52b42006fc714e86066ce4a4eafb78"/>
 	</game>
-	<game name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection)" id="2800">
+	<game name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (v1.1) (Early Days Collection)" id="2801">
 		<category>Games</category>
-		<description>Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection)</description>
-		<rom name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection).gbc" size="4194304" crc="09d03ee2" md5="e32f8091f32772b4132710c96c69351b" sha1="31ac45e866b015450d6d5ac50a83e5772a883e65" sha256="8ec7beb4cca3ee56933132eb957d50f8f2e4908594e14c3c48db5141bdc23798"/>
+		<description>Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (v1.1) (Early Days Collection).gbc" size="4194304" crc="3199f6f4" md5="5e61452a77ed6008068e7fb6fa1a5c99" sha1="3e04677ea5287b665250c3e1adae52ff936080e8" sha256="2cb999f7de02401d8bb0c01a61c37f53bbe920da05a5a73b63e0a681588737a6"/>
 	</game>
 	<game name="Zebco Fishing! (USA) (Rumble Version)" id="1354">
 		<category>Games</category>

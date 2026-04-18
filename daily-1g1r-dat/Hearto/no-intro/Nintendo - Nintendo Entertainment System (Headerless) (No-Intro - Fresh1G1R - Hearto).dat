@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,823) (-y) [-aAbBcefkmMoprv] (20260413-192659) (Retool)</description>
-		<version>20260413-192659</version>
-		<date>2026-04-17 05-04-21</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,823) (-y) [-aAbBcefkmMoprv] (20260416-025240) (Retool)</description>
+		<version>20260416-025240</version>
+		<date>2026-04-18 04-48-21</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4987,11 +4987,11 @@
 		<description>Maxi 15 (USA) (v1.1) (Unl)</description>
 		<rom name="Maxi 15 (USA) (v1.1) (Unl).unh" size="1048576" crc="7eae9a13" md5="ddc4b2462290ac313146911f4999d057" sha1="0fff06d3877c16c8f3abe133f53ad3f73d566476" sha256="2a16f9ebf40db89e23cd9564977bc88b111fc45338dde2b12fde028cae88da86"/>
 	</game>
-	<game name="Maxivision 30-in-1 (USA) (Proto) (1991-12-16) (Unl)" id="7891">
+	<game name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl)" id="8479">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Maxivision 30-in-1 (USA) (Proto) (1991-12-16) (Unl)</description>
-		<rom name="Maxivision 30-in-1 (USA) (Proto) (1991-12-16) (Unl).unh" size="2097152" crc="c7a4709f" md5="f76dd9d175deac8aaadbb489f50a8ba7" sha1="b98df2fccb3762ae7aa0b1c02ae7aaffa95985c4" sha256="b5580aab9ab6a0d11422377c7a9ad504422ef75f69bdc9b6e24c59928ba72808"/>
+		<description>Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl)</description>
+		<rom name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl).unh" size="3145728" crc="b337154f" md5="94374f72f425c2d011f4e319ba324331" sha1="c7a614165bbc9873a7b9651c822a35bf4d4088aa" sha256="a076cf7d5d60200cfd8475db5ac493eeb01fcd299155e94dab2eb6bda0f29279"/>
 	</game>
 	<game name="Mechanized Attack (USA)" id="1394">
 		<category>Games</category>
