@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,051) (-y) [-aAbBcdkmMpPuv] (20260416-143302) (Retool)</description>
-		<version>20260416-143302</version>
-		<date>2026-04-19 05-23-44</date>
+		<description>Nintendo - Game Boy (1,052) (-y) [-aAbBcdkmMpPuv] (20260418-083549) (Retool)</description>
+		<version>20260418-083549</version>
+		<date>2026-04-20 05-43-26</date>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1435,6 +1435,11 @@
 		<category>Games</category>
 		<description>Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)</description>
 		<rom name="Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced).gb" size="524288" crc="2962afb4" md5="754398219a3ab38394cdac543d8deb47" sha1="920ef94c05ac741047a266cb1668c881eab2937c" sha256="e4b62d52e78ef12a1bab0ac1cec68395569538d2e34affd92e67fe67de1f4df2"/>
+	</game>
+	<game name="Fushigina Blobby - Princess Blob o Sukue! (Japan)" id="0410">
+		<category>Games</category>
+		<description>Fushigina Blobby - Princess Blob o Sukue! (Japan)</description>
+		<rom name="Fushigina Blobby - Princess Blob o Sukue! (Japan).gb" size="65536" crc="3d0bac10" md5="8a7aaf3afcd00348730c86ddc926e30a" sha1="fcd6ac8a0ad6eb1f5d9e00c877747521541204de" sha256="cf1b438ba6417be89a0ad5a0af02128d1d089fecda038aaf05be911bd970d038"/>
 	</game>
 	<game name="G Arms - Operation Gundam (Japan)" id="1172">
 		<category>Games</category>

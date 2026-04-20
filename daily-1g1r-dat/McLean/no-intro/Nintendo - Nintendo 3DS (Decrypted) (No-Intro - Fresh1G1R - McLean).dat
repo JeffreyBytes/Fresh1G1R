@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260415-152126) (Retool)</description>
-		<version>20260415-152126</version>
-		<date>2026-04-19 05-14-48</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260418-063512) (Retool)</description>
+		<version>20260418-063512</version>
+		<date>2026-04-20 05-38-29</date>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2406,11 +2406,11 @@
 		<game_id>0004000000127400</game_id>
 		<rom name="Putty Squad (USA) (En,Fr,Es).3ds" size="268435456" crc="2fa712a1" md5="206b0d9b4948ef6ce5f03aa12767d6d0" sha1="afc5b6d1ad188940ddc99ea6ddcb388f0ca029d5"/>
 	</game>
-	<game name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA)" id="1270">
+	<game name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (Europe)" id="1245">
 		<category>Games</category>
-		<description>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA)</description>
-		<game_id>0004000000137700</game_id>
-		<rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA).3ds" size="1073741824" crc="f4c8ba48" md5="fa6ca49a1546a999ed62e38008accfe1" sha1="d1493a6a239ce41ba152ba2d63373d1937a344c7" sha256="f7683e402af4e7f933acc9ae8db46537a827c601160467f48a611bb133a52359"/>
+		<description>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (Europe)</description>
+		<game_id>0004000000137800</game_id>
+		<rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (Europe).3ds" size="1073741824" crc="464121db" md5="29e6e150b1049b0b4f539aaefcba017c" sha1="9f4dec8ffb5b46cf32b256dafa9bdba10e4f6140"/>
 	</game>
 	<game name="Puzzler Brain Games (Europe) (En,Fr,De,Es,It)" id="0401">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260415-123606) (Retool)</description>
-		<version>20260415-123606</version>
-		<date>2026-04-19 05-22-05</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260418-122626) (Retool)</description>
+		<version>20260418-122626</version>
+		<date>2026-04-20 05-42-29</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4614,7 +4614,7 @@
 	<game name="Fall fuer TKKG, Ein - Detektiv Gesucht! (Germany)" id="1763">
 		<category>Games</category>
 		<description>Fall fuer TKKG, Ein - Detektiv Gesucht! (Germany)</description>
-		<rom name="Fall fuer TKKG, Ein - Detektiv Gesucht! (Germany).nds" size="33554432" crc="19591bde" md5="983c19033d5b97e6c2376f7ca069b8af" sha1="45aee0b05af5b4749b2a215dd75c1f2a7255891a"/>
+		<rom name="Fall fuer TKKG, Ein - Detektiv Gesucht! (Germany).nds" size="33554432" crc="19591bde" md5="983c19033d5b97e6c2376f7ca069b8af" sha1="45aee0b05af5b4749b2a215dd75c1f2a7255891a" sha256="7cf2045003f2dc9b5d831043efee0234beeeebb02fd3880c1da63952e3bae8fc"/>
 	</game>
 	<game name="Family Feud - 2010 Edition (USA)" id="4365">
 		<category>Games</category>
@@ -6084,7 +6084,7 @@
 	<game name="Hexe Lilli Entdeckt Europa (Germany)" id="3435">
 		<category>Games</category>
 		<description>Hexe Lilli Entdeckt Europa (Germany)</description>
-		<rom name="Hexe Lilli Entdeckt Europa (Germany).nds" size="16777216" crc="623f3236" md5="c038c52240e872da13b52d7b1fd6ccb7" sha1="8f89071a0d986cc7653348819d82c333048dbd7f"/>
+		<rom name="Hexe Lilli Entdeckt Europa (Germany).nds" size="16777216" crc="623f3236" md5="c038c52240e872da13b52d7b1fd6ccb7" sha1="8f89071a0d986cc7653348819d82c333048dbd7f" sha256="5f8f105c5b5884ce8bce6b735c80b6e1ea8b394ed2ffc36f2d3e381f14f71490"/>
 	</game>
 	<game name="Hi Hi Puffy AmiYumi - The Genie &amp; the Amp (USA)" id="0474">
 		<category>Games</category>
@@ -6984,7 +6984,7 @@
 	<game name="J4G - A Girl's World (Europe) (En,De)" id="5150">
 		<category>Games</category>
 		<description>J4G - A Girl's World (Europe) (En,De)</description>
-		<rom name="J4G - A Girl's World (Europe) (En,De).nds" size="33554432" crc="34d89a96" md5="da24d88dbd1645f81526b2c52b8ae048" sha1="dd95d6d432ccfbc754530f7f4fa76166440a124a"/>
+		<rom name="J4G - A Girl's World (Europe) (En,De).nds" size="33554432" crc="34d89a96" md5="da24d88dbd1645f81526b2c52b8ae048" sha1="dd95d6d432ccfbc754530f7f4fa76166440a124a" sha256="3d3bf89898e3a2cfa6207e6c141287376af0887d94c25319d60f3d30d7cd6941"/>
 	</game>
 	<game name="Jackass - The Game DS (Europe) (En,Fr,De,Es,It)" id="2756">
 		<category>Games</category>
@@ -10479,7 +10479,7 @@
 	<game name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)" id="2197">
 		<category>Games</category>
 		<description>Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)</description>
-		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="dfae3c2c" md5="732b0b44f7a936d5350fd04913993f51" sha1="d0b58f2c4e48add2a4c6e2a9abda0bc2f79d1bde"/>
+		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="dfae3c2c" md5="732b0b44f7a936d5350fd04913993f51" sha1="d0b58f2c4e48add2a4c6e2a9abda0bc2f79d1bde" sha256="fa631873ead8c0bde044c902fa11178e56d584c9e1427106f6f87186dcf7e0c3"/>
 	</game>
 	<game name="Mori no Cafeteria DS - Oshare na Cafe Recipe (Japan)" id="3641">
 		<category>Games</category>
@@ -12865,7 +12865,7 @@
 	<game name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="2195">
 		<category>Games</category>
 		<description>Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<rom name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size="16777216" crc="1a00c050" md5="7476639c5c721b6fa2e6bef545beddb5" sha1="9e795d9113204795c543d3a124485c305b73288c"/>
+		<rom name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size="16777216" crc="aa3ae7cd" md5="9f1ec6239feb3c9dfb9e1ce9c0f1f43e" sha1="ad525edb01735330e15de522fc72d04fc65b796f" sha256="fdf68083192974da6c0786cb8a4d44120ff3ba7ec5d1cd65b087b29bc375e66f"/>
 	</game>
 	<game name="Postman Pat - Special Delivery Service (Europe)" id="5930">
 		<category>Games</category>
@@ -15660,7 +15660,7 @@
 	<game name="Super Fahrschule (Germany)" id="2419">
 		<category>Games</category>
 		<description>Super Fahrschule (Germany)</description>
-		<rom name="Super Fahrschule (Germany).nds" size="8388608" crc="3ae57c86" md5="b7c212c2cfedc15ce6abd829e12cd323" sha1="8502daf63bfcc85e313672990956936feac1db9e"/>
+		<rom name="Super Fahrschule (Germany).nds" size="8388608" crc="3ae57c86" md5="b7c212c2cfedc15ce6abd829e12cd323" sha1="8502daf63bfcc85e313672990956936feac1db9e" sha256="bea51e49ee61aed626d6cd4106883179d4802dff0aba31ab428be35210278a13"/>
 	</game>
 	<game name="Super Fruit Fall (USA)" id="1863">
 		<category>Games</category>
@@ -17735,7 +17735,7 @@
 	<game name="Wickie und die Starken Maenner (Europe) (En,Fr,De)" id="4379">
 		<category>Games</category>
 		<description>Wickie und die Starken Maenner (Europe) (En,Fr,De)</description>
-		<rom name="Wickie und die Starken Maenner (Europe) (En,Fr,De).nds" size="16777216" crc="b129d21c" md5="70a1122bfe6d48b68ab18aa871ba7c0f" sha1="210e9f84d2cfd0a0524bbd480f8dba1b416a620c"/>
+		<rom name="Wickie und die Starken Maenner (Europe) (En,Fr,De).nds" size="16777216" crc="b129d21c" md5="70a1122bfe6d48b68ab18aa871ba7c0f" sha1="210e9f84d2cfd0a0524bbd480f8dba1b416a620c" sha256="47387de05a324c6b2c228f854f11783e14b36c9d2c6af29e86dc7e0a8a3904fd"/>
 	</game>
 	<game name="Wiffle Ball (USA)" id="0805">
 		<category>Games</category>
@@ -17920,7 +17920,7 @@
 	<game name="Woodleys, The - Summer Sports (Europe) (En,Fr,De,It)" id="2499">
 		<category>Games</category>
 		<description>Woodleys, The - Summer Sports (Europe) (En,Fr,De,It)</description>
-		<rom name="Woodleys, The - Summer Sports (Europe) (En,Fr,De,It).nds" size="33554432" crc="51dd53fd" md5="08cbd25eb4c1d73b7e3e1d92b8f4483a" sha1="c29f59569eef4e56c374851dfe0a3276e5308665"/>
+		<rom name="Woodleys, The - Summer Sports (Europe) (En,Fr,De,It).nds" size="33554432" crc="51dd53fd" md5="08cbd25eb4c1d73b7e3e1d92b8f4483a" sha1="c29f59569eef4e56c374851dfe0a3276e5308665" sha256="783b80f5a43afdf1755c58ccae480602a8683fc37096312cf63465f7a65324b5"/>
 	</game>
 	<game name="WordJong (USA)" id="1818">
 		<category>Games</category>
