@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260418-122626) (Retool)</description>
-		<version>20260418-122626</version>
-		<date>2026-04-20 05-45-00</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,710) (-y) [-aAbBcdkmMpPuv] (20260419-120145) (Retool)</description>
+		<version>20260419-120145</version>
+		<date>2026-04-21 05-14-53</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3469,7 +3469,7 @@
 	<game name="Denksport Varia (Netherlands)" id="4251">
 		<category>Games</category>
 		<description>Denksport Varia (Netherlands)</description>
-		<rom name="Denksport Varia (Netherlands).nds" size="8388608" crc="bc474eef" md5="04b8b64f3fd3574c1aba9746e7305fb3" sha1="7b601ea2af9271a460a25e3b83aa2e342c013211"/>
+		<rom name="Denksport Varia (Netherlands).nds" size="8388608" crc="bc474eef" md5="04b8b64f3fd3574c1aba9746e7305fb3" sha1="7b601ea2af9271a460a25e3b83aa2e342c013211" sha256="789c944bc777ef90284d9fe99b6aad350f48dabccab1c7e4ba7b88ec2c8ae845"/>
 	</game>
 	<game name="Densetsu no Stafy 4 (Japan)" id="0401">
 		<category>Games</category>
@@ -7494,7 +7494,7 @@
 	<game name="K3 Fashion Party (Netherlands)" id="6040">
 		<category>Games</category>
 		<description>K3 Fashion Party (Netherlands)</description>
-		<rom name="K3 Fashion Party (Netherlands).nds" size="16777216" crc="29e82a00" md5="a85e6009854b1f17951db0ef4b8b44ac" sha1="5f75c1b4e34510f57f2342c8ef9ba7d123997713"/>
+		<rom name="K3 Fashion Party (Netherlands).nds" size="16777216" crc="29e82a00" md5="a85e6009854b1f17951db0ef4b8b44ac" sha1="5f75c1b4e34510f57f2342c8ef9ba7d123997713" sha256="6c4f93770ee7589aeddf98850ebb0937672b96dcd7682151a09bd5b907f56b0c"/>
 	</game>
 	<game name="K3 Karaoke (Netherlands)" id="6118">
 		<category>Games</category>
@@ -7504,12 +7504,12 @@
 	<game name="K3 en de Vrolijke Noten (Netherlands)" id="6440">
 		<category>Games</category>
 		<description>K3 en de Vrolijke Noten (Netherlands)</description>
-		<rom name="K3 en de Vrolijke Noten (Netherlands).nds" size="33554432" crc="60daacd7" md5="a6ff38c41d0bf00e40b854861d6bead5" sha1="cfff478210c4c38b49b92a55ab5d451b6a90a3ba"/>
+		<rom name="K3 en de Vrolijke Noten (Netherlands).nds" size="33554432" crc="60daacd7" md5="a6ff38c41d0bf00e40b854861d6bead5" sha1="cfff478210c4c38b49b92a55ab5d451b6a90a3ba" sha256="3143d00544a6290ebead57fe300329b2f4adc8c3e23f481256cd6a79bf210088"/>
 	</game>
 	<game name="K3 en het IJsprinsesje (Netherlands)" id="2346">
 		<category>Games</category>
 		<description>K3 en het IJsprinsesje (Netherlands)</description>
-		<rom name="K3 en het IJsprinsesje (Netherlands).nds" size="16777216" crc="af25b7cb" md5="73cff4b7933a5cd53add46681fd32bcc" sha1="70f68e40778dc9d96e50ae5aea2efd5be53726f4"/>
+		<rom name="K3 en het IJsprinsesje (Netherlands).nds" size="16777216" crc="af25b7cb" md5="73cff4b7933a5cd53add46681fd32bcc" sha1="70f68e40778dc9d96e50ae5aea2efd5be53726f4" sha256="82a0628b8f80596312f2227789706857507c548f635fbe3366f7e70d1989ba6d"/>
 	</game>
 	<game name="Kabu Trader Shun (Japan)" id="1137">
 		<category>Games</category>
@@ -10479,7 +10479,7 @@
 	<game name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)" id="2197">
 		<category>Games</category>
 		<description>Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)</description>
-		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="3d80cb80" md5="b4658e871fe292eae013ae794a25f814" sha1="d9cc57877870f12f0dd1fde47ab35f8be9d68c97" sha256="a8a703182aa6222d60697415f0f9c426d17897df661598829eee1cb70e7c0a8f"/>
+		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="ea1ea1f2" md5="5d78d7bf08d544ffb8c0f96bbc902e3c" sha1="edbf17cfb3245acba381e2a4dc8e223d23a172a0" sha256="a8a703182aa6222d60697415f0f9c426d17897df661598829eee1cb70e7c0a8f"/>
 	</game>
 	<game name="Mori no Cafeteria DS - Oshare na Cafe Recipe (Japan)" id="3641">
 		<category>Games</category>
@@ -12860,12 +12860,7 @@
 	<game name="Postcode Loterij Een tegen 100 (Netherlands)" id="4026">
 		<category>Games</category>
 		<description>Postcode Loterij Een tegen 100 (Netherlands)</description>
-		<rom name="Postcode Loterij Een tegen 100 (Netherlands).nds" size="8388608" crc="a5904cc9" md5="1cf6522625f806520a0c7084f1afb3bd" sha1="075cc74f27d9b268d57b92861bb788130a0c4f38"/>
-	</game>
-	<game name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="2195">
-		<category>Games</category>
-		<description>Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<rom name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size="16777216" crc="7d47fd93" md5="7fb8c9424e6c0706c936969e58e8fa53" sha1="eb545cb0c127a63318dffed0142ce1efee76872d" sha256="c97c8e39b3acc3c15dc6f5e34238a32e611c88a0b2515fdce0d316764a6fa5df"/>
+		<rom name="Postcode Loterij Een tegen 100 (Netherlands).nds" size="8388608" crc="a5904cc9" md5="1cf6522625f806520a0c7084f1afb3bd" sha1="075cc74f27d9b268d57b92861bb788130a0c4f38" sha256="ed7bd56c1c926b929f1350af395a8cd6aa74e29a9704b63af45d7d50f7ee61c1"/>
 	</game>
 	<game name="Postman Pat - Special Delivery Service (Europe)" id="5930">
 		<category>Games</category>
@@ -17770,7 +17765,7 @@
 	<game name="Willy Vandersteen Suske en Wiske - De Texas Rakkers (Europe) (Fr,Nl)" id="4104">
 		<category>Games</category>
 		<description>Willy Vandersteen Suske en Wiske - De Texas Rakkers (Europe) (Fr,Nl)</description>
-		<rom name="Willy Vandersteen Suske en Wiske - De Texas Rakkers (Europe) (Fr,Nl).nds" size="33554432" crc="4649acbc" md5="d98fe4a8b75a3986621b976f70c62932" sha1="69b97f1bc6aaca90bc3a669ba19cd33b08b86559"/>
+		<rom name="Willy Vandersteen Suske en Wiske - De Texas Rakkers (Europe) (Fr,Nl).nds" size="33554432" crc="4649acbc" md5="d98fe4a8b75a3986621b976f70c62932" sha1="69b97f1bc6aaca90bc3a669ba19cd33b08b86559" sha256="27f5990766ca91b4e4c9331ca21a49b0f11ad671c39932d90f71c0aea17a9511"/>
 	</game>
 	<game name="Windy x Windam (USA)" id="5004">
 		<category>Games</category>

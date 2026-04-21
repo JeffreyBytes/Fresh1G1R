@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari 2600 (Retool)</name>
-		<description>Atari - Atari 2600 (488) (-ly) [-aAbBcdDefkmMopPruv] (20260418-063424) (Retool)</description>
-		<version>20260418-063424</version>
-		<date>2026-04-20 05-36-18</date>
+		<description>Atari - Atari 2600 (488) (-ly) [-aAbBcdDefkmMopPruv] (20260419-090902) (Retool)</description>
+		<version>20260419-090902</version>
+		<date>2026-04-21 05-11-24</date>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -469,7 +469,7 @@
 	<game name="Crystal Castles (USA)" id="0105">
 		<category>Games</category>
 		<description>Crystal Castles (USA)</description>
-		<rom name="Crystal Castles (USA).a26" size="16384" crc="9007b5ac" md5="1c6eb740d3c485766cade566abab8208" sha1="2e4ee5ee040b08be1fe568602d1859664e607efb"/>
+		<rom name="Crystal Castles (USA).a26" size="16384" crc="9007b5ac" md5="1c6eb740d3c485766cade566abab8208" sha1="2e4ee5ee040b08be1fe568602d1859664e607efb" sha256="87c2d9f621a734031ebdb7ec5886c4d3f8e038525354c057573aee662a19eefa"/>
 	</game>
 	<game name="Custer's Revenge (USA)" id="0107">
 		<category>Games</category>

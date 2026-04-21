@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260418-122626) (Retool)</description>
-		<version>20260418-122626</version>
-		<date>2026-04-20 05-38-39</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (2,147) (-ly) [-aAbBcdDefkmMopPruv] (20260419-120145) (Retool)</description>
+		<version>20260419-120145</version>
+		<date>2026-04-21 05-08-47</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6199,7 +6199,7 @@
 	<game name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)" id="2197">
 		<category>Games</category>
 		<description>Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)</description>
-		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="3d80cb80" md5="b4658e871fe292eae013ae794a25f814" sha1="d9cc57877870f12f0dd1fde47ab35f8be9d68c97" sha256="a8a703182aa6222d60697415f0f9c426d17897df661598829eee1cb70e7c0a8f"/>
+		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="ea1ea1f2" md5="5d78d7bf08d544ffb8c0f96bbc902e3c" sha1="edbf17cfb3245acba381e2a4dc8e223d23a172a0" sha256="a8a703182aa6222d60697415f0f9c426d17897df661598829eee1cb70e7c0a8f"/>
 	</game>
 	<game name="Moshi Monsters - Katsuma Unleashed (USA)" id="6257">
 		<category>Games</category>
@@ -7695,11 +7695,6 @@
 		<category>Games</category>
 		<description>Populous DS (USA)</description>
 		<rom name="Populous DS (USA).nds" size="67108864" crc="85745709" md5="f7ebc61fda78ad8051ec5eebe1a71719" sha1="20ffc2ecef1a0252e6a12b11c5fffc32b5761035"/>
-	</game>
-	<game name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="2195">
-		<category>Games</category>
-		<description>Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<rom name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size="16777216" crc="7d47fd93" md5="7fb8c9424e6c0706c936969e58e8fa53" sha1="eb545cb0c127a63318dffed0142ce1efee76872d" sha256="c97c8e39b3acc3c15dc6f5e34238a32e611c88a0b2515fdce0d316764a6fa5df"/>
 	</game>
 	<game name="Postman Pat - Special Delivery Service (Europe)" id="5930">
 		<category>Games</category>
