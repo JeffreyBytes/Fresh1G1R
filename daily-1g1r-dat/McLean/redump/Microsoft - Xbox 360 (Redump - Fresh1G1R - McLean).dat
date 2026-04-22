@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,401) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-20 10-12-37) (Retool)</description>
-		<version>2026-04-20 10-12-37</version>
-		<date>2026-04-21 05-06-54</date>
+		<description>Microsoft - Xbox 360 (1,401) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-22 06-33-03) (Retool)</description>
+		<version>2026-04-22 06-33-03</version>
+		<date>2026-04-22 05-09-04</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -181,10 +181,10 @@
 		<description>Aliens - Colonial Marines (USA, Europe) (En,Fr,De,Es,It,Pl)</description>
 		<rom name="Aliens - Colonial Marines (USA, Europe) (En,Fr,De,Es,It,Pl).iso" size="7838695424" crc="ad0d96a4" md5="7cdd1e7b10e0e31a18436a318f2cd1b5" sha1="f85f263e7e342f7cfa7b8bc4d10e54dc474e1695"/>
 	</game>
-	<game name="Aliens vs. Predator (USA, Europe) (En,Fr,De,Es,It)">
+	<game name="Aliens vs. Predator (World) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Aliens vs. Predator (USA, Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Aliens vs. Predator (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="c341c1f4" md5="b7378acb3b38d4c2eca41040502fd96b" sha1="9367aa16bc7657ef81eb4d49918ec178aa680770"/>
+		<description>Aliens vs. Predator (World) (En,Fr,De,Es,It)</description>
+		<rom name="Aliens vs. Predator (World) (En,Fr,De,Es,It).iso" size="7838695424" crc="c341c1f4" md5="b7378acb3b38d4c2eca41040502fd96b" sha1="9367aa16bc7657ef81eb4d49918ec178aa680770"/>
 	</game>
 	<game name="All-Pro Football 2K8 (USA)">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,934) (-y) [-aAbBcefkmMoprv] (20260419-120145) (Retool)</description>
-		<version>20260419-120145</version>
-		<date>2026-04-21 05-03-06</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,934) (-y) [-aAbBcefkmMoprv] (20260420-125123) (Retool)</description>
+		<version>20260420-125123</version>
+		<date>2026-04-22 05-07-29</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6784,7 +6784,7 @@
 	<game name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It)" id="3869">
 		<category>Games</category>
 		<description>Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="78a2a298" md5="098f5e0e0a753e833081725adecadb17" sha1="0fccde1d52305780b3f5e7e8fac46f7baa97c8e0"/>
+		<rom name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="78a2a298" md5="098f5e0e0a753e833081725adecadb17" sha1="0fccde1d52305780b3f5e7e8fac46f7baa97c8e0" sha256="51923fc4b085d87e7914e996d19d768294ec114f8da67964aec2012b3c96ef8d"/>
 	</game>
 	<game name="Horrid Henry - Missions of Mischief (Europe) (En,Fr,De,Es,It) (Rev 1)" id="z037">
 		<category>Games</category>
@@ -13888,7 +13888,7 @@
 	<game name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="4734">
 		<category>Games</category>
 		<description>Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="445c8c78" md5="13cd06b2a5518bc359da9e9ddcb485b9" sha1="e90eda0fb78d8023e0d26637a3aedba4d1db0b11"/>
+		<rom name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="445c8c78" md5="13cd06b2a5518bc359da9e9ddcb485b9" sha1="e90eda0fb78d8023e0d26637a3aedba4d1db0b11" sha256="2c081a65479812987bc733c0bc3a309b071e6e978586623dc71122664c8f349e"/>
 	</game>
 	<game name="Prism - Light the Way (USA) (En,Fr,De,Es,It)" id="1826">
 		<category>Games</category>
@@ -17378,7 +17378,7 @@
 	<game name="Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="3696">
 		<category>Games</category>
 		<description>Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="6654c4a1" md5="70e44f7a36da7b5b3a7ab2dad2050c45" sha1="c8c323b62d41d28431c81293972965444a5823c7"/>
+		<rom name="Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="6654c4a1" md5="70e44f7a36da7b5b3a7ab2dad2050c45" sha1="c8c323b62d41d28431c81293972965444a5823c7" sha256="66370f4fb786ba8c85802f6450aa19ba3ed954353abc98d01c36048297526d1d"/>
 	</game>
 	<game name="Tierliebe Gross Geschrieben (Europe) (De,Es,It)" id="3205">
 		<category>Games</category>
