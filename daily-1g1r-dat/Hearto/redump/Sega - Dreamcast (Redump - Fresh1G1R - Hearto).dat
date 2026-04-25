@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-04-23 20-07-18) (Retool)</description>
-		<version>2026-04-23 20-07-18</version>
-		<date>2026-04-24 05-29-03</date>
+		<description>Sega - Dreamcast (821) (-y) [-aAbBcefkmMoprv] (2026-04-24 22-33-31) (Retool)</description>
+		<version>2026-04-24 22-33-31</version>
+		<date>2026-04-25 04-50-57</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1007,6 +1007,14 @@
 		<rom name="Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan) (Track 3).bin" size="1185760800" crc="eafde6cf" md5="6c7ea9cb6e6fb1c8fede2e06bd0d5509" sha1="21e4c2ac1095b937daf652deb97983bd0b8d7436"/>
 		<rom name="Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan).cue" size="465" crc="bb78f03e" md5="04bda5a331b9af83b5f1aad4626e5c8a" sha1="758ff7809aa61da7c1a57507b511b54bc5c333c8"/>
 	</game>
+	<game name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban)">
+		<category>Demos</category>
+		<description>Choukou Senki Kikaioh (Japan) (Tentou Taikenban)</description>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban) (Track 1).bin" size="1058400" crc="45afbb08" md5="d60928ee4d26f7a075a04d39e4e100ac" sha1="17c187453c869c7cf1171aa01f0ec5b1f773268f"/>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban) (Track 2).bin" size="3328080" crc="f80ca83b" md5="6586be243f0377bf335542f85b0ad600" sha1="01b9a6f268309254ca14d468a7a412ce9bd0de5a"/>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban) (Track 3).bin" size="1185760800" crc="8bf1f5c6" md5="5a6653bdc0d35a844b4b34db6b86a12f" sha1="db3bfb10f5d53b9d3c642ebfd78c39b94b6eda5d"/>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban).cue" size="438" crc="c1e7a7d2" md5="a44d4fe6e921889737f05f1d1c02d3b9" sha1="1086e0e89dccfd00ee6c867717317d271e052d50"/>
+	</game>
 	<game name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Message Disc)">
 		<category>Games</category>
 		<description>Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Message Disc)</description>
@@ -1150,21 +1158,21 @@
 		<rom name="Coaster Works (USA) (Track 17).bin" size="31149888" crc="42c9415d" md5="e05abbcb01dcf80df19f14355d0290d3" sha1="8744fbdc8d5b73aef61c3dd8d2d585301c77bf3d"/>
 		<rom name="Coaster Works (USA).cue" size="1955" crc="df217629" md5="75a80ea7ca71b5f12348704ca4760635" sha1="5f7580bd54f7029ed03ef0da0a64046d40fbfe95"/>
 	</game>
-	<game name="Comic Party (Japan) (Disc 1)">
+	<game name="Comic Party (Japan) (Disc 1) (Rev B)">
 		<category>Games</category>
-		<description>Comic Party (Japan) (Disc 1)</description>
-		<rom name="Comic Party (Japan) (Disc 1) (Track 1).bin" size="13138272" crc="6c2874a1" md5="75b491d8a00ed9570caba9db5c6a3ccb" sha1="f82fa58738f96c510e40c5eb2ce9ee0d45bea31d"/>
-		<rom name="Comic Party (Japan) (Disc 1) (Track 2).bin" size="8121456" crc="11ce3433" md5="d53ad11fdd92769f452a0107e9ec7092" sha1="03a2c90482fc2082a0bf9134185dc15c887315dd"/>
-		<rom name="Comic Party (Japan) (Disc 1) (Track 3).bin" size="1185760800" crc="626baa53" md5="0f2ce110d13704485290d0b05a623be0" sha1="1a7a3f85e7960a2a942b17cdca031e75446b9b16"/>
-		<rom name="Comic Party (Japan) (Disc 1).cue" size="378" crc="683e3b88" md5="622e0e7a99ff9c59886b3ea8ba0a400b" sha1="a3b87117a68a36c633ef98d5c044a0bcc51d45d9"/>
+		<description>Comic Party (Japan) (Disc 1) (Rev B)</description>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B) (Track 1).bin" size="13138272" crc="648509b7" md5="1a379434bf6cf0cd1c6e5e362081f095" sha1="f2d61909105b9830b168b53076d28507ee76870c"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B) (Track 2).bin" size="8121456" crc="11ce3433" md5="d53ad11fdd92769f452a0107e9ec7092" sha1="03a2c90482fc2082a0bf9134185dc15c887315dd"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B) (Track 3).bin" size="1185760800" crc="54051e1e" md5="7609a5145ec2b1d53e3dacb3e3291473" sha1="d62079f7e4b2492c97fe62c8478460354b9725d3"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B).cue" size="402" crc="8d814679" md5="59b78ad715bdf16315277a0f446b7497" sha1="2cbc4cef12118c4cbea1b26717167dd1cb13aa46"/>
 	</game>
-	<game name="Comic Party (Japan) (Disc 2)">
+	<game name="Comic Party (Japan) (Disc 2) (Rev B)">
 		<category>Games</category>
-		<description>Comic Party (Japan) (Disc 2)</description>
-		<rom name="Comic Party (Japan) (Disc 2) (Track 1).bin" size="13138272" crc="7aa37798" md5="7065a680967409de9326d85f89652a4c" sha1="d5fa8ebdbf4e348cfc715fc4ed9ba88d95590173"/>
-		<rom name="Comic Party (Japan) (Disc 2) (Track 2).bin" size="10729824" crc="7a877b36" md5="3ce58d7c16d95dbac6aca732ac006eb1" sha1="43e03f1ca8cb46d2fbb35d47094f6cb038ae7d5f"/>
-		<rom name="Comic Party (Japan) (Disc 2) (Track 3).bin" size="1185760800" crc="a7a4de82" md5="69f709c0b6cba885a3cb083308f7c51b" sha1="fec97c9c32413ba6fae22e98cf4243184e90fe25"/>
-		<rom name="Comic Party (Japan) (Disc 2).cue" size="378" crc="29442779" md5="8c05add7677ddb6e920df3522093b9b9" sha1="d5e4069a64662ffb7072e32da6d1ec66d644420d"/>
+		<description>Comic Party (Japan) (Disc 2) (Rev B)</description>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 1).bin" size="13138272" crc="20fad070" md5="a4f19d2e56f1db8e30f1b476c31cbd6f" sha1="7e505ae2b5563cc7040f3d3734aef99c79305f88"/>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 2).bin" size="10729824" crc="7a877b36" md5="3ce58d7c16d95dbac6aca732ac006eb1" sha1="43e03f1ca8cb46d2fbb35d47094f6cb038ae7d5f"/>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 3).bin" size="1185760800" crc="1e88092b" md5="b9a223fdfc64191c12419b9f38b0937b" sha1="df0e43ced2a6916fff90b3b5dad38d5281805f5a"/>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B).cue" size="402" crc="3ed3d6f4" md5="4a6b1141683fbcc09044a6abb845c533" sha1="ef9053efbf7417ad361b9382e6d3fba150f4d7fb"/>
 	</game>
 	<game name="Confidential Mission (USA)">
 		<category>Games</category>
@@ -3725,6 +3733,14 @@
 		<rom name="Hydro Thunder (USA) (Rev 1) (Track 37).bin" size="579617472" crc="3593f844" md5="9193c49ef799bb375da8c4c35a8f212e" sha1="53b62d8ad8faa123e90f92f812b8f3df189f4425"/>
 		<rom name="Hydro Thunder (USA) (Rev 1).cue" size="4531" crc="eab7cb27" md5="861d6c7bfe1c7d010b8c8c7c7671868c" sha1="c2cd6e7e8b2f828ba52790bb9606dcc37e41c0d7"/>
 	</game>
+	<game name="ISAO Promotion Disc by Seaman (Japan)">
+		<category>Demos</category>
+		<description>ISAO Promotion Disc by Seaman (Japan)</description>
+		<rom name="ISAO Promotion Disc by Seaman (Japan) (Track 1).bin" size="1058400" crc="ac3f1d97" md5="d0989470a5080d06cfcba0e1ab5c050f" sha1="d60b34f394115c2b76c30dc943fb83b1c5ed1c95"/>
+		<rom name="ISAO Promotion Disc by Seaman (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="ISAO Promotion Disc by Seaman (Japan) (Track 3).bin" size="1185760800" crc="26ffa943" md5="43c5002ae725462900f7a3b8011cc9d3" sha1="b18c9e68b7c05a5499d7fddb450120190b4908da"/>
+		<rom name="ISAO Promotion Disc by Seaman (Japan).cue" size="405" crc="0e7ed5b1" md5="168d941347a5c99c5f2573690c9c362d" sha1="159321ace2e168eced0548697bd6370050470e8a"/>
+	</game>
 	<game name="Idol Janshi o Tsukutchaou (Japan)">
 		<category>Games</category>
 		<description>Idol Janshi o Tsukutchaou (Japan)</description>
@@ -4259,6 +4275,14 @@
 		<rom name="Kimi ga Nozomu Eien (Japan) (Track 2).bin" size="2302608" crc="a19df216" md5="e84122e74eee61242adef8da23227597" sha1="b085a2f69c5f3a99bdedd657dd8412416900e4fc"/>
 		<rom name="Kimi ga Nozomu Eien (Japan) (Track 3).bin" size="1185760800" crc="9a20f921" md5="d56c9f4dfc4972032086fc9960260c13" sha1="da207c782797233f21ce6c878d74b2924de2c507"/>
 		<rom name="Kimi ga Nozomu Eien (Japan).cue" size="375" crc="798cf626" md5="71079fae8b2bd50f38aa04e7442dfa99" sha1="7b4080803f4f7cedf14e22f7abd07403bb2b9a7f"/>
+	</game>
+	<game name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban)">
+		<category>Demos</category>
+		<description>King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban)</description>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban) (Track 1).bin" size="1481760" crc="4cf71560" md5="d0ba09a0ca020fe6505410071236d20a" sha1="0ff26e57a4a95289953f65825a377995926208ee"/>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban) (Track 2).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban) (Track 3).bin" size="1185760800" crc="db40300f" md5="eafb00cfa02092300f2a460b463b51ce" sha1="38070102faeb8c5e5f77cb0ec828b4aa6268bfc3"/>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban).cue" size="498" crc="51054e40" md5="63be82cc851b033bb48d5058bf3e341d" sha1="8f7324ca63d2f83e08b706cddc0e6c63ada3f62f"/>
 	</game>
 	<game name="King of Fighters 2000, The (Japan)">
 		<category>Games</category>
@@ -5405,15 +5429,15 @@
 		<rom name="NFL Quarterback Club 2000 (USA) (Track 5).bin" size="7133616" crc="08d88a59" md5="72167bcffeed7dc21566f565d1f9d87a" sha1="9427647fa711291015f6afbbf68a630470dfaca5"/>
 		<rom name="NFL Quarterback Club 2000 (USA).cue" size="642" crc="1213a594" md5="cf7ae5092af3d9b7d938d71fe6c6111a" sha1="e0e09f30cdb0ddd8c42a6b8f595c84493b6279ed"/>
 	</game>
-	<game name="NHL 2K (USA)">
+	<game name="NHL 2K (USA, Canada)">
 		<category>Games</category>
-		<description>NHL 2K (USA)</description>
-		<rom name="NHL 2K (USA) (Track 1).bin" size="13227648" crc="60e36ada" md5="6fac529b6661a366245ea182c641485b" sha1="ccb643b14ff1576587e15781950ba5402968ae7d"/>
-		<rom name="NHL 2K (USA) (Track 2).bin" size="2951760" crc="d0a4000a" md5="4220f56eb5c18ba2a097e25c460872bd" sha1="6783a551214e2311739d2240e5a02fb05941cb35"/>
-		<rom name="NHL 2K (USA) (Track 3).bin" size="418514880" crc="434d7d01" md5="4e2fe1504d437c81f64a4cbe94584d66" sha1="1f472295e2cd23e954887f867c9c96d544378052"/>
-		<rom name="NHL 2K (USA) (Track 4).bin" size="16873248" crc="de0656c1" md5="174e44dddf9ac5051320efc9a16eed73" sha1="c9820f6dfcf343b682abf2f5fb16c823c8743c1b"/>
-		<rom name="NHL 2K (USA) (Track 5).bin" size="750372672" crc="64616b68" md5="8645bcc77e7bc3b0815418c88e449c02" sha1="fcde9a45514aeef34fca54124bcd71129708745b"/>
-		<rom name="NHL 2K (USA).cue" size="547" crc="c62c8ddc" md5="467815316f390bf9ced2fa688534284d" sha1="c4f3538fd5050d8b8b5dbeda3dcf6927f8435d89"/>
+		<description>NHL 2K (USA, Canada)</description>
+		<rom name="NHL 2K (USA, Canada) (Track 1).bin" size="13227648" crc="60e36ada" md5="6fac529b6661a366245ea182c641485b" sha1="ccb643b14ff1576587e15781950ba5402968ae7d"/>
+		<rom name="NHL 2K (USA, Canada) (Track 2).bin" size="2951760" crc="d0a4000a" md5="4220f56eb5c18ba2a097e25c460872bd" sha1="6783a551214e2311739d2240e5a02fb05941cb35"/>
+		<rom name="NHL 2K (USA, Canada) (Track 3).bin" size="418514880" crc="434d7d01" md5="4e2fe1504d437c81f64a4cbe94584d66" sha1="1f472295e2cd23e954887f867c9c96d544378052"/>
+		<rom name="NHL 2K (USA, Canada) (Track 4).bin" size="16873248" crc="de0656c1" md5="174e44dddf9ac5051320efc9a16eed73" sha1="c9820f6dfcf343b682abf2f5fb16c823c8743c1b"/>
+		<rom name="NHL 2K (USA, Canada) (Track 5).bin" size="750372672" crc="64616b68" md5="8645bcc77e7bc3b0815418c88e449c02" sha1="fcde9a45514aeef34fca54124bcd71129708745b"/>
+		<rom name="NHL 2K (USA, Canada).cue" size="587" crc="fbc26a7e" md5="865ed2d14ab8dcb284f96cd344982e33" sha1="053f7498ebca70b9c417b6e88076de1b72f15fbe"/>
 	</game>
 	<game name="NHL 2K2 (USA)">
 		<category>Games</category>

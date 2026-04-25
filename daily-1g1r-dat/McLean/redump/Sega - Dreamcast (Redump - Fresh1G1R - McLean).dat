@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (291) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-23 20-07-18) (Retool)</description>
-		<version>2026-04-23 20-07-18</version>
-		<date>2026-04-24 05-30-49</date>
+		<description>Sega - Dreamcast (291) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-24 22-33-31) (Retool)</description>
+		<version>2026-04-24 22-33-31</version>
+		<date>2026-04-25 04-52-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2055,15 +2055,15 @@
 		<rom name="NFL Quarterback Club 2000 (USA) (Track 5).bin" size="7133616" crc="08d88a59" md5="72167bcffeed7dc21566f565d1f9d87a" sha1="9427647fa711291015f6afbbf68a630470dfaca5"/>
 		<rom name="NFL Quarterback Club 2000 (USA).cue" size="642" crc="1213a594" md5="cf7ae5092af3d9b7d938d71fe6c6111a" sha1="e0e09f30cdb0ddd8c42a6b8f595c84493b6279ed"/>
 	</game>
-	<game name="NHL 2K (USA)">
+	<game name="NHL 2K (USA, Canada)">
 		<category>Games</category>
-		<description>NHL 2K (USA)</description>
-		<rom name="NHL 2K (USA) (Track 1).bin" size="13227648" crc="60e36ada" md5="6fac529b6661a366245ea182c641485b" sha1="ccb643b14ff1576587e15781950ba5402968ae7d"/>
-		<rom name="NHL 2K (USA) (Track 2).bin" size="2951760" crc="d0a4000a" md5="4220f56eb5c18ba2a097e25c460872bd" sha1="6783a551214e2311739d2240e5a02fb05941cb35"/>
-		<rom name="NHL 2K (USA) (Track 3).bin" size="418514880" crc="434d7d01" md5="4e2fe1504d437c81f64a4cbe94584d66" sha1="1f472295e2cd23e954887f867c9c96d544378052"/>
-		<rom name="NHL 2K (USA) (Track 4).bin" size="16873248" crc="de0656c1" md5="174e44dddf9ac5051320efc9a16eed73" sha1="c9820f6dfcf343b682abf2f5fb16c823c8743c1b"/>
-		<rom name="NHL 2K (USA) (Track 5).bin" size="750372672" crc="64616b68" md5="8645bcc77e7bc3b0815418c88e449c02" sha1="fcde9a45514aeef34fca54124bcd71129708745b"/>
-		<rom name="NHL 2K (USA).cue" size="547" crc="c62c8ddc" md5="467815316f390bf9ced2fa688534284d" sha1="c4f3538fd5050d8b8b5dbeda3dcf6927f8435d89"/>
+		<description>NHL 2K (USA, Canada)</description>
+		<rom name="NHL 2K (USA, Canada) (Track 1).bin" size="13227648" crc="60e36ada" md5="6fac529b6661a366245ea182c641485b" sha1="ccb643b14ff1576587e15781950ba5402968ae7d"/>
+		<rom name="NHL 2K (USA, Canada) (Track 2).bin" size="2951760" crc="d0a4000a" md5="4220f56eb5c18ba2a097e25c460872bd" sha1="6783a551214e2311739d2240e5a02fb05941cb35"/>
+		<rom name="NHL 2K (USA, Canada) (Track 3).bin" size="418514880" crc="434d7d01" md5="4e2fe1504d437c81f64a4cbe94584d66" sha1="1f472295e2cd23e954887f867c9c96d544378052"/>
+		<rom name="NHL 2K (USA, Canada) (Track 4).bin" size="16873248" crc="de0656c1" md5="174e44dddf9ac5051320efc9a16eed73" sha1="c9820f6dfcf343b682abf2f5fb16c823c8743c1b"/>
+		<rom name="NHL 2K (USA, Canada) (Track 5).bin" size="750372672" crc="64616b68" md5="8645bcc77e7bc3b0815418c88e449c02" sha1="fcde9a45514aeef34fca54124bcd71129708745b"/>
+		<rom name="NHL 2K (USA, Canada).cue" size="587" crc="fbc26a7e" md5="865ed2d14ab8dcb284f96cd344982e33" sha1="053f7498ebca70b9c417b6e88076de1b72f15fbe"/>
 	</game>
 	<game name="NHL 2K2 (USA)">
 		<category>Games</category>
