@@ -3,14 +3,20 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV (Retool)</name>
-		<description>Commodore - Amiga CDTV (33) (-y) [-aAbBcdkmMpPuv] (2026-04-02 02-15-42) (Retool)</description>
-		<version>2026-04-02 02-15-42</version>
-		<date>2026-04-27 05-39-54</date>
+		<description>Commodore - Amiga CDTV (34) (-y) [-aAbBcdkmMpPuv] (2026-04-27 20-40-31) (Retool)</description>
+		<version>2026-04-27 20-40-31</version>
+		<date>2026-04-28 05-48-38</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
+	<game name="All Dogs Go to Heaven - Talking Electric Crayon (USA)">
+		<category>Educational</category>
+		<description>All Dogs Go to Heaven - Talking Electric Crayon (USA)</description>
+		<rom name="All Dogs Go to Heaven - Talking Electric Crayon (USA).bin" size="33092640" crc="1b7263ed" md5="aca6b8360eed8618db3665f11fad707b" sha1="b7507edc8ef7c0e7041decbfada558ee0445e2fc"/>
+		<rom name="All Dogs Go to Heaven - Talking Electric Crayon (USA).cue" size="119" crc="669a7878" md5="d452d5f001ba2d720491b3b42ef27eb5" sha1="486f9e0fbf3e78909a68b45779a4a94d7b7bf138"/>
+	</game>
 	<game name="Barney Bear Goes to School (USA)">
 		<category>Educational</category>
 		<description>Barney Bear Goes to School (USA)</description>
