@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV (Retool)</name>
-		<description>Commodore - Amiga CDTV (28) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-27 20-40-31) (Retool)</description>
-		<version>2026-04-27 20-40-31</version>
-		<date>2026-04-28 05-47-21</date>
+		<description>Commodore - Amiga CDTV (27) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-28 18-18-41) (Retool)</description>
+		<version>2026-04-28 18-18-41</version>
+		<date>2026-04-29 05-41-22</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -42,12 +42,6 @@
 		<description>Classic Board Games (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Classic Board Games (Europe) (En,Ja,Fr,De,Es,It).bin" size="113926176" crc="5540a1d9" md5="343851d323c2d708ceb39208f98d712d" sha1="3080a6870e2f574672d8349562df52b4014b8427"/>
 		<rom name="Classic Board Games (Europe) (En,Ja,Fr,De,Es,It).cue" size="114" crc="2a14355f" md5="cb64d8efa755b6dae5634b4a4fd71053" sha1="28d8e8e1ee93cff118663a3bfa00ebc331e70868"/>
-	</game>
-	<game name="Curse of RA, The (Germany)">
-		<category>Games</category>
-		<description>Curse of RA, The (Germany)</description>
-		<rom name="Curse of RA, The (Germany).bin" size="20815200" crc="2ad9b4db" md5="cc713d8f30095f05172c5c4c19ac43fa" sha1="17cf59f01ee8a58a165498674b76dad13d6b265c"/>
-		<rom name="Curse of RA, The (Germany).cue" size="92" crc="968378d1" md5="aee161bbc24073b3336e77fc0539cde5" sha1="0892756ed637fa6a5f4f43fa31b21d5b88dc0075"/>
 	</game>
 	<game name="Defender of the Crown (Europe)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,564) (-y) [-aAbBcdkmMpPuv] (2026-04-27 12-10-14) (Retool)</description>
-		<version>2026-04-27 12-10-14</version>
-		<date>2026-04-28 05-49-19</date>
+		<description>Microsoft - Xbox 360 (1,564) (-y) [-aAbBcdkmMpPuv] (2026-04-28 17-40-59) (Retool)</description>
+		<version>2026-04-28 17-40-59</version>
+		<date>2026-04-29 05-43-48</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2286,10 +2286,10 @@
 		<description>Eat Lead - The Return of Matt Hazard (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Eat Lead - The Return of Matt Hazard (USA, Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="8fe33800" md5="3bc3eed601ee1fffb7e99071c0508f4f" sha1="301a0efc46513fff9b00707794552fb3ded6b5f0"/>
 	</game>
-	<game name="El Shaddai - Ascension of the Metatron (USA)">
+	<game name="El Shaddai - Ascension of the Metatron (USA, Canada)">
 		<category>Games</category>
-		<description>El Shaddai - Ascension of the Metatron (USA)</description>
-		<rom name="El Shaddai - Ascension of the Metatron (USA).iso" size="7838695424" crc="4cc05d46" md5="c7ed19a192bb97bccfec19aa71816033" sha1="e75a73f861602d493b3a2f9883037c277dee0f7f"/>
+		<description>El Shaddai - Ascension of the Metatron (USA, Canada)</description>
+		<rom name="El Shaddai - Ascension of the Metatron (USA, Canada).iso" size="7838695424" crc="4cc05d46" md5="c7ed19a192bb97bccfec19aa71816033" sha1="e75a73f861602d493b3a2f9883037c277dee0f7f"/>
 	</game>
 	<game name="Elder Scrolls IV, The - Oblivion (USA) (Rev 3)">
 		<category>Games</category>
@@ -5301,10 +5301,10 @@
 		<description>Ore no Yome - Anata dake no Hanayome (Japan)</description>
 		<rom name="Ore no Yome - Anata dake no Hanayome (Japan).iso" size="7838695424" crc="650cee91" md5="c589c61b80d9c755e71705f978375466" sha1="f9ea18a986d99edfeb3ea83265397e1a5404e29f"/>
 	</game>
-	<game name="Otomedius Excellent (USA)">
+	<game name="Otomedius Excellent (USA, Canada)">
 		<category>Games</category>
-		<description>Otomedius Excellent (USA)</description>
-		<rom name="Otomedius Excellent (USA).iso" size="7838695424" crc="2d6f3fa1" md5="2fb8f3c4a318272182a3c9b33a879002" sha1="64b48afded3194f2c42fc5b680a47a4eb3f60ab3"/>
+		<description>Otomedius Excellent (USA, Canada)</description>
+		<rom name="Otomedius Excellent (USA, Canada).iso" size="7838695424" crc="2d6f3fa1" md5="2fb8f3c4a318272182a3c9b33a879002" sha1="64b48afded3194f2c42fc5b680a47a4eb3f60ab3"/>
 	</game>
 	<game name="Otomedius Gorgeous! (Japan)">
 		<category>Games</category>
@@ -5686,10 +5686,10 @@
 		<description>Raiden Fighters Aces (USA)</description>
 		<rom name="Raiden Fighters Aces (USA).iso" size="7838695424" crc="2a786d9a" md5="fd08f66dcba5371d75a14390353a3ac6" sha1="7d5eee8b55cd9c3f0983f4c850d9f7e430b6ad5e"/>
 	</game>
-	<game name="Raiden IV (USA)">
+	<game name="Raiden IV (USA, Canada)">
 		<category>Games</category>
-		<description>Raiden IV (USA)</description>
-		<rom name="Raiden IV (USA).iso" size="7838695424" crc="ad9f9591" md5="40b944d77a5fc4f04aa04ddedf832e2a" sha1="b4181ccef0b6146ad37c697cebaeef18596c1347"/>
+		<description>Raiden IV (USA, Canada)</description>
+		<rom name="Raiden IV (USA, Canada).iso" size="7838695424" crc="ad9f9591" md5="40b944d77a5fc4f04aa04ddedf832e2a" sha1="b4181ccef0b6146ad37c697cebaeef18596c1347"/>
 	</game>
 	<game name="Rambo - The Video Game (Europe)">
 		<category>Games</category>
