@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,564) (-y) [-aAbBcdkmMpPuv] (2026-05-02 03-21-58) (Retool)</description>
-		<version>2026-05-02 03-21-58</version>
-		<date>2026-05-02 05-30-07</date>
+		<description>Microsoft - Xbox 360 (1,564) (-y) [-aAbBcdkmMpPuv] (2026-05-08 11-13-33) (Retool)</description>
+		<version>2026-05-08 11-13-33</version>
+		<date>2026-05-09 05-39-03</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2226,10 +2226,10 @@
 		<description>Dynasty Warriors - Gundam 3 (USA, Europe)</description>
 		<rom name="Dynasty Warriors - Gundam 3 (USA, Europe).iso" size="7838695424" crc="329acdc6" md5="3763b47464ef64e398797f0174bd30a8" sha1="e257c48e5ad65346bab94d22b48f6c5ee140d1b8"/>
 	</game>
-	<game name="Dynasty Warriors - Strikeforce (USA)">
+	<game name="Dynasty Warriors - Strikeforce (USA) (En,Fr)">
 		<category>Games</category>
-		<description>Dynasty Warriors - Strikeforce (USA)</description>
-		<rom name="Dynasty Warriors - Strikeforce (USA).iso" size="7838695424" crc="d07a9193" md5="0ea67bd2c01b1295a9140174df3b1397" sha1="a99e4bc06a29e3465f8fff5e65bd12e7c9008557"/>
+		<description>Dynasty Warriors - Strikeforce (USA) (En,Fr)</description>
+		<rom name="Dynasty Warriors - Strikeforce (USA) (En,Fr).iso" size="7838695424" crc="d07a9193" md5="0ea67bd2c01b1295a9140174df3b1397" sha1="a99e4bc06a29e3465f8fff5e65bd12e7c9008557"/>
 	</game>
 	<game name="Dynasty Warriors 5 - Empires (USA)">
 		<category>Games</category>
@@ -5836,10 +5836,10 @@
 		<description>Rio (USA, Europe)</description>
 		<rom name="Rio (USA, Europe).iso" size="7838695424" crc="9fb92c0b" md5="199af63a9937855a3bac4fdf7db40487" sha1="2feaf0ca9fe3f45acad975baa19819ef1f426f7e"/>
 	</game>
-	<game name="Rise of Nightmares (USA)">
+	<game name="Rise of Nightmares (USA) (En,Ja,Fr,Es,It)">
 		<category>Games</category>
-		<description>Rise of Nightmares (USA)</description>
-		<rom name="Rise of Nightmares (USA).iso" size="8738846720" crc="4e2afb04" md5="e4d237a5a0b26d041eed44c757266700" sha1="b95885c4d40392e0caa35f9e17e10a7f6665981d"/>
+		<description>Rise of Nightmares (USA) (En,Ja,Fr,Es,It)</description>
+		<rom name="Rise of Nightmares (USA) (En,Ja,Fr,Es,It).iso" size="8738846720" crc="4e2afb04" md5="e4d237a5a0b26d041eed44c757266700" sha1="b95885c4d40392e0caa35f9e17e10a7f6665981d"/>
 	</game>
 	<game name="Rise of the Argonauts (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>

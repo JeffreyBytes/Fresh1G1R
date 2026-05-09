@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,832) (-y) [-aAbBcefkmMoprv] (2026-04-28 09-28-37) (Retool)</description>
-		<version>2026-04-28 09-28-37</version>
-		<date>2026-05-02 05-27-30</date>
+		<description>Sony - PlayStation Portable (1,837) (-y) [-aAbBcefkmMoprv] (2026-05-08 11-21-15) (Retool)</description>
+		<version>2026-05-08 11-21-15</version>
+		<date>2026-05-09 05-36-20</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4246,6 +4246,11 @@
 		<description>Lemmings (USA) (Demo)</description>
 		<rom name="Lemmings (USA) (Demo).iso" size="181665792" crc="d4fe1564" md5="289924fcdc8e44b3fd5b07d16f80c797" sha1="a2e4718d158efc416912663a387f0299730792d2"/>
 	</game>
+	<game name="Like Life Every Hour (Japan)">
+		<category>Games</category>
+		<description>Like Life Every Hour (Japan)</description>
+		<rom name="Like Life Every Hour (Japan).iso" size="1505951744" crc="39489a9e" md5="7599bce7a99ad32343c966bb6589646f" sha1="7cb23584dc4b1446adfede168d4ec641323a272d"/>
+	</game>
 	<game name="Lisa to Issho ni Tairiku Oudan - A-Ressha de Ikou (Japan)">
 		<category>Games</category>
 		<description>Lisa to Issho ni Tairiku Oudan - A-Ressha de Ikou (Japan)</description>
@@ -5561,6 +5566,11 @@
 		<description>Obscure - The Aftermath (USA) (En,Fr,Es)</description>
 		<rom name="Obscure - The Aftermath (USA) (En,Fr,Es).iso" size="987725824" crc="84f143e2" md5="3ea984b068cfccbd241b90ce2ab5d3c5" sha1="e55fb86a02452a6053cdf926f51fc8469b19acb2"/>
 	</game>
+	<game name="Okashi na Shima no Peter Pan - Sweet Never Land (Japan)">
+		<category>Games</category>
+		<description>Okashi na Shima no Peter Pan - Sweet Never Land (Japan)</description>
+		<rom name="Okashi na Shima no Peter Pan - Sweet Never Land (Japan).iso" size="1020624896" crc="8c86cb62" md5="5e2f75bda6c1282d429dc60e436e4c8a" sha1="dc17daee0aa8bb660d21b96f30b9e74454542cbf"/>
+	</game>
 	<game name="Omerta - Chinmoku no Okite - The Legacy (Japan)">
 		<category>Games</category>
 		<description>Omerta - Chinmoku no Okite - The Legacy (Japan)</description>
@@ -6140,6 +6150,11 @@
 		<category>Games</category>
 		<description>Princess Evangile Portable (Japan)</description>
 		<rom name="Princess Evangile Portable (Japan).iso" size="1302265856" crc="9ec6286a" md5="4ee5f98eff413d8bd6ccbf541cec3056" sha1="c30bc810b90d6d7e36f1bc6d537b00fb3c4770e4"/>
+	</game>
+	<game name="Princess Frontier Portable (Japan)">
+		<category>Games</category>
+		<description>Princess Frontier Portable (Japan)</description>
+		<rom name="Princess Frontier Portable (Japan).iso" size="1350991872" crc="a96258c6" md5="4923136a9895f4795a2e9754d465cdd3" sha1="53d4305774a9b3f3da77405abd429c5b2e33ff38"/>
 	</game>
 	<game name="Prinny - Can I Really Be the Hero (USA)">
 		<category>Games</category>
@@ -7321,6 +7336,11 @@
 		<description>Skate Park City (Europe)</description>
 		<rom name="Skate Park City (Europe).iso" size="277839872" crc="7ff72789" md5="80497351cea1349729551f983269c0c8" sha1="3eb3834d28dff5ba327374263551a774b979def0"/>
 	</game>
+	<game name="Slotter Mania P - Mach Go Go Go III (Japan)">
+		<category>Games</category>
+		<description>Slotter Mania P - Mach Go Go Go III (Japan)</description>
+		<rom name="Slotter Mania P - Mach Go Go Go III (Japan).iso" size="1062862848" crc="d36f1578" md5="9ac6d22fc28aebc734e5bc02b5c3ddf7" sha1="df73beb58835b835ad7ed0b2225eb20496dfc1a0"/>
+	</game>
 	<game name="Smart Bomb (USA)">
 		<category>Games</category>
 		<description>Smart Bomb (USA)</description>
@@ -7995,6 +8015,11 @@
 		<category>Games</category>
 		<description>Tales of the World - Radiant Mythology 3 (Japan)</description>
 		<rom name="Tales of the World - Radiant Mythology 3 (Japan).iso" size="1807089664" crc="7a5ce0bd" md5="5d63d1652b851e005d27fe42db7d6241" sha1="aa1df96ecfa1b53fdda9391dc711c239827bfd91"/>
+	</game>
+	<game name="Tama-Run (Japan)">
+		<category>Games</category>
+		<description>Tama-Run (Japan)</description>
+		<rom name="Tama-Run (Japan).iso" size="352419840" crc="47329986" md5="9cf2ff6acc443ec3ec8ddcabf11fa93e" sha1="e37c042aab5ff7f7483c00b1f471ae0a729a5dab"/>
 	</game>
 	<game name="Tamayura - Mitama Okuri no Uta (Japan)">
 		<category>Games</category>
