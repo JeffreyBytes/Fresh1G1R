@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,401) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-08 11-13-33) (Retool)</description>
-		<version>2026-05-08 11-13-33</version>
-		<date>2026-05-09 05-37-18</date>
+		<description>Microsoft - Xbox 360 (1,401) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-10 04-21-16) (Retool)</description>
+		<version>2026-05-10 04-21-16</version>
+		<date>2026-05-10 05-53-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2896,10 +2896,10 @@
 		<description>Hasbro Family Game Night Fun Pack (USA)</description>
 		<rom name="Hasbro Family Game Night Fun Pack (USA).iso" size="7838695424" crc="b6b50229" md5="d8ab11ebe59cc354b56c52fdcfd45177" sha1="f54b4e86e41caf1561caab7b62792683418fa2ce"/>
 	</game>
-	<game name="Heavy Fire - Shattered Spear (USA)">
+	<game name="Heavy Fire - Shattered Spear (USA) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Heavy Fire - Shattered Spear (USA)</description>
-		<rom name="Heavy Fire - Shattered Spear (USA).iso" size="7838695424" crc="be5f0c2c" md5="642dbed8d6c9f77a82da7563e1be576b" sha1="c7bd4beb2f9bdd8bba136090dd1f5cd88283a9cd"/>
+		<description>Heavy Fire - Shattered Spear (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Heavy Fire - Shattered Spear (USA) (En,Ja,Fr,De,Es,It).iso" size="7838695424" crc="be5f0c2c" md5="642dbed8d6c9f77a82da7563e1be576b" sha1="c7bd4beb2f9bdd8bba136090dd1f5cd88283a9cd"/>
 	</game>
 	<game name="Hellboy - The Science of Evil (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
