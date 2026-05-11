@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (1,789) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-09 03-29-45) (Retool)</description>
-		<version>2026-05-09 03-29-45</version>
-		<date>2026-05-10 05-54-12</date>
+		<description>Sony - PlayStation (1,789) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-10 15-41-00) (Retool)</description>
+		<version>2026-05-10 15-41-00</version>
+		<date>2026-05-11 06-16-45</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -10546,12 +10546,12 @@
 		<rom name="NFL GameDay 99 (USA) (Rev 1) (Track 2).bin" size="13361712" crc="b0ef8b04" md5="25593fed94b66c894ae864e746afd12e" sha1="8ff5d315ca7b0b9ffd9865e9ca8720db35b2db16"/>
 		<rom name="NFL GameDay 99 (USA) (Rev 1).cue" size="226" crc="7669da50" md5="6bb22a803817c537f03d9c8b0899104c" sha1="1dbc608709aaa43e301bd0bcd1ad82da760cc56b"/>
 	</game>
-	<game name="NFL Quarterback Club 97 (USA)">
+	<game name="NFL Quarterback Club '97 (USA)">
 		<category>Games</category>
-		<description>NFL Quarterback Club 97 (USA)</description>
-		<rom name="NFL Quarterback Club 97 (USA) (Track 1).bin" size="103222224" crc="be4bf30c" md5="5768782c7acd1573d5f44d7b8cc1a905" sha1="5c7b9771ac7cced89f856ddab6786c9767c53f2a"/>
-		<rom name="NFL Quarterback Club 97 (USA) (Track 2).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
-		<rom name="NFL Quarterback Club 97 (USA).cue" size="228" crc="6b6bc7da" md5="6f37e0a46df777253aa1518811a4e665" sha1="15671d363d2b431a3b48e83166c2f0837f1a3a18"/>
+		<description>NFL Quarterback Club '97 (USA)</description>
+		<rom name="NFL Quarterback Club '97 (USA) (Track 1).bin" size="103222224" crc="be4bf30c" md5="5768782c7acd1573d5f44d7b8cc1a905" sha1="5c7b9771ac7cced89f856ddab6786c9767c53f2a"/>
+		<rom name="NFL Quarterback Club '97 (USA) (Track 2).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
+		<rom name="NFL Quarterback Club '97 (USA).cue" size="230" crc="077418ee" md5="6e5c975c050240ef21ef71fdd5863b36" sha1="928f72c227a1eaca4532883d46300be46008142f"/>
 	</game>
 	<game name="NFL Xtreme (USA)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,837) (-y) [-aAbBcefkmMoprv] (2026-05-08 11-21-15) (Retool)</description>
-		<version>2026-05-08 11-21-15</version>
-		<date>2026-05-10 05-52-46</date>
+		<description>Sony - PlayStation Portable (1,837) (-y) [-aAbBcefkmMoprv] (2026-05-10 15-44-54) (Retool)</description>
+		<version>2026-05-10 15-44-54</version>
+		<date>2026-05-11 06-15-20</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -8126,10 +8126,10 @@
 		<description>Tengai Makyou - Daiyon no Mokushiroku (Japan)</description>
 		<rom name="Tengai Makyou - Daiyon no Mokushiroku (Japan).iso" size="1319403520" crc="66b4fe2f" md5="fbcba993081ccee729ee1a4534d346a1" sha1="c2b88df62da4df3c5c507fbfd5235493801ce577"/>
 	</game>
-	<game name="Tenshin Ranman - Happy Go Lucky!! (Japan)">
+	<game name="Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban)">
 		<category>Games</category>
-		<description>Tenshin Ranman - Happy Go Lucky!! (Japan)</description>
-		<rom name="Tenshin Ranman - Happy Go Lucky!! (Japan).iso" size="1811611648" crc="58ae22ad" md5="d7e4850851af6ba3b78376981a914d44" sha1="d6d66e35421d8a160a62ca756dfb115d18eb713a"/>
+		<description>Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban)</description>
+		<rom name="Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban).iso" size="1811611648" crc="f564c4b3" md5="3e813bf8752502fdf57babab07350535" sha1="92694a26724a6612838408ff1212549ada8ce98d"/>
 	</game>
 	<game name="Test Drive Unlimited (USA)">
 		<category>Games</category>
