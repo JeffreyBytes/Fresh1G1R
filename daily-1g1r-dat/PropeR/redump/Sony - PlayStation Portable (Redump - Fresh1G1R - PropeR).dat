@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,780) (-y) [-aAbBcdkmMpPuv] (2026-05-10 15-44-54) (Retool)</description>
-		<version>2026-05-10 15-44-54</version>
-		<date>2026-05-11 06-18-45</date>
+		<description>Sony - PlayStation Portable (1,781) (-y) [-aAbBcdkmMpPuv] (2026-05-11 16-09-47) (Retool)</description>
+		<version>2026-05-11 16-09-47</version>
+		<date>2026-05-12 05-56-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6690,6 +6690,11 @@
 		<category>Games</category>
 		<description>Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)</description>
 		<rom name="Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan).iso" size="1621327872" crc="91dc7fd3" md5="1aa2a05531c3d031951e84c37c64c7e2" sha1="2d166c61acaac5261f5666caa5f012308f63d831"/>
+	</game>
+	<game name="Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)</description>
+		<rom name="Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan).iso" size="1285849088" crc="ef71bc2d" md5="3c20445a808330006022a8505a06fd2b" sha1="b1941144ff2492f6a0156355e591fcb64794fffc"/>
 	</game>
 	<game name="Sengoku Musou 3 Z Special (Japan)">
 		<category>Games</category>

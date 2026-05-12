@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,686) (-y) [-aAbBcefkmMoprv] (2026-05-08 10-33-54) (Retool)</description>
-		<version>2026-05-08 10-33-54</version>
-		<date>2026-05-11 06-14-44</date>
+		<description>Nintendo - Wii (1,686) (-y) [-aAbBcefkmMoprv] (2026-05-12 06-33-03) (Retool)</description>
+		<version>2026-05-12 06-33-03</version>
+		<date>2026-05-12 05-52-51</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4076,10 +4076,10 @@
 		<description>Legend of Zelda, The - Twilight Princess (USA) (Demo)</description>
 		<rom name="Legend of Zelda, The - Twilight Princess (USA) (Demo).iso" size="4699979776" crc="d6b7555e" md5="810c1f6141d64723362123dad17fa6cd" sha1="d0efe717a6c4b99e42d43f86fa90d75489d443d7"/>
 	</game>
-	<game name="Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2)">
+	<game name="Legend of Zelda, The - Twilight Princess (USA, Canada) (En,Fr,Es) (Rev 2)">
 		<category>Games</category>
-		<description>Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2)</description>
-		<rom name="Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2).iso" size="4699979776" crc="b5825844" md5="70946e09da8f0bb218bb3b3542953d63" sha1="e9f9b22fee0d1e3be46fa01b7189d390f51c7f87"/>
+		<description>Legend of Zelda, The - Twilight Princess (USA, Canada) (En,Fr,Es) (Rev 2)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (USA, Canada) (En,Fr,Es) (Rev 2).iso" size="4699979776" crc="b5825844" md5="70946e09da8f0bb218bb3b3542953d63" sha1="e9f9b22fee0d1e3be46fa01b7189d390f51c7f87"/>
 	</game>
 	<game name="Legend of the Dragon (USA) (En,Fr,Es)">
 		<category>Games</category>
