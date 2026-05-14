@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,781) (-y) [-aAbBcdkmMpPuv] (2026-05-11 16-09-47) (Retool)</description>
-		<version>2026-05-11 16-09-47</version>
-		<date>2026-05-13 06-05-20</date>
+		<description>Sony - PlayStation Portable (1,783) (-y) [-aAbBcdkmMpPuv] (2026-05-14 05-44-58) (Retool)</description>
+		<version>2026-05-14 05-44-58</version>
+		<date>2026-05-14 06-08-37</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2415,6 +2415,11 @@
 		<category>Games</category>
 		<description>Garnet Cradle Portable - Kagi no Himemiko (Japan)</description>
 		<rom name="Garnet Cradle Portable - Kagi no Himemiko (Japan).iso" size="1192558592" crc="b3a15246" md5="48c88837e103bfd04bfdf5f747b4a982" sha1="8e8eef313c333a82177e87be7bd02adf21e246e4"/>
+	</game>
+	<game name="Gekiatsu!! Pachige-Damashi Portable Vol. 1 - Evangelion - Shinjitsu no Tsubasa (Japan)">
+		<category>Games</category>
+		<description>Gekiatsu!! Pachige-Damashi Portable Vol. 1 - Evangelion - Shinjitsu no Tsubasa (Japan)</description>
+		<rom name="Gekiatsu!! Pachige-Damashi Portable Vol. 1 - Evangelion - Shinjitsu no Tsubasa (Japan).iso" size="1812660224" crc="8a84603e" md5="84eeec5443910db9b54b51d4a7163425" sha1="c7ad88fb0e483c1b79d218ab28c0e12a98cc0f76"/>
 	</game>
 	<game name="Gekka Ryouran Romance (Japan)">
 		<category>Games</category>
@@ -5380,6 +5385,11 @@
 		<category>Games</category>
 		<description>Nikoli no Sudoku Lite Daisanshuu (Japan)</description>
 		<rom name="Nikoli no Sudoku Lite Daisanshuu (Japan).iso" size="137625600" crc="6c4fd0bc" md5="ab74fe50f28fad8841464b8d1f61a23c" sha1="a7dfa77a440c27bb4afd77be6d293438cd8592b0"/>
+	</game>
+	<game name="Nikoli no Sudoku Lite Daiyonshuu (Japan)">
+		<category>Games</category>
+		<description>Nikoli no Sudoku Lite Daiyonshuu (Japan)</description>
+		<rom name="Nikoli no Sudoku Lite Daiyonshuu (Japan).iso" size="137887744" crc="88d9148d" md5="cb6e88f5444d3c29ed383092be3b7a1d" sha1="1d87bedb7b4db652279987d980096045af682360"/>
 	</game>
 	<game name="Ninja Katsugeki - Tenchu - Kurenai Portable (Japan)">
 		<category>Games</category>
