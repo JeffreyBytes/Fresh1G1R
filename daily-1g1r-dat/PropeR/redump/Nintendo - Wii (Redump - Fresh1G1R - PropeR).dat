@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,660) (-y) [-aAbBcdkmMpPuv] (2026-05-14 06-34-45) (Retool)</description>
-		<version>2026-05-14 06-34-45</version>
-		<date>2026-05-14 06-08-02</date>
+		<description>Nintendo - Wii (1,660) (-y) [-aAbBcdkmMpPuv] (2026-05-15 05-10-46) (Retool)</description>
+		<version>2026-05-15 05-10-46</version>
+		<date>2026-05-15 06-14-13</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5391,10 +5391,10 @@
 		<description>Nitrobike (USA) (En,Fr,Es)</description>
 		<rom name="Nitrobike (USA) (En,Fr,Es).iso" size="4699979776" crc="87cfc9d0" md5="d0fd28816638976994dc665b97c75946" sha1="8826a6fb5b02d2ee31abce12600c9051d31e6dc3"/>
 	</game>
-	<game name="No More Heroes (USA) (En,Fr,Es)">
+	<game name="No More Heroes (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
-		<description>No More Heroes (USA) (En,Fr,Es)</description>
-		<rom name="No More Heroes (USA) (En,Fr,Es).iso" size="4699979776" crc="4cf0ebe2" md5="6421acd04a9cb6781b1fd765701b7b20" sha1="a8a193fb32238aa64757b3439de9c8c58467bd48"/>
+		<description>No More Heroes (USA, Canada) (En,Fr,Es)</description>
+		<rom name="No More Heroes (USA, Canada) (En,Fr,Es).iso" size="4699979776" crc="4cf0ebe2" md5="6421acd04a9cb6781b1fd765701b7b20" sha1="a8a193fb32238aa64757b3439de9c8c58467bd48"/>
 	</game>
 	<game name="No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -7121,10 +7121,10 @@
 		<description>Super Mario All-Stars (USA)</description>
 		<rom name="Super Mario All-Stars (USA).iso" size="4699979776" crc="a2e7380d" md5="e8eae447a0a38af680e699d2fb5f0f2b" sha1="404748b4f9ecec10ac3616f223f9db55d6c43a70"/>
 	</game>
-	<game name="Super Mario Galaxy (USA) (En,Fr,Es)">
+	<game name="Super Mario Galaxy (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Super Mario Galaxy (USA) (En,Fr,Es)</description>
-		<rom name="Super Mario Galaxy (USA) (En,Fr,Es).iso" size="4699979776" crc="1047de4c" md5="f99a97f9ae4dccd1db45e9aaab9cebd8" sha1="a36105c9fbfff6041dc5babf4318c6a216ad470a"/>
+		<description>Super Mario Galaxy (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Super Mario Galaxy (USA, Canada) (En,Fr,Es).iso" size="4699979776" crc="1047de4c" md5="f99a97f9ae4dccd1db45e9aaab9cebd8" sha1="a36105c9fbfff6041dc5babf4318c6a216ad470a"/>
 	</game>
 	<game name="Super Mario Galaxy 2 (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -8016,10 +8016,10 @@
 		<description>Wii Party (USA) (En,Fr,Es)</description>
 		<rom name="Wii Party (USA) (En,Fr,Es).iso" size="4699979776" crc="e81db0f0" md5="f42e3a48f60950877b1bdaea1146c564" sha1="281a556b08b90bf89d76705ca6d026e21226b8d9"/>
 	</game>
-	<game name="Wii Play (USA) (Rev 1)">
+	<game name="Wii Play (USA, Canada) (Rev 1)">
 		<category>Games</category>
-		<description>Wii Play (USA) (Rev 1)</description>
-		<rom name="Wii Play (USA) (Rev 1).iso" size="4699979776" crc="c73e458a" md5="cdd4c74ab291c609f431beb5860df0e8" sha1="80c223ea5eaf35f5f7876c9fc5904472b103334e"/>
+		<description>Wii Play (USA, Canada) (Rev 1)</description>
+		<rom name="Wii Play (USA, Canada) (Rev 1).iso" size="4699979776" crc="c73e458a" md5="cdd4c74ab291c609f431beb5860df0e8" sha1="80c223ea5eaf35f5f7876c9fc5904472b103334e"/>
 	</game>
 	<game name="Wii Play - Motion (USA) (En,Fr,Es)">
 		<category>Games</category>
