@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (569) (-y) [-aAbBcefkmMoprv] (2026-05-16 22-32-47) (Retool)</description>
-		<version>2026-05-16 22-32-47</version>
-		<date>2026-05-17 06-08-34</date>
+		<description>Apple - Macintosh (570) (-y) [-aAbBcefkmMoprv] (2026-05-17 22-42-54) (Retool)</description>
+		<version>2026-05-17 22-42-54</version>
+		<date>2026-05-18 06-28-07</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3460,17 +3460,23 @@
 		<rom name="Space Bar, The (USA) (Disc 1) (Rev 1).bin" size="773927952" crc="6e11b0a9" md5="a7deb6eec56a27d067a08515d7041cdc" sha1="9c419b1a79d73c8c43d66d2dab49911d3c9f7eb5"/>
 		<rom name="Space Bar, The (USA) (Disc 1) (Rev 1).cue" size="103" crc="c48fcb66" md5="ce5fcc4010cec84ce7a00b6b347aa8e4" sha1="fba5cdd85e09cff82742aa1d7d7e7309ba6d1292"/>
 	</game>
-	<game name="Space Bar, The (USA) (Disc 2)">
+	<game name="Space Bar, The (USA) (Mac Disc 1)">
 		<category>Games</category>
-		<description>Space Bar, The (USA) (Disc 2)</description>
-		<rom name="Space Bar, The (USA) (Disc 2).bin" size="768591264" crc="c56f986f" md5="cbc30d022fc252ce94183a673b9bd61a" sha1="25acfa78d5d61b791ad2814cc3e9f377b3da7cab"/>
-		<rom name="Space Bar, The (USA) (Disc 2).cue" size="95" crc="b967a1e2" md5="bf3f399f3693423fd06d7ac748318cd4" sha1="4724db48c8cbfcea2ce8137d3485210b73dce75e"/>
+		<description>Space Bar, The (USA) (Mac Disc 1)</description>
+		<rom name="Space Bar, The (USA) (Mac Disc 1).bin" size="772443840" crc="466d5c43" md5="d85743a2d7e9e163cbeb323eada2bf23" sha1="0737ceb15e24c7e473390cb2c450217256b6ecd7"/>
+		<rom name="Space Bar, The (USA) (Mac Disc 1).cue" size="99" crc="2d671508" md5="efbdb1d027e569a5f62046d292706856" sha1="f29a4b1c5b6fd96abb749ad89fe8d9efea482ffa"/>
 	</game>
-	<game name="Space Bar, The (USA) (Disc 3)">
+	<game name="Space Bar, The (USA) (Mac Disc 2)">
 		<category>Games</category>
-		<description>Space Bar, The (USA) (Disc 3)</description>
-		<rom name="Space Bar, The (USA) (Disc 3).bin" size="771498336" crc="bc9f3179" md5="71a3e64412104d217699d12b76e5d62b" sha1="f7273f652e1c738fce0408dff0f927687b051dbb"/>
-		<rom name="Space Bar, The (USA) (Disc 3).cue" size="95" crc="0f7c4192" md5="d155e0ce1cd8503b384bb50cdc5dc700" sha1="8e74c0d81b8d85ad2bb37979e34937ccf0b91064"/>
+		<description>Space Bar, The (USA) (Mac Disc 2)</description>
+		<rom name="Space Bar, The (USA) (Mac Disc 2).bin" size="768591264" crc="c56f986f" md5="cbc30d022fc252ce94183a673b9bd61a" sha1="25acfa78d5d61b791ad2814cc3e9f377b3da7cab"/>
+		<rom name="Space Bar, The (USA) (Mac Disc 2).cue" size="99" crc="2c3a33d9" md5="ca1398f58bd5cd7b0416cbc632c54e19" sha1="6a55341be36048adaed094840479a00c739ba5a2"/>
+	</game>
+	<game name="Space Bar, The (USA) (Mac Disc 3)">
+		<category>Games</category>
+		<description>Space Bar, The (USA) (Mac Disc 3)</description>
+		<rom name="Space Bar, The (USA) (Mac Disc 3).bin" size="771498336" crc="bc9f3179" md5="71a3e64412104d217699d12b76e5d62b" sha1="f7273f652e1c738fce0408dff0f927687b051dbb"/>
+		<rom name="Space Bar, The (USA) (Mac Disc 3).cue" size="99" crc="9a21d3a9" md5="e1f3cbde0e0f8095825ed9bc2bfafc11" sha1="372286498ba076c334e8d97237481067233fb2bd"/>
 	</game>
 	<game name="Space Quest 6 - Roger Wilco in the Spinal Frontier (France)">
 		<category>Games</category>
