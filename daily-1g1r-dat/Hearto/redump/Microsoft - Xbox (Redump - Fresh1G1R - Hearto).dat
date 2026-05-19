@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox (Retool)</name>
-		<description>Microsoft - Xbox (1,141) (-y) [-aAbBcefkmMoprv] (2026-05-15 05-46-58) (Retool)</description>
-		<version>2026-05-15 05-46-58</version>
-		<date>2026-05-18 06-28-58</date>
+		<description>Microsoft - Xbox (1,141) (-y) [-aAbBcefkmMoprv] (2026-05-19 03-08-09) (Retool)</description>
+		<version>2026-05-19 03-08-09</version>
+		<date>2026-05-19 06-34-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1236,15 +1236,15 @@
 		<description>Dead Man's Hand (USA, Japan)</description>
 		<rom name="Dead Man's Hand (USA, Japan).iso" size="7825162240" crc="2eedbe46" md5="7716b4d4601c385a599819730c7d759f" sha1="167fce31f9147c89782ca5c7515f3edd97154f97"/>
 	</game>
-	<game name="Dead or Alive 1 Ultimate (USA, Japan) (En,Ja)">
+	<game name="Dead or Alive 1 Ultimate (USA, Asia) (En,Ja)">
 		<category>Games</category>
-		<description>Dead or Alive 1 Ultimate (USA, Japan) (En,Ja)</description>
-		<rom name="Dead or Alive 1 Ultimate (USA, Japan) (En,Ja).iso" size="7825162240" crc="28799098" md5="09480604375cf78bcae9f91e3c462acf" sha1="ee748d55b217ba773ae9e8c9f78cc0d33ab2203d"/>
+		<description>Dead or Alive 1 Ultimate (USA, Asia) (En,Ja)</description>
+		<rom name="Dead or Alive 1 Ultimate (USA, Asia) (En,Ja).iso" size="7825162240" crc="28799098" md5="09480604375cf78bcae9f91e3c462acf" sha1="ee748d55b217ba773ae9e8c9f78cc0d33ab2203d"/>
 	</game>
-	<game name="Dead or Alive 2 Ultimate (USA, Japan) (En,Ja)">
+	<game name="Dead or Alive 2 Ultimate (USA, Asia) (En,Ja)">
 		<category>Games</category>
-		<description>Dead or Alive 2 Ultimate (USA, Japan) (En,Ja)</description>
-		<rom name="Dead or Alive 2 Ultimate (USA, Japan) (En,Ja).iso" size="7825162240" crc="14e15b49" md5="21a6f5c9d791aa2d9bf33aa8493f0f39" sha1="996eb8c0d44f660dcfa0b316c1cd274af99f7823"/>
+		<description>Dead or Alive 2 Ultimate (USA, Asia) (En,Ja)</description>
+		<rom name="Dead or Alive 2 Ultimate (USA, Asia) (En,Ja).iso" size="7825162240" crc="14e15b49" md5="21a6f5c9d791aa2d9bf33aa8493f0f39" sha1="996eb8c0d44f660dcfa0b316c1cd274af99f7823"/>
 	</game>
 	<game name="Dead or Alive 3 (Japan) (Taikenban)">
 		<category>Demos</category>
@@ -1736,10 +1736,10 @@
 		<description>Far Cry Instincts (USA, Europe) (Demo)</description>
 		<rom name="Far Cry Instincts (USA, Europe) (Demo).iso" size="7825162240" crc="193af591" md5="94580d85b58e7b6446d71d93b696650d" sha1="f4314e321668dc90ba581a92c9c56c4ae2cdfde7"/>
 	</game>
-	<game name="Far Cry Instincts (USA, Europe) (En,Fr,Es,It)">
+	<game name="Far Cry Instincts (World) (En,Fr,Es,It)">
 		<category>Games</category>
-		<description>Far Cry Instincts (USA, Europe) (En,Fr,Es,It)</description>
-		<rom name="Far Cry Instincts (USA, Europe) (En,Fr,Es,It).iso" size="7825162240" crc="87a1eb94" md5="6220f8e36e3a7503eaf4b10efb213b6f" sha1="8e2f2a8dfd9e9554ac45383f028a8f804e24e073"/>
+		<description>Far Cry Instincts (World) (En,Fr,Es,It)</description>
+		<rom name="Far Cry Instincts (World) (En,Fr,Es,It).iso" size="7825162240" crc="87a1eb94" md5="6220f8e36e3a7503eaf4b10efb213b6f" sha1="8e2f2a8dfd9e9554ac45383f028a8f804e24e073"/>
 	</game>
 	<game name="Far Cry Instincts - Evolution (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -2072,10 +2072,10 @@
 		<description>Gun (USA, Europe) (En,Fr,Es,It)</description>
 		<rom name="Gun (USA, Europe) (En,Fr,Es,It).iso" size="7825162240" crc="af8490a4" md5="65e19815aba52dd4c557f53e2f38c4de" sha1="4a8a4fb48936b03c4b2e16da7753940c98b6a739"/>
 	</game>
-	<game name="Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko)">
+	<game name="Gungriffon - Allied Strike (USA, Asia) (En,Ja,Ko)">
 		<category>Games</category>
-		<description>Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko)</description>
-		<rom name="Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko).iso" size="7825162240" crc="f9d4bb0e" md5="28a3d4c90fc1126e84e24e300606721f" sha1="0d1ba0ec1e07a607ab80798576cabd81bd938e4e"/>
+		<description>Gungriffon - Allied Strike (USA, Asia) (En,Ja,Ko)</description>
+		<rom name="Gungriffon - Allied Strike (USA, Asia) (En,Ja,Ko).iso" size="7825162240" crc="f9d4bb0e" md5="28a3d4c90fc1126e84e24e300606721f" sha1="0d1ba0ec1e07a607ab80798576cabd81bd938e4e"/>
 	</game>
 	<game name="Gunmetal (USA)">
 		<category>Games</category>
@@ -2447,10 +2447,10 @@
 		<description>King of Fighters, The - Neowave (USA) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="King of Fighters, The - Neowave (USA) (En,Ja,Fr,De,Es,It).iso" size="7825162240" crc="0734b921" md5="13d46d7ad0ed9f6080bd27805c9819ff" sha1="ec29aac5abe660fc2180b98241e459d719282f27"/>
 	</game>
-	<game name="Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko)">
+	<game name="Kingdom Under Fire - Heroes (World) (En,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko)</description>
-		<rom name="Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko).iso" size="7825162240" crc="200a1c86" md5="6e87c6defbeb263d25d4f065014df148" sha1="68691489999ea538bfdc813f83202ac22de6dbf3"/>
+		<description>Kingdom Under Fire - Heroes (World) (En,Fr,De,Es,It,Ko)</description>
+		<rom name="Kingdom Under Fire - Heroes (World) (En,Fr,De,Es,It,Ko).iso" size="7825162240" crc="200a1c86" md5="6e87c6defbeb263d25d4f065014df148" sha1="68691489999ea538bfdc813f83202ac22de6dbf3"/>
 	</game>
 	<game name="Kingdom Under Fire - The Crusaders (USA, Korea) (En,Ko)">
 		<category>Games</category>
