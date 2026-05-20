@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (616) (-y) [-aAbBcdkmMpPuv] (2026-05-17 22-42-54) (Retool)</description>
-		<version>2026-05-17 22-42-54</version>
-		<date>2026-05-19 06-37-14</date>
+		<description>Apple - Macintosh (618) (-y) [-aAbBcdkmMpPuv] (2026-05-19 10-00-31) (Retool)</description>
+		<version>2026-05-19 10-00-31</version>
+		<date>2026-05-20 06-24-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3236,6 +3236,12 @@
 		<rom name="Racing Days R (Europe) (En,Fr,De) (Track 9).bin" size="22099392" crc="86e2c01e" md5="54202c8c2d7ad1ef19813df4ce30b5aa" sha1="c6e34a4cc3dc49b8d2e8a2fba91b3fe7e3015018"/>
 		<rom name="Racing Days R (Europe) (En,Fr,De).cue" size="1148" crc="c5fc0acc" md5="de488249f97917ff0b292689580d3151" sha1="6d068fa76105ec5547e5a55bdde030913cd82d29"/>
 	</game>
+	<game name="Radio Active (USA)">
+		<category>Games</category>
+		<description>Radio Active (USA)</description>
+		<rom name="Radio Active (USA).bin" size="691805520" crc="8f9b0488" md5="4ca11e2f01d49b003b0ea37a34ec3341" sha1="405f07c15e5a150370412c20997cd35cab427f7c"/>
+		<rom name="Radio Active (USA).cue" size="107" crc="71a449ca" md5="3a7709bb4e5ee3f27ef256709174711e" sha1="63151854a06badfc8cdce6597ee46a355c01621e"/>
+	</game>
 	<game name="Railroad Tycoon 3 (USA) (Disc 1) (Install)">
 		<category>Games</category>
 		<description>Railroad Tycoon 3 (USA) (Disc 1) (Install)</description>
@@ -3791,6 +3797,11 @@
 		<category>Add-Ons</category>
 		<description>Sims 2, The - University (Expansion Pack) (USA)</description>
 		<rom name="Sims 2, The - University (Expansion Pack) (USA).iso" size="798162944" crc="34d74eeb" md5="b93027b48fca3cdab77bfd741add00c2" sha1="6e731ff46884c05d7ea4d4fc080ebc6b2eee819f"/>
+	</game>
+	<game name="Sims Pet Stories, The (Europe)">
+		<category>Games</category>
+		<description>Sims Pet Stories, The (Europe)</description>
+		<rom name="Sims Pet Stories, The (Europe).iso" size="2834190336" crc="cddb4185" md5="73c6a371a0d1fd9a7ff3a946416e05a6" sha1="b009ee41ab168c946c7a7a40a5203d26a5586cdd"/>
 	</game>
 	<game name="Sims, The - Complete Collection (USA, Canada) (En,Fr)">
 		<category>Games</category>
