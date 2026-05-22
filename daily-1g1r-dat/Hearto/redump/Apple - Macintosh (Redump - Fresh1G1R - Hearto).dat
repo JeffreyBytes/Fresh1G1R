@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (572) (-y) [-aAbBcefkmMoprv] (2026-05-19 10-00-31) (Retool)</description>
-		<version>2026-05-19 10-00-31</version>
-		<date>2026-05-21 06-21-59</date>
+		<description>Apple - Macintosh (572) (-y) [-aAbBcefkmMoprv] (2026-05-21 17-51-03) (Retool)</description>
+		<version>2026-05-21 17-51-03</version>
+		<date>2026-05-22 06-21-29</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3419,10 +3419,10 @@
 		<description>Sims 2, The - University (Expansion Pack) (USA)</description>
 		<rom name="Sims 2, The - University (Expansion Pack) (USA).iso" size="798162944" crc="34d74eeb" md5="b93027b48fca3cdab77bfd741add00c2" sha1="6e731ff46884c05d7ea4d4fc080ebc6b2eee819f"/>
 	</game>
-	<game name="Sims Pet Stories, The (Europe)">
+	<game name="Sims Pet Stories, The (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Sims Pet Stories, The (Europe)</description>
-		<rom name="Sims Pet Stories, The (Europe).iso" size="2834190336" crc="cddb4185" md5="73c6a371a0d1fd9a7ff3a946416e05a6" sha1="b009ee41ab168c946c7a7a40a5203d26a5586cdd"/>
+		<description>Sims Pet Stories, The (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Sims Pet Stories, The (Europe) (En,Fr,De,Es,It).iso" size="2834190336" crc="cddb4185" md5="73c6a371a0d1fd9a7ff3a946416e05a6" sha1="b009ee41ab168c946c7a7a40a5203d26a5586cdd"/>
 	</game>
 	<game name="Sims, The - Complete Collection (USA, Canada) (En,Fr)">
 		<category>Games</category>
