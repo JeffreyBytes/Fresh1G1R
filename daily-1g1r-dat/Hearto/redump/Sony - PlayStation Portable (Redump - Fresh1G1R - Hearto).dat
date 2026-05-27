@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,840) (-y) [-aAbBcefkmMoprv] (2026-05-20 23-22-14) (Retool)</description>
-		<version>2026-05-20 23-22-14</version>
-		<date>2026-05-25 06-53-44</date>
+		<description>Sony - PlayStation Portable (1,841) (-y) [-aAbBcefkmMoprv] (2026-05-27 08-14-29) (Retool)</description>
+		<version>2026-05-27 08-14-29</version>
+		<date>2026-05-27 06-38-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2041,10 +2041,10 @@
 		<description>Evangelion - Jo (Japan)</description>
 		<rom name="Evangelion - Jo (Japan).iso" size="773881856" crc="4375d1ca" md5="d5717fb31da39cf9ea31f69e6764c28f" sha1="d757d16a942fe225852c2e041c5b6b15c5a25dce"/>
 	</game>
-	<game name="Evangelion Shin Gekijou-ban - 3nd Impact (Japan, Asia)">
+	<game name="Evangelion Shin Gekijouban - 3nd Impact (Japan, Asia)">
 		<category>Games</category>
-		<description>Evangelion Shin Gekijou-ban - 3nd Impact (Japan, Asia)</description>
-		<rom name="Evangelion Shin Gekijou-ban - 3nd Impact (Japan, Asia).iso" size="1142915072" crc="d8515c17" md5="d1752ec00c5a9974eb94154eb1bd06fc" sha1="1797fefd53e8e993f9f1e0206d1d634462e46701"/>
+		<description>Evangelion Shin Gekijouban - 3nd Impact (Japan, Asia)</description>
+		<rom name="Evangelion Shin Gekijouban - 3nd Impact (Japan, Asia).iso" size="1142915072" crc="d8515c17" md5="d1752ec00c5a9974eb94154eb1bd06fc" sha1="1797fefd53e8e993f9f1e0206d1d634462e46701"/>
 	</game>
 	<game name="Ever 17 - The Out of Infinity - Premium Edition (Japan)">
 		<category>Games</category>
@@ -3351,15 +3351,15 @@
 		<description>Infinite Loop - Kojou ga Miseta Yume (Japan)</description>
 		<rom name="Infinite Loop - Kojou ga Miseta Yume (Japan).iso" size="937492480" crc="99f4c6b9" md5="3aaefdaa3b109476d47be5cb5e780e06" sha1="765d7204476b95a495f1f0ac8b1a1f23a5269574"/>
 	</game>
-	<game name="Initial D - Street Stage (Japan)">
-		<category>Games</category>
-		<description>Initial D - Street Stage (Japan)</description>
-		<rom name="Initial D - Street Stage (Japan).iso" size="1187938304" crc="23b9e647" md5="225f1f56c37097c7a11ecaddd52abbf1" sha1="637150702ac7e0418fe58cfca71c948da2746fa2"/>
-	</game>
 	<game name="Initial D - Street Stage (Japan) (Taikenban)">
 		<category>Demos</category>
 		<description>Initial D - Street Stage (Japan) (Taikenban)</description>
 		<rom name="Initial D - Street Stage (Japan) (Taikenban).iso" size="1187938304" crc="4a79dca1" md5="e743f16ee023f07cd6fbb62318bf43c9" sha1="4cea098c3cbd08d650caf42cce2b2cece6d2428e"/>
+	</game>
+	<game name="Initial D - Street Stage (Japan, Asia)">
+		<category>Games</category>
+		<description>Initial D - Street Stage (Japan, Asia)</description>
+		<rom name="Initial D - Street Stage (Japan, Asia).iso" size="1187938304" crc="23b9e647" md5="225f1f56c37097c7a11ecaddd52abbf1" sha1="637150702ac7e0418fe58cfca71c948da2746fa2"/>
 	</game>
 	<game name="Innocent Life - A Futuristic Harvest Moon (USA)">
 		<category>Games</category>
@@ -7096,15 +7096,15 @@
 		<description>Shin Sangoku Musou - Multi Raid (Japan) (Taikenban)</description>
 		<rom name="Shin Sangoku Musou - Multi Raid (Japan) (Taikenban).iso" size="389349376" crc="6cc4a3f7" md5="530756ad1923f0dab9e4861b4e1955fa" sha1="e91dacfed0f2934306aab6e9c99e5a12920a5cf5"/>
 	</game>
-	<game name="Shin Sangoku Musou - Multi Raid 2 (Japan)">
-		<category>Games</category>
-		<description>Shin Sangoku Musou - Multi Raid 2 (Japan)</description>
-		<rom name="Shin Sangoku Musou - Multi Raid 2 (Japan).iso" size="1703280640" crc="05797f7e" md5="1623a293edca9a32bc9e768fa5e37233" sha1="36df858b300051d473295240cd0ee2e50bb0bc2d"/>
-	</game>
 	<game name="Shin Sangoku Musou - Multi Raid 2 (Japan) (Taikenban)">
 		<category>Demos</category>
 		<description>Shin Sangoku Musou - Multi Raid 2 (Japan) (Taikenban)</description>
 		<rom name="Shin Sangoku Musou - Multi Raid 2 (Japan) (Taikenban).iso" size="753467392" crc="441c2bd6" md5="4071b4b147a4bf1213f58df291491942" sha1="65efcb2e3a5510e561130f0f7049cfcfc5609ccf"/>
+	</game>
+	<game name="Shin Sangoku Musou - Multi Raid 2 (Japan, Asia)">
+		<category>Games</category>
+		<description>Shin Sangoku Musou - Multi Raid 2 (Japan, Asia)</description>
+		<rom name="Shin Sangoku Musou - Multi Raid 2 (Japan, Asia).iso" size="1703280640" crc="05797f7e" md5="1623a293edca9a32bc9e768fa5e37233" sha1="36df858b300051d473295240cd0ee2e50bb0bc2d"/>
 	</game>
 	<game name="Shin Sangoku Musou 5 Empires (Japan)">
 		<category>Games</category>
@@ -9195,6 +9195,11 @@
 		<category>Games</category>
 		<description>Zettai Zetsumei Toshi 3 - Kowareyuku Machi to Kanojo no Uta (Japan) (v2.00)</description>
 		<rom name="Zettai Zetsumei Toshi 3 - Kowareyuku Machi to Kanojo no Uta (Japan) (v2.00).iso" size="1721270272" crc="aee0579c" md5="5f038b4777c16035a8d14ac67de48617" sha1="7ab97c9092b190fea93988c697df7538b70a8b05"/>
+	</game>
+	<game name="Zhen Sanguo Wushuang - Multi Raid 2 (Asia)">
+		<category>Games</category>
+		<description>Zhen Sanguo Wushuang - Multi Raid 2 (Asia)</description>
+		<rom name="Zhen Sanguo Wushuang - Multi Raid 2 (Asia).iso" size="1703837696" crc="82abb2b0" md5="ee13a0e6cc301dc1b41d150cd62f15ed" sha1="28fbda58ea9aaeb88bba0e4c2487cfcdaa453a3b"/>
 	</game>
 	<game name="Zill O'll Infinite Plus (Japan)">
 		<category>Games</category>

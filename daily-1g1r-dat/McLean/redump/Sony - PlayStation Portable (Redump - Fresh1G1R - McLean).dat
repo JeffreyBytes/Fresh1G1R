@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (735) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-20 23-22-14) (Retool)</description>
-		<version>2026-05-20 23-22-14</version>
-		<date>2026-05-25 06-55-22</date>
+		<description>Sony - PlayStation Portable (736) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-27 08-14-29) (Retool)</description>
+		<version>2026-05-27 08-14-29</version>
+		<date>2026-05-27 06-40-06</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3685,5 +3685,10 @@
 		<category>Games</category>
 		<description>Zendoku (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Zendoku (Europe) (En,Fr,De,Es,It).iso" size="76120064" crc="8a4d93a1" md5="ddbed74b59f18a01ab4d2eb061dcf1dd" sha1="8590d163bf643b828a2587cdfb8a63e71601aa6b"/>
+	</game>
+	<game name="Zhen Sanguo Wushuang - Multi Raid 2 (Asia)">
+		<category>Games</category>
+		<description>Zhen Sanguo Wushuang - Multi Raid 2 (Asia)</description>
+		<rom name="Zhen Sanguo Wushuang - Multi Raid 2 (Asia).iso" size="1703837696" crc="82abb2b0" md5="ee13a0e6cc301dc1b41d150cd62f15ed" sha1="28fbda58ea9aaeb88bba0e4c2487cfcdaa453a3b"/>
 	</game>
 </datafile>
