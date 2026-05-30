@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (736) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-28 16-02-13) (Retool)</description>
-		<version>2026-05-28 16-02-13</version>
-		<date>2026-05-29 06-30-22</date>
+		<description>Sony - PlayStation Portable (736) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-29 09-26-18) (Retool)</description>
+		<version>2026-05-29 09-26-18</version>
+		<date>2026-05-30 06-06-17</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -56,10 +56,10 @@
 		<description>ATV Offroad Fury Pro (USA)</description>
 		<rom name="ATV Offroad Fury Pro (USA).iso" size="885850112" crc="5ac09974" md5="28dec59ee4a4697490ee192f4903550e" sha1="4ef203fbb494fd75e691cd2f7d7270f9153af2ea"/>
 	</game>
-	<game name="Ace Combat - Joint Assault (USA)">
+	<game name="Ace Combat - Joint Assault (USA) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Ace Combat - Joint Assault (USA)</description>
-		<rom name="Ace Combat - Joint Assault (USA).iso" size="1768357888" crc="062dffce" md5="41ed76ee6999b205dd3585f95a80d0fe" sha1="eb5295e9295e02ecb3f121e3f5b940a4bd7bf30c"/>
+		<description>Ace Combat - Joint Assault (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Ace Combat - Joint Assault (USA) (En,Ja,Fr,De,Es,It).iso" size="1768357888" crc="062dffce" md5="41ed76ee6999b205dd3585f95a80d0fe" sha1="eb5295e9295e02ecb3f121e3f5b940a4bd7bf30c"/>
 	</game>
 	<game name="Ace Combat X - Skies of Deception (USA) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>

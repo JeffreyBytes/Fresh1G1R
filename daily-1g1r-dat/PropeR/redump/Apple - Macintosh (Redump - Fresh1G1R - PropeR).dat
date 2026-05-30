@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (618) (-y) [-aAbBcdkmMpPuv] (2026-05-26 12-34-39) (Retool)</description>
-		<version>2026-05-26 12-34-39</version>
-		<date>2026-05-29 06-30-26</date>
+		<description>Apple - Macintosh (619) (-y) [-aAbBcdkmMpPuv] (2026-05-29 17-19-17) (Retool)</description>
+		<version>2026-05-29 17-19-17</version>
+		<date>2026-05-30 06-06-21</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -605,6 +605,12 @@
 		<description>Boiler Plate Special (USA)</description>
 		<rom name="Boiler Plate Special (USA).bin" size="291332832" crc="d59732df" md5="a039755e6af55bad8d00060542c2b142" sha1="6f1bc083d90297cab757631215e3d00ccf5d219e"/>
 		<rom name="Boiler Plate Special (USA).cue" size="92" crc="05b6b837" md5="3431fd2b1ef0d93b0f92e979661f4557" sha1="5ed40cf64335540c10983ef4f94b0d77aa9a11c0"/>
+	</game>
+	<game name="Bookworm Deluxe (USA)">
+		<category>Games</category>
+		<description>Bookworm Deluxe (USA)</description>
+		<rom name="Bookworm Deluxe (USA).bin" size="15055152" crc="4eff3001" md5="c1dae667b0266280f44f940a3d2a6041" sha1="3c1e4c2a20da0ef1796d37525f6bc4d4837620af"/>
+		<rom name="Bookworm Deluxe (USA).cue" size="87" crc="2e7e94eb" md5="88986bae762d6b7816082571b1ac3f1a" sha1="f29c6f51442ca9a5da9d13bb16d34147118bbdf1"/>
 	</game>
 	<game name="Bugdom (USA)">
 		<category>Games</category>
