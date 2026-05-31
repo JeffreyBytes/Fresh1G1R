@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DSi (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DSi (Decrypted) (9) (-y) [-aAbBcefkmMoprv] (20251108-084929) (Retool)</description>
-		<version>20251108-084929</version>
-		<date>2026-04-22 05-04-45</date>
-		<author>aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
+		<description>Nintendo - Nintendo DSi (Decrypted) (9) (-y) [-aAbBcefkmMoprv] (20260523-201132) (Retool)</description>
+		<version>20260523-201132</version>
+		<date>2026-05-31 06-45-25</date>
+		<author>1988reload, aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -34,7 +34,7 @@
 	<game name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)" id="z002">
 		<category>Games</category>
 		<description>NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="434f423b" md5="f277a49a1a108d8bdda1c50f406db812" sha1="e589cab2eb62b1938dd3aeafc764e0454c99c5aa"/>
+		<rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="434f423b" md5="f277a49a1a108d8bdda1c50f406db812" sha1="e589cab2eb62b1938dd3aeafc764e0454c99c5aa" sha256="a9920e197528722faa2fec34e152eaf7f574ec112758efef55a64a0f37a85b3f"/>
 	</game>
 	<game name="Nintendo DSi XL Demo Video (USA)" id="0010">
 		<category>Demos</category>

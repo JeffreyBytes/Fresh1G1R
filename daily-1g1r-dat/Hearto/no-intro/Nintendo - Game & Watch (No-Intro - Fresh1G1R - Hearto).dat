@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game &amp; Watch (Retool)</name>
-		<description>Nintendo - Game &amp; Watch (47) (-y) [-aAbBcefkmMoprv] (20241105-120946) (Retool)</description>
-		<version>20241105-120946</version>
-		<date>2026-04-22 05-04-57</date>
+		<description>Nintendo - Game &amp; Watch (47) (-y) [-aAbBcefkmMoprv] (20260512-134245) (Retool)</description>
+		<version>20260512-134245</version>
+		<date>2026-05-31 06-43-30</date>
 		<author>relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -39,6 +39,7 @@
 		<category>Games</category>
 		<description>Boxing (World)</description>
 		<game_id>BX-301</game_id>
+		<rom name="Boxing (World) (Melody).bin" size="256" crc="439d943d" md5="732105ce46290c6a1d9a2507a1892870" sha1="52880df15ec7513f96482f455ef3d9778aa24750" sha256="6e4736ebada050955f2f75ceeff85be744049510623ef6dc4286e37b411499ea"/>
 		<rom name="Boxing (World).bin" size="4096" crc="0fdf0303" md5="443ccb49946d1bbd3963642f17b93af1" sha1="0b791c9d4874e9534d0a9b7a8968ce02fe4bee96" sha256="927b582f26ee72230b4448867444bb800b259d1d1f16d7dce19e7adce16bd7a2"/>
 	</game>
 	<game name="Chef (World)" id="0011">

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (406) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-29 17-19-17) (Retool)</description>
-		<version>2026-05-29 17-19-17</version>
-		<date>2026-05-30 06-04-42</date>
+		<description>Apple - Macintosh (410) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-31 01-48-23) (Retool)</description>
+		<version>2026-05-31 01-48-23</version>
+		<date>2026-05-31 06-47-23</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -273,6 +273,11 @@
 		<rom name="Big Top's Cartoon Toolbox Starring Felix the Cat (USA).bin" size="174962928" crc="e180256d" md5="9a280d53ebb10c477ce5573a4ed0db58" sha1="8b100edb4432ec826527a2e0fab9c295be361ba8"/>
 		<rom name="Big Top's Cartoon Toolbox Starring Felix the Cat (USA).cue" size="120" crc="b7fe8618" md5="5d3e9619e752720c20b5ab4335ff4ac1" sha1="6c400946025c54114629c29bf26cdc79d118c1ae"/>
 	</game>
+	<game name="Bionicle (USA)">
+		<category>Games</category>
+		<description>Bionicle (USA)</description>
+		<rom name="Bionicle (USA).iso" size="8304427008" crc="36c70b10" md5="a4fdca0bb9f18ea5be0c625248741175" sha1="980a6a4157ed97a707ede9db05157a6e256efd83"/>
+	</game>
 	<game name="Black &amp; White - Platinum Pack (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi)">
 		<category>Games</category>
 		<description>Black &amp; White - Platinum Pack (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi)</description>
@@ -440,6 +445,11 @@
 		<description>Cheerios - Play Time (USA)</description>
 		<rom name="Cheerios - Play Time (USA).bin" size="44189376" crc="16d60be2" md5="1de8885a6e1f161ef05296773372bcf2" sha1="33a48c929eb166e601d006b37efa8185dc236fd1"/>
 		<rom name="Cheerios - Play Time (USA).cue" size="92" crc="96ce3e76" md5="5c731fae5699f6fd5ed4b2b573323c52" sha1="681a92c516f0d0a87840455e653adf4905da24eb"/>
+	</game>
+	<game name="Chessmaster 9000 (USA)">
+		<category>Games</category>
+		<description>Chessmaster 9000 (USA)</description>
+		<rom name="Chessmaster 9000 (USA).iso" size="8388608000" crc="7411a188" md5="3ac0b38f6a2c911e868a25d23f9b1db0" sha1="50ff2618b73e49adbbab46d03c18c36d3526efae"/>
 	</game>
 	<game name="Chop Suey (USA)">
 		<category>Games</category>
@@ -2104,6 +2114,12 @@
 		<rom name="Shanghai - Double Pack (USA).bin" size="671303136" crc="888d08ef" md5="a1265662399bc20575bd2c5c91cdf136" sha1="e60f423d6e5f995633edb992ed132bae80b3b720"/>
 		<rom name="Shanghai - Double Pack (USA).cue" size="94" crc="681b726b" md5="aafabab71d73160511882a5487e9f6dd" sha1="60b2e03332719f290f180f83a82632070fa6adf7"/>
 	</game>
+	<game name="Sheep (USA)">
+		<category>Games</category>
+		<description>Sheep (USA)</description>
+		<rom name="Sheep (USA).bin" size="685878480" crc="ec8500cd" md5="741b8b746db1aadd115797c2bfc2f011" sha1="5d1a18a1b0e730b4d9f22de75df6452dde886cd0"/>
+		<rom name="Sheep (USA).cue" size="77" crc="71f1e0e5" md5="82d6904ce0db78cdbf7dfde133f6dada" sha1="8c921b502c755dd60e3be0f2dae8ced8bb4e50cb"/>
+	</game>
 	<game name="Sherlock Holmes - Consulting Detective (USA)">
 		<category>Games</category>
 		<description>Sherlock Holmes - Consulting Detective (USA)</description>
@@ -2209,6 +2225,12 @@
 		<description>SimCity Enhanced CD-ROM (USA)</description>
 		<rom name="SimCity Enhanced CD-ROM (USA).bin" size="753347952" crc="da00d947" md5="a5cb6281a22759f356feb40997fd1162" sha1="63f1d5203b1b85075fa5d3ed8008db02452eecf8"/>
 		<rom name="SimCity Enhanced CD-ROM (USA).cue" size="118" crc="0da880a5" md5="5d5acd61753ba4b842e60cd97e615fe0" sha1="017378c98fa0b621dfcd651a4e2e2155478c238f"/>
+	</game>
+	<game name="SimTheme Park (USA)">
+		<category>Games</category>
+		<description>SimTheme Park (USA)</description>
+		<rom name="SimTheme Park (USA).bin" size="498489936" crc="d83695cf" md5="94d5146bd956dba17e6c0e71e75dad29" sha1="0f1cc586664082e9368687544b53da1234781fc2"/>
+		<rom name="SimTheme Park (USA).cue" size="85" crc="11b7237e" md5="7a5b2101e897252adbc6a8fd6688f1b1" sha1="30e0d950b340197b27873f612c6667bbdc082d3c"/>
 	</game>
 	<game name="SimTown - The Town You Build Yourself! (USA)">
 		<category>Games</category>

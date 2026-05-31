@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Color (Retool)</name>
-		<description>Nintendo - Game Boy Color (553) (-ly) [-aAbBcdDefkmMopPruv] (20260420-124813) (Retool)</description>
-		<version>20260420-124813</version>
-		<date>2026-04-22 05-11-52</date>
+		<description>Nintendo - Game Boy Color (556) (-ly) [-aAbBcdDefkmMopPruv] (20260529-045215) (Retool)</description>
+		<version>20260529-045215</version>
+		<date>2026-05-31 06-50-53</date>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -789,7 +789,7 @@
 	<game name="Gex - Enter the Gecko (USA, Europe) (GB Compatible)" id="0399">
 		<category>Games</category>
 		<description>Gex - Enter the Gecko (USA, Europe) (GB Compatible)</description>
-		<rom name="Gex - Enter the Gecko (USA, Europe) (GB Compatible).gbc" size="1048576" crc="dccc7514" md5="f0462eba75d879c40668e20d1dbdb612" sha1="a05a530b3272634c8d3fedb6fd6eaf8b00b5cf9c"/>
+		<rom name="Gex - Enter the Gecko (USA, Europe) (GB Compatible).gbc" size="1048576" crc="dccc7514" md5="f0462eba75d879c40668e20d1dbdb612" sha1="a05a530b3272634c8d3fedb6fd6eaf8b00b5cf9c" sha256="ca9d168e068492644cf054a2e35f0bccc31af5899e54c05a2cbc740247014a51"/>
 	</game>
 	<game name="Gex 3 - Deep Pocket Gecko (USA)" id="0401">
 		<category>Games</category>
@@ -2031,6 +2031,11 @@
 		<description>Rugrats - Time Travelers (USA, Europe) (GB Compatible)</description>
 		<rom name="Rugrats - Time Travelers (USA, Europe) (GB Compatible).gbc" size="1048576" crc="9c743f03" md5="069b01643e876ec91a5555450068f4ac" sha1="680b38692f9cbd1e9e37ccfe45c5f65817164ec2" sha256="a1d4ca4eb27f14080bfa7e48be047d33f67b5f43f488fe378efabdd7fef1b262"/>
 	</game>
+	<game name="Rugrats - Time Travelers (World) (Retro Rewind Collection) (GB Compatible)" id="2878">
+		<category>Games</category>
+		<description>Rugrats - Time Travelers (World) (Retro Rewind Collection) (GB Compatible)</description>
+		<rom name="Rugrats - Time Travelers (World) (Retro Rewind Collection) (GB Compatible).gbc" size="1048576" crc="71214856" md5="090af42f7c361bc0fef9774468358bfc" sha1="8ddc7c625b4849289957042527f97a8b07b9bd46" sha256="9300b18884d6ca1ac21d993f66ad9884b7302d0960ef1874260761fcb7ba00dd"/>
+	</game>
 	<game name="Rugrats - Totally Angelica (USA, Europe)" id="1046">
 		<category>Games</category>
 		<description>Rugrats - Totally Angelica (USA, Europe)</description>
@@ -2041,10 +2046,20 @@
 		<description>Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="febe2606" md5="1383da42b08bf94b6fad381cada66fad" sha1="c64ddf11c12d34f13d86e4a468b1eedacb698081"/>
 	</game>
+	<game name="Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced) (GB Compatible)" id="2877">
+		<category>Games</category>
+		<description>Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="46407106" md5="3aeff16dec6f007ed975f367d03eb761" sha1="3df4073ec451b8a0f15175f7f00b134c0b550447" sha256="913839f619437f2ac88cfb8657547a721c2b92bb5cf1152a5ab233a37f862d50"/>
+	</game>
 	<game name="Rugrats in Paris - The Movie (USA, Europe)" id="1049">
 		<category>Games</category>
 		<description>Rugrats in Paris - The Movie (USA, Europe)</description>
 		<rom name="Rugrats in Paris - The Movie (USA, Europe).gbc" size="1048576" crc="8b195237" md5="c1dee0a8036d61d1483a793126da3b45" sha1="f4cdc771299e9e6539443a9c9d62d3842877e618" sha256="d769aad02ded9685ae14a5286a0f0a2a109e444376e3956f3a99b9b1a07e7f5c"/>
+	</game>
+	<game name="Rugrats in Paris - The Movie (World) (Retro Rewind Collection)" id="2879">
+		<category>Games</category>
+		<description>Rugrats in Paris - The Movie (World) (Retro Rewind Collection)</description>
+		<rom name="Rugrats in Paris - The Movie (World) (Retro Rewind Collection).gbc" size="1048576" crc="3ff71758" md5="88523e0012e431aecbac1701f31158c8" sha1="f8a12a6ace378e0a9091f0e09fe3c421ad201ff0" sha256="69f1b966053ca220b30cb31469c68997ebc3f1010f1e07d72cb608b8aaef9288"/>
 	</game>
 	<game name="SWiV (Europe) (En,Fr,De,Es,It)" id="1163">
 		<category>Games</category>
@@ -2474,7 +2489,7 @@
 	<game name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)" id="1246">
 		<category>Games</category>
 		<description>Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="47aecb95" md5="ef032b6f603b3a290a91d40cb9c4b3e6" sha1="0c8506de2349ecf5241692da2aff239a0c40d862"/>
+		<rom name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="47aecb95" md5="ef032b6f603b3a290a91d40cb9c4b3e6" sha1="0c8506de2349ecf5241692da2aff239a0c40d862" sha256="d1d87a478143bc157242d78f27c9563c5a9c0932608e020b2a26f0fe780842c2"/>
 	</game>
 	<game name="Toy Story Racer (USA, Europe)" id="1248">
 		<category>Games</category>

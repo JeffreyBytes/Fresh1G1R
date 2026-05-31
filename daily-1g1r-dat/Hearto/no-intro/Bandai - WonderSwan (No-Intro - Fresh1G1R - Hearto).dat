@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Bandai - WonderSwan (Retool)</name>
-		<description>Bandai - WonderSwan (208) (-y) [-aAbBcefkmMoprv] (20260124-123054) (Retool)</description>
-		<version>20260124-123054</version>
-		<date>2026-04-22 05-08-07</date>
-		<author>C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, rarenight, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
+		<description>Bandai - WonderSwan (208) (-y) [-aAbBcefkmMoprv] (20260525-011654) (Retool)</description>
+		<version>20260525-011654</version>
+		<date>2026-05-31 06-46-46</date>
+		<author>1988reload, C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, rarenight, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -163,7 +163,7 @@
 	<game name="Crazy Climber (Japan)" id="0012">
 		<category>Games</category>
 		<description>Crazy Climber (Japan)</description>
-		<rom name="Crazy Climber (Japan).ws" size="1048576" crc="0cb57376" md5="0ed3a08a3a9858f65d1487889645dc55" sha1="a88882426bf435416616191902a26b2b066f2491"/>
+		<rom name="Crazy Climber (Japan).ws" size="1048576" crc="0cb57376" md5="0ed3a08a3a9858f65d1487889645dc55" sha1="a88882426bf435416616191902a26b2b066f2491" sha256="9c76bddfc31eb9e82a2ffb0dea6f026ebf560defea105714c1df933588258d25"/>
 	</game>
 	<game name="D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)" id="0013">
 		<category>Games</category>
@@ -559,7 +559,7 @@
 	<game name="Neon Genesis Evangelion - Shito Ikusei (Japan)" id="0062">
 		<category>Games</category>
 		<description>Neon Genesis Evangelion - Shito Ikusei (Japan)</description>
-		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan).ws" size="2097152" crc="bf8d9212" md5="0215c4b8a395f6fcf8f5b07605eae08b" sha1="ae31488cee1c91f383efbe3083b4abec092dda36"/>
+		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan).ws" size="2097152" crc="bf8d9212" md5="0215c4b8a395f6fcf8f5b07605eae08b" sha1="ae31488cee1c91f383efbe3083b4abec092dda36" sha256="f638c48c81400a067697b6e21dfdb4551d2e68ec8a9c0e8d185bb15b024cc892"/>
 	</game>
 	<game name="Nice On (Japan) (Rev 1)" id="0063">
 		<category>Games</category>
@@ -786,7 +786,7 @@
 	<game name="Shougi Touryuumon (Japan)" id="0085">
 		<category>Games</category>
 		<description>Shougi Touryuumon (Japan)</description>
-		<rom name="Shougi Touryuumon (Japan).ws" size="1048576" crc="3ad194eb" md5="f95259c0c48527db0f8a63cb3e9b0527" sha1="0bc88b0affa97225e22c531306e9930ddb8f8905"/>
+		<rom name="Shougi Touryuumon (Japan).ws" size="1048576" crc="3ad194eb" md5="f95259c0c48527db0f8a63cb3e9b0527" sha1="0bc88b0affa97225e22c531306e9930ddb8f8905" sha256="5f88684bd930817a34616dc33bc258adf51bfc8b0e5c3275f69d7d81369257b8"/>
 	</game>
 	<game name="Side Pocket for WonderSwan (Japan)" id="0086">
 		<category>Games</category>
@@ -898,7 +898,7 @@
 	<game name="Tetsujin 28 Gou (Japan)" id="0100">
 		<category>Games</category>
 		<description>Tetsujin 28 Gou (Japan)</description>
-		<rom name="Tetsujin 28 Gou (Japan).ws" size="4194304" crc="6f304dca" md5="8b8ea655dbea4a3152b300126556404c" sha1="65c4c6aaa36328bba5d56419af59af5d3420ed78"/>
+		<rom name="Tetsujin 28 Gou (Japan).ws" size="4194304" crc="6f304dca" md5="8b8ea655dbea4a3152b300126556404c" sha1="65c4c6aaa36328bba5d56419af59af5d3420ed78" sha256="ebc2dc94b9fb27a7286f0e596c3b2b0a3df41e1c69ff9a228b256e2533a307ee"/>
 	</game>
 	<game name="Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)" id="0101">
 		<category>Games</category>
@@ -990,7 +990,7 @@
 	<game name="Vaitz Blade (Japan) (Rev 1)" id="0108">
 		<category>Games</category>
 		<description>Vaitz Blade (Japan) (Rev 1)</description>
-		<rom name="Vaitz Blade (Japan) (Rev 1).ws" size="4194304" crc="8fc9e145" md5="49a2932821583fa7d3ed07312b47ab32" sha1="cfb877f0988920c8fe4da5cdd7583197799df621"/>
+		<rom name="Vaitz Blade (Japan) (Rev 1).ws" size="4194304" crc="8fc9e145" md5="49a2932821583fa7d3ed07312b47ab32" sha1="cfb877f0988920c8fe4da5cdd7583197799df621" sha256="79684aebdba651a9e2698daac157cd34b9726bb7c177da22b613812f4af3359c"/>
 	</game>
 	<game name="Virus (World) (WonderWitch) (Unl)" id="0219">
 		<category>Games</category>

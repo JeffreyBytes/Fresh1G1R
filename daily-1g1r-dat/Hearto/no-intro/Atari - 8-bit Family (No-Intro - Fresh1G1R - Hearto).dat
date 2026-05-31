@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - 8-bit Family (Retool)</name>
-		<description>Atari - 8-bit Family (35) (-y) [-aAbBcefkmMoprv] (20260404-070158) (Retool)</description>
-		<version>20260404-070158</version>
-		<date>2026-04-22 05-07-34</date>
+		<description>Atari - 8-bit Family (36) (-y) [-aAbBcefkmMoprv] (20260516-045836) (Retool)</description>
+		<version>20260516-045836</version>
+		<date>2026-05-31 06-43-40</date>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -40,6 +40,11 @@
 		<category>Games</category>
 		<description>Archon (USA, Europe)</description>
 		<rom name="Archon (USA, Europe).bin" size="32768" crc="2636829f" md5="77aba8e96975b4bb7a714591505ce38f" sha1="bfb2782a117cf3efd5b71e225052f737658864c4" sha256="4ef364bd2d9213a0bc5c0960cd1383a93e690175b82ddf886d5b8e3d1dda276e"/>
+	</game>
+	<game name="Ballblazer (USA)" id="0042">
+		<category>Games</category>
+		<description>Ballblazer (USA)</description>
+		<rom name="Ballblazer (USA).bin" size="65536" crc="820e5ce5" md5="06944f52bc52ae8f548be5441dee939e" sha1="16820a57a10fd779ed160e8a25471882e23a719b" sha256="c029ec1e5f510e49e42dcfe48627efeef80c6e7cd254c27b4f399a3d9f9e428b"/>
 	</game>
 	<game name="Barnyard Blaster (USA, Europe)" id="0022">
 		<category>Games</category>

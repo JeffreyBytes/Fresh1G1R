@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari 2600 (Retool)</name>
-		<description>Atari - Atari 2600 (488) (-ly) [-aAbBcdDefkmMopPruv] (20260419-090902) (Retool)</description>
-		<version>20260419-090902</version>
-		<date>2026-04-22 05-13-24</date>
+		<description>Atari - Atari 2600 (489) (-ly) [-aAbBcdDefkmMopPruv] (20260529-062921) (Retool)</description>
+		<version>20260529-062921</version>
+		<date>2026-05-31 06-50-32</date>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1176,6 +1176,11 @@
 		<description>MegaMania - A Space Nightmare (USA)</description>
 		<rom name="MegaMania - A Space Nightmare (USA).a26" size="4096" crc="33edc33e" md5="318a9d6dda791268df92d72679914ac3" sha1="9c5748b38661dbadcbc9cd1ec6a6b0c550b0e3da" sha256="78e755782a00ac960afbf818f9446918f4938841a91b5d0fe47623b13e62feb1"/>
 	</game>
+	<game name="Meteor Defense (Europe)" id="0908">
+		<category>Games</category>
+		<description>Meteor Defense (Europe)</description>
+		<rom name="Meteor Defense (Europe).a26" size="4096" crc="bb47d5af" md5="6522717cfd75d1dba252cbde76992090" sha1="5cc122f10eb1a814d047404b462b325f51f35d2c" sha256="6e1a3835efc114490c8173234a21818a5952ef469002c1db33f864d17e8c093b"/>
+	</game>
 	<game name="Midnight Magic (USA)" id="0264">
 		<category>Games</category>
 		<description>Midnight Magic (USA)</description>
@@ -1226,10 +1231,10 @@
 		<description>Missile Control (Europe)</description>
 		<rom name="Missile Control (Europe).a26" size="4096" crc="ac80976b" md5="cb24210dc86d92df97b38cf2a51782da" sha1="224e7a310afdb91c6915743e72b7b53b38eb5754"/>
 	</game>
-	<game name="Missile War ~ Astro War (Europe)" id="0023">
+	<game name="Missile War ~ Astro War ~ Astrowar (Europe)" id="0023">
 		<category>Games</category>
-		<description>Missile War ~ Astro War (Europe)</description>
-		<rom name="Missile War ~ Astro War (Europe).a26" size="4096" crc="e83f5848" md5="317a4cdbab090dcc996833d07cb40165" sha1="eca0764f26168424633b620a9ff9b274b236135f"/>
+		<description>Missile War ~ Astro War ~ Astrowar (Europe)</description>
+		<rom name="Missile War ~ Astro War ~ Astrowar (Europe).a26" size="4096" crc="e83f5848" md5="317a4cdbab090dcc996833d07cb40165" sha1="eca0764f26168424633b620a9ff9b274b236135f"/>
 	</game>
 	<game name="Mission 3,000 A.D. (USA)" id="0577">
 		<category>Games</category>

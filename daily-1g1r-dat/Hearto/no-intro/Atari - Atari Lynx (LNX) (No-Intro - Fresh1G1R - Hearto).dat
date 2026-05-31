@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Atari - Atari Lynx (LNX) (Retool)</name>
-		<description>Atari - Atari Lynx (LNX) (15) (-y) [-aAbBcefkmMoprv] (20251222-090626) (Retool)</description>
-		<version>20251222-090626</version>
-		<date>2026-04-22 05-04-46</date>
+		<description>Atari - Atari Lynx (LNX) (15) (-y) [-aAbBcefkmMoprv] (20260528-102833) (Retool)</description>
+		<version>20260528-102833</version>
+		<date>2026-05-31 06-43-29</date>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

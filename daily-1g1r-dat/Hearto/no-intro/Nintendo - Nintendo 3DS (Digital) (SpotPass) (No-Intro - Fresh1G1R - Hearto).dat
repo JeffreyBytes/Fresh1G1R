@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Digital) (SpotPass) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Digital) (SpotPass) (562) (-y) [-aAbBcefkmMoprv] (20250620-172952) (Retool)</description>
-		<version>20250620-172952</version>
-		<date>2026-04-22 05-03-45</date>
-		<author>rarenight, ZeroSkill</author>
+		<description>Nintendo - Nintendo 3DS (Digital) (SpotPass) (562) (-y) [-aAbBcefkmMoprv] (20260508-123212) (Retool)</description>
+		<version>20260508-123212</version>
+		<date>2026-05-31 06-46-15</date>
+		<author>Hiccup, rarenight, ZeroSkill</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>

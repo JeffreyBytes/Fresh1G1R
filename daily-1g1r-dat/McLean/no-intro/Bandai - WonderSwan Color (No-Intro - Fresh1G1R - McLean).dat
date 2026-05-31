@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Bandai - WonderSwan Color (Retool)</name>
-		<description>Bandai - WonderSwan Color (4) (-ly) [-aAbBcdDefkmMopPruv] (20260415-165647) (Retool)</description>
-		<version>20260415-165647</version>
-		<date>2026-04-22 05-11-07</date>
-		<author>Arctic Circle System, C. V. Reynolds, Gefflon, Goratrix, Hiccup, nnssxx, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
+		<description>Bandai - WonderSwan Color (3) (-ly) [-aAbBcdDefkmMopPruv] (20260525-011610) (Retool)</description>
+		<version>20260525-011610</version>
+		<date>2026-05-31 06-49-52</date>
+		<author>1988reload, Arctic Circle System, C. V. Reynolds, Gefflon, Goratrix, Hiccup, nnssxx, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -19,16 +19,11 @@
 	<game name="Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En)" id="0008">
 		<category>Games</category>
 		<description>Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En)</description>
-		<rom name="Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En).wsc" size="4194304" crc="77689273" md5="47b23a84817217cc5b9bbd85fe634174" sha1="7a6411cf8a4d91e8a4e0532779f11bdd25b92363"/>
+		<rom name="Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En).wsc" size="4194304" crc="77689273" md5="47b23a84817217cc5b9bbd85fe634174" sha1="7a6411cf8a4d91e8a4e0532779f11bdd25b92363" sha256="72243cc16128c1de928b774dbf0a5fadd147204aa59ac2e213319f206d7a7632"/>
 	</game>
 	<game name="Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)" id="0010">
 		<category>Games</category>
 		<description>Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)</description>
-		<rom name="Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja).wsc" size="4194304" crc="c927bfcb" md5="71146ab7c32bd1524c27da0faefcf46a" sha1="757e92177385a14d979227edee1cb544b4c56bd6"/>
-	</game>
-	<game name="Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002)" id="0166">
-		<category>Games</category>
-		<description>Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002)</description>
-		<rom name="Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002).wsc" size="524288" crc="857c1f7a" md5="080a424f554156dfca066551a517c459" sha1="14b193efbc7c3667d8c84d0c6536737e75546c59" sha256="9be5d2ed927c4fad4dc126ce40886b9b401b5f3f89d045691e60cda2cd0f1e36"/>
+		<rom name="Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja).wsc" size="4194304" crc="c927bfcb" md5="71146ab7c32bd1524c27da0faefcf46a" sha1="757e92177385a14d979227edee1cb544b4c56bd6" sha256="58220b9c050c3bf29b4953885c9576be103ea8e00a7bcb96cca18607e19e9735"/>
 	</game>
 </datafile>

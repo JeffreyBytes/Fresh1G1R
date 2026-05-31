@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,400) (-y) [-aAbBcdkmMpPuv] (20260419-114840) (Retool)</description>
-		<version>20260419-114840</version>
-		<date>2026-04-22 05-18-39</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,401) (-y) [-aAbBcdkmMpPuv] (20260524-091014) (Retool)</description>
+		<version>20260524-091014</version>
+		<date>2026-05-31 06-55-53</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1746,10 +1746,10 @@
 		<description>Dynowarz - The Destruction of Spondylus (USA)</description>
 		<rom name="Dynowarz - The Destruction of Spondylus (USA).unh" size="262144" crc="bde93999" md5="9539cd44013c3a2a5fd6982c59e9bba8" sha1="08202b80a3178d827d1a09238066e531345cdb12" sha256="690ec2de233486d9fdb1e096ca4aa07aa6e764b0d6d6417454d0a770c875078d"/>
 	</game>
-	<game name="EarthBound Beginnings (USA, Europe) (Virtual Console)" id="0646">
+	<game name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)" id="0646">
 		<category>Games</category>
-		<description>EarthBound Beginnings (USA, Europe) (Virtual Console)</description>
-		<rom name="EarthBound Beginnings (USA, Europe) (Virtual Console).unh" size="524288" crc="53a9e2ba" md5="84e8fed10d7c339f726d52cb152078e1" sha1="8e9bd7f4d3999c973c1f2c28a995311267586c87" sha256="1266108d927cb288a5f396e78ac097e48678375e80c0e0c09ecbce4dc03699bc"/>
+		<description>EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)</description>
+		<rom name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online).unh" size="524288" crc="53a9e2ba" md5="84e8fed10d7c339f726d52cb152078e1" sha1="8e9bd7f4d3999c973c1f2c28a995311267586c87" sha256="1266108d927cb288a5f396e78ac097e48678375e80c0e0c09ecbce4dc03699bc"/>
 	</game>
 	<game name="Eggerland - Meikyuu no Fukkatsu (Japan)" id="0647">
 		<category>Games</category>
@@ -1815,6 +1815,11 @@
 		<category>Games</category>
 		<description>Excitebike (Japan, USA) (En)</description>
 		<rom name="Excitebike (Japan, USA) (En).unh" size="24576" crc="49aeb3a6" md5="9b0727e0adb0a7b4f94e072b7cf28a5a" sha1="ba8d9227a0d02b62ee6cb9e691fa5a5134c303a8" sha256="e9f4c9d1b7c66c6af83f2db5d4f704cf5f4b3c86e26a49c05539237807d8875e"/>
+	</game>
+	<game name="Excitebike (Japan, USA) (En) (Virtual Console, Classic Mini)" id="2880">
+		<category>Games</category>
+		<description>Excitebike (Japan, USA) (En) (Virtual Console, Classic Mini)</description>
+		<rom name="Excitebike (Japan, USA) (En) (Virtual Console, Classic Mini).unh" size="40960" crc="b7cb1734" md5="c73d271317f1613a3b568c145891ad7e" sha1="7be56b9461dcdc91fe82adfd1660ab0e47381bfb" sha256="39af8205c7c0452a147578dc90edd340619e0eb0cfc4f1c9f2d3701c4d317b3f"/>
 	</game>
 	<game name="Exciting Boxing (Japan) (En)" id="0668">
 		<category>Games</category>

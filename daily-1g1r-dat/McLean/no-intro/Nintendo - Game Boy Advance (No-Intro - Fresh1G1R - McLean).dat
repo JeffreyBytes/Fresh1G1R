@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,066) (-ly) [-aAbBcdDefkmMopPruv] (20260416-123929) (Retool)</description>
-		<version>20260416-123929</version>
-		<date>2026-04-22 05-09-52</date>
+		<description>Nintendo - Game Boy Advance (1,068) (-ly) [-aAbBcdDefkmMopPruv] (20260529-103312) (Retool)</description>
+		<version>20260529-103312</version>
+		<date>2026-05-31 06-50-44</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -804,7 +804,7 @@
 	<game name="Castlevania - Circle of the Moon (USA)" id="0044">
 		<category>Games</category>
 		<description>Castlevania - Circle of the Moon (USA)</description>
-		<rom name="Castlevania - Circle of the Moon (USA).gba" size="8388608" crc="1cc059a4" md5="50a1089600603a94e15ecf287f8d5a1f" sha1="d661b01eb94186435723ac03344792c11c20c522"/>
+		<rom name="Castlevania - Circle of the Moon (USA).gba" size="8388608" crc="1cc059a4" md5="50a1089600603a94e15ecf287f8d5a1f" sha1="d661b01eb94186435723ac03344792c11c20c522" sha256="ad9fabaf4398e0f4a2a095bacddc6c0dc7e139903b41e088ca3590c44b684da0"/>
 	</game>
 	<game name="Castlevania - Harmony of Dissonance (USA)" id="0597">
 		<category>Games</category>
@@ -1659,7 +1659,7 @@
 	<game name="Final Fantasy Tactics Advance (USA)" id="1123">
 		<category>Games</category>
 		<description>Final Fantasy Tactics Advance (USA)</description>
-		<rom name="Final Fantasy Tactics Advance (USA).gba" size="16777216" crc="5645e56c" md5="cd99cdde3d45554c1b36fbeb8863b7bd" sha1="4ac05441f4de70a4ec3dd932116346c61b8783d9"/>
+		<rom name="Final Fantasy Tactics Advance (USA).gba" size="16777216" crc="5645e56c" md5="cd99cdde3d45554c1b36fbeb8863b7bd" sha1="4ac05441f4de70a4ec3dd932116346c61b8783d9" sha256="43fc8204c6dceee58828aebc7af0c72eb807e99f35ad641c8bb0a4fa8b6edc19"/>
 	</game>
 	<game name="Final Fantasy V Advance (USA)" id="2533">
 		<category>Games</category>
@@ -1989,7 +1989,7 @@
 	<game name="Harvest Moon - More Friends of Mineral Town (USA)" id="2041">
 		<category>Games</category>
 		<description>Harvest Moon - More Friends of Mineral Town (USA)</description>
-		<rom name="Harvest Moon - More Friends of Mineral Town (USA).gba" size="16777216" crc="1736b957" md5="fcbf93f8859d8500319e0d80a8c02150" sha1="3aa4d46cbbf152e440942acd5f5d37ddc7b05e1d"/>
+		<rom name="Harvest Moon - More Friends of Mineral Town (USA).gba" size="16777216" crc="1736b957" md5="fcbf93f8859d8500319e0d80a8c02150" sha1="3aa4d46cbbf152e440942acd5f5d37ddc7b05e1d" sha256="e754155f92b4809d9f63765592d415f16497d290189cfe1267ea9571a6e14d8e"/>
 	</game>
 	<game name="Heidi - The Game (Europe) (En,Fr,De,Es,It)" id="2249">
 		<category>Games</category>
@@ -2170,6 +2170,11 @@
 		<category>Games</category>
 		<description>Iridion 3D (USA, Europe)</description>
 		<rom name="Iridion 3D (USA, Europe).gba" size="4194304" crc="34189e74" md5="f88df40fedb9d31a6e59dba4a9be1b2a" sha1="4c9e0f52078d73d5843487de9eab4462c5c153f7"/>
+	</game>
+	<game name="Iridion 3D (World) (Steam, GOG)" id="x458">
+		<category>Games</category>
+		<description>Iridion 3D (World) (Steam, GOG)</description>
+		<rom name="Iridion 3D (World) (Steam, GOG).gba" size="4194304" crc="4c7ebe42" md5="c68975d3d2cf8aafb150a3b97d020a80" sha1="6f1c77ab88351d2d50da412e4788fc7ca8a6714d" sha256="310fbbaa0d57d14ce7a48621a1c546eae389aa0fc055206a02e4a4eb767ebd8c"/>
 	</game>
 	<game name="Iridion II (USA)" id="0993">
 		<category>Games</category>
@@ -2669,7 +2674,7 @@
 	<game name="Mario Party Advance (USA)" id="1927">
 		<category>Games</category>
 		<description>Mario Party Advance (USA)</description>
-		<rom name="Mario Party Advance (USA).gba" size="8388608" crc="f094a4cb" md5="9d0d27345bf88de8b025aa24d54d6bad" sha1="fa917d74d592260c3d6142a969fcbd94156f956b"/>
+		<rom name="Mario Party Advance (USA).gba" size="8388608" crc="f094a4cb" md5="9d0d27345bf88de8b025aa24d54d6bad" sha1="fa917d74d592260c3d6142a969fcbd94156f956b" sha256="9966220a787c51f6c2e57149fd88440881a28344a7e1b024dfd8bc32ce0d343c"/>
 	</game>
 	<game name="Mario Pinball Land (USA, Australia)" id="1671">
 		<category>Games</category>
@@ -2684,7 +2689,7 @@
 	<game name="Mario vs. Donkey Kong (USA, Australia)" id="1469">
 		<category>Games</category>
 		<description>Mario vs. Donkey Kong (USA, Australia)</description>
-		<rom name="Mario vs. Donkey Kong (USA, Australia).gba" size="16777216" crc="25c394d1" md5="ceda12928a686878795def3b413ccfc2" sha1="da677e595c41a0c72c4e3feb3a7e716f17cacd77"/>
+		<rom name="Mario vs. Donkey Kong (USA, Australia).gba" size="16777216" crc="25c394d1" md5="ceda12928a686878795def3b413ccfc2" sha1="da677e595c41a0c72c4e3feb3a7e716f17cacd77" sha256="688fa9c01be4cbfee866be0f7fc2dc4fc80df84cda157915b39fd5a86eeaa3ea"/>
 	</game>
 	<game name="Marvel - Ultimate Alliance (USA)" id="2523">
 		<category>Games</category>
@@ -2941,10 +2946,10 @@
 		<description>Metal Slug Advance (USA)</description>
 		<rom name="Metal Slug Advance (USA).gba" size="8388608" crc="09980880" md5="6838eb5df807a0f3299ad76066d59d26" sha1="067e1511ab6becf797f1bbd321a858e96a0349af"/>
 	</game>
-	<game name="Metroid - Zero Mission (USA)" id="1351">
+	<game name="Metroid - Zero Mission (USA, Australia)" id="1351">
 		<category>Games</category>
-		<description>Metroid - Zero Mission (USA)</description>
-		<rom name="Metroid - Zero Mission (USA).gba" size="8388608" crc="5c61a844" md5="ebbce58109988b6da61ebb06c7a432d5" sha1="5de8536afe1f0078ee6fe1089f890e8c7aa0a6e8" sha256="fc94f65380b65b870a30b9b04b39cca1dc63d6e46a4a373d3904adc0912ebc37"/>
+		<description>Metroid - Zero Mission (USA, Australia)</description>
+		<rom name="Metroid - Zero Mission (USA, Australia).gba" size="8388608" crc="5c61a844" md5="ebbce58109988b6da61ebb06c7a432d5" sha1="5de8536afe1f0078ee6fe1089f890e8c7aa0a6e8" sha256="fc94f65380b65b870a30b9b04b39cca1dc63d6e46a4a373d3904adc0912ebc37"/>
 	</game>
 	<game name="Metroid Fusion (USA)" id="0674">
 		<category>Games</category>
@@ -3800,6 +3805,11 @@
 		<category>Games</category>
 		<description>Rugrats - Castle Capers (USA, Europe)</description>
 		<rom name="Rugrats - Castle Capers (USA, Europe).gba" size="4194304" crc="8aabd86a" md5="01529e7a20314ab1479ab2b91ccfcf49" sha1="a9d37415567b3d441c9c9312c75fd8ecaeb9ece1" sha256="a591f84d80a727a13a7d8b1b7c86530bfe7236a6c8af778a20d024699a43b568"/>
+	</game>
+	<game name="Rugrats - Castle Capers (World) (Retro Rewind Collection)" id="x553">
+		<category>Games</category>
+		<description>Rugrats - Castle Capers (World) (Retro Rewind Collection)</description>
+		<rom name="Rugrats - Castle Capers (World) (Retro Rewind Collection).gba" size="8388608" crc="41d4137f" md5="e8733c4db3b7cc3cd85db3183859723d" sha1="4f0ba185c5edefdf348e76cb58e86aacc664de67" sha256="ec19d03c8b8cc7f5a6d1bba38692296f4355685e9dc0dae413f29a58df1369fb"/>
 	</game>
 	<game name="Rugrats - Go Wild (USA, Europe)" id="1020">
 		<category>Games</category>

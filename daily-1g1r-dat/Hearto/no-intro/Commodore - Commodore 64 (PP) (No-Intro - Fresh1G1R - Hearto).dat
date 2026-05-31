@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Commodore - Commodore 64 (PP) (Retool)</name>
-		<description>Commodore - Commodore 64 (PP) (1,298) (-y) [-aAbBcefkmMoprv] (20230414-015239) (Retool)</description>
-		<version>20230414-015239</version>
-		<date>2026-04-22 05-07-51</date>
-		<author>C. V. Reynolds, EggmanPEI, xuom2</author>
+		<description>Commodore - Commodore 64 (PP) (1,298) (-y) [-aAbBcefkmMoprv] (20260430-075802) (Retool)</description>
+		<version>20260430-075802</version>
+		<date>2026-05-31 06-45-14</date>
+		<author>C. V. Reynolds, EggmanPEI, nnssxx, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>

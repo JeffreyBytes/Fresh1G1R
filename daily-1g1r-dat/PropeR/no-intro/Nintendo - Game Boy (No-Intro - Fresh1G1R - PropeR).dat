@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,052) (-y) [-aAbBcdkmMpPuv] (20260420-124306) (Retool)</description>
-		<version>20260420-124306</version>
-		<date>2026-04-22 05-19-50</date>
+		<description>Nintendo - Game Boy (1,053) (-y) [-aAbBcdkmMpPuv] (20260529-060332) (Retool)</description>
+		<version>20260529-060332</version>
+		<date>2026-05-31 06-55-24</date>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3955,6 +3955,11 @@
 		<category>Games</category>
 		<description>Rugrats Movie, The (USA) (SGB Enhanced)</description>
 		<rom name="Rugrats Movie, The (USA) (SGB Enhanced).gb" size="524288" crc="124a0d06" md5="d29cc1b6fe7709a6d16f00c779499de2" sha1="70384eb3474637b81bec3018ebf0c2d6fa1d8a9d" sha256="9d0e2b2a7dd3dc5e0578a9e2549a7267333c138f1a56f867dbf63eb04a436e5b"/>
+	</game>
+	<game name="Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced)" id="2583">
+		<category>Games</category>
+		<description>Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced)</description>
+		<rom name="Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced).gb" size="524288" crc="025f10df" md5="cdb6da5dfa1072d6b6c001f053943085" sha1="6c470898eb45208128cecb709edacb6154a008b9" sha256="ea7cf325ba12701a869a077f112c5fd068632324bffeaf2221fe8f578ee7ef82"/>
 	</game>
 	<game name="SD Gundam - SD Sengokuden - Kunitori Monogatari (Japan)" id="1177">
 		<category>Games</category>

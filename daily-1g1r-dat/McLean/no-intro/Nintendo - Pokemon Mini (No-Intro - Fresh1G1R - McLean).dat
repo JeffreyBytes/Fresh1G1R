@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Pokemon Mini (Retool)</name>
-		<description>Nintendo - Pokemon Mini (11) (-ly) [-aAbBcdDefkmMopPruv] (20250407-153358) (Retool)</description>
-		<version>20250407-153358</version>
-		<date>2026-04-22 05-11-49</date>
-		<author>Arctic Circle System, Flashfire42, psykopat, rarenight, relax, SonGoku</author>
+		<description>Nintendo - Pokemon Mini (11) (-ly) [-aAbBcdDefkmMopPruv] (20260529-125415) (Retool)</description>
+		<version>20260529-125415</version>
+		<date>2026-05-31 06-49-36</date>
+		<author>1988reload, Arctic Circle System, Flashfire42, psykopat, rarenight, relax, SonGoku</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -19,27 +19,27 @@
 	<game name="Pokemon Party Mini - Baseline Judge (USA) (GameCube)" id="0012">
 		<category>Games</category>
 		<description>Pokemon Party Mini - Baseline Judge (USA) (GameCube)</description>
-		<rom name="Pokemon Party Mini - Baseline Judge (USA) (GameCube).min" size="524288" crc="0cfb4d1c" md5="2dea1b54200cea6389357cda076933e5" sha1="20004ffc01eeb04e72402e70fc97170111aafa6a"/>
+		<rom name="Pokemon Party Mini - Baseline Judge (USA) (GameCube).min" size="524288" crc="0cfb4d1c" md5="2dea1b54200cea6389357cda076933e5" sha1="20004ffc01eeb04e72402e70fc97170111aafa6a" sha256="0c6dfd90087fb844c12790999d946d340009ee14ed66b5424959e247b7e424d0"/>
 	</game>
 	<game name="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)" id="0013">
 		<category>Games</category>
 		<description>Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)</description>
-		<rom name="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube).min" size="524288" crc="ba504497" md5="b8645e28349f7322dbd116785876bb50" sha1="c9a5f335c93e9bacf198b976d430cf798bc517bc"/>
+		<rom name="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube).min" size="524288" crc="ba504497" md5="b8645e28349f7322dbd116785876bb50" sha1="c9a5f335c93e9bacf198b976d430cf798bc517bc" sha256="d5332ca80bd2876943e0fad5c30874a0d5847aecbb7c65e4e60dc774957947e9"/>
 	</game>
 	<game name="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)" id="0016">
 		<category>Games</category>
 		<description>Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)</description>
-		<rom name="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).min" size="524288" crc="3322ed38" md5="21e538081f163dc394a48f17fe5fe39b" sha1="ba1db1745933a941479d885fe0d1b52365b7f817"/>
+		<rom name="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).min" size="524288" crc="3322ed38" md5="21e538081f163dc394a48f17fe5fe39b" sha1="ba1db1745933a941479d885fe0d1b52365b7f817" sha256="adac73e519c8e37a44f05289e7556369255e3f1710f5ca814aff5696a378858c"/>
 	</game>
 	<game name="Pokemon Party Mini - Rocket Start (USA) (GameCube)" id="0017">
 		<category>Games</category>
 		<description>Pokemon Party Mini - Rocket Start (USA) (GameCube)</description>
-		<rom name="Pokemon Party Mini - Rocket Start (USA) (GameCube).min" size="524288" crc="44c5271e" md5="f899cab8f35452f83705484e16fef27a" sha1="840d43fe55e8e056940ff0b7bc6d7e4e11b5e047"/>
+		<rom name="Pokemon Party Mini - Rocket Start (USA) (GameCube).min" size="524288" crc="44c5271e" md5="f899cab8f35452f83705484e16fef27a" sha1="840d43fe55e8e056940ff0b7bc6d7e4e11b5e047" sha256="6acaf422d8860b2d32a3b53774cb706eda0a1c75a0a40999a94f377f701bc67e"/>
 	</game>
 	<game name="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)" id="0018">
 		<category>Games</category>
 		<description>Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)</description>
-		<rom name="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube).min" size="524288" crc="9fd4d48b" md5="a46b17f221404b64e914535831f36c3a" sha1="e3bd506b97ea94e9291c2fa4e1395e1829bafeaf"/>
+		<rom name="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube).min" size="524288" crc="9fd4d48b" md5="a46b17f221404b64e914535831f36c3a" sha1="e3bd506b97ea94e9291c2fa4e1395e1829bafeaf" sha256="c28bfb381e0106cbfc4f284d35510238c938fe77596ed7d696963c173443a455"/>
 	</game>
 	<game name="Pokemon Pinball Mini (USA, Europe)" id="0021">
 		<category>Games</category>
@@ -54,7 +54,7 @@
 	<game name="Pokemon Tetris (Europe) (En,Fr,De)" id="0035">
 		<category>Games</category>
 		<description>Pokemon Tetris (Europe) (En,Fr,De)</description>
-		<rom name="Pokemon Tetris (Europe) (En,Fr,De).min" size="524288" crc="2fb23527" md5="f100caf74574aeabe5084f3b5c9e03d2" sha1="5fd1198a4725e21629edd4869535b70edfe165d4"/>
+		<rom name="Pokemon Tetris (Europe) (En,Fr,De).min" size="524288" crc="2fb23527" md5="f100caf74574aeabe5084f3b5c9e03d2" sha1="5fd1198a4725e21629edd4869535b70edfe165d4" sha256="b54fc57472d363111eb0b229b5e26d3eb653c1b85f211501beab640530d19805"/>
 	</game>
 	<game name="Pokemon Zany Cards (USA, Europe)" id="0044">
 		<category>Games</category>
@@ -64,6 +64,6 @@
 	<game name="Snorlax's Lunch Time (Europe) (GameCube)" id="0038">
 		<category>Games</category>
 		<description>Snorlax's Lunch Time (Europe) (GameCube)</description>
-		<rom name="Snorlax's Lunch Time (Europe) (GameCube).min" size="524288" crc="b9324f30" md5="0823b8d49dc88033659f0d4eae114907" sha1="22cc052d900909a9032b7c84a0c7ab7c366a4a57"/>
+		<rom name="Snorlax's Lunch Time (Europe) (GameCube).min" size="524288" crc="b9324f30" md5="0823b8d49dc88033659f0d4eae114907" sha1="22cc052d900909a9032b7c84a0c7ab7c366a4a57" sha256="ee54cbefeca222fb2c530f91cbc70756c09acb4d447b4c6cb911ff54fcff2aed"/>
 	</game>
 </datafile>
