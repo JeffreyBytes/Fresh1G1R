@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - Atari Lynx (LYX) (Retool)</name>
-		<description>Atari - Atari Lynx (LYX) (99) (-y) [-aAbBcefkmMoprv] (20260530-021839) (Retool)</description>
-		<version>20260530-021839</version>
-		<date>2026-06-02 06-52-49</date>
+		<description>Atari - Atari Lynx (LYX) (100) (-y) [-aAbBcefkmMoprv] (20260602-114039) (Retool)</description>
+		<version>20260602-114039</version>
+		<date>2026-06-03 07-03-47</date>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -298,6 +298,12 @@
 		<category>Games</category>
 		<description>NFL Football (USA, Europe)</description>
 		<rom name="NFL Football (USA, Europe).lyx" size="262144" crc="006fd398" md5="276b9be28571189912f05d321fcb04ef" sha1="caea445bddcf75bcbe13920718279220d1acb869" sha256="04ae8952ed051f2a1521b476b418e178bc087ea7415452e8204e6a80a3062d07"/>
+	</game>
+	<game name="Net Runner (World) (Beta)" id="0439">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Net Runner (World) (Beta)</description>
+		<rom name="Net Runner (World) (Beta).lyx" size="131072" crc="29e6ca48" md5="cdc7fc543554da7d2316bb43fa60976c" sha1="822425ef2a1f90e3a3fac17a851ade6f04d1f246" sha256="23cf6b7f4ca208c5d82c75af64d4a0236adfb256f585b0cf07c8c931b151ae0c"/>
 	</game>
 	<game name="Ninja Gaiden (USA, Europe)" id="0052">
 		<category>Games</category>

@@ -2,21 +2,15 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (493) (-ly) [-aAbBcdDefkmMopPruv] (20260531-191511) (Retool)</description>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260531-191511) (Retool)</description>
 		<version>20260531-191511</version>
-		<date>2026-06-02 06-59-23</date>
+		<date>2026-06-03 07-10-27</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.9</retool>
 	</header>
-	<game name="2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="0626">
-		<category>Games</category>
-		<description>2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<game_id>0004000000111300</game_id>
-		<rom name="2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).3ds" size="268435456" crc="3b79e227" md5="896722f5d91bd6c5aeb191b2109c5d70" sha1="58cd28feb87843ccf486e8cdb90b21ec8417ab07" sha256="fb8217274167f3604c6641ce7c22fe4aa620e8111d50792c196b0426a44eaa03"/>
-	</game>
 	<game name="35 Classic Games (Europe) (En,Fr,Es,It)" id="0186">
 		<category>Games</category>
 		<description>35 Classic Games (Europe) (En,Fr,Es,It)</description>
@@ -178,12 +172,6 @@
 		<description>Are You Smarter than a 5th Grader (USA)</description>
 		<game_id>000400000016F100</game_id>
 		<rom name="Are You Smarter than a 5th Grader (USA).3ds" size="134217728" crc="8ce6487f" md5="bc9c51460c298e6e48482bf6fc4d022b" sha1="4450738ef43fcaee41515b2bd516716d93e23e26"/>
-	</game>
-	<game name="Around the World with Hello Kitty &amp; Friends (Europe) (En,Fr,De,Es,It)" id="0408">
-		<category>Games</category>
-		<description>Around the World with Hello Kitty &amp; Friends (Europe) (En,Fr,De,Es,It)</description>
-		<game_id>00040000000B7600</game_id>
-		<rom name="Around the World with Hello Kitty &amp; Friends (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="8d2225e0" md5="86aa8d4bdd00f2d7f60ebd05ff918496" sha1="159133c062e36239e350bfcdf8318c917694debf" sha256="472930a3580fd9353f6c105f652f4d0767b9a79ab786f81c01dbee88a687bf90"/>
 	</game>
 	<game name="Art Academy - Lessons for Everyone! (USA) (En,Fr,Es)" id="0442">
 		<category>Games</category>
@@ -2963,5 +2951,304 @@
 		<description>Tales of the Abyss (USA)</description>
 		<game_id>0004000000061300</game_id>
 		<rom name="Tales of the Abyss (USA).3ds" size="2147483648" crc="d8a2bb6b" md5="1eed990c57b46fa1124efb96225f514d" sha1="9f775ebc0e982a697df250a5b5a23143522f3ba2" sha256="6a7e832dd01ed1d33cf11546b2e8410bfc0fd398a082613c978f56d9171855c6"/>
+	</game>
+	<game name="Teddy Together (Europe) (En,Fr,De,Es,It)" id="1538">
+		<category>Games</category>
+		<description>Teddy Together (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>0004000000179300</game_id>
+		<rom name="Teddy Together (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="a508ee85" md5="90571133301418cbc50fb4723a315a29" sha1="6b13b5b423122e52a599bad5eb6ac56b29d82149" sha256="debe90608adb1b4f380094345f61a7964f040f4253e0956547f8533a90d47ec9"/>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles (USA) (En,Fr)" id="1015">
+		<category>Games</category>
+		<description>Teenage Mutant Ninja Turtles (USA) (En,Fr)</description>
+		<game_id>000400000012D400</game_id>
+		<rom name="Teenage Mutant Ninja Turtles (USA) (En,Fr).3ds" size="134217728" crc="a20a15b2" md5="55f4d85001a404680b1d470d8e80f391" sha1="393bf498a9192a39306492358adbf5f98abe08ed"/>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - Danger of the Ooze (USA)" id="1104">
+		<category>Games</category>
+		<description>Teenage Mutant Ninja Turtles - Danger of the Ooze (USA)</description>
+		<game_id>0004000000131D00</game_id>
+		<rom name="Teenage Mutant Ninja Turtles - Danger of the Ooze (USA).3ds" size="268435456" crc="3dda1f08" md5="3e069b4c733f0b42ee440ddbd097ac3d" sha1="32f580b392f7448eb80281c85a6f89c637e16bca" sha256="74510bc8c89dabdac12be7e15d64e00f330295b621e699e5e11d883c70501f96"/>
+	</game>
+	<game name="Tekken 3D - Prime Edition (USA) (En,Fr,Es)" id="0106">
+		<category>Games</category>
+		<description>Tekken 3D - Prime Edition (USA) (En,Fr,Es)</description>
+		<game_id>0004000000080300</game_id>
+		<rom name="Tekken 3D - Prime Edition (USA) (En,Fr,Es).3ds" size="2147483648" crc="653c2bb7" md5="322dedc8898eaa78a1c4d88a04cd7a6b" sha1="0d27a21fea30f1e4e13d732199a583e1a11c9a7f"/>
+	</game>
+	<game name="Tenkai Knights - Brave Battle (USA) (En,Fr,Es)" id="1058">
+		<category>Games</category>
+		<description>Tenkai Knights - Brave Battle (USA) (En,Fr,Es)</description>
+		<game_id>0004000000127D00</game_id>
+		<rom name="Tenkai Knights - Brave Battle (USA) (En,Fr,Es).3ds" size="268435456" crc="f5a4bde2" md5="3d5df0bbc3dbf8b19986f5ca4d5f3323" sha1="4d04623c5b95547be245f7c56a4dba5a3c14561c"/>
+	</game>
+	<game name="Terraria (USA) (Rev 1)" id="1467">
+		<category>Games</category>
+		<description>Terraria (USA) (Rev 1)</description>
+		<game_id>000400000016A900</game_id>
+		<rom name="Terraria (USA) (Rev 1).3ds" size="134217728" crc="496a2f69" md5="84c44aa0728db16fff2499250ecc8742" sha1="23524b4d67a45260bf2b32a1eda2c677a61d2e97" sha256="521ba4f4aa5d974e7b4252f0fa977bea22dcb1b94d1c6cc80da96a79cfc705f5"/>
+	</game>
+	<game name="Tetris - Axis (USA) (En,Fr,Es)" id="0054">
+		<category>Games</category>
+		<description>Tetris - Axis (USA) (En,Fr,Es)</description>
+		<game_id>0004000000043800</game_id>
+		<rom name="Tetris - Axis (USA) (En,Fr,Es).3ds" size="268435456" crc="2f439f5e" md5="cac003fcb87b125a1daba9f1e153053e" sha1="00066fec7c7c0aad612cbe50e5b2138b97405337" sha256="67e1927510a2aa5d7c7db6eb10bc5138a18ecffa2c605b9e86c455dd43e21681"/>
+	</game>
+	<game name="Tetris Ultimate (USA) (En,Fr,Es,Pt)" id="1108">
+		<category>Games</category>
+		<description>Tetris Ultimate (USA) (En,Fr,Es,Pt)</description>
+		<game_id>000400000012EC00</game_id>
+		<rom name="Tetris Ultimate (USA) (En,Fr,Es,Pt).3ds" size="134217728" crc="2bfdbd1b" md5="48807ee6b5d12ff381ea101e8340bbb7" sha1="4ec09333b3ce6a94884ad535f529aff18c7c2ad3"/>
+	</game>
+	<game name="Theatrhythm Final Fantasy (USA)" id="0344">
+		<category>Games</category>
+		<description>Theatrhythm Final Fantasy (USA)</description>
+		<game_id>0004000000095100</game_id>
+		<rom name="Theatrhythm Final Fantasy (USA).3ds" size="1073741824" crc="047257a4" md5="5e80a42522a2fff31fdf248b2bac1950" sha1="43a9297dc798b9bb2c269d9e2bf14b13a6d68768" sha256="8afba3af6c229bd1cdaa895a91e60219b60e83ea5e943e9f5e3979c70df1f146"/>
+	</game>
+	<game name="Theatrhythm Final Fantasy - Curtain Call (USA)" id="1035">
+		<category>Games</category>
+		<description>Theatrhythm Final Fantasy - Curtain Call (USA)</description>
+		<game_id>00040000000FD500</game_id>
+		<rom name="Theatrhythm Final Fantasy - Curtain Call (USA).3ds" size="2147483648" crc="0e4a93ef" md5="36e7b0ceeaefb54f663aac502f0be60c" sha1="8eab7a941ee6824383da853b4f7c83f9d6ad6b28" sha256="8eb6bea63a1aad2932666bff10219c49cd459f51feff479fc2f0a3b3106d1002"/>
+	</game>
+	<game name="Thomas &amp; Friends - Steaming around Sodor (Europe) (En,Fr,De,Es,It,Nl)" id="1353">
+		<category>Games</category>
+		<description>Thomas &amp; Friends - Steaming around Sodor (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<game_id>000400000017C300</game_id>
+		<rom name="Thomas &amp; Friends - Steaming around Sodor (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="555a159d" md5="4e85ef657c7a1982e760b8c9d73e1752" sha1="d04feb21721d6bc7b84da996db111d6daf298c3a" sha256="a3c32fb09d621a46f8e66da8242ebb6b4dfacf3cc6f5a024a8c645ebd543acb3"/>
+	</game>
+	<game name="Thor - God of Thunder (USA) (En,Fr,Es)" id="0131">
+		<category>Games</category>
+		<description>Thor - God of Thunder (USA) (En,Fr,Es)</description>
+		<game_id>0004000000040500</game_id>
+		<rom name="Thor - God of Thunder (USA) (En,Fr,Es).3ds" size="2147483648" crc="35fed897" md5="7656ef6b3be78ce090b1f82e161b8a83" sha1="2289727c08eb78513936f3829184d8092765fcb1"/>
+	</game>
+	<game name="Tom Clancy's Ghost Recon - Shadow Wars (USA) (En,Fr,Es)" id="0036">
+		<category>Games</category>
+		<description>Tom Clancy's Ghost Recon - Shadow Wars (USA) (En,Fr,Es)</description>
+		<game_id>0004000000035A00</game_id>
+		<rom name="Tom Clancy's Ghost Recon - Shadow Wars (USA) (En,Fr,Es).3ds" size="268435456" crc="fcb6e64f" md5="0897b7002977eae4313c34fb056e7cca" sha1="a8a2ea070a85180a58601ccf7af24debc97436dc"/>
+	</game>
+	<game name="Tom Clancy's Splinter Cell 3D (USA) (En,Fr,Es)" id="0079">
+		<category>Games</category>
+		<description>Tom Clancy's Splinter Cell 3D (USA) (En,Fr,Es)</description>
+		<game_id>0004000000040100</game_id>
+		<rom name="Tom Clancy's Splinter Cell 3D (USA) (En,Fr,Es).3ds" size="2147483648" crc="36007c51" md5="92603f77fdf7d6a8ad538be7068e1455" sha1="f97efd71668fa6e6fae34338628f20302d7b07ec" sha256="d6abfdeb0e93be95f2402daaf8eedfb06518a73614ca64d55ac6ca3abbab8c4a"/>
+	</game>
+	<game name="Tomodachi Life (USA) (Rev 1)" id="1248">
+		<category>Games</category>
+		<description>Tomodachi Life (USA) (Rev 1)</description>
+		<game_id>000400000008C300</game_id>
+		<rom name="Tomodachi Life (USA) (Rev 1).3ds" size="536870912" crc="b948a74a" md5="b054e5e4e42b870045ddcb4f55cf7a58" sha1="ee3e747fdc6a247f4584d7e3e18ae5ac30e2e2e0" sha256="7ad492707952c97bada914ca059aa41493a29a45c033851b85087942cd228f44"/>
+	</game>
+	<game name="Top Model 3D (Europe) (En,Fr,De,Es,It,Nl)" id="1090">
+		<category>Games</category>
+		<description>Top Model 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<game_id>0004000000148200</game_id>
+		<rom name="Top Model 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="0e8cf12a" md5="4828d0229f9e465430e0d56788931e0e" sha1="88b852243796b598fbc46fe6a94b3d446ef69020" sha256="17a663b27c7063aed4ba5f9db9cc22643e9a3406fa24ed15ca5a00de7b38b742"/>
+	</game>
+	<game name="Top Trumps - NBA All Stars (USA)" id="0445">
+		<category>Games</category>
+		<description>Top Trumps - NBA All Stars (USA)</description>
+		<game_id>0004000000054B00</game_id>
+		<rom name="Top Trumps - NBA All Stars (USA).3ds" size="134217728" crc="f5adb276" md5="952e12aa7276981e1f5c555a13e74cc9" sha1="27dd23709c87f58015b1a46e503c815f5ed3aefb"/>
+	</game>
+	<game name="Transformers - Dark of the Moon - Stealth Force Edition (USA) (En,Fr)" id="0124">
+		<category>Games</category>
+		<description>Transformers - Dark of the Moon - Stealth Force Edition (USA) (En,Fr)</description>
+		<game_id>000400000004A500</game_id>
+		<rom name="Transformers - Dark of the Moon - Stealth Force Edition (USA) (En,Fr).3ds" size="1073741824" crc="5390e0e1" md5="e56390ca14afe3f299afbd633a3cc0ac" sha1="b28ef3db8e0ca35b5d76569d92e99996b2fd30fa"/>
+	</game>
+	<game name="Transformers - Rise of the Dark Spark (USA) (En,Fr)" id="0986">
+		<category>Games</category>
+		<description>Transformers - Rise of the Dark Spark (USA) (En,Fr)</description>
+		<game_id>00040000000FBA00</game_id>
+		<rom name="Transformers - Rise of the Dark Spark (USA) (En,Fr).3ds" size="268435456" crc="da781478" md5="df01b8ee615f596604b6ef54d03ead39" sha1="a3e6b0863a661b62e9abcd654129379ed9dfe31f"/>
+	</game>
+	<game name="Transformers Prime - The Game (USA) (En,Fr)" id="0300">
+		<category>Games</category>
+		<description>Transformers Prime - The Game (USA) (En,Fr)</description>
+		<game_id>000400000007FE00</game_id>
+		<rom name="Transformers Prime - The Game (USA) (En,Fr).3ds" size="1073741824" crc="c010611d" md5="b26e33b026e02189378eb24d95fa78d2" sha1="565b0a25d7ca97309d2a1d58a74fdf8576b03357"/>
+	</game>
+	<game name="Trash Pack, The (USA)" id="0444">
+		<category>Games</category>
+		<description>Trash Pack, The (USA)</description>
+		<game_id>00040000000B0600</game_id>
+		<rom name="Trash Pack, The (USA).3ds" size="134217728" crc="401766e4" md5="97a63a4f8a976f623090f8beff0a1521" sha1="0fc0a2c221b9070f5829f2aec99fb6ce279c0fb2"/>
+	</game>
+	<game name="Travel Adventures with Hello Kitty (USA)" id="0617">
+		<category>Games</category>
+		<description>Travel Adventures with Hello Kitty (USA)</description>
+		<game_id>00040000000B0500</game_id>
+		<rom name="Travel Adventures with Hello Kitty (USA).3ds" size="268435456" crc="6f7dc737" md5="f0c0945473a0adc3b4b3f615a91a49c6" sha1="e2e739c9ba5e2a2f213a9c4460af68eddc7e98d0"/>
+	</game>
+	<game name="Turbo - Super Stunt Squad (USA) (En,Fr,Es)" id="0428">
+		<category>Games</category>
+		<description>Turbo - Super Stunt Squad (USA) (En,Fr,Es)</description>
+		<game_id>00040000000D2100</game_id>
+		<rom name="Turbo - Super Stunt Squad (USA) (En,Fr,Es).3ds" size="134217728" crc="3c55f337" md5="8f50b304da867f340ea9b6f2101e5dfa" sha1="d71962e3bc56e17b6e5ad95910a01d73d9340a12"/>
+	</game>
+	<game name="Ultimate NES Remix (USA) (En,Fr,Es)" id="1150">
+		<category>Games</category>
+		<description>Ultimate NES Remix (USA) (En,Fr,Es)</description>
+		<game_id>0004000000132000</game_id>
+		<rom name="Ultimate NES Remix (USA) (En,Fr,Es).3ds" size="268435456" crc="94b6e477" md5="de4ad8c1ffbb0ca09adb807cc9148f6f" sha1="a2e4cf67e87d169ead6e002583c740a3d95d8f20" sha256="81d80748962a5a3c44b147f9354cb78962a43f4adcf47d6db65cd10551c7ab31"/>
+	</game>
+	<game name="Viking Invasion 2 - Tower Defense (Europe) (En,Fr,De,Es,It)" id="0352">
+		<category>Games</category>
+		<description>Viking Invasion 2 - Tower Defense (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>00040000000C7800</game_id>
+		<rom name="Viking Invasion 2 - Tower Defense (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="a3a99237" md5="3112619a5e43650b025c615742a36971" sha1="556c7a778c98a425aa6e729216233bb204021e57" sha256="a5aad16cfb11c9e19ab400f734c9c2e6d0b933ac039f420c4bd446c1f2be9b19"/>
+	</game>
+	<game name="WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)" id="1148">
+		<category>Games</category>
+		<description>WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>0004000000149300</game_id>
+		<rom name="WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="2b3b83f7" md5="d8cc430a1893f02a76e98370e6da5b00" sha1="dd61c92ac28fe78759b56386ce35e58eeab0bdbb" sha256="1e03a6f8d7d97357a84aa297d0bf82c343a0607aa44d297396665ea0e4f5679f"/>
+	</game>
+	<game name="WWE All Stars (USA) (En,Fr,Es)" id="0076">
+		<category>Games</category>
+		<description>WWE All Stars (USA) (En,Fr,Es)</description>
+		<game_id>0004000000052400</game_id>
+		<rom name="WWE All Stars (USA) (En,Fr,Es).3ds" size="2147483648" crc="6e517a7b" md5="bd7f5407dc1b4da2460b4b9d19039db8" sha1="9bbd012bbd6c0fedd3b1fe6f496e33aea8133573"/>
+	</game>
+	<game name="WarioWare Gold (USA) (Rev 1)" id="z084">
+		<category>Games</category>
+		<description>WarioWare Gold (USA) (Rev 1)</description>
+		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="e2bcebb2" md5="f40bb52ad134c05decc57f4bb9e3027e" sha1="16f3d62884ccade9ddfee4ee55885ed19552b72e" sha256="8d452adc83d706799424ffb3a646545727f15a808a9a5106e61aa0d6301973ee"/>
+	</game>
+	<game name="Whitakers Present, The - Milton &amp; Friends 3D (Europe)" id="0799">
+		<category>Games</category>
+		<description>Whitakers Present, The - Milton &amp; Friends 3D (Europe)</description>
+		<game_id>0004000000064E00</game_id>
+		<rom name="Whitakers Present, The - Milton &amp; Friends 3D (Europe).3ds" size="134217728" crc="0dec96c5" md5="167727f695829aece3f00ad0bcb46c6e" sha1="df4eaaad54900d4107992a226559b51f52c35cfd"/>
+	</game>
+	<game name="Winter Sports 2012 - Feel the Spirit (Europe) (En,Fr,De,It)" id="0286">
+		<category>Games</category>
+		<description>Winter Sports 2012 - Feel the Spirit (Europe) (En,Fr,De,It)</description>
+		<game_id>0004000000066100</game_id>
+		<rom name="Winter Sports 2012 - Feel the Spirit (Europe) (En,Fr,De,It).3ds" size="268435456" crc="56c6dcd7" md5="eead411bc4b3147e1b1a1f954469ba56" sha1="3de12500bf4791924e1c12dcfd66304be979f967" sha256="8e7f801fb048cea86adf0fbfb99463fc3a19a21cb7a30e18758174777cb63227"/>
+	</game>
+	<game name="Winx Club - Saving Alfea (USA) (En,Fr,Es,Pt)" id="1113">
+		<category>Games</category>
+		<description>Winx Club - Saving Alfea (USA) (En,Fr,Es,Pt)</description>
+		<game_id>0004000000137500</game_id>
+		<rom name="Winx Club - Saving Alfea (USA) (En,Fr,Es,Pt).3ds" size="134217728" crc="f8a3a08c" md5="7ce8bad6dbd04048dd610fb3116e2e01" sha1="cf1427921e0aec2a5f09a798371a31fe3c1efb53"/>
+	</game>
+	<game name="Wipeout - Create &amp; Crash (USA)" id="0462">
+		<category>Games</category>
+		<description>Wipeout - Create &amp; Crash (USA)</description>
+		<game_id>00040000000ED200</game_id>
+		<rom name="Wipeout - Create &amp; Crash (USA).3ds" size="536870912" crc="a3c6bb43" md5="5752fe1a0222c2f0c8d9e84244df6417" sha1="6ba33ddbcebb48b4edc13c9220c60e540cbd5c24"/>
+	</game>
+	<game name="Wipeout 2 (USA)" id="0083">
+		<category>Games</category>
+		<description>Wipeout 2 (USA)</description>
+		<game_id>000400000004DD00</game_id>
+		<rom name="Wipeout 2 (USA).3ds" size="268435456" crc="71090992" md5="5256275bd53460c7bad910d2eb9d11a5" sha1="80c42720bb2aba49b6a014abe1fac9a5d9087edb"/>
+	</game>
+	<game name="Wipeout 3 (USA)" id="0457">
+		<category>Games</category>
+		<description>Wipeout 3 (USA)</description>
+		<game_id>000400000009F300</game_id>
+		<rom name="Wipeout 3 (USA).3ds" size="536870912" crc="fdb45e2d" md5="5ab662773a121fcf879f541d631facb2" sha1="eaad7d11808bbae12538fce4380ecca63e8b1ee5"/>
+	</game>
+	<game name="Word Wizard 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0287">
+		<category>Games</category>
+		<description>Word Wizard 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<game_id>000400000006A900</game_id>
+		<rom name="Word Wizard 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="d8a64a95" md5="9bd7087ffb9e4ff560f9540911250fe0" sha1="b3eecceeebcaca6e08bd6b983d648f47fa8391e6" sha256="7ffa258a6a0fd01249b347e8d7739837b1e63671528ad84d38bf2a96d00e4ce5"/>
+	</game>
+	<game name="Wreck-It Ralph (USA) (En,Fr)" id="0448">
+		<category>Games</category>
+		<description>Wreck-It Ralph (USA) (En,Fr)</description>
+		<game_id>0004000000097100</game_id>
+		<rom name="Wreck-It Ralph (USA) (En,Fr).3ds" size="268435456" crc="9d31623f" md5="20cbbe88a1bcb7eb943128a2eec17daa" sha1="a34bdc84462d28e1f9b0c9da92f50ba4e9c3013e"/>
+	</game>
+	<game name="Yakari - The Mystery of Four Seasons (Europe) (En,Fr,De,Es,It)" id="1292">
+		<category>Games</category>
+		<description>Yakari - The Mystery of Four Seasons (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>0004000000168B00</game_id>
+		<rom name="Yakari - The Mystery of Four Seasons (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="cf098063" md5="26a177f82ba8fb6bc5f0a9e0d45791ea" sha1="7da336a1266f38c60013faad9ebffdfcc5abcfd0" sha256="9f462079fcc8770f4ff7be1fb66c860f3814f4c714b4eb30c5af6cfb822dbb50"/>
+	</game>
+	<game name="Yo-Kai Watch (USA)" id="1381">
+		<category>Games</category>
+		<description>Yo-Kai Watch (USA)</description>
+		<game_id>0004000000167700</game_id>
+		<rom name="Yo-Kai Watch (USA).3ds" size="1073741824" crc="ff1ccb47" md5="f5ded767575f44698bea21b05372e33e" sha1="dc3c4d0923e572a4d0c6de14ae72d8763776bc96"/>
+	</game>
+	<game name="Yo-Kai Watch 2 - Bony Spirits (USA)" id="1576">
+		<category>Games</category>
+		<description>Yo-Kai Watch 2 - Bony Spirits (USA)</description>
+		<game_id>000400000019A900</game_id>
+		<rom name="Yo-Kai Watch 2 - Bony Spirits (USA).3ds" size="2147483648" crc="470c5b57" md5="86dd70bb6b5f940c343ea6ab6d19f500" sha1="faa9c2dfad2bdf4ac30634945c1181056d3f34bc"/>
+	</game>
+	<game name="Yo-Kai Watch 2 - Fleshy Souls (USA)" id="1575">
+		<category>Games</category>
+		<description>Yo-Kai Watch 2 - Fleshy Souls (USA)</description>
+		<game_id>000400000019AA00</game_id>
+		<rom name="Yo-Kai Watch 2 - Fleshy Souls (USA).3ds" size="2147483648" crc="2d58e676" md5="8852447297039639e8301f11087e7a34" sha1="634812041a2b07531823b1bf88a25762cf1ed720"/>
+	</game>
+	<game name="Yo-Kai Watch 2 - Psychic Specters (USA) (En,Fr,Es)" id="1779">
+		<category>Games</category>
+		<description>Yo-Kai Watch 2 - Psychic Specters (USA) (En,Fr,Es)</description>
+		<game_id>00040000001B2700</game_id>
+		<rom name="Yo-Kai Watch 2 - Psychic Specters (USA) (En,Fr,Es).3ds" size="4294967296" crc="ac22999b" md5="7d0876ed0cd42ef970c67c1500eec152" sha1="2e18ebc315db238aa9d8447dc36675df9c39d76b"/>
+	</game>
+	<game name="Yo-Kai Watch 3 (USA)" id="1853">
+		<category>Games</category>
+		<description>Yo-Kai Watch 3 (USA)</description>
+		<game_id>00040000001D6700</game_id>
+		<rom name="Yo-Kai Watch 3 (USA).3ds" size="4294967296" crc="3f79ebb5" md5="c41e88f0296a34d74c178abaae84fa22" sha1="9f276cc82f13cd7d6db8b9d196d8986edd78d403"/>
+	</game>
+	<game name="Yo-Kai Watch Blasters - Red Cat Corps (USA)" id="1833">
+		<category>Games</category>
+		<description>Yo-Kai Watch Blasters - Red Cat Corps (USA)</description>
+		<game_id>00040000001CEB00</game_id>
+		<rom name="Yo-Kai Watch Blasters - Red Cat Corps (USA).3ds" size="2147483648" crc="d5ced920" md5="58ec73b6d78ccc789885e5f5b725b049" sha1="ad49030d0df0d6bde119814d65da096643e9b254"/>
+	</game>
+	<game name="Yo-Kai Watch Blasters - White Dog Squad (USA)" id="1832">
+		<category>Games</category>
+		<description>Yo-Kai Watch Blasters - White Dog Squad (USA)</description>
+		<game_id>00040000001CEF00</game_id>
+		<rom name="Yo-Kai Watch Blasters - White Dog Squad (USA).3ds" size="2147483648" crc="e89506b6" md5="4f6ad97407ba198d5f5294ff9e4abe4e" sha1="645cceb8c6a61b7eded664a8daab5f0edfc8c734"/>
+	</game>
+	<game name="Yoshi's New Island (USA) (En,Fr,Es)" id="0655">
+		<category>Games</category>
+		<description>Yoshi's New Island (USA) (En,Fr,Es)</description>
+		<game_id>0004000000111B00</game_id>
+		<rom name="Yoshi's New Island (USA) (En,Fr,Es).3ds" size="536870912" crc="a06c3cca" md5="b19e6b31789419473d5cdf175c1ef0c6" sha1="db905264318253d93f8f87a77cb83d3ad89fbf68" sha256="33a4ae6bd2da7d4214196b38edbf31123a40356b06d436e865eea94fa580c638"/>
+	</game>
+	<game name="Young Justice - Legacy (USA) (En,Fr,Es)" id="0491">
+		<category>Games</category>
+		<description>Young Justice - Legacy (USA) (En,Fr,Es)</description>
+		<game_id>00040000000AA200</game_id>
+		<rom name="Young Justice - Legacy (USA) (En,Fr,Es).3ds" size="134217728" crc="4c4c349f" md5="05fe50177d05776e5c608dc4ccf9533f" sha1="c3e1bcbd610b455da2dc6a1d974b8f6f6b3b2ce0" sha256="8ec732e1442608bac0afe5921337ce30c5f08faa291f104cb297e5f907b8033d"/>
+	</game>
+	<game name="Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It)" id="0994">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>0004000000132B00</game_id>
+		<rom name="Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="420c5ed2" md5="a540dd7a24687815794afbb2fe4a563f" sha1="fa756f05b62f2b807411b98c55b42d7e3f6cd805" sha256="6281826371a6249c428f790c360c49d614be330de8551a6e908d4ac156ab510d"/>
+	</game>
+	<game name="Zero Escape - Virtue's Last Reward (USA) (Rev 2)" id="1676">
+		<category>Games</category>
+		<description>Zero Escape - Virtue's Last Reward (USA) (Rev 2)</description>
+		<game_id>0004000000096700</game_id>
+		<rom name="Zero Escape - Virtue's Last Reward (USA) (Rev 2).3ds" size="1073741824" crc="28e4e976" md5="45bab32087f8a931a6724ba0c2d2faac" sha1="29b2088d9351b3ae4df796d9404cb1eb87778a6b" sha256="6b19164378efdb573a1e7cd3b9cefb335b5ce5de03804498814c5ed542b26e20"/>
+	</game>
+	<game name="Zero Escape - Zero Time Dilemma (USA)" id="1536">
+		<category>Games</category>
+		<description>Zero Escape - Zero Time Dilemma (USA)</description>
+		<game_id>000400000017B200</game_id>
+		<rom name="Zero Escape - Zero Time Dilemma (USA).3ds" size="2147483648" crc="98d0b8f7" md5="8ebe80bb278987a41d430cd95ab0dc8b" sha1="321f701b1249293b996a1fb8142c1c1c0f0c7441"/>
+	</game>
+	<game name="Zoo Resort 3D (USA) (En,Fr,Es)" id="0165">
+		<category>Games</category>
+		<description>Zoo Resort 3D (USA) (En,Fr,Es)</description>
+		<game_id>0004000000044D00</game_id>
+		<rom name="Zoo Resort 3D (USA) (En,Fr,Es).3ds" size="536870912" crc="ce9b5af0" md5="df4a10907b4de2deb1f2f7a234448551" sha1="d602d0f2d3adc2dabc70157d22220ce19aa91fdd"/>
 	</game>
 </datafile>
