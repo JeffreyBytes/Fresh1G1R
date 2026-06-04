@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260531-191511) (Retool)</description>
-		<version>20260531-191511</version>
-		<date>2026-06-03 07-10-27</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260603-060232) (Retool)</description>
+		<version>20260603-060232</version>
+		<date>2026-06-04 07-00-17</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -440,7 +440,7 @@
 		<category>Games</category>
 		<description>Centipede - Infestation (USA) (En,Fr,Es)</description>
 		<game_id>000400000004AD00</game_id>
-		<rom name="Centipede - Infestation (USA) (En,Fr,Es).3ds" size="536870912" crc="9deff06a" md5="bf8127cdaddc55ab9590e2a8eb801bd6" sha1="9adcf29672564451aab5b7ba00ca91c0167bd5cf"/>
+		<rom name="Centipede - Infestation (USA) (En,Fr,Es).3ds" size="536870912" crc="9deff06a" md5="bf8127cdaddc55ab9590e2a8eb801bd6" sha1="9adcf29672564451aab5b7ba00ca91c0167bd5cf" sha256="65e0c1d493f900567b82a57d5b3030f665ef3403a945cc6f0462f8e1c1c31a44"/>
 	</game>
 	<game name="Chevrolet Camaro - Wild Ride 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0921">
 		<category>Games</category>
@@ -1475,7 +1475,7 @@
 		<category>Games</category>
 		<description>LEGO Marvel Avengers (USA) (En,Fr,Es,Pt)</description>
 		<game_id>0004000000168500</game_id>
-		<rom name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt).3ds" size="536870912" crc="eccf7c7c" md5="fe2d9c24803bcbaaf63f80884ad82987" sha1="8b57c168e361433761a259a0352c8b2d310f408d"/>
+		<rom name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt).3ds" size="536870912" crc="eccf7c7c" md5="fe2d9c24803bcbaaf63f80884ad82987" sha1="8b57c168e361433761a259a0352c8b2d310f408d" sha256="ec1e2c36395fc958f94e67751db14dbedf11b4dd614f25387a0819f4c36796ec"/>
 	</game>
 	<game name="LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt) (English-only Audio)" id="0464">
 		<category>Games</category>
@@ -1487,7 +1487,7 @@
 		<category>Games</category>
 		<description>LEGO Movie Videogame, The (USA) (En,Fr,Es,Pt)</description>
 		<game_id>0004000000105A00</game_id>
-		<rom name="LEGO Movie Videogame, The (USA) (En,Fr,Es,Pt).3ds" size="536870912" crc="5443bf43" md5="19cb2378c692a994c8f426878885c537" sha1="309471e2910dd86c8058ce1691009c34bb047ca9"/>
+		<rom name="LEGO Movie Videogame, The (USA) (En,Fr,Es,Pt).3ds" size="536870912" crc="5443bf43" md5="19cb2378c692a994c8f426878885c537" sha1="309471e2910dd86c8058ce1691009c34bb047ca9" sha256="8fccea365622cdad83cb4ea7bbe988776c009fc6b92597197a462511cdf59ff5"/>
 	</game>
 	<game name="LEGO Ninjago - Nindroids (USA) (En,Fr,Es,Pt)" id="1011">
 		<category>Games</category>
@@ -2153,7 +2153,7 @@
 		<category>Games</category>
 		<description>Paddington - Adventures in London (USA)</description>
 		<game_id>000400000016B900</game_id>
-		<rom name="Paddington - Adventures in London (USA).3ds" size="134217728" crc="dab0ed3d" md5="43cf57084860cd8a66c634c95c088a08" sha1="75872f5dd31ef8c183ba2d27b0de2cf327775a19"/>
+		<rom name="Paddington - Adventures in London (USA).3ds" size="134217728" crc="dab0ed3d" md5="43cf57084860cd8a66c634c95c088a08" sha1="75872f5dd31ef8c183ba2d27b0de2cf327775a19" sha256="097ba1ab7f7fdae8536640a1347eea6787151535a36e699902a818152533c88d"/>
 	</game>
 	<game name="Paper Mario - Sticker Star (USA) (En,Fr,Es)" id="0254">
 		<category>Games</category>
@@ -2470,7 +2470,7 @@
 		<category>Games</category>
 		<description>Rayman Origins (USA) (En,Fr,Es)</description>
 		<game_id>0004000000057600</game_id>
-		<rom name="Rayman Origins (USA) (En,Fr,Es).3ds" size="268435456" crc="125808ef" md5="980cccac6139437954887b7431e56f6c" sha1="d2b51fa54ccd5c038db8035d9b002be1aa780e35"/>
+		<rom name="Rayman Origins (USA) (En,Fr,Es).3ds" size="268435456" crc="125808ef" md5="980cccac6139437954887b7431e56f6c" sha1="d2b51fa54ccd5c038db8035d9b002be1aa780e35" sha256="0313ac806c0170ec25ed3868967e71c54584f1da6c373aaa40b6253fc5318993"/>
 	</game>
 	<game name="Rayman and Rabbids Family Pack (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Rev 1)" id="1059">
 		<category>Games</category>
