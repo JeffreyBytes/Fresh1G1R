@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260603-060232) (Retool)</description>
-		<version>20260603-060232</version>
-		<date>2026-06-04 06-59-24</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (541) (-ly) [-aAbBcdDefkmMopPruv] (20260603-173053) (Retool)</description>
+		<version>20260603-173053</version>
+		<date>2026-06-05 06-47-31</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -470,7 +470,7 @@
 		<category>Games</category>
 		<description>Cocoto - Alien Brick Breaker (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
 		<game_id>000400000008A000</game_id>
-		<rom name="Cocoto - Alien Brick Breaker (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="c7ebcfbc" md5="1a3a585e1ccc57b95c60a3a4fd5eb830" sha1="b7eb44cb454d9015775ea8722a805dba860c9b42"/>
+		<rom name="Cocoto - Alien Brick Breaker (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="c7ebcfbc" md5="1a3a585e1ccc57b95c60a3a4fd5eb830" sha1="b7eb44cb454d9015775ea8722a805dba860c9b42" sha256="21a3edbb6527cfa0202921ddbb5bf230d6dc662674b34a052d5fdde28d53354f"/>
 	</game>
 	<game name="Code Name - S.T.E.A.M. (USA)" id="1207">
 		<category>Games</category>
@@ -1481,7 +1481,7 @@
 		<category>Games</category>
 		<description>LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt) (English-only Audio)</description>
 		<game_id>00040000000D2000</game_id>
-		<rom name="LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt) (English-only Audio).3ds" size="536870912" crc="346c2439" md5="bd90f065f5308c3a5325e7b6733e6a51" sha1="dacfe89f4ede092b40845a4aa8206920eb8e9878"/>
+		<rom name="LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt) (English-only Audio).3ds" size="536870912" crc="346c2439" md5="bd90f065f5308c3a5325e7b6733e6a51" sha1="dacfe89f4ede092b40845a4aa8206920eb8e9878" sha256="8284da4523ee607497b2dd48ee197460f7edd6c2a3f0e98874393d07e05386eb"/>
 	</game>
 	<game name="LEGO Movie Videogame, The (USA) (En,Fr,Es,Pt)" id="0609">
 		<category>Games</category>
@@ -1566,7 +1566,7 @@
 		<category>Games</category>
 		<description>Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)</description>
 		<game_id>00040000000EC300</game_id>
-		<rom name="Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es).3ds" size="1073741824" crc="81b47a68" md5="a7627c2e75c7755964c9c95c8ed7a2ee" sha1="37b52eb539efd8947f8df9b6bb084315997f6d49"/>
+		<rom name="Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es).3ds" size="1073741824" crc="81b47a68" md5="a7627c2e75c7755964c9c95c8ed7a2ee" sha1="37b52eb539efd8947f8df9b6bb084315997f6d49" sha256="ff1538f16f5599ee2e6772219e52bbbf3b2a5287305e3a6bdad4fa995663765e"/>
 	</game>
 	<game name="Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es) (Rev 1)" id="1561">
 		<category>Games</category>
@@ -1590,7 +1590,7 @@
 		<category>Games</category>
 		<description>Legends of Oz - Dorothy's Return (USA)</description>
 		<game_id>0004000000125100</game_id>
-		<rom name="Legends of Oz - Dorothy's Return (USA).3ds" size="134217728" crc="170e32b7" md5="4df980858ca053d0a4fd5213d43b41dc" sha1="7291eecea0a6a7ae902fd604aacc25a45eec31d5"/>
+		<rom name="Legends of Oz - Dorothy's Return (USA).3ds" size="134217728" crc="170e32b7" md5="4df980858ca053d0a4fd5213d43b41dc" sha1="7291eecea0a6a7ae902fd604aacc25a45eec31d5" sha256="fe5cd98b40bc62c82d9c878d1e3fb9d20ed70e0bbd0b3f94ae1e4aac11c8238e"/>
 	</game>
 	<game name="Let's Ride - Best in Breed 3D (USA)" id="0145">
 		<category>Games</category>
@@ -2800,7 +2800,7 @@
 		<category>Games</category>
 		<description>Sonic Lost World (USA) (En,Fr,Es)</description>
 		<game_id>00040000000C8C00</game_id>
-		<rom name="Sonic Lost World (USA) (En,Fr,Es).3ds" size="2147483648" crc="e8ed1718" md5="cbfdf7450ba4e9d1abdc1ce89834c6af" sha1="8c729c11bcfc0d8b68a999328ff72b18ba341e8e"/>
+		<rom name="Sonic Lost World (USA) (En,Fr,Es).3ds" size="2147483648" crc="e8ed1718" md5="cbfdf7450ba4e9d1abdc1ce89834c6af" sha1="8c729c11bcfc0d8b68a999328ff72b18ba341e8e" sha256="0198ed6a24b446ca89df1ed9257b70905beb85e4f258f6c607c0c8285a641960"/>
 	</game>
 	<game name="Spider-Man - Edge of Time (USA)" id="0154">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (975) (-y) [-aAbBcefkmMoprv] (20260603-060232) (Retool)</description>
-		<version>20260603-060232</version>
-		<date>2026-06-04 06-56-02</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (975) (-y) [-aAbBcefkmMoprv] (20260603-173053) (Retool)</description>
+		<version>20260603-173053</version>
+		<date>2026-06-05 06-43-51</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2665,7 +2665,7 @@
 		<category>Games</category>
 		<description>LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt) (English-only Audio)</description>
 		<game_id>00040000000D2000</game_id>
-		<rom name="LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt) (English-only Audio).3ds" size="536870912" crc="a4d8b57c" md5="010742c6c8843a62a11e2f242f357a65" sha1="3839a681421872852b11f99a01e13e1f10ddb854"/>
+		<rom name="LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt) (English-only Audio).3ds" size="536870912" crc="a4d8b57c" md5="010742c6c8843a62a11e2f242f357a65" sha1="3839a681421872852b11f99a01e13e1f10ddb854" sha256="1362a03ad911d68d9354933f0047432d41817ceee1d2cc13f076d95142834045"/>
 	</game>
 	<game name="LEGO Movie Videogame, The (USA) (En,Fr,Es,Pt)" id="0609">
 		<category>Games</category>
@@ -2762,7 +2762,7 @@
 		<category>Games</category>
 		<description>Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)</description>
 		<game_id>00040000000EC300</game_id>
-		<rom name="Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es).3ds" size="1073741824" crc="843e9c54" md5="83d65865bbe5f878f6a96403f42b90cc" sha1="9a382872c4db445a77cd8458e23c4c9f89200d4f"/>
+		<rom name="Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es).3ds" size="1073741824" crc="843e9c54" md5="83d65865bbe5f878f6a96403f42b90cc" sha1="9a382872c4db445a77cd8458e23c4c9f89200d4f" sha256="e87cf68000e5cc118efae4e0686eef7ace39af61bab7b2cb2f744d359ed8b387"/>
 	</game>
 	<game name="Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x022">
 		<category>Demos</category>
@@ -2804,7 +2804,7 @@
 		<category>Games</category>
 		<description>Legends of Oz - Dorothy's Return (USA)</description>
 		<game_id>0004000000125100</game_id>
-		<rom name="Legends of Oz - Dorothy's Return (USA).3ds" size="134217728" crc="752c2c8e" md5="80274daa9066d413e5fc644988efd2b6" sha1="75868b3496a26b245fb885ff5dfd553500590dae"/>
+		<rom name="Legends of Oz - Dorothy's Return (USA).3ds" size="134217728" crc="752c2c8e" md5="80274daa9066d413e5fc644988efd2b6" sha1="75868b3496a26b245fb885ff5dfd553500590dae" sha256="3b32311871aa434613e87023706be6a2d8395275365e8f4b9c0660fd4a6f18dc"/>
 	</game>
 	<game name="Let's Ride - Best in Breed 3D (USA)" id="0145">
 		<category>Games</category>
@@ -3061,7 +3061,7 @@
 		<category>Demos</category>
 		<description>Mario Tennis Open (USA) (Demo) (Kiosk)</description>
 		<game_id>00040000000A2400</game_id>
-		<rom name="Mario Tennis Open (USA) (Demo) (Kiosk).3ds" size="134217728" crc="dab662eb" md5="3d13535e196cbbd540f4d29a2e577b75" sha1="11574cccbb458372c1e129cf77f4b43a4cf9f3e6"/>
+		<rom name="Mario Tennis Open (USA) (Demo) (Kiosk).3ds" size="134217728" crc="dab662eb" md5="3d13535e196cbbd540f4d29a2e577b75" sha1="11574cccbb458372c1e129cf77f4b43a4cf9f3e6" sha256="8c48ea054cdcb74d5e882941c6430fe6efef1de4e44ffbccdba44eb402b382ca"/>
 	</game>
 	<game name="Mario Tennis Open (USA) (En,Fr,Es) (Rev 1)" id="0257">
 		<category>Games</category>
@@ -4955,7 +4955,7 @@
 		<category>Games</category>
 		<description>Sonic Lost World (USA) (En,Fr,Es)</description>
 		<game_id>00040000000C8C00</game_id>
-		<rom name="Sonic Lost World (USA) (En,Fr,Es).3ds" size="2147483648" crc="e459b783" md5="33e6bc90e709d1df997e4a553f5ad51f" sha1="67b170c102bbe426716e953a8a913eff511c25e5"/>
+		<rom name="Sonic Lost World (USA) (En,Fr,Es).3ds" size="2147483648" crc="e459b783" md5="33e6bc90e709d1df997e4a553f5ad51f" sha1="67b170c102bbe426716e953a8a913eff511c25e5" sha256="194cf92edc30d502a28ec61eaf66a88aa67bbbeac3b78a30cbc16d4fa7a0c192"/>
 	</game>
 	<game name="Soroban - Anzan - Flash Anzan Kanzenban (Japan)" id="1169">
 		<category>Games</category>
