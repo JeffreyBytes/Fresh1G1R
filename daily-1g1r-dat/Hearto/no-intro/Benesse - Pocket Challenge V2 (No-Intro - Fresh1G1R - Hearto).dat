@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Benesse - Pocket Challenge V2 (Retool)</name>
-		<description>Benesse - Pocket Challenge V2 (32) (-y) [-aAbBcefkmMoprv] (20251024-084348) (Retool)</description>
-		<version>20251024-084348</version>
-		<date>2026-06-05 06-43-52</date>
-		<author>Arctic Circle System, Gefflon, Hiccup, Icyelut, omonim2007, psykopat, relax, sCZther, SonGoku, xuom2</author>
+		<description>Benesse - Pocket Challenge V2 (33) (-y) [-aAbBcefkmMoprv] (20260604-160115) (Retool)</description>
+		<version>20260604-160115</version>
+		<date>2026-06-06 06-07-37</date>
+		<author>Arctic Circle System, Gefflon, Hiccup, Icyelut, omonim2007, psykopat, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -52,6 +52,12 @@
 		<description>Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213)</description>
 		<game_id>3BB213</game_id>
 		<rom name="Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213).pc2" size="4194304" crc="5c679bd3" md5="d5b5a75d6dd005b37213ddc18615e501" sha1="132b298ff2e16097073c0822f81c7023c31b9d33" sha256="b96b77cd2615ea202f13d9d58efba7093a8b6a417f0277cb9fc45d42f48c3724"/>
+	</game>
+	<game name="Chuu 2 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB211)" id="0068">
+		<category>Games</category>
+		<description>Chuu 2 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB211)</description>
+		<game_id>3BB211</game_id>
+		<rom name="Chuu 2 English (New Horizon, Columbus21 Taiou Ban) (Japan) (3BB211).pc2" size="4194304" crc="784fd6fb" md5="f24749f8db878ba74f52ef182c577269" sha1="cb3e8cc63630a5b2976a0dab0f811e43fd8a1e5e" sha256="b52c47e396e1907147fcc35c9fa0d9865107f4fd7812301a9c93e73c863b8824"/>
 	</game>
 	<game name="Chuu 2 Kokugo (Japan) (3BK210)" id="0041">
 		<category>Games</category>
