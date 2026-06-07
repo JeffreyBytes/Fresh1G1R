@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,565) (-y) [-aAbBcdkmMpPuv] (2026-05-30 17-10-28) (Retool)</description>
-		<version>2026-05-30 17-10-28</version>
-		<date>2026-05-31 06-53-59</date>
+		<description>Microsoft - Xbox 360 (1,565) (-y) [-aAbBcdkmMpPuv] (2026-06-06 15-59-22) (Retool)</description>
+		<version>2026-06-06 15-59-22</version>
+		<date>2026-06-07 06-58-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2806,15 +2806,15 @@
 		<description>Forza Horizon 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)</description>
 		<rom name="Forza Horizon 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru).iso" size="8738846720" crc="2da8b1ed" md5="0cf0fc1f677fe3227e353acd29e1aa82" sha1="8b7c7382ee14691422b357987cb48fc3059c7def"/>
 	</game>
-	<game name="Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Bonus Disc)">
-		<category>Bonus Discs</category>
-		<description>Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Bonus Disc)</description>
-		<rom name="Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Bonus Disc).iso" size="7835492352" crc="d3e854a0" md5="58e5c632ce0265c1626a6558858d5194" sha1="461093187fb9644a1dd24582fa5b975a605119c9"/>
-	</game>
 	<game name="Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu)">
 		<category>Games</category>
 		<description>Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu)</description>
 		<rom name="Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu).iso" size="7835492352" crc="becbe6dd" md5="b3e6dff1d18e7d4e2409afed64b50cb1" sha1="711344da825a3985ff430c8edd08df44b5112b47"/>
+	</game>
+	<game name="Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu) (Bonus Disc)">
+		<category>Bonus Discs</category>
+		<description>Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu) (Bonus Disc)</description>
+		<rom name="Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu) (Bonus Disc).iso" size="7835492352" crc="d3e854a0" md5="58e5c632ce0265c1626a6558858d5194" sha1="461093187fb9644a1dd24582fa5b975a605119c9"/>
 	</game>
 	<game name="Forza Motorsport 3 - Ultimate Collection (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)">
 		<category>Games</category>
@@ -5621,15 +5621,15 @@
 		<description>Qiuzhi Huiyi 7 - Da Gougou de Jiyi (Taiwan)</description>
 		<rom name="Qiuzhi Huiyi 7 - Da Gougou de Jiyi (Taiwan).iso" size="7838695424" crc="2019dee9" md5="a121eab525d6c84854bc014678f9ee3e" sha1="126e0b8926e205ffe9f4456ade92c821d72cfa1c"/>
 	</game>
-	<game name="Quake 4 (USA, Europe) (Bonus Disc)">
-		<category>Bonus Discs</category>
-		<description>Quake 4 (USA, Europe) (Bonus Disc)</description>
-		<rom name="Quake 4 (USA, Europe) (Bonus Disc).iso" size="7834892288" crc="6092e836" md5="fef4eae501b89aaf08e37f01b8e6cb80" sha1="7778090e85b26551e95789de7b2650deb818f982"/>
-	</game>
 	<game name="Quake 4 (USA, Europe) (En,Fr,Es,It)">
 		<category>Games</category>
 		<description>Quake 4 (USA, Europe) (En,Fr,Es,It)</description>
 		<rom name="Quake 4 (USA, Europe) (En,Fr,Es,It).iso" size="7834892288" crc="3440f940" md5="9f4a1576f855bda5a7d581fca0a57707" sha1="a6a857bc34c2c26cdd229cb5046d23f6a2a4f94a"/>
+	</game>
+	<game name="Quake 4 (USA, Europe) (En,Fr,Es,It) (Bonus Disc)">
+		<category>Bonus Discs</category>
+		<description>Quake 4 (USA, Europe) (En,Fr,Es,It) (Bonus Disc)</description>
+		<rom name="Quake 4 (USA, Europe) (En,Fr,Es,It) (Bonus Disc).iso" size="7834892288" crc="6092e836" md5="fef4eae501b89aaf08e37f01b8e6cb80" sha1="7778090e85b26551e95789de7b2650deb818f982"/>
 	</game>
 	<game name="Quantum Theory (USA) (En,Fr)">
 		<category>Games</category>

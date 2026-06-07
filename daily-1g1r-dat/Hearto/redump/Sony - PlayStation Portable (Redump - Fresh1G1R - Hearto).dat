@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,841) (-y) [-aAbBcefkmMoprv] (2026-05-29 09-26-18) (Retool)</description>
-		<version>2026-05-29 09-26-18</version>
-		<date>2026-05-31 06-42-47</date>
+		<description>Sony - PlayStation Portable (1,842) (-y) [-aAbBcefkmMoprv] (2026-06-05 16-53-10) (Retool)</description>
+		<version>2026-06-05 16-53-10</version>
+		<date>2026-06-07 06-47-11</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5305,6 +5305,11 @@
 		<category>Games</category>
 		<description>Nana - Subete wa Daimaou no Omichibiki (Japan)</description>
 		<rom name="Nana - Subete wa Daimaou no Omichibiki (Japan).iso" size="224296960" crc="3297b3d4" md5="00bf2a0087d678b8ac16b1dae62980ec" sha1="d1d3401aaafb43554fa62a94f912b4cff3cdf9b4"/>
+	</game>
+	<game name="Nanatama - Chronicle of Dungeon Maker (Japan)">
+		<category>Games</category>
+		<description>Nanatama - Chronicle of Dungeon Maker (Japan)</description>
+		<rom name="Nanatama - Chronicle of Dungeon Maker (Japan).iso" size="189792256" crc="50833c03" md5="595cdd4efefef05fbf20c2ccc1e8d907" sha1="db614c3f4c6f53ed3eb9b6e49276878cd7848202"/>
 	</game>
 	<game name="Nano Diver (Japan)">
 		<category>Games</category>

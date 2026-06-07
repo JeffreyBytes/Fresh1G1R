@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,700) (-y) [-aAbBcefkmMoprv] (2026-05-29 09-54-33) (Retool)</description>
-		<version>2026-05-29 09-54-33</version>
-		<date>2026-05-31 06-42-45</date>
+		<description>Sony - PlayStation 3 (1,700) (-y) [-aAbBcefkmMoprv] (2026-06-05 16-47-30) (Retool)</description>
+		<version>2026-06-05 16-47-30</version>
+		<date>2026-06-07 06-47-09</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -426,10 +426,10 @@
 		<description>Assassin's Creed - The Americas Collection (USA) (En,Fr,Es,Pt)</description>
 		<rom name="Assassin's Creed - The Americas Collection (USA) (En,Fr,Es,Pt).iso" size="27092975616" crc="3579353f" md5="090abf88d03a6588b53eb2ee5b53dc26" sha1="c3b7afe87c29dae2746f8e08149d8ba85f8aaba2"/>
 	</game>
-	<game name="Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
+	<game name="Assassin's Creed II - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
 		<category>Games</category>
-		<description>Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="7600472064" crc="5209d7b2" md5="2eb0ea21815ff54681f3521b9f89b45a" sha1="36d76312fa947cb7aeb652b2440eeb9e6100809c"/>
+		<description>Assassin's Creed II - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+		<rom name="Assassin's Creed II - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="7600472064" crc="5209d7b2" md5="2eb0ea21815ff54681f3521b9f89b45a" sha1="36d76312fa947cb7aeb652b2440eeb9e6100809c"/>
 	</game>
 	<game name="Assassin's Creed III (USA) (En,Fr,Es,Pt) (v02.00)">
 		<category>Games</category>
@@ -7332,10 +7332,10 @@
 		<description>Syndicate (USA) (En,Fr,Es)</description>
 		<rom name="Syndicate (USA) (En,Fr,Es).iso" size="7516258304" crc="1506c8b2" md5="b8b1f9cdda4966ccd4ed9d6690986077" sha1="ff284b2a65afc765fbd70d9240254bdd5135afc0"/>
 	</game>
-	<game name="TNA Impact! Total Nonstop Action Wrestling (USA) (En,Fr)">
+	<game name="TNA Impact! Total Nonstop Action Wrestling (USA, Canada) (En,Fr)">
 		<category>Games</category>
-		<description>TNA Impact! Total Nonstop Action Wrestling (USA) (En,Fr)</description>
-		<rom name="TNA Impact! Total Nonstop Action Wrestling (USA) (En,Fr).iso" size="17617977344" crc="f6112b4f" md5="40a2162a269ee341ec2a0f3351f96fa3" sha1="f7921911a0d67eefbe7ed4c32d91b3461a5950f5"/>
+		<description>TNA Impact! Total Nonstop Action Wrestling (USA, Canada) (En,Fr)</description>
+		<rom name="TNA Impact! Total Nonstop Action Wrestling (USA, Canada) (En,Fr).iso" size="17617977344" crc="f6112b4f" md5="40a2162a269ee341ec2a0f3351f96fa3" sha1="f7921911a0d67eefbe7ed4c32d91b3461a5950f5"/>
 	</game>
 	<game name="TV Superstars (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>
