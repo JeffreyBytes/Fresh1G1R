@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,938) (-y) [-aAbBcefkmMoprv] (20260605-170618) (Retool)</description>
-		<version>20260605-170618</version>
-		<date>2026-06-07 06-51-22</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,938) (-y) [-aAbBcefkmMoprv] (20260607-144714) (Retool)</description>
+		<version>20260607-144714</version>
+		<date>2026-06-08 07-07-20</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -444,7 +444,7 @@
 	<game name="Adventures of Pinocchio (Europe)" id="3309">
 		<category>Games</category>
 		<description>Adventures of Pinocchio (Europe)</description>
-		<rom name="Adventures of Pinocchio (Europe).nds" size="33554432" crc="b682951e" md5="3e43474305048769bf25228faebad6dd" sha1="0d9a3ec4c3e71a3fd9d1102c9ab94a5e8963385b"/>
+		<rom name="Adventures of Pinocchio (Europe).nds" size="33554432" crc="b682951e" md5="3e43474305048769bf25228faebad6dd" sha1="0d9a3ec4c3e71a3fd9d1102c9ab94a5e8963385b" sha256="b4fdd3d5411d15441d0410f0bd919a8a70ee02fa191e16179a6acfdaadbc8576"/>
 	</game>
 	<game name="Again - Interactive Crime Novel (USA)" id="4876">
 		<category>Games</category>
@@ -6556,7 +6556,7 @@
 	<game name="Hello, Pocoyo! (Europe) (En,Fr,De,Es,It)" id="3210">
 		<category>Games</category>
 		<description>Hello, Pocoyo! (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Hello, Pocoyo! (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="8e1ae1b4" md5="c859d0ba6a9acafad5ec6cc8785e46f9" sha1="e64162e1f7e92f7851f6dfa855c23c9c00d207f2"/>
+		<rom name="Hello, Pocoyo! (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="8e1ae1b4" md5="c859d0ba6a9acafad5ec6cc8785e46f9" sha1="e64162e1f7e92f7851f6dfa855c23c9c00d207f2" sha256="7d75590a6679622d8c047a959a0de9e676c04f800094e8d422f4272b7b80b438"/>
 	</game>
 	<game name="Henry Hatsworth in the Puzzling Adventure (USA) (En,Fr,De,Es,It)" id="3551">
 		<category>Games</category>
@@ -9490,7 +9490,7 @@
 	<game name="Lola &amp; Virginia (Europe) (En,Fr,De,Es,It,Pt)" id="3599">
 		<category>Games</category>
 		<description>Lola &amp; Virginia (Europe) (En,Fr,De,Es,It,Pt)</description>
-		<rom name="Lola &amp; Virginia (Europe) (En,Fr,De,Es,It,Pt).nds" size="16777216" crc="9fb9d051" md5="4966b688ebd2b48b495ab89bdf59e7cf" sha1="4952d9c015d87e8cf823a758ae4fa71bafff1c1c"/>
+		<rom name="Lola &amp; Virginia (Europe) (En,Fr,De,Es,It,Pt).nds" size="16777216" crc="9fb9d051" md5="4966b688ebd2b48b495ab89bdf59e7cf" sha1="4952d9c015d87e8cf823a758ae4fa71bafff1c1c" sha256="ef76d2fc5a3e792b23f780fb7a82627a86769b0116ddf6dcb389cdcdde46c365"/>
 	</game>
 	<game name="LonQ! Highland in DS - Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP (Japan)" id="2683">
 		<category>Games</category>
@@ -16436,7 +16436,7 @@
 	<game name="Stratego - Next Edition (Europe) (En,Fr,De,Es,Nl)" id="2342">
 		<category>Games</category>
 		<description>Stratego - Next Edition (Europe) (En,Fr,De,Es,Nl)</description>
-		<rom name="Stratego - Next Edition (Europe) (En,Fr,De,Es,Nl).nds" size="16777216" crc="9df9e5e0" md5="0591232030a743285e4916b317d3ad9b" sha1="1b703dc2a03e89dda750bbc30101b076399b2a7f"/>
+		<rom name="Stratego - Next Edition (Europe) (En,Fr,De,Es,Nl).nds" size="16777216" crc="9df9e5e0" md5="0591232030a743285e4916b317d3ad9b" sha1="1b703dc2a03e89dda750bbc30101b076399b2a7f" sha256="262d1571f63cc3de5870549adafcadde23fdc1058c8cdfdcbcce6bb206457e35"/>
 	</game>
 	<game name="Strawberry Shortcake - Strawberryland Games (USA) (En,Fr,Es)" id="0620">
 		<category>Games</category>
@@ -16451,7 +16451,7 @@
 	<game name="Street Football (Europe) (En,Fr,De,Es,It)" id="2312">
 		<category>Games</category>
 		<description>Street Football (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Street Football (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="691430f2" md5="6736f9c2b9e13caa15c10d01090fc41a" sha1="31f8921051bdc0c178075ba3e9a1454eefdb9e44"/>
+		<rom name="Street Football (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="691430f2" md5="6736f9c2b9e13caa15c10d01090fc41a" sha1="31f8921051bdc0c178075ba3e9a1454eefdb9e44" sha256="62ee2d3ce7c8a3181049052c7ab0afbe1e064486eefd2f23f96b140e3150c3ad"/>
 	</game>
 	<game name="Street Football II (Europe) (En,Fr,It)" id="4534">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,402) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-06 15-59-22) (Retool)</description>
-		<version>2026-06-06 15-59-22</version>
-		<date>2026-06-07 06-52-49</date>
+		<description>Microsoft - Xbox 360 (1,402) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-08 02-03-27) (Retool)</description>
+		<version>2026-06-08 02-03-27</version>
+		<date>2026-06-08 07-12-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -276,10 +276,10 @@
 		<description>Armored Core 4 (USA)</description>
 		<rom name="Armored Core 4 (USA).iso" size="7835492352" crc="15821340" md5="68959707367d1c903eafda753960dd4f" sha1="64f2f29a26fd903bd4a53e79c931f37e48204198"/>
 	</game>
-	<game name="Armored Core V (USA)">
+	<game name="Armored Core V (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Armored Core V (USA)</description>
-		<rom name="Armored Core V (USA).iso" size="7838695424" crc="48b60ac3" md5="d2f7e221ed2cc81e62a2a494b8db6c7d" sha1="2afcb497c9963ddf3f4a144ebeeb18d30e352c54"/>
+		<description>Armored Core V (USA) (En,Fr,Es)</description>
+		<rom name="Armored Core V (USA) (En,Fr,Es).iso" size="7838695424" crc="48b60ac3" md5="d2f7e221ed2cc81e62a2a494b8db6c7d" sha1="2afcb497c9963ddf3f4a144ebeeb18d30e352c54"/>
 	</game>
 	<game name="Army of Two (USA)">
 		<category>Games</category>
@@ -5466,10 +5466,10 @@
 		<description>Saints Row - Gat out of Hell (USA, Europe) (En,Fr,De,Es,It,Pl,Ru)</description>
 		<rom name="Saints Row - Gat out of Hell (USA, Europe) (En,Fr,De,Es,It,Pl,Ru).iso" size="8738846720" crc="7215d9b3" md5="c341778c12b1e8423b77ca78f033f087" sha1="746a79d7ed6728c989e82d9d0bb51489ec582e1b"/>
 	</game>
-	<game name="Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)">
+	<game name="Saints Row - The Third (World) (En,Fr,De,Es,It,Nl,Pl,Ru)">
 		<category>Games</category>
-		<description>Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
-		<rom name="Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="8738846720" crc="73724aba" md5="0e4b2d4afbd905158bed83cef0a79c40" sha1="309a4bd777b8b0cb6ccb0b533a849699f1b068d2"/>
+		<description>Saints Row - The Third (World) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
+		<rom name="Saints Row - The Third (World) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="8738846720" crc="73724aba" md5="0e4b2d4afbd905158bed83cef0a79c40" sha1="309a4bd777b8b0cb6ccb0b533a849699f1b068d2"/>
 	</game>
 	<game name="Saints Row 2 (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)">
 		<category>Games</category>
