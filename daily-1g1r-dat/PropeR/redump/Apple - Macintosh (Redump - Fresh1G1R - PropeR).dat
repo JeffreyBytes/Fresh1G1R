@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (624) (-y) [-aAbBcdkmMpPuv] (2026-06-07 16-44-08) (Retool)</description>
-		<version>2026-06-07 16-44-08</version>
-		<date>2026-06-08 07-17-43</date>
+		<description>Apple - Macintosh (627) (-y) [-aAbBcdkmMpPuv] (2026-06-08 10-24-45) (Retool)</description>
+		<version>2026-06-08 10-24-45</version>
+		<date>2026-06-09 06-37-10</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -58,6 +58,21 @@
 		<description>3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects)</description>
 		<rom name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects).bin" size="765213792" crc="66a631b9" md5="805bb5e3113452628455c47649f710d0" sha1="5436f3f99bcea146a9c068221f9ba608ba47911e"/>
 		<rom name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects).cue" size="153" crc="97e3a23e" md5="569f46ce624593c600f75726a6abff4e" sha1="a52e3a9148bd99b2b6ef9e4d66de3a93c28b5bc5"/>
+	</game>
+	<game name="4x4 Evo (USA)">
+		<category>Games</category>
+		<description>4x4 Evo (USA)</description>
+		<rom name="4x4 Evo (USA) (Track 01).bin" size="193205040" crc="43dd15b1" md5="ebd0be661cdd6c48e8ec10c663ac5e12" sha1="abf82ad94d88629aa2677f8798ed2a8502431bd3"/>
+		<rom name="4x4 Evo (USA) (Track 02).bin" size="33579504" crc="4c797a1d" md5="c159d7cb02be91ee255e87f100c98b06" sha1="c606fea84162c3ca16bfa7e4654ed2e45c38fc21"/>
+		<rom name="4x4 Evo (USA) (Track 03).bin" size="29411760" crc="c4d43253" md5="ed89f62c16f4125acb51ca57ec4d719b" sha1="0c2d9e91e0dd221be0ffdac80eb9b920a8aafa3a"/>
+		<rom name="4x4 Evo (USA) (Track 04).bin" size="37982448" crc="787c4c91" md5="63fae2d6009afff9832758a18bb5e4f4" sha1="81beefd9875bf654404ed52733a62a2bb804e130"/>
+		<rom name="4x4 Evo (USA) (Track 05).bin" size="33127920" crc="1f1642ae" md5="c0b14a98cd0b24120762649e825ec766" sha1="70dd4a604a7af39eb661370fce8af5878a35b3ed"/>
+		<rom name="4x4 Evo (USA) (Track 06).bin" size="26631696" crc="7a83b370" md5="79c1c9e23b1818279a0b537547624a6b" sha1="2b90b0f443e0489175bacf943e81c0d2f49ed2bf"/>
+		<rom name="4x4 Evo (USA) (Track 07).bin" size="27854736" crc="ef4aac34" md5="0eb82b7d3d2032a2932c3273a06e0e27" sha1="4f0032bb396890997befacb9af63ae6148f3a09a"/>
+		<rom name="4x4 Evo (USA) (Track 08).bin" size="28889616" crc="4bb015e2" md5="db33104aba8b6b5ed34ab86608b1860e" sha1="3955bad3dc827542998e3627e533182b6be1ae24"/>
+		<rom name="4x4 Evo (USA) (Track 09).bin" size="34851936" crc="3fa633d9" md5="2dade65db7c669e003b3e25f78c0ab52" sha1="e3163724a0b73ccaa99c2155ed4c9bcf56432a3a"/>
+		<rom name="4x4 Evo (USA) (Track 10).bin" size="40677840" crc="c91a532d" md5="d1aaadbddfe85595ff9703a1b2b2a9ca" sha1="3e7751c6cd2f2f65c254aff902a2c116fd743c12"/>
+		<rom name="4x4 Evo (USA).cue" size="1085" crc="05cfe5c2" md5="4f225e86d50864ef99a83dc1be1e2624" sha1="36c637be3deec85c843052171bcde8d999d0c357"/>
 	</game>
 	<game name="5 a Day Adventures (USA)">
 		<category>Educational</category>
@@ -2313,11 +2328,11 @@
 		<rom name="Lua (Japan).bin" size="22520400" crc="04a4c71a" md5="ace58839a4420cc2bbb8df5f45f2d1d8" sha1="96c1d77e5783f4f5514fd3d25e7fa2e87c9424dc"/>
 		<rom name="Lua (Japan).cue" size="77" crc="dea8267f" md5="e5a1507e4e184635fec9709cd0a49ea3" sha1="4d54627235860198455c7dd1ec7b02e59a7de09f"/>
 	</game>
-	<game name="Lunicus (Japan)">
+	<game name="Lunicus (USA)">
 		<category>Games</category>
-		<description>Lunicus (Japan)</description>
-		<rom name="Lunicus (Japan).bin" size="352837632" crc="ec8ea3f9" md5="4d0264c671c010e0a59d3bf91f242e1c" sha1="c447af9a6683923ebb642acbb41a26bd62af0f88"/>
-		<rom name="Lunicus (Japan).cue" size="81" crc="85f3a7b7" md5="7cc4bca50bc507cde7d2158029a6888b" sha1="0dff8bf822b0ef44404c7fd3e373e52f18ce7a1f"/>
+		<description>Lunicus (USA)</description>
+		<rom name="Lunicus (USA).bin" size="662327904" crc="53f1cb6d" md5="b3e5485a14028b6ba8ac8d7a2510c4ad" sha1="e5952c3800a3420223da0ccf059e909a43fee272"/>
+		<rom name="Lunicus (USA).cue" size="102" crc="38b9b424" md5="29c5586de02395be57885bca17ad57e7" sha1="b0f218996892ff09a2ae4334f9a1d63927b3d3c7"/>
 	</game>
 	<game name="MDK (Europe)">
 		<category>Games</category>
@@ -3806,6 +3821,12 @@
 		<description>Sims 2, The - Bon Voyage (Expansion Pack) (USA)</description>
 		<rom name="Sims 2, The - Bon Voyage (Expansion Pack) (USA).iso" size="790618112" crc="a45610d1" md5="3a454eac08ba06c6d124d6e534cb6fa9" sha1="88fd9e1a1009b044467b2f5e0b2df09309b86f4a"/>
 	</game>
+	<game name="Sims 2, The - Family Fun Stuff (USA)">
+		<category>Add-Ons</category>
+		<description>Sims 2, The - Family Fun Stuff (USA)</description>
+		<rom name="Sims 2, The - Family Fun Stuff (USA).bin" size="267144864" crc="1a501c6f" md5="33938bd968d66a81551bc923def15afc" sha1="70d5af4a3958c8266fbf23a0990763fe0dc9f056"/>
+		<rom name="Sims 2, The - Family Fun Stuff (USA).cue" size="102" crc="ca379005" md5="a078b15c32e86ae44d47228bdb2a18f8" sha1="4bc0edb92fb8ae1e602ba3d9d081e61449f8330a"/>
+	</game>
 	<game name="Sims 2, The - Nightlife (Expansion Pack) (USA)">
 		<category>Add-Ons</category>
 		<description>Sims 2, The - Nightlife (Expansion Pack) (USA)</description>
@@ -4558,6 +4579,12 @@
 		<description>Weekend Warrior (USA) (OEM)</description>
 		<rom name="Weekend Warrior (USA) (OEM).bin" size="157727472" crc="a5e1dde9" md5="7176880acff8585bec9ce78ba05ed9a2" sha1="f924d06092bb00de656c4cd93b871d2d55cd34d0"/>
 		<rom name="Weekend Warrior (USA) (OEM).cue" size="93" crc="5167e7d1" md5="f0edcac1448b19e7dbea25a4a1cd313d" sha1="e2b7e1b1e73771f22279039fb1b464c99eb18c23"/>
+	</game>
+	<game name="Welcome to the Future (USA)">
+		<category>Games</category>
+		<description>Welcome to the Future (USA)</description>
+		<rom name="Welcome to the Future (USA).bin" size="779659776" crc="8ade8225" md5="02e50b313e2d16f65ba888e2797ba1ab" sha1="db84b08f36e08a69f2532942ce9884b479846cfa"/>
+		<rom name="Welcome to the Future (USA).cue" size="116" crc="bffc02f6" md5="d51136edcf6f9443ebd0c01335ce363c" sha1="e19a3468baf5e125192a53bb4b200552662a32e7"/>
 	</game>
 	<game name="What's the Secret Volume 2 (USA)">
 		<category>Educational</category>
