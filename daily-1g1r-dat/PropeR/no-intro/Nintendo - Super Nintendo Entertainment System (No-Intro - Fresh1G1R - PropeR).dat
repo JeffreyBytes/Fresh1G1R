@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,753) (-y) [-aAbBcdkmMpPuv] (20260526-200545) (Retool)</description>
-		<version>20260526-200545</version>
-		<date>2026-06-09 06-42-30</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,753) (-y) [-aAbBcdkmMpPuv] (20260609-000617) (Retool)</description>
+		<version>20260609-000617</version>
+		<date>2026-06-10 07-02-09</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2981,10 +2981,10 @@
 		<description>Isozuri - Ritou Hen (Japan)</description>
 		<rom name="Isozuri - Ritou Hen (Japan).sfc" size="2097152" crc="3d35d085" md5="ae62407336cae6e9e15a20a5b186645d" sha1="49741c14e923bdaa0ff5776744508544921cbb2d" sha256="fb9abee05c8ff6c256ba10cf401c3384d8e16d582966498fceb9888e92a9665c"/>
 	</game>
-	<game name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)" id="1160">
+	<game name="Itadaki Street 2 - Neon Sign ha Barairo Ni (Japan)" id="1160">
 		<category>Games</category>
-		<description>Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)</description>
-		<rom name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan).sfc" size="1572864" crc="95310032" md5="c4a1a27f58f87786d403a8d133593957" sha1="e0bdf8d4e9c9d3f344686fda1e20190e3b47800d" sha256="36ad8b6dacdc6960a97183c1555c39cb31748671365433e4f304e4662fbcbbd1"/>
+		<description>Itadaki Street 2 - Neon Sign ha Barairo Ni (Japan)</description>
+		<rom name="Itadaki Street 2 - Neon Sign ha Barairo Ni (Japan).sfc" size="1572864" crc="95310032" md5="c4a1a27f58f87786d403a8d133593957" sha1="e0bdf8d4e9c9d3f344686fda1e20190e3b47800d" sha256="36ad8b6dacdc6960a97183c1555c39cb31748671365433e4f304e4662fbcbbd1"/>
 	</game>
 	<game name="Itchy &amp; Scratchy Game, The (USA)" id="1162">
 		<category>Games</category>

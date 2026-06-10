@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260607-144714) (Retool)</description>
-		<version>20260607-144714</version>
-		<date>2026-06-09 06-39-01</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260609-002557) (Retool)</description>
+		<version>20260609-002557</version>
+		<date>2026-06-10 06-57-54</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1544,7 +1544,7 @@
 	<game name="Bibliothek der Klassischen Buecher (Germany)" id="4770">
 		<category>Games</category>
 		<description>Bibliothek der Klassischen Buecher (Germany)</description>
-		<rom name="Bibliothek der Klassischen Buecher (Germany).nds" size="67108864" crc="df48eb81" md5="bf29ef00f32f923b24f907b6ab5ef269" sha1="26ac412c0a67a79615a680fee6137aeb7f6e7c25"/>
+		<rom name="Bibliothek der Klassischen Buecher (Germany).nds" size="67108864" crc="df48eb81" md5="bf29ef00f32f923b24f907b6ab5ef269" sha1="26ac412c0a67a79615a680fee6137aeb7f6e7c25" sha256="f93d8bad6070a964f4b5b633931374c68dea9e42957ca88569328c0b6f085342"/>
 	</game>
 	<game name="Bienvenue Chez les Ch'tis - Le Jeu (France)" id="2850">
 		<category>Games</category>
@@ -12660,7 +12660,7 @@
 	<game name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl)" id="4160">
 		<category>Games</category>
 		<description>Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="acaada53" md5="85d6399a6deb16ec83060fe7f6b2bf0b" sha1="5134d34b7f241207012479ec8ae1245f182af570"/>
+		<rom name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="acaada53" md5="85d6399a6deb16ec83060fe7f6b2bf0b" sha1="5134d34b7f241207012479ec8ae1245f182af570" sha256="3500457844bf4126352e3f9e852ce5449ebcfe978f06cf58c2e939976830c9c7"/>
 	</game>
 	<game name="Pocket Chikyuugi DS - Sawatte Tanoshimu Jinrui 5000 Nen no Ayumi (Japan) (Rev 1)" id="3708">
 		<category>Games</category>

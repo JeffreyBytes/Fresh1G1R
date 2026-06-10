@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (975) (-y) [-aAbBcefkmMoprv] (20260603-173053) (Retool)</description>
-		<version>20260603-173053</version>
-		<date>2026-06-07 06-47-22</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (975) (-y) [-aAbBcefkmMoprv] (20260608-112027) (Retool)</description>
+		<version>20260608-112027</version>
+		<date>2026-06-10 06-46-20</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2411,7 +2411,7 @@
 		<category>Games</category>
 		<description>Ken to Mahou to Gakuen Mono. 3D (Japan)</description>
 		<game_id>000400000004D800</game_id>
-		<rom name="Ken to Mahou to Gakuen Mono. 3D (Japan).3ds" size="1073741824" crc="28793fcd" md5="99c0dbd8f1e7f6705c58473823e47e9a" sha1="c7826917f12aa250a158c2392870e859aecc8749"/>
+		<rom name="Ken to Mahou to Gakuen Mono. 3D (Japan).3ds" size="1073741824" crc="28793fcd" md5="99c0dbd8f1e7f6705c58473823e47e9a" sha1="c7826917f12aa250a158c2392870e859aecc8749" sha256="66b711d0ba98730f62f68cf84da8276f0e257aaadcb1bb9b12defdd309fd6ec4"/>
 	</game>
 	<game name="Kenka Banchou 6 - Soul &amp; Blood (Japan)" id="1170">
 		<category>Games</category>

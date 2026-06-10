@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Atari - Atari Lynx (LYX) (Retool)</name>
-		<description>Atari - Atari Lynx (LYX) (100) (-y) [-aAbBcefkmMoprv] (20260602-114039) (Retool)</description>
-		<version>20260602-114039</version>
-		<date>2026-06-09 06-27-43</date>
+		<description>Atari - Atari Lynx (LYX) (101) (-y) [-aAbBcefkmMoprv] (20260608-125324) (Retool)</description>
+		<version>20260608-125324</version>
+		<date>2026-06-10 06-50-10</date>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -187,6 +187,12 @@
 		<category>Games</category>
 		<description>Gauntlet - The Third Encounter (World)</description>
 		<rom name="Gauntlet - The Third Encounter (World).lyx" size="131072" crc="7f0ec7ad" md5="0b572c0dfb938849eeec39b2c9583547" sha1="41d27f0717a93d05a9d3d1110f571f791d330f55" sha256="35fa4af0100feac2904a140599b738491c7e7ec81f6e22d6105403501c9b4314"/>
+	</game>
+	<game name="Gemquest (World) (Beta)" id="0441">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gemquest (World) (Beta)</description>
+		<rom name="Gemquest (World) (Beta).lyx" size="131072" crc="8302c463" md5="eaf1413f8e90f5500d88364dab621004" sha1="c5152c20f34c1e5458bca1a45f9e2cfc35050ccc" sha256="08886a97cb9f9aa278b8866f7aa6585116cd5b37587417ff26c51817513d8648"/>
 	</game>
 	<game name="Geoduel (USA) (Demo)" id="0119">
 		<category>Demos</category>
