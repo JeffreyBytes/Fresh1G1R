@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (975) (-y) [-aAbBcefkmMoprv] (20260608-112027) (Retool)</description>
-		<version>20260608-112027</version>
-		<date>2026-06-10 06-50-09</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (976) (-y) [-aAbBcefkmMoprv] (20260610-010042) (Retool)</description>
+		<version>20260610-010042</version>
+		<date>2026-06-11 07-12-21</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -34,6 +34,12 @@
 		<description>12-Sai. Torokeru Puzzle Futari no Harmony (Japan)</description>
 		<game_id>00040000001C4600</game_id>
 		<rom name="12-Sai. Torokeru Puzzle Futari no Harmony (Japan).3ds" size="268435456" crc="88c485c4" md5="29c8ec47109d57fc61c53f871cc9c32c" sha1="29c4311404063f972028ccc69450d5762821ed7a"/>
+	</game>
+	<game name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)" id="z226">
+		<category>Games</category>
+		<description>2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<game_id>000400000018BE00</game_id>
+		<rom name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="9af528f9" md5="d45d799eef9698a3031f147f47fab282" sha1="9e50ba7ff16fba4e8f6114ac7f122fb15d8ba087" sha256="88882fdd954d0768a82027669ec0e24033729163f82d80db5ca00fd8d9e78dd7"/>
 	</game>
 	<game name="35 Classic Games (Europe) (En,Fr,Es,It)" id="0186">
 		<category>Games</category>

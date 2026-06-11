@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260609-002557) (Retool)</description>
-		<version>20260609-002557</version>
-		<date>2026-06-10 06-57-54</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260610-114223) (Retool)</description>
+		<version>20260610-114223</version>
+		<date>2026-06-11 07-20-52</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -17335,7 +17335,7 @@
 	<game name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It)" id="1354">
 		<category>Games</category>
 		<description>Undercover - Dual Motives (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5b5449b7" md5="06199066c4bab633571bf47004b9d55a" sha1="806957b43d8a81ace86919c3bfda867e4e1f920e"/>
+		<rom name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5b5449b7" md5="06199066c4bab633571bf47004b9d55a" sha1="806957b43d8a81ace86919c3bfda867e4e1f920e" sha256="c41d8403bd95f7eb807688ab75e95fa338ebf90bed0fbbb8489df8bb656dc75b"/>
 	</game>
 	<game name="Underground Pool (USA)" id="0837">
 		<category>Games</category>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation (PS one Classics) (PSN) (Retool)</name>
-		<description>Sony - PlayStation (PS one Classics) (PSN) (285) (-ly) [-aAbBcdDefkmMopPruv] (20251228-171141) (Retool)</description>
-		<version>20251228-171141</version>
-		<date>2026-06-10 06-55-24</date>
+		<description>Sony - PlayStation (PS one Classics) (PSN) (286) (-ly) [-aAbBcdDefkmMopPruv] (20260609-202603) (Retool)</description>
+		<version>20260609-202603</version>
+		<date>2026-06-11 07-15-03</date>
 		<author>Aringon, buckwheat, emstan784, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1897,6 +1897,12 @@
 		<game_id>UP9000-NPUJ01374_00-0000000000000001</game_id>
 		<rom name="QcqoB0Rj6yBb3jEuRKF6wDlSXFiyRvW7PaTk2oNhmFRQfflvjMOKBhfWjguSa2tHPX8PRID9UbWBnPV3rAvt8yxubU6UnxKdA4xqh.pkg" size="128360624" crc="d250247c" md5="87fa188b26eb0f63e23bda12054ffd8a" sha1="368dfed835f64b86cc6ed599ded0ae701e8eefc0"/>
 		<rom name="UP9000-NPUJ01374_00-0000000000000001.rap" size="16" crc="6e150631" md5="ffc857ed18aaabb8d6a3be7881dfa169" sha1="d602a46d2d07123fae48438b625bd6aa6b460e8a" sha256="c32800442101c319ceafbc03500d610e921d1310c9e9fe7ea16510c7a982af98"/>
+	</game>
+	<game name="Wai Wai Kart (Asia)" id="1032">
+		<category>Games</category>
+		<description>Wai Wai Kart (Asia)</description>
+		<game_id>HP0571-NPHJ00069_00-0000000000000001</game_id>
+		<rom name="xHnUsRaLIuhtkfuHJy8Bmo2HQ0bsoWY8hEyuLVHy2UOJwBA0p3Ec7LB2yGSOKGlVwaApyf9bYp6b8FW8UQo4eJqoYUhcb27cV4JAU.pkg" size="167779088" crc="08097851" md5="246b514287ac83063d9ca36fd0469a33" sha1="f0d3b7da8d394a4a5843196741c8531625d55908"/>
 	</game>
 	<game name="Warhawk (USA)" id="1044">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,938) (-y) [-aAbBcefkmMoprv] (20260607-144714) (Retool)</description>
-		<version>20260607-144714</version>
-		<date>2026-06-10 06-46-44</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,938) (-y) [-aAbBcefkmMoprv] (20260610-114223) (Retool)</description>
+		<version>20260610-114223</version>
+		<date>2026-06-11 07-10-31</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1652,7 +1652,7 @@
 	<game name="Bibliothek der Klassischen Buecher (Germany)" id="4770">
 		<category>Games</category>
 		<description>Bibliothek der Klassischen Buecher (Germany)</description>
-		<rom name="Bibliothek der Klassischen Buecher (Germany).nds" size="67108864" crc="04256c55" md5="61614ecf9b0feaee4af5e8484bbd4d48" sha1="c3cb52f3aee5a171814978ef63991a0a88666668"/>
+		<rom name="Bibliothek der Klassischen Buecher (Germany).nds" size="67108864" crc="04256c55" md5="61614ecf9b0feaee4af5e8484bbd4d48" sha1="c3cb52f3aee5a171814978ef63991a0a88666668" sha256="3435c2686f45ceda0bc15975c4d1061be21d0241cea0aff1cadb39178c2ffe27"/>
 	</game>
 	<game name="Bienvenue Chez les Ch'tis - Le Jeu (France)" id="2850">
 		<category>Games</category>
@@ -9264,7 +9264,7 @@
 	<game name="Let's Play Fashion Designer (Europe) (En,Fr,De,Es,It)" id="3239">
 		<category>Games</category>
 		<description>Let's Play Fashion Designer (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Let's Play Fashion Designer (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="8618e30b" md5="1b2be88bcacfe0662e7ec6d25c22db16" sha1="a8426f62ca1df37a28ad183d441e14a60a66a792"/>
+		<rom name="Let's Play Fashion Designer (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="8618e30b" md5="1b2be88bcacfe0662e7ec6d25c22db16" sha1="a8426f62ca1df37a28ad183d441e14a60a66a792" sha256="f8c764cb206bdaabe2bf9d235c8eeec77712d7c449bbde160e837da43f9bdd80"/>
 	</game>
 	<game name="Let's Play Flight Attendant (USA) (En,Fr,De,Es,It)" id="5141">
 		<category>Games</category>
@@ -13465,7 +13465,7 @@
 	<game name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl)" id="4160">
 		<category>Games</category>
 		<description>Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="e907d24c" md5="fcbc45e532b1ab5146ad38b4fb7b848f" sha1="dcdcc56192524c9bceaa35163011fc7fa0bb5217"/>
+		<rom name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="e907d24c" md5="fcbc45e532b1ab5146ad38b4fb7b848f" sha1="dcdcc56192524c9bceaa35163011fc7fa0bb5217" sha256="72c39ad949369e0589c50951a1e205ad5cecbc2f0aa97b86ac18f340516d78cb"/>
 	</game>
 	<game name="Pocket Chikyuugi DS - Sawatte Tanoshimu Jinrui 5000 Nen no Ayumi (Japan) (Rev 1)" id="3708">
 		<category>Games</category>
@@ -18432,7 +18432,7 @@
 	<game name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It)" id="1354">
 		<category>Games</category>
 		<description>Undercover - Dual Motives (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d3534d96" md5="07bfced1e29036f72aba92cf51f8ac55" sha1="aeaf2c0ec3828edfd36132b812c420b115e7555c"/>
+		<rom name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d3534d96" md5="07bfced1e29036f72aba92cf51f8ac55" sha1="aeaf2c0ec3828edfd36132b812c420b115e7555c" sha256="5c575172d4faaa5f78a7bce4b5aa3bf6cc2ab14f10b7b845ddfd3eb4a65c3c64"/>
 	</game>
 	<game name="Underground Pool (USA)" id="0837">
 		<category>Games</category>
