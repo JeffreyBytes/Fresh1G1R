@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,785) (-y) [-aAbBcdkmMpPuv] (2026-06-07 13-53-53) (Retool)</description>
-		<version>2026-06-07 13-53-53</version>
-		<date>2026-06-11 07-20-21</date>
+		<description>Sony - PlayStation Portable (1,789) (-y) [-aAbBcdkmMpPuv] (2026-06-12 06-46-02) (Retool)</description>
+		<version>2026-06-12 06-46-02</version>
+		<date>2026-06-12 07-10-53</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4701,6 +4701,11 @@
 		<description>Mercury Meltdown (USA) (En,Fr,Es)</description>
 		<rom name="Mercury Meltdown (USA) (En,Fr,Es).iso" size="360611840" crc="68941149" md5="e83007cab31616e605530ee85781ce7e" sha1="fd059fa1b317c1ffc71f8839ff59a5f4890e70f9"/>
 	</game>
+	<game name="Mermaid Gothic (Japan)">
+		<category>Games</category>
+		<description>Mermaid Gothic (Japan)</description>
+		<rom name="Mermaid Gothic (Japan).iso" size="1321041920" crc="430ecc45" md5="8d3e01ca66115e015e3c6dcad9d5833c" sha1="acf84cbcd253d7dac040f27e3ad5d4446d7f1706"/>
+	</game>
 	<game name="Metal Fight Beyblade Portable - Chouzetsu Tensei! Vulcan Horuseus (Japan)">
 		<category>Games</category>
 		<description>Metal Fight Beyblade Portable - Chouzetsu Tensei! Vulcan Horuseus (Japan)</description>
@@ -7676,6 +7681,11 @@
 		<description>Taikou Risshiden V (Japan) (v3.00)</description>
 		<rom name="Taikou Risshiden V (Japan) (v3.00).iso" size="304840704" crc="9f2a5bd6" md5="dfce9a0d06256b818f6ce6cd49924b6d" sha1="c5471319f253872071bb37678a533bec584d2d1c"/>
 	</game>
+	<game name="Taishou Kitan (Japan)">
+		<category>Games</category>
+		<description>Taishou Kitan (Japan)</description>
+		<rom name="Taishou Kitan (Japan).iso" size="1328054272" crc="55c4d076" md5="018b6cc3502df8a61b748e33004aff14" sha1="d12fe73d41cacfe9b0ad161552de4ef971bd2902"/>
+	</game>
 	<game name="Taishou Kitan - Kotonoha Sakura (Japan)">
 		<category>Games</category>
 		<description>Taishou Kitan - Kotonoha Sakura (Japan)</description>
@@ -7806,6 +7816,11 @@
 		<description>Tanteibu - The Detective Club - Angou to Misshitsu to Kaijin to (Japan)</description>
 		<rom name="Tanteibu - The Detective Club - Angou to Misshitsu to Kaijin to (Japan).iso" size="617807872" crc="925ca09a" md5="4d896cfd23b7c606836c2eb20e984340" sha1="13ada3a7a85a011c0d708a2caa33469fa353c78a"/>
 	</game>
+	<game name="Tanteibu - The Detective Club - Haibu to Kaiga to Bakudan to (Japan)">
+		<category>Games</category>
+		<description>Tanteibu - The Detective Club - Haibu to Kaiga to Bakudan to (Japan)</description>
+		<rom name="Tanteibu - The Detective Club - Haibu to Kaiga to Bakudan to (Japan).iso" size="675840000" crc="7ec49fe3" md5="0b005d8564bc8c9239189b5225391b62" sha1="de4e47e87dc1addfed5109b87ae91d09e1e169c4"/>
+	</game>
 	<game name="Tanteibu - The Detective Club - Tantei to Yuurei to Kaitou to (Japan)">
 		<category>Games</category>
 		<description>Tanteibu - The Detective Club - Tantei to Yuurei to Kaitou to (Japan)</description>
@@ -7815,6 +7830,11 @@
 		<category>Games</category>
 		<description>Tasogare no Sinsemilla Portable (Japan)</description>
 		<rom name="Tasogare no Sinsemilla Portable (Japan).iso" size="941785088" crc="2739f35c" md5="735caa7e2b5c87781c6c59f10ff834af" sha1="005139b3ae043ab93040e507a6b257436b6d5a27"/>
+	</game>
+	<game name="Tasogaredoki - Kaidan Romance (Japan)">
+		<category>Games</category>
+		<description>Tasogaredoki - Kaidan Romance (Japan)</description>
+		<rom name="Tasogaredoki - Kaidan Romance (Japan).iso" size="1068335104" crc="94b6fde7" md5="cd2480d6983cc1f06a3c2b682aaec984" sha1="5cbe7260a56b4c9186c45b772efae474ffaa20b6"/>
 	</game>
 	<game name="Te to Te Try On! Tropical (Japan)">
 		<category>Games</category>
