@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20260610-010042) (Retool)</description>
-		<version>20260610-010042</version>
-		<date>2026-06-12 07-06-26</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20260611-182516) (Retool)</description>
+		<version>20260611-182516</version>
+		<date>2026-06-13 06-33-43</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -135,7 +135,7 @@
 		<category>Games</category>
 		<description>Angler's Club - Ultimate Bass Fishing 3D (Europe) (En,Fr,Es)</description>
 		<game_id>0004000000044200</game_id>
-		<rom name="Angler's Club - Ultimate Bass Fishing 3D (Europe) (En,Fr,Es).3ds" size="268435456" crc="4ef37dfd" md5="9bcb683f38fcc0f395ddd830b2c0bfa5" sha1="589143ae9888a7ed144c59367b70e50c9ce066fd"/>
+		<rom name="Angler's Club - Ultimate Bass Fishing 3D (Europe) (En,Fr,Es).3ds" size="268435456" crc="4ef37dfd" md5="9bcb683f38fcc0f395ddd830b2c0bfa5" sha1="589143ae9888a7ed144c59367b70e50c9ce066fd" sha256="93b034cd5f561cfc0cafa51e73959a2bf975088b79127fa177fedb383a8c5d3f"/>
 	</game>
 	<game name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt)" id="0474">
 		<category>Games</category>
@@ -902,7 +902,7 @@
 		<category>Games</category>
 		<description>Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000182500</game_id>
-		<rom name="Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="1ea27cec" md5="23bb719afa72a19a6fbeb2cdff25fe1d" sha1="8a490f6a34c50bdc6623ee8021c4d703108cfae7"/>
+		<rom name="Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="1ea27cec" md5="23bb719afa72a19a6fbeb2cdff25fe1d" sha1="8a490f6a34c50bdc6623ee8021c4d703108cfae7" sha256="1e744c969549a6a8d74db5c482521e501491b368477f3906cdebb2a00a982fcc"/>
 	</game>
 	<game name="Flap Flap (Europe) (En,Fr,De,It,Nl)" id="1194">
 		<category>Games</category>
@@ -974,7 +974,7 @@
 		<category>Games</category>
 		<description>Gardenscapes (Europe) (En,Fr,De,Nl)</description>
 		<game_id>00040000000A3200</game_id>
-		<rom name="Gardenscapes (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="b9175033" md5="5ebcd46a1272224da8f53af292f2217e" sha1="5474c9aebd5632d050d05a34b1c660e55da05b9b"/>
+		<rom name="Gardenscapes (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="b9175033" md5="5ebcd46a1272224da8f53af292f2217e" sha1="5474c9aebd5632d050d05a34b1c660e55da05b9b" sha256="115d6523eeac57c3ae05c2ebfc647552649c51807ec54f441744750ae901cd11"/>
 	</game>
 	<game name="Garfield Kart (USA)" id="1322">
 		<category>Games</category>
@@ -1164,7 +1164,7 @@
 		<category>Games</category>
 		<description>Horse Vet 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000014A500</game_id>
-		<rom name="Horse Vet 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a9511bfb" md5="c4b6bbe2cdb0dfb444b6f03fd57a98f8" sha1="bf0e598b34b35dc56cb76b9f07898a4dba634714"/>
+		<rom name="Horse Vet 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a9511bfb" md5="c4b6bbe2cdb0dfb444b6f03fd57a98f8" sha1="bf0e598b34b35dc56cb76b9f07898a4dba634714" sha256="5d3495a261dc279f9b162521a57900f86290596a8c4ff0d4c05e51c88d76bc80"/>
 	</game>
 	<game name="Horses 3D (USA) (En,Fr,Es)" id="0152">
 		<category>Games</category>
@@ -1338,7 +1338,7 @@
 		<category>Games</category>
 		<description>Jewel Link Double Pack - Safari Quest and Atlantic Quest (Europe)</description>
 		<game_id>0004000000157E00</game_id>
-		<rom name="Jewel Link Double Pack - Safari Quest and Atlantic Quest (Europe).3ds" size="134217728" crc="cd82e29f" md5="f3878702db79921e1ef96f534100cd2d" sha1="251d5dd49f9ce138485a396a05a760aae9af22fd"/>
+		<rom name="Jewel Link Double Pack - Safari Quest and Atlantic Quest (Europe).3ds" size="134217728" crc="cd82e29f" md5="f3878702db79921e1ef96f534100cd2d" sha1="251d5dd49f9ce138485a396a05a760aae9af22fd" sha256="09a5b87c061951166557a8f7955a7a0347edfc9dc2669d0cda8ace57908b9698"/>
 	</game>
 	<game name="Jewel Master - Atlantis 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0311">
 		<category>Games</category>
@@ -1362,7 +1362,7 @@
 		<category>Games</category>
 		<description>Jewel Match 3 (Europe) (En,Fr,De,Nl)</description>
 		<game_id>00040000000C6C00</game_id>
-		<rom name="Jewel Match 3 (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="6cbcd2ab" md5="0c559af0f832f92cd85b208f39cea014" sha1="74d7faaa2b439841730196dba2e2d7618c4b75e7"/>
+		<rom name="Jewel Match 3 (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="6cbcd2ab" md5="0c559af0f832f92cd85b208f39cea014" sha1="74d7faaa2b439841730196dba2e2d7618c4b75e7" sha256="d4fc948a2ed61d4065370d1484ceabff93051ce8fb981e88d8536b7ebfb7c831"/>
 	</game>
 	<game name="Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z212">
 		<category>Games</category>

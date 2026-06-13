@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (3,765) (-y) [-aAbBcefkmMoprv] (20260610-001324) (Retool)</description>
-		<version>20260610-001324</version>
-		<date>2026-06-12 07-02-01</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (3,766) (-y) [-aAbBcefkmMoprv] (20260611-220841) (Retool)</description>
+		<version>20260611-220841</version>
+		<date>2026-06-13 06-29-14</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -18690,6 +18690,13 @@
 		<game_id>JP0106-NPJB00439_00-JM2EXVER01000000</game_id>
 		<rom name="JP0106-NPJB00439_00-JM2EXVER01000000.rap" size="16" crc="d03c7163" md5="987fa509df89f3ecf3b55c87748a538f" sha1="0564d863d1337d4a42c1be8e08b79628fa7b066a" sha256="2b3b30be4ca9abce932a6ddef276260e112dc0f4e9dc23669488d8ebbf144c9a"/>
 		<rom name="KqfNiavvcdEenQqsPPGmOTLOuUNrfHABuRjhGeAFrhVyhpWLbuShpryFfSGRNumWZQaHPlIFUWyWhVSledVqlTIOeqPLrSQNcbxFk.pkg" size="18033733152" crc="b06f664a" md5="2284bbf9b61347a1092cb5e2edac718a" sha1="cecb845fe5a00ee93efa7d1e54cd194a8aeb3187" sha256="042acee153edb08c4abee83ccfcc776b20679e66568ff09e5d207fe2611f2c8d"/>
+	</game>
+	<game name="Sengoku Musou 3 Z (Japan)" id="46019">
+		<category>Games</category>
+		<description>Sengoku Musou 3 Z (Japan)</description>
+		<game_id>JP0106-NPJB00262_00-HGAMEEXEC0000000</game_id>
+		<rom name="JP0106-NPJB00262_00-HGAMEEXEC0000000.rap" size="16" crc="085e459c" md5="f71a6e6ed8d2946b88aca4038dff0202" sha1="4d407cec89a378cd84e82e6af268e87284839cd9" sha256="8c7e71dc5bdccb6af42291423c8afcb7d85c4cd9a22107f59e9073e5e8868023"/>
+		<rom name="OSJKEztBvHukYOikDmUMdjEKzBQAycablMJzWvrkqIqzfcWeMdwEMtJPXsENaHnKZkAKHkhmXBbBwFhKmabfwghrZPnuAwSRiDqyO.pkg" size="18350043456" crc="7aacdd4c" md5="f9d28285e2e290418b4eb18252db6013" sha1="f42ab93fa43e88afedec40d1bd2f59ced546fd3c" sha256="94a7e13db1de2a3aac3a2b1ba738abbe90be876d43f409378369646aa56d1216"/>
 	</game>
 	<game name="Sengoku Musou 4 (Japan)" id="19227">
 		<category>Games</category>

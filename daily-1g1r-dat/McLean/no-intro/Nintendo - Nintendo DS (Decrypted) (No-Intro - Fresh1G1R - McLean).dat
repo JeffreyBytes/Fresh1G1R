@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260610-114223) (Retool)</description>
-		<version>20260610-114223</version>
-		<date>2026-06-12 07-05-44</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260611-040530) (Retool)</description>
+		<version>20260611-040530</version>
+		<date>2026-06-13 06-34-29</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1394,7 +1394,7 @@
 	<game name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="5701">
 		<category>Games</category>
 		<description>Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
-		<rom name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="f2f1404c" md5="7dcf8cdfdd154a7c3383eff496874ee6" sha1="7d52e260c1d110504e34ad20941eb0fb46a9f9df"/>
+		<rom name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="f2f1404c" md5="7dcf8cdfdd154a7c3383eff496874ee6" sha1="7d52e260c1d110504e34ad20941eb0fb46a9f9df" sha256="3b239f4a31f7dac5669967a9f4403b9d164e56019e4a242aed29354a45ea714c"/>
 	</game>
 	<game name="Call of Duty - Black Ops (USA)" id="5360">
 		<category>Games</category>
@@ -2404,7 +2404,7 @@
 	<game name="Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="3896">
 		<category>Games</category>
 		<description>Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
-		<rom name="Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="1c04fad0" md5="567b8b48c347582cd81e1c1a4f0681f2" sha1="ee1ef43a208354dd75f77ce3234b91d3b921113f"/>
+		<rom name="Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="1c04fad0" md5="567b8b48c347582cd81e1c1a4f0681f2" sha1="ee1ef43a208354dd75f77ce3234b91d3b921113f" sha256="e913a0f9fcb116f3a3799d677b0b27bcd8b8b7fa2dd76f41ff6c7005c83f7491"/>
 	</game>
 	<game name="Don Bluth Presents - Dragon's Lair (USA)" id="5490">
 		<category>Games</category>
