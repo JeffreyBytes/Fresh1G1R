@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (3,766) (-y) [-aAbBcefkmMoprv] (20260611-220841) (Retool)</description>
-		<version>20260611-220841</version>
-		<date>2026-06-13 06-29-14</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (3,766) (-y) [-aAbBcefkmMoprv] (20260612-200253) (Retool)</description>
+		<version>20260612-200253</version>
+		<date>2026-06-14 07-02-23</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1540,6 +1540,7 @@
 		<category>Games</category>
 		<description>Batman - The Telltale Series (USA)</description>
 		<game_id>UP2026-NPUB31845_00-BATM000000000EP1</game_id>
+		<rom name="UP2026-NPUB31845_00-BATM000000000EP1.rap" size="16" crc="cc81164d" md5="3e3b16f3e7e89e0fe1f70059ce67916e" sha1="639683ec8b6755b0e885ab4c4dc80935ab8eee10" sha256="127594472e2db9100d5ae3e78c5b2a433cd6d8582beefc20ad50282c28c0a1a6"/>
 		<rom name="UP2026-NPUB31845_00-BATM000000000EP1_bg_1_8e50e91b15d32f1f1905980ecb2f2b52fa7d4128.pkg" size="799410736" crc="011a1dbd" md5="cf19c79be24b7b6da20f50d5797d81f2" sha1="f69267fa7609e6534199e5b1cdaf8f6f85d06ebb"/>
 	</game>
 	<game name="Batman - The Telltale Series - Episode 1 - Realm of Shadows (Europe)" id="29214">
@@ -4287,6 +4288,7 @@
 		<category>Games</category>
 		<description>Dead Space - Extraction (USA) (Unlock Key)</description>
 		<game_id>UP0006-NPUB30314_00-DSEXTRACTIONKEY1</game_id>
+		<rom name="UP0006-NPUB30314_00-DSEXTRACTIONKEY1.rap" size="16" crc="0f84a2de" md5="eff4687133653a23712570bcde3865fe" sha1="efebb03d7a56d18c362603907cefd77aad087fc9" sha256="8ad1a5e4e6538b18cdd0b527f868d316499774b60032838c92080d5fe3c6cf58"/>
 		<rom name="YrAQuqCsgRpqDcXcPFspCwAZCibSGWOUReoSebhvKMLYcSRzXOlUtvEVIgYodCvjojNgYKKHVsIgejVoXdqqYfbLaYoJxyKRDyJVV.pkg" size="6080" crc="eba180d9" md5="8933e05c9bc671213ad2ac7e54a5e051" sha1="d747bebe7becdbae4016f64ed9fc23cfe8e54631"/>
 	</game>
 	<game name="Dead Space - Ignition (USA) (Trial)" id="03137">
@@ -9373,7 +9375,7 @@
 		<category>Games</category>
 		<description>House of the Dead 4, The (USA)</description>
 		<game_id>UP0177-NPUB30603_00-THOD4EXTENDEDCUT</game_id>
-		<rom name="IKArWZRJjVWbMqEBcAsEmcCWZsPAAcNfevVslmFjrhBeCiRWummqXabTMrKCMCMZGnQgtkQaAYwQBojEwPMeOPKYHuiqrMAwApsWq.pkg" size="4261956352" crc="90710df0" md5="a70aed68686c3fb488948d552b5dd3fd" sha1="9b436f778b26182f2107b37838ede0efef4bf2fd" sha256="ebe3689c12d0fe99d92f56c2b78db59b3f88e1ddce5d6fdaace06d7f23dd79df"/>
+		<rom name="IKArWZRJjVWbMqEBcAsEmcCWZsPAAcNfevVslmFjrhBeCiRWummqXabTMrKCMCMZGnQgtkQaAYwQBojEwPMeOPKYHuiqrMAwApsWq.pkg" size="4261956352" crc="90710df0" md5="a70aed68686c3fb488948d552b5dd3fd" sha1="9b436f778b26182f2107b37838ede0efef4bf2fd" sha256="3058b278802f3e99abf662db2a745703ea5137e307dcf7fcb1a06c58c8284f62"/>
 		<rom name="UP0177-NPUB30603_00-THOD4EXTENDEDCUT.rap" size="16" crc="da8de7f8" md5="03a7252b2360d6ba992d19481597635c" sha1="6189f778cad28e29ff28aeb3e45eddf56f957867"/>
 	</game>
 	<game name="House of the Dead 4, The (USA) (Demo)" id="18500">

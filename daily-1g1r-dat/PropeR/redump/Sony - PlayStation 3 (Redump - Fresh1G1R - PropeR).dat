@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,629) (-y) [-aAbBcdkmMpPuv] (2026-06-09 13-06-05) (Retool)</description>
-		<version>2026-06-09 13-06-05</version>
-		<date>2026-06-12 07-10-50</date>
+		<description>Sony - PlayStation 3 (1,629) (-y) [-aAbBcdkmMpPuv] (2026-06-14 08-23-34) (Retool)</description>
+		<version>2026-06-14 08-23-34</version>
+		<date>2026-06-14 07-09-48</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3286,10 +3286,10 @@
 		<description>Jak and Daxter Collection (USA, Asia) (En,Fr,Es)</description>
 		<rom name="Jak and Daxter Collection (USA, Asia) (En,Fr,Es).iso" size="8456110080" crc="9c57f194" md5="c6e2425ebe5506656a595107002e684e" sha1="65ac992dc19cb706860fd961f62c320dc4959530"/>
 	</game>
-	<game name="James Cameron's Avatar - The Game (USA) (En,Fr,Es)">
+	<game name="James Cameron's Avatar - The Game (USA, Asia) (En,Fr,Es)">
 		<category>Games</category>
-		<description>James Cameron's Avatar - The Game (USA) (En,Fr,Es)</description>
-		<rom name="James Cameron's Avatar - The Game (USA) (En,Fr,Es).iso" size="3434348544" crc="a1ec7bde" md5="21b02cb63d7efeba121671b877b6d5ee" sha1="3f1744379559c53cd059844f7c33d51b699dbfac"/>
+		<description>James Cameron's Avatar - The Game (USA, Asia) (En,Fr,Es)</description>
+		<rom name="James Cameron's Avatar - The Game (USA, Asia) (En,Fr,Es).iso" size="3434348544" crc="a1ec7bde" md5="21b02cb63d7efeba121671b877b6d5ee" sha1="3f1744379559c53cd059844f7c33d51b699dbfac"/>
 	</game>
 	<game name="Janline R (Japan)">
 		<category>Games</category>
@@ -4466,10 +4466,10 @@
 		<description>MotoGP 08 (USA) (En,Es)</description>
 		<rom name="MotoGP 08 (USA) (En,Es).iso" size="6529548288" crc="3bd0d262" md5="2b9bc5054c3af51e5c32b6f52052d8e8" sha1="e30a57cf1af162290e20a686ecbfa35e85649d7e"/>
 	</game>
-	<game name="MotoGP 09-10 (USA) (En,Fr,De,Es,It)">
+	<game name="MotoGP 09-10 (USA, Asia) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>MotoGP 09-10 (USA) (En,Fr,De,Es,It)</description>
-		<rom name="MotoGP 09-10 (USA) (En,Fr,De,Es,It).iso" size="3944153088" crc="fb7505dd" md5="9c52dd28cb44928a471534222e399462" sha1="0265c87534be525dd113d0b677594fce7b42077f"/>
+		<description>MotoGP 09-10 (USA, Asia) (En,Fr,De,Es,It)</description>
+		<rom name="MotoGP 09-10 (USA, Asia) (En,Fr,De,Es,It).iso" size="3944153088" crc="fb7505dd" md5="9c52dd28cb44928a471534222e399462" sha1="0265c87534be525dd113d0b677594fce7b42077f"/>
 	</game>
 	<game name="MotoGP 10-11 (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -6736,10 +6736,10 @@
 		<description>Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,De,Es,It).iso" size="6023479296" crc="9cb9f4be" md5="e30e85e1fef5574a64f89d34dbe9f1b4" sha1="41928feb2e45ead89b807242380c2e149f50e7a4"/>
 	</game>
-	<game name="Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es)">
+	<game name="Sonic &amp; Sega All-Stars Racing (USA, Asia) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es)</description>
-		<rom name="Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es).iso" size="4225826816" crc="1a8ec325" md5="2b99ae874806524b542fc2e89615254f" sha1="e883a1d145019d2381c21362947467c03ddeb5f7"/>
+		<description>Sonic &amp; Sega All-Stars Racing (USA, Asia) (En,Fr,Es)</description>
+		<rom name="Sonic &amp; Sega All-Stars Racing (USA, Asia) (En,Fr,Es).iso" size="4225826816" crc="1a8ec325" md5="2b99ae874806524b542fc2e89615254f" sha1="e883a1d145019d2381c21362947467c03ddeb5f7"/>
 	</game>
 	<game name="Sonic Generations (USA) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>

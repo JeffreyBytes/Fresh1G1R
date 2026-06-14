@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,789) (-y) [-aAbBcdkmMpPuv] (2026-06-12 06-46-02) (Retool)</description>
-		<version>2026-06-12 06-46-02</version>
-		<date>2026-06-12 07-10-53</date>
+		<description>Sony - PlayStation Portable (1,789) (-y) [-aAbBcdkmMpPuv] (2026-06-13 08-01-46) (Retool)</description>
+		<version>2026-06-13 08-01-46</version>
+		<date>2026-06-14 07-09-51</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6486,10 +6486,10 @@
 		<description>Salamander Portable (Japan, Asia)</description>
 		<rom name="Salamander Portable (Japan, Asia).iso" size="239370240" crc="4b01200b" md5="d7161b3b67960f4d705d13fbea288af1" sha1="b8ec7f21612c9c97f803a60665c4390956754ee0"/>
 	</game>
-	<game name="Samurai Dou 2 Portable (Asia)">
+	<game name="Samurai Dou 2 Portable (Japan, Asia)">
 		<category>Games</category>
-		<description>Samurai Dou 2 Portable (Asia)</description>
-		<rom name="Samurai Dou 2 Portable (Asia).iso" size="567377920" crc="50acd736" md5="ad7d277728a070605d85cd16fd1187ca" sha1="a54f95b16297f5251956d44d0185136ec515a302"/>
+		<description>Samurai Dou 2 Portable (Japan, Asia)</description>
+		<rom name="Samurai Dou 2 Portable (Japan, Asia).iso" size="567377920" crc="50acd736" md5="ad7d277728a070605d85cd16fd1187ca" sha1="a54f95b16297f5251956d44d0185136ec515a302"/>
 	</game>
 	<game name="Samurai Dou Portable (Japan)">
 		<category>Games</category>

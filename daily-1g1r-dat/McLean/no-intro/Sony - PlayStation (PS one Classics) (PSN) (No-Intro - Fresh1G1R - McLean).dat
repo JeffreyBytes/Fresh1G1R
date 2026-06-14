@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation (PS one Classics) (PSN) (Retool)</name>
-		<description>Sony - PlayStation (PS one Classics) (PSN) (286) (-ly) [-aAbBcdDefkmMopPruv] (20260611-234512) (Retool)</description>
-		<version>20260611-234512</version>
-		<date>2026-06-13 06-34-07</date>
+		<description>Sony - PlayStation (PS one Classics) (PSN) (287) (-ly) [-aAbBcdDefkmMopPruv] (20260612-220555) (Retool)</description>
+		<version>20260612-220555</version>
+		<date>2026-06-14 07-04-49</date>
 		<author>Aringon, buckwheat, emstan784, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -840,6 +840,12 @@
 		<game_id>EP4037-NPEF00056_00-GROBOCODJE000001</game_id>
 		<rom name="EP4037-NPEF00056_00-GROBOCODJE000001.rap" size="16" crc="aa2696d2" md5="41f123c7ebf6fab3a0168b6999337027" sha1="bc395ba0bbeb89e065982164452bd45c39330bb4"/>
 		<rom name="wfQmOIQhs8iIGjDMNnt4L7dnfBl2OULmvxlmi6ReP00McikwN0Tfi6aK8VybWFHCXHUgHn9uqTtO5hIY77J4k5IkYJpykq0vHOxe9.pkg" size="66707168" crc="6580e6c4" md5="4148ddfa7c2aa99eeccae89ffd23b15d" sha1="7d9baae08174b41b60b05dedb9e18c6f73a6f227"/>
+	</game>
+	<game name="Jet Moto (UP9000-NPUI94309_00-0000000000000001) (USA)" id="1475">
+		<category>Games</category>
+		<description>Jet Moto (UP9000-NPUI94309_00-0000000000000001) (USA)</description>
+		<game_id>UP9000-NPUI94309_00-0000000000000002</game_id>
+		<rom name="TQxIvXs1SYRqAF1mVTHW1cXNKDjf8lKMjmhRK2eaa3asoF8sRdbt94CXMQNeQ9eMq9NdrmG7Ap1ItDS0vlu7ntPjRbYef3GR0rHIu.pkg" size="75487280" crc="e706262b" md5="0be8884a6ad99bc97fce81708d44af2b" sha1="36083f47252f3590651e9fcf24a305c2b3cf329e" sha256="7257cf3b9de793cd6816e5e9b33b03e661ac6baf64bf190df848a5f65b7e1623"/>
 	</game>
 	<game name="Jet Moto (USA)" id="0397">
 		<category>Games</category>

@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Game Boy (Retool)</name>
-		<description>Nintendo - Game Boy (1,053) (-y) [-aAbBcdkmMpPuv] (20260610-124148) (Retool)</description>
-		<version>20260610-124148</version>
-		<date>2026-06-13 06-37-14</date>
-		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
+		<description>Nintendo - Game Boy (1,053) (-y) [-aAbBcdkmMpPuv] (20260612-201821) (Retool)</description>
+		<version>20260612-201821</version>
+		<date>2026-06-14 07-14-16</date>
+		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -236,10 +236,10 @@
 		<description>Asmik-kun World 2 (Japan)</description>
 		<rom name="Asmik-kun World 2 (Japan).gb" size="131072" crc="caae6b11" md5="24db7b8d9080b1626dd949331ac40aca" sha1="4c738153a5c9f861117cc23cfedf2c37672e1097" sha256="edcd7350a4b716e023d4e709a7ebef1d573d8b4012ea40dfd0ec8d9be31d1da5"/>
 	</game>
-	<game name="Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced)" id="0067">
+	<game name="Asterix &amp; Obelix (Europe) (En,Es) (SGB Enhanced)" id="0067">
 		<category>Games</category>
-		<description>Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced)</description>
-		<rom name="Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced).gb" size="262144" crc="b1fd41d0" md5="cf5be6d9c263d02039bfaae93c1bd32c" sha1="b6cd446962357d0f560a5c9fae4c917e039fbb77" sha256="ec7ee66c72c1c13a7f655932aaa7a37d1d355e3eee0c849cd8e57e9150dcf1ca"/>
+		<description>Asterix &amp; Obelix (Europe) (En,Es) (SGB Enhanced)</description>
+		<rom name="Asterix &amp; Obelix (Europe) (En,Es) (SGB Enhanced).gb" size="262144" crc="b1fd41d0" md5="cf5be6d9c263d02039bfaae93c1bd32c" sha1="b6cd446962357d0f560a5c9fae4c917e039fbb77" sha256="ec7ee66c72c1c13a7f655932aaa7a37d1d355e3eee0c849cd8e57e9150dcf1ca"/>
 	</game>
 	<game name="Asterix (Europe) (En,Fr,De,Es,It)" id="0069">
 		<category>Games</category>
