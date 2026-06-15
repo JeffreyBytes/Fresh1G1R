@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Updates) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Updates) (1,685) (-ly) [-aAbBcdDefkmMopPruv] (20260331-014259) (Retool)</description>
-		<version>20260331-014259</version>
-		<date>2026-06-14 07-07-37</date>
+		<description>Sony - PlayStation 3 (PSN) (Updates) (1,685) (-ly) [-aAbBcdDefkmMopPruv] (20260614-224836) (Retool)</description>
+		<version>20260614-224836</version>
+		<date>2026-06-15 07-43-25</date>
 		<author>baldjared, bsbt, buckwheat, emstan784, Landcross, norkmetnoil577, rarenight, SonGoku, UnlockerPT</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

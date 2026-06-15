@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (580) (-y) [-aAbBcefkmMoprv] (2026-06-08 10-24-45) (Retool)</description>
-		<version>2026-06-08 10-24-45</version>
-		<date>2026-06-14 06-56-20</date>
+		<description>Apple - Macintosh (580) (-y) [-aAbBcefkmMoprv] (2026-06-14 17-16-07) (Retool)</description>
+		<version>2026-06-14 17-16-07</version>
+		<date>2026-06-15 07-34-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -898,23 +898,23 @@
 		<rom name="Cult Akazukin Chacha (Japan).bin" size="546851760" crc="ecda29a8" md5="7c5fba61af4d5b8dc2e9f474c08713a7" sha1="44bd32e40defc3c1b1bf41beca05d6c2530634c2"/>
 		<rom name="Cult Akazukin Chacha (Japan).cue" size="94" crc="06ee25fb" md5="5617e7910900d05bdc33f9c3c2d8f9f9" sha1="26c1547f0cc13cfb8be4a2fb8b516003071d6742"/>
 	</game>
-	<game name="Daedalus Encounter, The (Germany) (Disc 3)">
+	<game name="Daedalus Encounter, The (USA) (Disc 1)">
 		<category>Games</category>
-		<description>Daedalus Encounter, The (Germany) (Disc 3)</description>
-		<rom name="Daedalus Encounter, The (Germany) (Disc 3).bin" size="784457856" crc="89948ccb" md5="31e376d782521bea4132cc9558a65e84" sha1="d932a5a8e8535307ee988ecff8b46fc7b5117834"/>
-		<rom name="Daedalus Encounter, The (Germany) (Disc 3).cue" size="131" crc="c6dc7ddd" md5="9cdf9d6e921e725e85227ddda710a3f1" sha1="6d07410e20fc4bd4ed7248520753107ec8d85781"/>
+		<description>Daedalus Encounter, The (USA) (Disc 1)</description>
+		<rom name="Daedalus Encounter, The (USA) (Disc 1).bin" size="753900672" crc="43bf5ef5" md5="ceaa540f7cadec5a646d5b524d7477ea" sha1="8482e032ae3797947d759da2d4280095189755c6"/>
+		<rom name="Daedalus Encounter, The (USA) (Disc 1).cue" size="127" crc="88cbf174" md5="37f6aeb0da570b2859a984c759b21362" sha1="064104c2c797b56f8d3d6c5953f54d602bd5ec31"/>
 	</game>
-	<game name="Daedalus Encounter, The (UK) (Disc 1)">
+	<game name="Daedalus Encounter, The (USA) (Disc 2)">
 		<category>Games</category>
-		<description>Daedalus Encounter, The (UK) (Disc 1)</description>
-		<rom name="Daedalus Encounter, The (UK) (Disc 1).bin" size="753900672" crc="b1d7f39d" md5="830014b804fa5ee4a2204e6cb3dfe6c6" sha1="02e37135450571e21e4e66a5095d2c6084770313"/>
-		<rom name="Daedalus Encounter, The (UK) (Disc 1).cue" size="126" crc="1b4628f8" md5="2246d156b03ac9577f5bdd248c64bd19" sha1="1770e672fb5e1a0b7fdb94b3361093b909dc65de"/>
+		<description>Daedalus Encounter, The (USA) (Disc 2)</description>
+		<rom name="Daedalus Encounter, The (USA) (Disc 2).bin" size="757626240" crc="309e7683" md5="571b697b10a0733bfb1ba788f3223c15" sha1="28030f9b3791f1f524856729d3c99601b29b38df"/>
+		<rom name="Daedalus Encounter, The (USA) (Disc 2).cue" size="127" crc="8996d7a5" md5="b3bd7b9e1234447df39f7f8e2c4c30aa" sha1="229a56cf9b8271cbca0b9707529dbd3528420bd1"/>
 	</game>
-	<game name="Daedalus Encounter, The (UK) (Disc 2)">
+	<game name="Daedalus Encounter, The (USA) (Disc 3)">
 		<category>Games</category>
-		<description>Daedalus Encounter, The (UK) (Disc 2)</description>
-		<rom name="Daedalus Encounter, The (UK) (Disc 2).bin" size="757626240" crc="81987bfd" md5="9a8945ad9ee6250a4d42f261106b3517" sha1="49657b4ed0e9caf8f9d7bee9432acf92d8c1fd60"/>
-		<rom name="Daedalus Encounter, The (UK) (Disc 2).cue" size="126" crc="1a1b0e29" md5="9f948519b6f47bedfb1890240b6db622" sha1="132e4c4eb15b73ee9a6cdee2d951b7b6b970f62c"/>
+		<description>Daedalus Encounter, The (USA) (Disc 3)</description>
+		<rom name="Daedalus Encounter, The (USA) (Disc 3).bin" size="777721728" crc="6a540e99" md5="1f21d250c5c86e43a30a095f895710a1" sha1="531c21e8404fec59c5148e343cd0d925d209481c"/>
+		<rom name="Daedalus Encounter, The (USA) (Disc 3).cue" size="127" crc="3f8d37d5" md5="d4eb0e6e68027b695f7d14e239a760d9" sha1="c657484e85ae6976b5f0faee9ebe99c88b77a748"/>
 	</game>
 	<game name="Daikoukai Jidai III - Costa del Sol (Japan)">
 		<category>Games</category>

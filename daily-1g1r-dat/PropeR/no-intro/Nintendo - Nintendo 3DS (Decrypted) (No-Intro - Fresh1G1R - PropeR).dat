@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Decrypted) (936) (-y) [-aAbBcdkmMpPuv] (20260612-210243) (Retool)</description>
-		<version>20260612-210243</version>
-		<date>2026-06-14 07-10-45</date>
+		<description>Nintendo - Nintendo 3DS (Decrypted) (936) (-y) [-aAbBcdkmMpPuv] (20260614-125959) (Retool)</description>
+		<version>20260614-125959</version>
+		<date>2026-06-15 07-51-09</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1270,11 +1270,11 @@
 		<game_id>00040000001ACB00</game_id>
 		<rom name="Dragon Quest Monsters - Joker 3 Professional (Japan).3ds" size="2147483648" crc="024c254f" md5="b9f5a5ed30e12a0dc62d3156fa52744e" sha1="a3329c2b44b188e297e3b1f3c53fd931e55eadf1"/>
 	</game>
-	<game name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan)" id="0203">
+	<game name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)" id="z227">
 		<category>Games</category>
-		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan)</description>
+		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)</description>
 		<game_id>0004000000074600</game_id>
-		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan).3ds" size="1073741824" crc="ac0db9d1" md5="2666971b4cea194e54e5566b41b7b863" sha1="c2bbaed25d57a844bc2516774c28ebc85f49e7ae" sha256="7098e4096b35a49ea0a5b6c841460813c7dde70cf8650734697c199a5836917c"/>
+		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1).3ds" size="1073741824" crc="acab7721" md5="038299f26dac97f8ff66bec9d450916a" sha1="7d0cab0f61ec4ad5d86a2b8e67d2d8a2cf246cdd" sha256="48dcfe4fcf1e660294abd7e471ed95bea36b64bffa86e983f542213d510e9a45"/>
 	</game>
 	<game name="Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)" id="0654">
 		<category>Games</category>
@@ -3243,7 +3243,7 @@
 		<category>Games</category>
 		<description>Murder on the Titanic (Europe) (En,Fr,De,Nl)</description>
 		<game_id>0004000000072B00</game_id>
-		<rom name="Murder on the Titanic (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="2ec6b9aa" md5="53378794737348aa1f278e8ebc44e734" sha1="68e437c8c513f6d870664a4e6619845c1b09edb5"/>
+		<rom name="Murder on the Titanic (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="2ec6b9aa" md5="53378794737348aa1f278e8ebc44e734" sha1="68e437c8c513f6d870664a4e6619845c1b09edb5" sha256="16c42054b91698b266b9f41379c5f2d252c1a03489e61c0bb6250801e4b74def"/>
 	</game>
 	<game name="Mushi Bugyou (Japan)" id="0752">
 		<category>Games</category>
@@ -3339,7 +3339,7 @@
 		<category>Games</category>
 		<description>Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>00040000000C2A00</game_id>
-		<rom name="Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="93f37c52" md5="c3903c2b475ac881fcb122b88e272837" sha1="c134f72fdcc945c39c21e2690f5d0038439b1182"/>
+		<rom name="Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="93f37c52" md5="c3903c2b475ac881fcb122b88e272837" sha1="c134f72fdcc945c39c21e2690f5d0038439b1182" sha256="4751a5356e7b1b413ee424a573be6474a90a9d0cf319d0f1b2d52ac467b67bac"/>
 	</game>
 	<game name="Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Nl)" id="0927">
 		<category>Games</category>
@@ -5580,7 +5580,7 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000132B00</game_id>
-		<rom name="Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="984b6f4e" md5="a44f8fcf74c3d7173f8f00355fb3ac9d" sha1="666f9726eced3948d945c20b13e860dd63a8cadd"/>
+		<rom name="Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="984b6f4e" md5="a44f8fcf74c3d7173f8f00355fb3ac9d" sha1="666f9726eced3948d945c20b13e860dd63a8cadd" sha256="18d1fb2d5c7c9d5f3fecf0986000ae92bc1a82c85cda2f351903351c03a846c2"/>
 	</game>
 	<game name="Yuugen Gaisha Brave Company (Japan)" id="0421">
 		<category>Games</category>

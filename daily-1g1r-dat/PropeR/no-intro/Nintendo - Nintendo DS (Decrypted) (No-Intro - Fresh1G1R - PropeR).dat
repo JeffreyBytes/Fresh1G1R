@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260611-040530) (Retool)</description>
-		<version>20260611-040530</version>
-		<date>2026-06-14 07-12-07</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260614-083744) (Retool)</description>
+		<version>20260614-083744</version>
+		<date>2026-06-15 07-51-06</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3959,7 +3959,7 @@
 	<game name="Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)" id="3424">
 		<category>Games</category>
 		<description>Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)</description>
-		<rom name="Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).nds" size="134217728" crc="6f455159" md5="a4fa4d54864b14829cdbe2fb53b2bb94" sha1="0f11ff6fcd9ef150c620a5fe071b30f80a7a2e40"/>
+		<rom name="Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).nds" size="134217728" crc="a29bbfe2" md5="6f53f1244a30c7357bbd08d196a79b78" sha1="2b98ec8245efd6759271088ed2f8e91c79b71967"/>
 	</game>
 	<game name="Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es)" id="5560">
 		<category>Games</category>
@@ -12995,7 +12995,7 @@
 	<game name="Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It)" id="3247">
 		<category>Games</category>
 		<description>Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="9b1a5290" md5="b2ef4da23ce799c359f341b7930573f6" sha1="6d0ad285af2f7c649ec20f85e7fd0f253f1db2c5"/>
+		<rom name="Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="9a403e13" md5="0b04f84d9c5345c7d22e7292722eb126" sha1="6bf3eeeffbcf823b0bcdda3f3b1dc993ee1b7be0"/>
 	</game>
 	<game name="Prince of Persia - The Forgotten Sands (USA) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="5017">
 		<category>Games</category>

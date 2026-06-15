@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20260612-210243) (Retool)</description>
-		<version>20260612-210243</version>
-		<date>2026-06-14 07-04-19</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (542) (-ly) [-aAbBcdDefkmMopPruv] (20260614-125959) (Retool)</description>
+		<version>20260614-125959</version>
+		<date>2026-06-15 07-43-48</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1883,7 +1883,7 @@
 		<category>Games</category>
 		<description>Murder on the Titanic (Europe) (En,Fr,De,Nl)</description>
 		<game_id>0004000000072B00</game_id>
-		<rom name="Murder on the Titanic (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="f8da0de2" md5="bb2ba44c5590aa1e69c0ac2f725b0cb8" sha1="c20a518b45c744692541245fa03755fe23bf149d"/>
+		<rom name="Murder on the Titanic (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="f8da0de2" md5="bb2ba44c5590aa1e69c0ac2f725b0cb8" sha1="c20a518b45c744692541245fa03755fe23bf149d" sha256="1a0c5d8016d76dbcc6d41491cb25e5d72c6fa2fe2908b23d750009b2ae346ec5"/>
 	</game>
 	<game name="My Baby Pet Hotel 3D (Europe) (En,Fr,De,Nl)" id="0923">
 		<category>Games</category>
@@ -1967,7 +1967,7 @@
 		<category>Games</category>
 		<description>Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>00040000000C2A00</game_id>
-		<rom name="Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="235f3840" md5="b4e06abbffdf54a6ab230fffdb7166d0" sha1="ac34b1014930a19737f2c46f81d5cb8aa211fe11"/>
+		<rom name="Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="235f3840" md5="b4e06abbffdf54a6ab230fffdb7166d0" sha1="ac34b1014930a19737f2c46f81d5cb8aa211fe11" sha256="2c6737ada68087d77e1518ad0b98c211707826e6a144816cdc2d60618250ff5a"/>
 	</game>
 	<game name="Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Nl)" id="0927">
 		<category>Games</category>

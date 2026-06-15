@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,294) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-14 08-23-34) (Retool)</description>
-		<version>2026-06-14 08-23-34</version>
-		<date>2026-06-14 07-04-05</date>
+		<description>Sony - PlayStation 3 (1,294) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-14 10-20-40) (Retool)</description>
+		<version>2026-06-14 10-20-40</version>
+		<date>2026-06-15 07-42-47</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1406,10 +1406,10 @@
 		<description>Disney G-Force (USA) (En,Fr,Es)</description>
 		<rom name="Disney G-Force (USA) (En,Fr,Es).iso" size="4142792704" crc="b4244065" md5="fb43b79f5c191947827dba627f12e760" sha1="9e4e7a3c88fb1342754915241acfe3c1fd5b7c87"/>
 	</game>
-	<game name="Disney Infinity (USA) (En,Fr,Es,Pt)">
+	<game name="Disney Infinity (USA) (En,Fr,Es,Pt) (v02.00)">
 		<category>Games</category>
-		<description>Disney Infinity (USA) (En,Fr,Es,Pt)</description>
-		<rom name="Disney Infinity (USA) (En,Fr,Es,Pt).iso" size="8895332352" crc="933d69bb" md5="2d5920b734e8668ac866ef2f2932d7bd" sha1="6a44b474c4504003c1cb560aff6d9e8577fd7b60"/>
+		<description>Disney Infinity (USA) (En,Fr,Es,Pt) (v02.00)</description>
+		<rom name="Disney Infinity (USA) (En,Fr,Es,Pt) (v02.00).iso" size="8894087168" crc="070063d7" md5="fb932e48c01fbeb338744b465037416f" sha1="8ce38e0c3d77395b7db83c21d4ead6bd922a2ccc"/>
 	</game>
 	<game name="Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>
