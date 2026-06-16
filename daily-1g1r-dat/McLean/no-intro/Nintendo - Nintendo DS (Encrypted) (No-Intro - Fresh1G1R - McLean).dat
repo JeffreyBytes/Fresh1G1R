@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260614-083744) (Retool)</description>
-		<version>20260614-083744</version>
-		<date>2026-06-15 07-45-29</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260615-154536) (Retool)</description>
+		<version>20260615-154536</version>
+		<date>2026-06-16 07-44-42</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5209,7 +5209,7 @@
 	<game name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It)" id="3260">
 		<category>Games</category>
 		<description>Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="cc8aafc5" md5="31d54de99ef5c48314e760bea1b2efd8" sha1="31803d329358286307bb76fccf92885c794dab0b"/>
+		<rom name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="cc8aafc5" md5="31d54de99ef5c48314e760bea1b2efd8" sha1="31803d329358286307bb76fccf92885c794dab0b" sha256="7c6469642e02254d2867e45261a553c8ed567b9112e67259734e1c256d981c70"/>
 	</game>
 	<game name="Let's Ride - Friends Forever (USA)" id="2103">
 		<category>Games</category>

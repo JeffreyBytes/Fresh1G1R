@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (3,777) (-y) [-aAbBcefkmMoprv] (20260615-000627) (Retool)</description>
-		<version>20260615-000627</version>
-		<date>2026-06-15 07-38-23</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (3,777) (-y) [-aAbBcefkmMoprv] (20260615-042114) (Retool)</description>
+		<version>20260615-042114</version>
+		<date>2026-06-16 07-43-50</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

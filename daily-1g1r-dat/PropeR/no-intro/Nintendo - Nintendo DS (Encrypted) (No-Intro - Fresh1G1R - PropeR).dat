@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260614-083744) (Retool)</description>
-		<version>20260614-083744</version>
-		<date>2026-06-15 07-51-43</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,711) (-y) [-aAbBcdkmMpPuv] (20260615-154536) (Retool)</description>
+		<version>20260615-154536</version>
+		<date>2026-06-16 07-48-52</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8699,7 +8699,7 @@
 	<game name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It)" id="3260">
 		<category>Games</category>
 		<description>Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="cc8aafc5" md5="31d54de99ef5c48314e760bea1b2efd8" sha1="31803d329358286307bb76fccf92885c794dab0b"/>
+		<rom name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="cc8aafc5" md5="31d54de99ef5c48314e760bea1b2efd8" sha1="31803d329358286307bb76fccf92885c794dab0b" sha256="7c6469642e02254d2867e45261a553c8ed567b9112e67259734e1c256d981c70"/>
 	</game>
 	<game name="Let's Ride - Friends Forever (USA)" id="2103">
 		<category>Games</category>
@@ -9224,7 +9224,7 @@
 	<game name="Magische Labyrinth, Das (Germany)" id="5198">
 		<category>Games</category>
 		<description>Magische Labyrinth, Das (Germany)</description>
-		<rom name="Magische Labyrinth, Das (Germany).nds" size="16777216" crc="231c5ffc" md5="4697218330c39c891c8e3dd8752745b5" sha1="22bcfc2a78daa336e23364893751ac947826baeb"/>
+		<rom name="Magische Labyrinth, Das (Germany).nds" size="16777216" crc="231c5ffc" md5="4697218330c39c891c8e3dd8752745b5" sha1="22bcfc2a78daa336e23364893751ac947826baeb" sha256="e4a3d02ba61cbc155ce86eb8081eaee28ee7336a6d67f246a65c69c4a3459ab1"/>
 	</game>
 	<game name="Magnetica (USA)" id="0461">
 		<category>Games</category>
@@ -9734,7 +9734,7 @@
 	<game name="Mathematik und Deutsch 1.-4. Klasse 2013 (Germany)" id="6424">
 		<category>Games</category>
 		<description>Mathematik und Deutsch 1.-4. Klasse 2013 (Germany)</description>
-		<rom name="Mathematik und Deutsch 1.-4. Klasse 2013 (Germany).nds" size="8388608" crc="53af08c3" md5="c7c8f70c8d8967e426f2e1133cb11f15" sha1="15371555394dce151c66cdbb738efcf9491b956e"/>
+		<rom name="Mathematik und Deutsch 1.-4. Klasse 2013 (Germany).nds" size="8388608" crc="53af08c3" md5="c7c8f70c8d8967e426f2e1133cb11f15" sha1="15371555394dce151c66cdbb738efcf9491b956e" sha256="53f05a5930803666c5bb32479088b11828062f5cc081be87e561cf65a4ef0ab0"/>
 	</game>
 	<game name="Maths Made Simple (Europe) (En,Fr,De,Es,It)" id="2864">
 		<category>Games</category>

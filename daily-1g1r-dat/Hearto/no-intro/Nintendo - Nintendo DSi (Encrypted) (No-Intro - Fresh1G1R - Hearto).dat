@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DSi (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DSi (Encrypted) (9) (-y) [-aAbBcefkmMoprv] (20260612-071250) (Retool)</description>
-		<version>20260612-071250</version>
-		<date>2026-06-15 07-39-29</date>
+		<description>Nintendo - Nintendo DSi (Encrypted) (9) (-y) [-aAbBcefkmMoprv] (20260615-155654) (Retool)</description>
+		<version>20260615-155654</version>
+		<date>2026-06-16 07-42-01</date>
 		<author>1988reload, aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -26,10 +26,11 @@
 		<description>Hidden Photo (Europe) (En,Fr,Es,It)</description>
 		<rom name="Hidden Photo (Europe) (En,Fr,Es,It).dsi" size="33554432" crc="8861d260" md5="e6710cb05626e928ca06d2eb4c16ec31" sha1="0e1f0e49149dcc8bc522c680a4948ca908a76b52" sha256="9cdb3b7bf5eb92c28721b01bb9cbf16ab79d7a703a17e40302e0a8a5f65fc5aa"/>
 	</game>
-	<game name="MySims (Unknown) (Proto)" id="z017">
+	<game name="MySims (World) (Proto)" id="z017">
 		<category>Preproduction</category>
-		<description>MySims (Unknown) (Proto)</description>
-		<rom name="MySims (Unknown) (Proto).dsi" size="33554432" crc="3735a91a" md5="5ad66e2c18d18248678a565d2ee4b15a" sha1="628169f84f680483f330f5f48d70471f8328ec93" sha256="282f091e4d9eb5e9505f2a2c354fed44685c397c9587ed468e55c8b2cd8adbb1"/>
+		<description>MySims (World) (Proto)</description>
+		<game_id>000300004E54524A</game_id>
+		<rom name="MySims (World) (Proto).dsi" size="33554432" crc="3735a91a" md5="5ad66e2c18d18248678a565d2ee4b15a" sha1="628169f84f680483f330f5f48d70471f8328ec93" sha256="282f091e4d9eb5e9505f2a2c354fed44685c397c9587ed468e55c8b2cd8adbb1"/>
 	</game>
 	<game name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)" id="z002">
 		<category>Games</category>
@@ -54,6 +55,7 @@
 	<game name="System - Flaw (USA) (En,Fr,Es)" id="0004">
 		<category>Games</category>
 		<description>System - Flaw (USA) (En,Fr,Es)</description>
+		<game_id>0003000044535945</game_id>
 		<rom name="System - Flaw (USA) (En,Fr,Es).dsi" size="33554432" crc="a7e5e0b8" md5="42b6408a8ad39ba72e373056387e8d73" sha1="1d644465d6547a4a69aa82eabccae6e51e9cff1e" sha256="27a177e768e3d8a909b0bef4cad6caf20de7aaed770418c406b3a3bb2326ce9f"/>
 	</game>
 </datafile>

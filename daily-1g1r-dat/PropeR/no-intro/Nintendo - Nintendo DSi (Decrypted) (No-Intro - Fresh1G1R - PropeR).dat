@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DSi (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DSi (Decrypted) (6) (-y) [-aAbBcdkmMpPuv] (20260612-071250) (Retool)</description>
-		<version>20260612-071250</version>
-		<date>2026-06-15 07-53-04</date>
+		<description>Nintendo - Nintendo DSi (Decrypted) (6) (-y) [-aAbBcdkmMpPuv] (20260615-155654) (Retool)</description>
+		<version>20260615-155654</version>
+		<date>2026-06-16 07-50-28</date>
 		<author>1988reload, aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -39,6 +39,7 @@
 	<game name="System - Flaw (USA) (En,Fr,Es)" id="0004">
 		<category>Games</category>
 		<description>System - Flaw (USA) (En,Fr,Es)</description>
+		<game_id>0003000044535945</game_id>
 		<rom name="System - Flaw (USA) (En,Fr,Es).dsi" size="33554432" crc="319870fd" md5="e45cc21a32b73a9b0e80e11b23e304ce" sha1="8177108efddab15226b4add1837eba560d7b9f11" sha256="518ff403ca24f2eb715726ae7643d445936a2ea4a9c79e135a52be07ae1827cf"/>
 	</game>
 </datafile>
