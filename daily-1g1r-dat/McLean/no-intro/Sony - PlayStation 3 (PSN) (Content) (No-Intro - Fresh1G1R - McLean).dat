@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (2,113) (-ly) [-aAbBcdDefkmMopPruv] (20260615-042114) (Retool)</description>
-		<version>20260615-042114</version>
-		<date>2026-06-16 07-47-55</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (2,118) (-ly) [-aAbBcdDefkmMopPruv] (20260616-165351) (Retool)</description>
+		<version>20260616-165351</version>
+		<date>2026-06-17 07-37-25</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2987,6 +2987,12 @@
 		<rom name="CsFvmnHTkEcRfvvnhZcUiSijvxrCwhPeHTUWweOaCprQnUhGTIieqlAWREoJtbOSZxRbgRdDfVbwIzxZbByCTDoRrdKqeUdODFCKI.pkg" size="5739517888" crc="be0d4233" md5="3b2fc9487578e6106651c27750d7b76f" sha1="91d67f9d301f45aab338e727ade9a4e477a59e20"/>
 		<rom name="UP1082-NPUB30706_00-DISNEYUNIVERSEDG.rap" size="16" crc="be2372b9" md5="6708bd0182a1262f3e81c517f57af1d2" sha1="fc60ce42b1f3d5b90910c3bd44d0c0dba3400bd9"/>
 	</game>
+	<game name="Disney Universe - Ultimate Edition (Europe)" id="46055">
+		<category>Games</category>
+		<description>Disney Universe - Ultimate Edition (Europe)</description>
+		<game_id>EP1006-NPEB00930_00-DISNEYUNIVERSE00</game_id>
+		<rom name="YLjKJnNmhFpWQGwrmfsgqubAYMtUBicyIuOhLaZJrpWxDVJWMtdimQYqVPvjYaQL.pkg" size="7059362304" crc="f780acea" md5="0f3162ad56554aec2ebcdcee0db15636" sha1="331e6a564c09e6f77f2ebb78e009d0d237158c87" sha256="07687cbd1bfbef693277962171c23b0e071a7415f51fcd2538be294d7d8f5d54"/>
+	</game>
 	<game name="Disney's Peter Pan - The Legend of Never-Land (Europe) (PS2 Classics)" id="03446">
 		<category>Games</category>
 		<description>Disney's Peter Pan - The Legend of Never-Land (Europe) (PS2 Classics)</description>
@@ -4671,6 +4677,7 @@
 		<category>Games</category>
 		<description>Fuel Overdose (USA)</description>
 		<game_id>UP4349-NPUB30785_00-FUELOVERDOSE0001</game_id>
+		<rom name="UP4349-NPUB30785_00-FUELOVERDOSE0001.rap" size="16" crc="a589fef0" md5="04a429d3b4ff229e01e98adf77e5b40e" sha1="00809d5db33bf29c574bab5607d81cc859154032" sha256="9d3da2e839c90d3e97f248f0f048fc88557a97af23a50c7b484047e0a512dea2"/>
 		<rom name="esNCOebkRPhlvopzsqCwUwVCjBcNsGduDQvBrDYzqRfmsZjNuTtopwmhpmkHjFjP.pkg" size="247404864" crc="350b2440" md5="83f98c5acd2b55c140d19f0f0caf74b8" sha1="b5e72b439bf71ec994e1b7449c7d6748f9f15321"/>
 	</game>
 	<game name="Funky Lab Rat (USA) (Unlock Key)" id="41080">
@@ -5893,6 +5900,12 @@
 		<rom name="UP2034-NPUB31064_00-JOEDANGER2HGKEY1.rap" size="16" crc="584870c6" md5="da984c5969bb4c2be2a557dce8ace1aa" sha1="415fa32e5bdb11cf8c1793bb7bdd3c0fa77c4a90"/>
 		<rom name="VdeWjbtBUnSrqrpRBNRXYnrokZTgWXfIaPhvmkbtdQFbjbyyUQFQogUQCArqHLSN.pkg" size="6080" crc="2c69888a" md5="1c0ec194f1bcda0a4faba5aa4f605dee" sha1="4044c36b1757dd504ba2f32b952a055d69d812de"/>
 	</game>
+	<game name="John Daly's ProStroke Golf (Europe)" id="46057">
+		<category>Games</category>
+		<description>John Daly's ProStroke Golf (Europe)</description>
+		<game_id>EP4003-NPEB01007_00-2012110100001456</game_id>
+		<rom name="SlkTLkcptKCDPMGLHpdJPSBLnPqzCENmFpgxrfLaLfsYSWcWqYenENThjaEzQKoz.pkg" size="2318173616" crc="4901bbb3" md5="32564aecabc6a397e42f6cd1d72b3b15" sha1="10897fe2e396551ad94432bcbc3e2040845a2a16" sha256="1256a458081d2a0b8ae0b8e104e206ddf3991f10683fc9ef4b8760f0c84c514e"/>
+	</game>
 	<game name="Journey (Asia) (Unlock Key)" id="36259">
 		<category>Games</category>
 		<description>Journey (Asia) (Unlock Key)</description>
@@ -6213,6 +6226,7 @@
 		<category>Games</category>
 		<description>Kung-Fu Live (USA)</description>
 		<game_id>UP4301-NPUB30376_00-VAGCKUNGFULIVE01</game_id>
+		<rom name="UP4301-NPUB30376_00-VAGCKUNGFULIVE01.rap" size="16" crc="376ce847" md5="44e3bb4f72749f1811e3418da00c935d" sha1="83f204d1253a0ebff69ec0a50da6483564804da3" sha256="e1bef3baed46890bafe89265f896dbc0d7dd6dc7c324da89ab71fd9bcb1080db"/>
 		<rom name="zHfWvxjoaTTCNzhEvWJGUjIwvOmhNbitKRIYAQqBibsObrAfgThOXdgQcnzuBWUmIPHgeuxPDXEuWBlyUxbuglVIsSdtndcmUZSjn.pkg" size="915639280" crc="2918ebef" md5="5fab1d07f21cbef68ebb93fce227b24f" sha1="4e7a4db9cd5c554d385bd76374a96dee316a8894"/>
 	</game>
 	<game name="L.A. Noire (USA)" id="10588">
@@ -6451,6 +6465,20 @@
 		<game_id>UP0002-NPUB31537_00-LEGENDOFKORRAPS3</game_id>
 		<rom name="RlmJebaCYhxCgOiUAmQFHMhNyFCyTJTYCAWqahQDgJEeRKPngiXeEfLrMGQqNIGGwKhqvHIcfNdWxfFhiOLFSuClmzOWZTbCHMERx.pkg" size="2772344304" crc="d912e1bf" md5="180d5ab08d575a86f438df6ef437cac4" sha1="c3a942254dbaf6a6b50bc3b79a64cfc58cff07cf"/>
 		<rom name="UP0002-NPUB31537_00-LEGENDOFKORRAPS3.rap" size="16" crc="faa919a9" md5="9d677c7963a8838f189a9859acab493d" sha1="a1fd883094d0ba10116a11b27c6f2edeaa07a0a4"/>
+	</game>
+	<game name="Legends of War (Europe)" id="46050">
+		<category>Games</category>
+		<description>Legends of War (Europe)</description>
+		<game_id>EP4136-NPEB01311_00-LOWHDDBOOT000001</game_id>
+		<rom name="EP4136-NPEB01311_00-LOWHDDBOOT000001.rap" size="16" crc="ff1c9e48" md5="7994693452a7de62055675b137342e6b" sha1="21bfce9ccf57f92e8f37813f87acc4dc2576757b" sha256="b924508c61e2d75df38b0030511a1c4f5d1d1be103f6e898ae7c10c6e102763a"/>
+		<rom name="VOyqlZjINbHNSSxzsmpxwmFdRTPbZHOvzQMompRhEFsdkqjwQnPlNnhZMVDqhFno.pkg" size="5203893712" crc="37c1229c" md5="d25d50cda256c569d5a335dad1301c57" sha1="a3e9c2750b733942ede10067c02238263dc2be94" sha256="36ae436e40d43db87dd0231cba5fe58fa27b24bb4ead64e55c97a66708787134"/>
+	</game>
+	<game name="Legends of War - Patton (USA)" id="46054">
+		<category>Games</category>
+		<description>Legends of War - Patton (USA)</description>
+		<game_id>UP4136-NPUB31185_00-LOWHDDBOOT000001</game_id>
+		<rom name="UP4136-NPUB31185_00-LOWHDDBOOT000001.rap" size="16" crc="1df2850f" md5="4cae33dfa59edcbe0d8dc1c47dce06cf" sha1="6fc0e0c8042a7d915ff0d7153fce70ab8b625628" sha256="4072ca4f588a47af9024d9bf100bee5eb1572825292c844865ccabda7e40b27c"/>
+		<rom name="UVEeSvwsHkyktZNqMqVWZSZXaPGEULVMhEEDOfKIeuBqusCCbnLAWftQBguPGahU.pkg" size="4847564160" crc="6d31622b" md5="f57a10c84554ca8ebc9637380513b94d" sha1="0b11d703e99c79390011b3d0ccf5c9b62b8a0526" sha256="63dce2a2e7a50366b8694697cfe93acb995d6aede50e9c06ace9b57a144baaa8"/>
 	</game>
 	<game name="Lemmings (Europe) (Unlock Key)" id="10786">
 		<category>Games</category>
@@ -11800,19 +11828,26 @@
 		<rom name="UP4101-NPUB30403_00-STAREXPLOREDRONE.rap" size="16" crc="5cd47a22" md5="644638d4783746fccf318d66d6d359f6" sha1="80292b40823ce1e5cb39b532698f7de0ac23358b"/>
 		<rom name="rtvFtnGRUuSJynGYwjKzMJgznTgHQdBJcvapBUUmmkgQrCMJjpGvuyeyyWCzyCCuYrFexzTCAUXsTGCXupjEUmwNowudGogMovvqy.pkg" size="92162048" crc="b5926f21" md5="d199fb616a9c2ca6802afd5e3bf6383d" sha1="a72f58940f82a24732fcacce0e84ff85647472ec"/>
 	</game>
-	<game name="Starhawk (Europe)" id="13702">
-		<category>Games</category>
-		<description>Starhawk (Europe)</description>
-		<game_id>EP9000-NPEA00410_00-STARHAWKSPPKG001</game_id>
-		<rom name="EP9000-NPEA00410_00-STARHAWKSPPKG001.rap" size="16" crc="9643370d" md5="506a9212e9585b1f6c9592bb145f0a11" sha1="1d324a2509d77e550bf2a8ea7ce766013c717be5"/>
-		<rom name="OzFLIibGXWJXroDCdqaDaIUJKuSPegvHjIZhpcSpznSaVFKUxAvXtmVVsalCciQi.pkg" size="9811050144" crc="34b4903c" md5="3ecfbac5e42a8681f3292f3f70a72f5f" sha1="7504df2d9c2b83da505c126bea4a75269595aea2"/>
-	</game>
 	<game name="Starhawk (Europe) (NPEA00411)" id="45502">
 		<category>Games</category>
 		<description>Starhawk (Europe) (NPEA00411)</description>
 		<game_id>EP9000-NPEA00411_00-STARHAWKPKG00001</game_id>
 		<rom name="EP9000-NPEA00411_00-STARHAWKPKG00001.rap" size="16" crc="c154d590" md5="5231eeeecad5629f2e87d49a6e1d8283" sha1="86f0e497234cb9d1d947aa7eb626dd63639b7baa" sha256="3ce5c1fcbaa549e9ea2d9cb920157ed6b29fb276ada3ac1dbc87f112e560310b"/>
 		<rom name="zOuqGCMnnwthwEYOCbyLSsejODrFSPkWhtLDMePhPDRuRHCDLTqZGjPdvtpcxsui.pkg" size="13202651808" crc="c0dbbfc1" md5="c20d90274ce340a31842b9743aab9ee2" sha1="65a97ce3cd75e7b923653a2ed3a5e91d298563e6" sha256="caccae2d9f816e7a6ae1dfee82c3618578bd077e8e81946ae9a5f25859c24725"/>
+	</game>
+	<game name="Starhawk (USA)" id="46059">
+		<category>Games</category>
+		<description>Starhawk (USA)</description>
+		<game_id>UP9000-NPUA80809_00-STARHAWKPKG00001</game_id>
+		<rom name="UP9000-NPUA80809_00-STARHAWKPKG00001.rap" size="16" crc="02eaf141" md5="ab7df7aefd95b9f295a1fef18bfaf54d" sha1="50e052d17188889850d7c0f7e9caa2eaad1e9071" sha256="a739369089b07787f23cef20318df97f0d3d2d3befc8374ac631521e8199aca4"/>
+		<rom name="hObVOJLDMhiMWXgsMYhIYMcntIgZMSueRVwegnovYFeaBvJNlzsXAKYbBpUCZvmXgjtwiimUjYwENiqNZcBCmHlprdregkHfjJzMT.pkg" size="13202651808" crc="4572c476" md5="22e84dd572e4833e352d4871f5cea97f" sha1="56cb208f062b1f093ec949b3a4a512cdbdc99ad0" sha256="09c1f9f97e4c4ca506d65e4c58b26eeb6b14d6d81e188c49478151cc43a469c9"/>
+	</game>
+	<game name="Starhawk - Multiplayer (USA)" id="46058">
+		<category>Games</category>
+		<description>Starhawk - Multiplayer (USA)</description>
+		<game_id>UP9000-NPUA80811_00-STARHAWKMPPKG001</game_id>
+		<rom name="LKBUEsoBLUqwqBYvQCHuAVuyWwklkPHwCqoiOnthndoPpnciNJBCTfeoIFeRgGlZAOFMCvEkgBCAJsAIOoXPPwxjqoRgfkCogMlWu.pkg" size="7005573200" crc="573c490a" md5="317b10de2c20a32c67d496b3d3c3d16f" sha1="06f88f0230a894fc0bb95830216945607be7d3de" sha256="c0b71a7e2dbd94837d779986bf8f0855765f91c5e561019d8801cdfd49fe4a96"/>
+		<rom name="UP9000-NPUA80811_00-STARHAWKMPPKG001.rap" size="16" crc="a2c76549" md5="b962a8266e61f060071c9a8f2edef7e9" sha1="568d6c4cd094e5eff194c0b7eedf486b88829334" sha256="48ddd6f6e10eed00a85fcd434978deb02c4bdc6faa03205500f13abab677148c"/>
 	</game>
 	<game name="Starhawk - Solo Campaign (USA)" id="11445">
 		<category>Games</category>

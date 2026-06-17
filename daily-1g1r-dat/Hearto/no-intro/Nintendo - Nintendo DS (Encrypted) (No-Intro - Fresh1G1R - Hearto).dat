@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,938) (-y) [-aAbBcefkmMoprv] (20260615-154536) (Retool)</description>
-		<version>20260615-154536</version>
-		<date>2026-06-16 07-40-10</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,939) (-y) [-aAbBcefkmMoprv] (20260616-200331) (Retool)</description>
+		<version>20260616-200331</version>
+		<date>2026-06-17 07-31-17</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7889,6 +7889,11 @@
 		<description>Jonas (USA) (En,Fr,Es) (Rev 1)</description>
 		<rom name="Jonas (USA) (En,Fr,Es) (Rev 1).nds" size="67108864" crc="7c980354" md5="7405148c39c2d41b5a2e2f8125d79ed2" sha1="3842f0c312595700045d1a0e58f60bc5f7266cc9"/>
 	</game>
+	<game name="Josefin Skolhjaelp - Matematik - Dimma oever Sifferkoeping (Sweden)" id="6645">
+		<category>Games</category>
+		<description>Josefin Skolhjaelp - Matematik - Dimma oever Sifferkoeping (Sweden)</description>
+		<rom name="Josefin Skolhjaelp - Matematik - Dimma oever Sifferkoeping (Sweden).nds" size="33554432" crc="5fb9f412" md5="4a104a8e44bab583a202641fedc93c22" sha1="569dd8afab1e98abb68c2de709e912aa8515c0aa"/>
+	</game>
 	<game name="Joshikousei Nigeru! - Shinrei Puzzle Gakuen (Japan)" id="1987">
 		<category>Games</category>
 		<description>Joshikousei Nigeru! - Shinrei Puzzle Gakuen (Japan)</description>
@@ -9079,7 +9084,7 @@
 	<game name="Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It)" id="5212">
 		<category>Games</category>
 		<description>Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="a697cc41" md5="cbd045ef1d2ca56884c1354de78a1c2f" sha1="3aa28e91e2c9a24071ef9c9933db041015ea741c"/>
+		<rom name="Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="a697cc41" md5="cbd045ef1d2ca56884c1354de78a1c2f" sha1="3aa28e91e2c9a24071ef9c9933db041015ea741c" sha256="de50ee26eb21771ada10b9ec56705d35307e2e791f6a8f0531fb6ff17ec9e18b"/>
 	</game>
 	<game name="Learn Chess (USA)" id="4772">
 		<category>Games</category>
@@ -14971,7 +14976,7 @@
 	<game name="Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3500">
 		<category>Games</category>
 		<description>Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="6726dd37" md5="aa26f2a6c626f691826c6f4f0a5ca319" sha1="ffa60e43cd206b0a007e77c033734edb30090142"/>
+		<rom name="Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="6726dd37" md5="aa26f2a6c626f691826c6f4f0a5ca319" sha1="ffa60e43cd206b0a007e77c033734edb30090142" sha256="89efb391e861e588a946c6c0bf1cc62ae079815b11f9f472d9510ed8b79f6409"/>
 	</game>
 	<game name="Samantha Oups! - Le Jeu (France)" id="2493">
 		<category>Games</category>

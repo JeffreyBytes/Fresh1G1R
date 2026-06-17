@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Download Play) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Download Play) (83) (-ly) [-aAbBcdDefkmMopPruv] (20240712-120512) (Retool)</description>
-		<version>20240712-120512</version>
-		<date>2026-06-16 07-47-31</date>
-		<author>Arctic Circle System, baldjared, Gefflon, Hiccup, Larsenv, Lesserkuma, rarenight, SonGoku, xNo, xuom2</author>
+		<description>Nintendo - Nintendo DS (Download Play) (83) (-ly) [-aAbBcdDefkmMopPruv] (20260616-164550) (Retool)</description>
+		<version>20260616-164550</version>
+		<date>2026-06-17 07-35-40</date>
+		<author>1988reload, Arctic Circle System, baldjared, Gefflon, Hiccup, Larsenv, Lesserkuma, rarenight, root, SonGoku, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -36,7 +36,6 @@
 	<game name="Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast)" id="0381">
 		<category>Games</category>
 		<description>Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast)</description>
-		<game_id>NTRJ</game_id>
 		<rom name="Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast).nds" size="420040" crc="c7b9f1cc" md5="72bad364aebf2884f9aa46f02c6e1437" sha1="e6f4b8eaf8431c9ae1eb3d640e1f4e434f1599f0" sha256="d5352fce66f348c26a3b957f5cbb37d57676cb3a1be0d547d0309477bdbc3f5e"/>
 	</game>
 	<game name="Animal Crossing - Let's Go to the City - Moving Van (Europe) (Wii Broadcast)" id="0384">
