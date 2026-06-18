@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Avatars) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Avatars) (2,552) (-y) [-aAbBcdkmMpPuv] (20251221-064935) (Retool)</description>
-		<version>20251221-064935</version>
-		<date>2026-06-17 07-45-04</date>
+		<description>Sony - PlayStation 3 (PSN) (Avatars) (2,553) (-y) [-aAbBcdkmMpPuv] (20260617-165313) (Retool)</description>
+		<version>20260617-165313</version>
+		<date>2026-06-18 07-23-33</date>
 		<author>bikerspade, buckwheat, emstan784, Landcross, norkmetnoil577, rarenight</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7052,6 +7052,13 @@
 		<game_id>UP9000-BCUS98148_00-AVAL03LBPSKY0001</game_id>
 		<rom name="4sKpHGk2BmFvRKGDJ5e5sqjwO7TVXSLAENYmqeY4g3UafuE2MOxmlTearBe5xF1lGNC7j8qF8fuYUn2Uir3twMbTMHmtDrAhKyTd5.pkg" size="102400" crc="b0b3687f" md5="98e42fcf0a72d2284fa7293179a8b721" sha1="3b9f136cf41642056af65aa9acaa00273f6729e7" sha256="eec9365a8542b9216fc3edcd65ee9be57aaa1cb03a53a11e2edd7ab056e28fc6"/>
 		<rom name="UP9000-BCUS98148_00-AVAL03LBPSKY0001.rap" size="16" crc="ac680094" md5="9b8f2bde4e58532fc9e34bfd0ab15e2a" sha1="378fd12f8b5224d772745d90702a5f61c5d6c908"/>
+	</game>
+	<game name="LittleBigPlanet - World Cup Sackboy - Brazil (USA) (Avatar)" id="02689">
+		<category>Add-Ons</category>
+		<description>LittleBigPlanet - World Cup Sackboy - Brazil (USA) (Avatar)</description>
+		<game_id>UP9000-BCUS98148_00-AVALBPBRAZILSACK</game_id>
+		<rom name="9nE3GIT48PjQhm0q28nEAfhkBEbB9vLOIBaQBYKTQeXVohim4BU57qwmmMFY3KjRFy7ou54LdyeAh2Je55YtaGUUeW5o4TIOWcqob.pkg" size="102400" crc="2ebcd15f" md5="8ebbb79495f7f53c0e20bee6c22661da" sha1="9f87d8c69ed4de747fed3921f279b077c2371992"/>
+		<rom name="UP9000-BCUS98148_00-AVALBPBRAZILSACK.rap" size="16" crc="47cc1138" md5="f954e039ea638b331fa33e734b22e19d" sha1="e7374f79c3f2286154e918fa418bbeaeca9c13cf"/>
 	</game>
 	<game name="LittleBigPlanet - World Cup Sackboy - United States (USA) (Avatar)" id="01084">
 		<category>Add-Ons</category>

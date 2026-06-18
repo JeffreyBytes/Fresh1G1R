@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,712) (-y) [-aAbBcdkmMpPuv] (20260616-200331) (Retool)</description>
-		<version>20260616-200331</version>
-		<date>2026-06-17 07-43-19</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,712) (-y) [-aAbBcdkmMpPuv] (20260617-122122) (Retool)</description>
+		<version>20260617-122122</version>
+		<date>2026-06-18 07-24-59</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1534,7 +1534,7 @@
 	<game name="Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany)" id="5812">
 		<category>Games</category>
 		<description>Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany)</description>
-		<rom name="Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany).nds" size="33554432" crc="72bc4d84" md5="25ace9667a4018c4ae324202aeeff137" sha1="f270200928d067affe4547973f7a0731edf7521e"/>
+		<rom name="Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany).nds" size="33554432" crc="72bc4d84" md5="25ace9667a4018c4ae324202aeeff137" sha1="f270200928d067affe4547973f7a0731edf7521e" sha256="ffcaa4ee78406f25e55301d546fbc49364136268c308e99952d6d6e2212645b7"/>
 	</game>
 	<game name="Bibi Blocksberg - Neustadt im Hex-Chaos (Germany)" id="2941">
 		<category>Games</category>
@@ -2999,7 +2999,7 @@
 	<game name="Crazy Machines 2 (Europe) (En,Fr,De,Es,It)" id="4345">
 		<category>Games</category>
 		<description>Crazy Machines 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Crazy Machines 2 (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="e5785629" md5="654ffc4c56b65bb4ac3853924881d6a6" sha1="21a857b350b35b29a756f53d63a923d501dc1325"/>
+		<rom name="Crazy Machines 2 (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="e5785629" md5="654ffc4c56b65bb4ac3853924881d6a6" sha1="21a857b350b35b29a756f53d63a923d501dc1325" sha256="d4f75665d4b301fb9e43f3d94acd4290bb028aaf71ccbeb92835d0e4db0364ec"/>
 	</game>
 	<game name="Crazy Pig (Europe) (En,Fr,De,Es,It,Nl)" id="1700">
 		<category>Games</category>
@@ -4084,7 +4084,7 @@
 	<game name="Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany)" id="5350">
 		<category>Games</category>
 		<description>Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany)</description>
-		<rom name="Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany).nds" size="16777216" crc="e72e665f" md5="316cc6fdb0fbb25f66f5541567cfab30" sha1="61b1a0e1100c873e01858199bda3ea928ddbe2fe"/>
+		<rom name="Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany).nds" size="16777216" crc="e72e665f" md5="316cc6fdb0fbb25f66f5541567cfab30" sha1="61b1a0e1100c873e01858199bda3ea928ddbe2fe" sha256="a818adc167efdc98e14a92af04ad2cb8fe0db1e20109e78158ff2e8067a97193"/>
 	</game>
 	<game name="Driver Dan's Story Train (Europe)" id="6313">
 		<category>Games</category>
@@ -5544,7 +5544,7 @@
 	<game name="Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It)" id="5078">
 		<category>Games</category>
 		<description>Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="546ff943" md5="489ca1735a8585823487bca726aec613" sha1="6171c667aadec2124fa5de6d704a296bfffe02ac"/>
+		<rom name="Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="546ff943" md5="489ca1735a8585823487bca726aec613" sha1="6171c667aadec2124fa5de6d704a296bfffe02ac" sha256="64f36439eacef151797c967b73e0f6711b36e653e021ae28a62fdcfbc96f727a"/>
 	</game>
 	<game name="Golgo 13 - File G13 o Oe (Japan)" id="3876">
 		<category>Games</category>
@@ -6344,7 +6344,7 @@
 	<game name="Hospital Giant (Europe) (En,Fr,De,Es,It)" id="5379">
 		<category>Games</category>
 		<description>Hospital Giant (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Hospital Giant (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="335e1418" md5="3e6e6ae9f1bda9f804c1f6833fa6a80b" sha1="a6e0d77dfee06941db3df5ad479b027a1bc93ab2"/>
+		<rom name="Hospital Giant (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="335e1418" md5="3e6e6ae9f1bda9f804c1f6833fa6a80b" sha1="a6e0d77dfee06941db3df5ad479b027a1bc93ab2" sha256="01a4baae409bb2286f1bbb8f0e8cc7e28fdd7cb6167c3b4f6a0cba1d4ec299aa"/>
 	</game>
 	<game name="Hot Wheels - Battle Force 5 (USA)" id="4486">
 		<category>Games</category>

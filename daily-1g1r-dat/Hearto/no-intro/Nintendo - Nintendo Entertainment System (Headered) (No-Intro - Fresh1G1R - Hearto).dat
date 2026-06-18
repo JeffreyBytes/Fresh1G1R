@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,824) (-y) [-aAbBcefkmMoprv] (20260616-171244) (Retool)</description>
-		<version>20260616-171244</version>
-		<date>2026-06-17 07-29-17</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,824) (-y) [-aAbBcefkmMoprv] (20260617-064757) (Retool)</description>
+		<version>20260617-064757</version>
+		<date>2026-06-18 07-13-42</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9082,10 +9082,10 @@
 		<description>Yoshi's Cookie (USA)</description>
 		<rom name="Yoshi's Cookie (USA).nes" size="196624" header="4e 45 53 1a 08 08 40 08 00 00 00 00 00 00 00 01" crc="2db3f64a" md5="47a1eca2a0b5942149fafb4ad883f61e" sha1="b19b67e59dd6bab7977e24e0052de7b48ae214a4" sha256="ea416fff4a2d207236aa31a7abd2d41f06fe0a53486f485b109ed127be11a45a"/>
 	</game>
-	<game name="Youkai Club (Japan)" id="2538">
+	<game name="Youkai Club (Japan) (Rev 1)" id="8498">
 		<category>Games</category>
-		<description>Youkai Club (Japan)</description>
-		<rom name="Youkai Club (Japan).nes" size="163856" header="4e 45 53 1a 08 04 c1 88 00 00 00 00 00 00 00 01" crc="76f1cf54" md5="6d7ec74552dda3f59926a0586136fd67" sha1="52acff881dc8b305dec29eb8f9ccfb179b542806" sha256="8b40a27c499216f874bbce9b7b8e693c38600f33e9f5614da599d9d21b39bae4"/>
+		<description>Youkai Club (Japan) (Rev 1)</description>
+		<rom name="Youkai Club (Japan) (Rev 1).nes" size="163856" crc="5aa28163" md5="c74e4fbbf711df878a195544022ee14e" sha1="cee03bc9ae548c59183421aa918c0ef14c50191b" sha256="2f64a083a888523d417ac781d6903d5854361691f78657571cd7c823710813ef"/>
 	</game>
 	<game name="Youkai Douchuuki (Japan)" id="2539">
 		<category>Games</category>
