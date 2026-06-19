@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (2,562) (-y) [-aAbBcdkmMpPuv] (20260617-191943) (Retool)</description>
-		<version>20260617-191943</version>
-		<date>2026-06-18 07-21-40</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (2,562) (-y) [-aAbBcdkmMpPuv] (20260618-043315) (Retool)</description>
+		<version>20260618-043315</version>
+		<date>2026-06-19 07-41-31</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3913,7 +3913,7 @@
 		<category>Games</category>
 		<description>Dragon Ball Xenoverse (USA)</description>
 		<game_id>UP0700-NPUB31619_00-DRAGONBALLXV0000</game_id>
-		<rom name="UP0700-NPUB31619_00-DRAGONBALLXV0000.rap" size="16" crc="065bba8d" md5="06ade52a3620868e1c3844c9bea469a2" sha1="1eed34aa1b30a148deeaac007bcc9e769374be14" sha256="c7fa06658fc4a75eaa5a41da5c0464ebe96e806de64389141d4ef1275c013ab4"/>
+		<rom name="UP0700-NPUB31619_00-DRAGONBALLXV0000.rap" size="16" crc="edb603b2" md5="c76cad3a8ca06fc73b80c8fa19fe6fdb" sha1="5f007d22950fedfea0e9614fc84ba87c680109d3" sha256="797fb0afbb1bd24eb4f783a71cc22085bb68329ab1298ccb2316bca2528335ec"/>
 		<rom name="UP0700-NPUB31619_00-DRAGONBALLXV0000_bg_1_274f395a4f050ebfb4a8455e117e833e24d12573.pkg" size="6912425872" crc="c8490cd0" md5="0514c0bd4e607a1af1181d1715869e7e" sha1="86ac65b6f15d60d6d38a03ad0783e039aa48e85a" sha256="6b75a0ceed326ff19224b829a306b36d14b6a4c15149639f40168b0a161d0524"/>
 	</game>
 	<game name="Dragon Ball Z - Battle of Z (USA)" id="08138">
@@ -8351,7 +8351,6 @@
 		<category>Games</category>
 		<description>Madden NFL 16 (Europe)</description>
 		<game_id>EP0006-NPEB02209_00-MADDEN16GN3DDREU</game_id>
-		<rom name="EP0006-NPEB02209_00-MADDEN16GN3DDREU.rap" size="16" crc="64722c64" md5="8a4c9aacc45685f2e466b874a7adc3e0" sha1="e4de859d52584afbb1242ce0c705cb8e73fc4208"/>
 		<rom name="EP0006-NPEB02209_00-MADDEN16GN3DDREU_bg_1_a9ae1c1ccdb1dfda6d3be25669640c94c3026cb3.pkg" size="8242765728" crc="bb86307d" md5="dd188a9d4a7b8e26de8d638534c2015f" sha1="9d43e5704ccc80d238cfd624cede8209a28b34f0"/>
 	</game>
 	<game name="Madden NFL 17 (Europe)" id="34124">
@@ -9798,7 +9797,6 @@
 		<category>Games</category>
 		<description>Nobunaga's Ambition - Sphere of Influence (USA)</description>
 		<game_id>UP4108-NPUB31701_00-SOUZOUWPK0000000</game_id>
-		<rom name="UP4108-NPUB31701_00-SOUZOUWPK0000000.rap" size="16" crc="7b433cbc" md5="cef6b65e03ee0c6f6a7959f9e1cb3d30" sha1="319379000e06851febefcf46ed880781924ae4a3"/>
 		<rom name="UP4108-NPUB31701_00-SOUZOUWPK0000000_bg_1_a1b1652df75461bb027f603ce8184a2ca3762e2e.pkg" size="6732304368" crc="4c62c4a7" md5="58a440232d16fa5605f9a89642600ef0" sha1="3aab54dbc3f88ebe664b3338ccd30a315076babc"/>
 	</game>
 	<game name="Noby Noby Boy (USA)" id="05163">
@@ -11672,7 +11670,6 @@
 		<category>Games</category>
 		<description>Rambo - The Video Game (USA)</description>
 		<game_id>UP4060-NPUB31416_00-RAMBOTHEGAME0001</game_id>
-		<rom name="UP4060-NPUB31416_00-RAMBOTHEGAME0001.rap" size="16" crc="416bf815" md5="154cbf1130b6e3cebde7de082e69fb59" sha1="44100c7a73aca42bd158e2372d209912c79e679c"/>
 		<rom name="oIKKpmiVaTlPvpOLiDSCZLZUQYbZEzDoVQJjhAXmQoVUDXOPtYazyLJamQYKSwkw.pkg" size="2392644864" crc="738f095d" md5="dcf3394a6b10ae7bd70888f700be875d" sha1="c32edded70bd109eb9848dac84ad7aec6d90570b"/>
 	</game>
 	<game name="Rampage World Tour (USA)" id="05971">
@@ -12159,7 +12156,6 @@
 		<category>Games</category>
 		<description>Retro City Rampage DX (USA)</description>
 		<game_id>UP2077-NPUB31616_00-RETROCITYRAMPAGE</game_id>
-		<rom name="UP2077-NPUB31616_00-RETROCITYRAMPAGE.rap" size="16" crc="8fa4d73d" md5="34b58a7ec5c2d2b4ff54239ea6ab2f3e" sha1="64253ea59b0c4e0e5d825537510572d06e205e9f"/>
 		<rom name="ZSYLzDIsvDvTFRidmtnlDwzEUAvBFakGYDWDQxyuRUbhdmLrpyumLOmgLYonSsMY.pkg" size="19676320" crc="0a8af5cd" md5="07383bc22ea90e8e6b7e20bcf8d5f46f" sha1="ffeda19195d05f64a76247b70f572e6bad6ee009"/>
 	</game>
 	<game name="Retro-Grade (USA) (Unlock Key)" id="06349">
@@ -16351,7 +16347,6 @@
 		<category>Games</category>
 		<description>Voz, La - Vol. 3 (Spain)</description>
 		<game_id>EP1160-NPEB02361_00-GLAVOZVOL3000001</game_id>
-		<rom name="EP1160-NPEB02361_00-GLAVOZVOL3000001.rap" size="16" crc="d66ff4ef" md5="ebfeac04888e609469fce9e1ece53bc2" sha1="e56361c8c3623d9f96ce5907d549defa84b6b622"/>
 		<rom name="EP1160-NPEB02361_00-GLAVOZVOL3000001_bg_1_3dde6f289b7f6fa40f5c109bba4834e88c9a19cf.pkg" size="5501672336" crc="5e5409b8" md5="084fa43c7a1147af26f99941b1b85f91" sha1="e17f55962d48a6bf77f24a2753402c5f54cecb25"/>
 	</game>
 	<game name="WALL-E (USA) (PS2 Classics)" id="36652">
@@ -16858,7 +16853,6 @@
 		<description>World Championship Poker 2 (Europe) (PS2 Classics)</description>
 		<game_id>EP4003-NPED00209_00-GWRDCHPKR2000ENG</game_id>
 		<rom name="AhCUVdIoIOOrunITejCOCJWVMbTOMWgzWobPGpUqTCuDLIwhvlfzHuJbIHDXWfRZ.pkg" size="1445522048" crc="7d57bd4e" md5="e769e6c55a0dc40f0b2241c7272a896c" sha1="9e73c7e8297aba861779bcc3e9de4321db40bfa1" sha256="ecf9f5cf52f7901a10568b65a1378367554c01feaa9648a539b354b658c0c72f"/>
-		<rom name="EP4003-NPED00209_00-GWRDCHPKR2000ENG.rap" size="16" crc="908d0713" md5="ba64cb48c5bcb003eab0ade5254520ed" sha1="a8b3b0e50009bbc1def6cc3c97f7ea5de61572e2" sha256="88f3b653dae1598a3a39e6905352d07d708ccccc97d6f06c70f57312a63d4ce7"/>
 	</game>
 	<game name="World Gone Sour (USA) (Unlock Key)" id="19360">
 		<category>Games</category>
@@ -16883,7 +16877,6 @@
 		<category>Games</category>
 		<description>World Snooker Championship 2005 (Europe) (PS2 Classics)</description>
 		<game_id>EP4068-NPED00153_00-GWORLDSNOO000ENG</game_id>
-		<rom name="EP4068-NPED00153_00-GWORLDSNOO000ENG.rap" size="16" crc="5167ee15" md5="a0fb743ecef585673ee07e532df633ea" sha1="65f1852bebebe7e4d3b5a9e0287f40e01efc0095" sha256="7ec2d46a1a0cbcc3cde4f136bc38c149ef8b9b4bd7068902d568f512bd177784"/>
 		<rom name="NClquBfeoieNBVONYEfpiVPRpfEinpDdcEesiwFwWThCaYpsjacrycOBriGeqtzy.pkg" size="1812884592" crc="75f312b3" md5="7a1bf0919e250f2eba81895715a91862" sha1="a89ed0d87bcfcc629fce23d27aaab1e87da0ad88" sha256="52702a3b09e0feb4f1c4f722703ff03609c749385e3cf701a0c1e65ec80a6bb7"/>
 	</game>
 	<game name="World Sports Competition (USA) (PC Engine)" id="45622">
@@ -17313,7 +17306,6 @@
 		<category>Games</category>
 		<description>Zen Pinball 2 - Marvel's Women of Power (USA) (Unlock Key)</description>
 		<game_id>UP4042-NPUB30573_00-ZENPINBALL2WOP0K</game_id>
-		<rom name="UP4042-NPUB30573_00-ZENPINBALL2WOP0K.rap" size="16" crc="0b9d93b8" md5="159e6345d173e4626b4782f8a274c5c9" sha1="6a40dbe821c3c068dbb2b0f75620baa3ec13993d" sha256="4e24d5897764fc3de47d0c21ba64daec7f0b13578ea513e9d8e7e19f67d31115"/>
 		<rom name="UP4042-NPUB30573_00-ZENPINBALL2WOP0K_bg_1_6ba94a26a876a084834d2846aef591d10679d0ea.pkg" size="102400" crc="69d9d157" md5="9b504445ea87f0278d9701ef54c01a54" sha1="090316fcaadbeeba94e61bd95bfab5d828280e32" sha256="eb6ad3a40982a08de3d14071878e0ff242de9ccea31686688af756d1d9271aff"/>
 	</game>
 	<game name="Zen Pinball 2 - Ninja Gaiden Sigma 2 (USA) (Unlock Key)" id="22617">

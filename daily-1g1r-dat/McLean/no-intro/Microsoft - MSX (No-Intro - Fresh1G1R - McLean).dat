@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Microsoft - MSX (Retool)</name>
-		<description>Microsoft - MSX (37) (-ly) [-aAbBcdDefkmMopPruv] (20260202-122913) (Retool)</description>
-		<version>20260202-122913</version>
-		<date>2026-06-18 07-15-46</date>
-		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2</author>
+		<description>Microsoft - MSX (38) (-ly) [-aAbBcdDefkmMopPruv] (20260618-055428) (Retool)</description>
+		<version>20260618-055428</version>
+		<date>2026-06-19 07-38-28</date>
+		<author>1988reload, C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -35,6 +35,11 @@
 		<category>Games</category>
 		<description>Chess Game, The (Europe)</description>
 		<rom name="Chess Game, The (Europe).rom" size="32768" crc="28277362" md5="d7a68bd161ba21e5a0d71e45b12c9812" sha1="20aeb411ab5adb9bd3db412a7837e496969f8ce3"/>
+	</game>
+	<game name="Circus Charlie (Japan) (En) (Wii U Virtual Console)" id="0225">
+		<category>Games</category>
+		<description>Circus Charlie (Japan) (En) (Wii U Virtual Console)</description>
+		<rom name="Circus Charlie (Japan) (En) (Wii U Virtual Console).rom" size="16384" crc="83b8d8f3" md5="5995cc6f08fdc9e883ecce34d1398029" sha1="ae6d0efd55def94274f4cec459df8927d132675a" sha256="89e1badac10e65886590d55e735ed794e5ca3c41142e6637b3e7ac6b25d042c0"/>
 	</game>
 	<game name="Confused (Europe)" id="0249">
 		<category>Games</category>

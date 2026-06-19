@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation Portable (PSN) (Decrypted) (Retool)</name>
-		<description>Sony - PlayStation Portable (PSN) (Decrypted) (561) (-ly) [-aAbBcdDefkmMopPruv] (20260415-170329) (Retool)</description>
-		<version>20260415-170329</version>
-		<date>2026-06-18 07-17-34</date>
-		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
+		<description>Sony - PlayStation Portable (PSN) (Decrypted) (560) (-ly) [-aAbBcdDefkmMopPruv] (20260618-053345) (Retool)</description>
+		<version>20260618-053345</version>
+		<date>2026-06-19 07-36-16</date>
+		<author>1988reload, bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -2553,12 +2553,6 @@
 		<description>Puzzle Chronicles (USA)</description>
 		<game_id>UP0101-ULUS10468_00-PUZZLECHRONILPSP</game_id>
 		<rom name="Puzzle Chronicles (USA).iso" size="402948096" crc="bd562dfc" md5="5c77566e7972f8e95542ff5b00ec012d" sha1="e95b35f566475e7b78a9f2e2c1b3e417edb1eefc" sha256="9465a0e13c6fb295f3cc0abb67686bd8b22b0d3551c0ff103f31f5f4685fb722"/>
-	</game>
-	<game name="Puzzle Quest - Challenge of the Warlord (Europe)" id="2629">
-		<category>Games</category>
-		<description>Puzzle Quest - Challenge of the Warlord (Europe)</description>
-		<game_id>EP0367-ULES00909_00-GPCPUZZLEQ000002</game_id>
-		<rom name="Puzzle Quest - Challenge of the Warlord (Europe).iso" size="164626432" crc="54df31d4" md5="d01f3abdc2583db164d481aa7e482f53" sha1="3c8d55ee5bfe6704a5248378a1231e1907658dc0" sha256="34655b39c7e16fc535aaebccda42e2ba7bae55053a76a7446f6dc3b44df6f3db"/>
 	</game>
 	<game name="Puzzle Quest - Challenge of the Warlords (USA)" id="2630">
 		<category>Games</category>

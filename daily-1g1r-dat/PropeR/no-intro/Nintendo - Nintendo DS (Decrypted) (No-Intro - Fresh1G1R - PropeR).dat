@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,712) (-y) [-aAbBcdkmMpPuv] (20260617-122122) (Retool)</description>
-		<version>20260617-122122</version>
-		<date>2026-06-18 07-21-36</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,712) (-y) [-aAbBcdkmMpPuv] (20260618-105035) (Retool)</description>
+		<version>20260618-105035</version>
+		<date>2026-06-19 07-43-06</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1439,7 +1439,7 @@
 	<game name="Benoit Sokal Last King of Africa (Europe) (En,Fr,De,Es,It)" id="3170">
 		<category>Games</category>
 		<description>Benoit Sokal Last King of Africa (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Benoit Sokal Last King of Africa (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="7a1bd1de" md5="d69461aa1e49c193087964aef19ad021" sha1="89dd64c53224ea89de4c02e6d0b95ed0f2665689"/>
+		<rom name="Benoit Sokal Last King of Africa (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="7a1bd1de" md5="d69461aa1e49c193087964aef19ad021" sha1="89dd64c53224ea89de4c02e6d0b95ed0f2665689" sha256="6b0fcb3bfb61f4110018c3211994da4949cc7bbc4197a031517aeec20ec0261e"/>
 	</game>
 	<game name="Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It)" id="2192">
 		<category>Games</category>
@@ -4794,7 +4794,7 @@
 	<game name="Fit for Fun - Der Interaktive Ernaehrungscoach (Germany)" id="4973">
 		<category>Games</category>
 		<description>Fit for Fun - Der Interaktive Ernaehrungscoach (Germany)</description>
-		<rom name="Fit for Fun - Der Interaktive Ernaehrungscoach (Germany).nds" size="8388608" crc="7fc32a09" md5="8264d29f60a19faf4d27ef0c6b1dfe2d" sha1="53e61e2eaea2d14b1ccd2e72520f4ec9b77f32a8"/>
+		<rom name="Fit for Fun - Der Interaktive Ernaehrungscoach (Germany).nds" size="8388608" crc="7fc32a09" md5="8264d29f60a19faf4d27ef0c6b1dfe2d" sha1="53e61e2eaea2d14b1ccd2e72520f4ec9b77f32a8" sha256="1cdde782f4aa555ad6e8a33fff4351fd3ca79d26d41a46a1a7ab818956f6d46c"/>
 	</game>
 	<game name="Fix It (Europe) (En,Fr,De,Es,It,Nl)" id="4496">
 		<category>Games</category>
@@ -5414,7 +5414,7 @@
 	<game name="Gina-Lisa Powershopping (Germany)" id="4388">
 		<category>Games</category>
 		<description>Gina-Lisa Powershopping (Germany)</description>
-		<rom name="Gina-Lisa Powershopping (Germany).nds" size="67108864" crc="5f62a5cb" md5="d772b61012c8a086e59a719d281619b6" sha1="6500fb532f86f856b8fb5731975e955402dbe5db"/>
+		<rom name="Gina-Lisa Powershopping (Germany).nds" size="67108864" crc="5f62a5cb" md5="d772b61012c8a086e59a719d281619b6" sha1="6500fb532f86f856b8fb5731975e955402dbe5db" sha256="ee098ce1358c32357d55fcccf51a9b4533d8e5610722e49d1f76d8e1a45f89f7"/>
 	</game>
 	<game name="Ginga Tetsudou 999 DS (Japan)" id="5268">
 		<category>Games</category>

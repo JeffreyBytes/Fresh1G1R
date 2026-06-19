@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo 3DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo 3DS (Encrypted) (976) (-y) [-aAbBcefkmMoprv] (20260617-113318) (Retool)</description>
-		<version>20260617-113318</version>
-		<date>2026-06-18 07-10-16</date>
+		<description>Nintendo - Nintendo 3DS (Encrypted) (976) (-y) [-aAbBcefkmMoprv] (20260618-163243) (Retool)</description>
+		<version>20260618-163243</version>
+		<date>2026-06-19 07-29-17</date>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -405,7 +405,7 @@
 		<category>Games</category>
 		<description>Bella Sara - The Magical Horse Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
 		<game_id>0004000000087C00</game_id>
-		<rom name="Bella Sara - The Magical Horse Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="a19f4435" md5="191c603cfbfd385bd760dfdc6b8a1d34" sha1="4f6ed865b0daa3a4f5c7d8696fa72322805d60bb"/>
+		<rom name="Bella Sara - The Magical Horse Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="a19f4435" md5="191c603cfbfd385bd760dfdc6b8a1d34" sha1="4f6ed865b0daa3a4f5c7d8696fa72322805d60bb" sha256="2874509aeb49ee58806d83b8d9d9b74d84b8bf5958d20b43a216e57fdc471cf0"/>
 	</game>
 	<game name="Bella Sara 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="0991">
 		<category>Games</category>
@@ -620,7 +620,7 @@
 		<category>Games</category>
 		<description>Bratz - Fashion Boutique (USA)</description>
 		<game_id>00040000000A7300</game_id>
-		<rom name="Bratz - Fashion Boutique (USA).3ds" size="134217728" crc="d464ff93" md5="bc4c56d2e0c02473e760f2a20cd82e9f" sha1="f8f67e0b937aacff512bac0d8945159a4e76039f"/>
+		<rom name="Bratz - Fashion Boutique (USA).3ds" size="134217728" crc="d464ff93" md5="bc4c56d2e0c02473e760f2a20cd82e9f" sha1="f8f67e0b937aacff512bac0d8945159a4e76039f" sha256="82f63e71063307194bdd37a555389156bef5f013648b2519a04d2b9d43f0b185"/>
 	</game>
 	<game name="Bravely Default (USA) (En,Ja,Fr,De,Es,It)" id="0611">
 		<category>Games</category>
@@ -1592,7 +1592,7 @@
 		<category>Games</category>
 		<description>Freakyforms Deluxe - Your Creations, Alive! (USA) (En,Fr,Es)</description>
 		<game_id>000400000009FA00</game_id>
-		<rom name="Freakyforms Deluxe - Your Creations, Alive! (USA) (En,Fr,Es).3ds" size="134217728" crc="7ff479d9" md5="86f707423198aeac92b058595a700878" sha1="e9bbcc5f5e072e3f202bbae2e218dd902515b0b7"/>
+		<rom name="Freakyforms Deluxe - Your Creations, Alive! (USA) (En,Fr,Es).3ds" size="134217728" crc="7ff479d9" md5="86f707423198aeac92b058595a700878" sha1="e9bbcc5f5e072e3f202bbae2e218dd902515b0b7" sha256="cf1e771e2840c1ff43217d90fc66ba3b2e116d6489d35b95de1b13de1ab9d98c"/>
 	</game>
 	<game name="Frogger 3D (USA) (En,Fr,Es)" id="0128">
 		<category>Games</category>
