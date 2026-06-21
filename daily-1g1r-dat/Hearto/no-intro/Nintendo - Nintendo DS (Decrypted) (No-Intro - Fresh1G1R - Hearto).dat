@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,940) (-y) [-aAbBcefkmMoprv] (20260618-105035) (Retool)</description>
-		<version>20260618-105035</version>
-		<date>2026-06-20 06-41-55</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,940) (-y) [-aAbBcefkmMoprv] (20260620-161901) (Retool)</description>
+		<version>20260620-161901</version>
+		<date>2026-06-21 07-21-32</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -204,7 +204,7 @@
 	<game name="200 Klassische Buecher (Germany)" id="4447">
 		<category>Games</category>
 		<description>200 Klassische Buecher (Germany)</description>
-		<rom name="200 Klassische Buecher (Germany).nds" size="16777216" crc="0d353854" md5="1ced718bf6f2ceceb801b17a1bf09d4a" sha1="a557280fd5cd3c46c132e70fca89b5ee5f6d5b0f"/>
+		<rom name="200 Klassische Buecher (Germany).nds" size="16777216" crc="0d353854" md5="1ced718bf6f2ceceb801b17a1bf09d4a" sha1="a557280fd5cd3c46c132e70fca89b5ee5f6d5b0f" sha256="54b090f47880e224f4928376957562ddb0da8a20e79628fb60839b6d569b4076"/>
 	</game>
 	<game name="2006 FIFA World Cup - Germany 2006 (USA) (En,Fr,De,Es,It)" id="0425">
 		<category>Games</category>
@@ -1332,7 +1332,7 @@
 	<game name="Bandz Mania (Europe) (En,Fr,De)" id="5817">
 		<category>Games</category>
 		<description>Bandz Mania (Europe) (En,Fr,De)</description>
-		<rom name="Bandz Mania (Europe) (En,Fr,De).nds" size="8388608" crc="3a13280c" md5="2d9db74a43b8be6476306127a9ef5662" sha1="ac8f23350fc3b794d1914fd6ee83f24251155f0c"/>
+		<rom name="Bandz Mania (Europe) (En,Fr,De).nds" size="8388608" crc="3a13280c" md5="2d9db74a43b8be6476306127a9ef5662" sha1="ac8f23350fc3b794d1914fd6ee83f24251155f0c" sha256="37479d8ab339ff08cac79bd15142d0dc8f2e400967af77b7a0e4b16056a6f755"/>
 	</game>
 	<game name="Bangai-O Spirits (USA)" id="2573">
 		<category>Games</category>
@@ -2050,7 +2050,7 @@
 	<game name="Bridge Training (Europe) (En,Fr,De,Es,It)" id="3649">
 		<category>Games</category>
 		<description>Bridge Training (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Bridge Training (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="69727d40" md5="7930193ee86d85c09a90edaf47131953" sha1="37d19c6dceb2ec7e58db437a94a8fea39ad3b51a"/>
+		<rom name="Bridge Training (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="69727d40" md5="7930193ee86d85c09a90edaf47131953" sha1="37d19c6dceb2ec7e58db437a94a8fea39ad3b51a" sha256="5b99a06342ad1af0d71f6692f638e9fb4c0587ef63dcc3b0fa11616f5d3d58d8"/>
 	</game>
 	<game name="Brigitte - ErnaehrungsCoach (Germany)" id="5077">
 		<category>Games</category>
@@ -2956,16 +2956,6 @@
 		<category>Games</category>
 		<description>Code de la Route, Le - Moto et BSR (France)</description>
 		<rom name="Code de la Route, Le - Moto et BSR (France).nds" size="33554432" crc="458fe087" md5="5a7bc7188adf9ce9907566ea50e6c1e7" sha1="1a9a66a1145408d5b3915fa5bf93a94daeedfb8c"/>
-	</game>
-	<game name="CodeFreak DS (Japan) (Unl)" id="z083">
-		<category>Games</category>
-		<description>CodeFreak DS (Japan) (Unl)</description>
-		<rom name="CodeFreak DS (Japan) (Unl).nds" size="2097152" crc="fb2ea73f" md5="2471e83c62229e439bc769abd0523a34" sha1="7f77b287ce7807290a706e1a76d2145feb387e97"/>
-	</game>
-	<game name="CodeFreak DS Type II (Japan) (Unl)" id="z084">
-		<category>Games</category>
-		<description>CodeFreak DS Type II (Japan) (Unl)</description>
-		<rom name="CodeFreak DS Type II (Japan) (Unl).nds" size="2097152" crc="5e2d1c57" md5="a6eb7d19bc0a107cfd8c35d47e016a94" sha1="1d1637904747d5c2c096440c1f590d40cc3e6e05"/>
 	</game>
 	<game name="Collection (World) (Datel Games n' Music) (Unl)" id="z615">
 		<category>Games</category>
@@ -6766,7 +6756,8 @@
 	<game name="Home Designer - Perfekt Gestylte Zimmer (Germany) (NDSi Enhanced)" id="6493">
 		<category>Games</category>
 		<description>Home Designer - Perfekt Gestylte Zimmer (Germany) (NDSi Enhanced)</description>
-		<rom name="Home Designer - Perfekt Gestylte Zimmer (Germany) (NDSi Enhanced).nds" size="33554432" crc="e6317499" md5="93fbc663eb9ad1e19ffa03eef5d2803c" sha1="7bde7738f29a10cf528d0b50f8913b785c5d658c"/>
+		<game_id>0003000056484444</game_id>
+		<rom name="Home Designer - Perfekt Gestylte Zimmer (Germany) (NDSi Enhanced).nds" size="33554432" crc="e6317499" md5="93fbc663eb9ad1e19ffa03eef5d2803c" sha1="7bde7738f29a10cf528d0b50f8913b785c5d658c" sha256="0e3427c4f4376cd87a44e9f5b98c077d9fd523365e0f667666071edd4571973c"/>
 	</game>
 	<game name="Homie Rollerz (USA) (En,Es)" id="2202">
 		<category>Games</category>
@@ -7567,7 +7558,7 @@
 	<game name="Jam with the Band (Europe) (En,Fr,De,Es,It)" id="4950">
 		<category>Games</category>
 		<description>Jam with the Band (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Jam with the Band (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="13f9971b" md5="175498f1f74bfc37e1569290e072769c" sha1="f782f744dfc8608e636038b39ee571ac0cfe84b2"/>
+		<rom name="Jam with the Band (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="13f9971b" md5="175498f1f74bfc37e1569290e072769c" sha1="f782f744dfc8608e636038b39ee571ac0cfe84b2" sha256="df7ad936364cc9f874da455e67132c2a3af053c35654208285c1c842265461d8"/>
 	</game>
 	<game name="Jambo! Safari - Animal Rescue (USA) (En,Fr,De,Es,It)" id="4725">
 		<category>Games</category>
@@ -11822,7 +11813,7 @@
 	<game name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)" id="2736">
 		<category>Games</category>
 		<description>Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="60400db2" md5="0c3316a37294abb08cdb1f78eca82a74" sha1="2ef0bea2886e360077ef415916e5f7db45417a1f"/>
+		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="60400db2" md5="0c3316a37294abb08cdb1f78eca82a74" sha1="2ef0bea2886e360077ef415916e5f7db45417a1f" sha256="7d7e8c1c2fa50b6def1f426685afb17b64cfa81ad0953bb3b0d3795aa7cc9300"/>
 	</game>
 	<game name="Naruto - Ninja Council 3 (USA)" id="1096">
 		<category>Games</category>
@@ -14082,10 +14073,10 @@
 		<description>Puyo Puyo 7 (Japan)</description>
 		<rom name="Puyo Puyo 7 (Japan).nds" size="67108864" crc="a6b06082" md5="e20f6c89cd4f71d5ec0fd82d745de4b2" sha1="f196e0746a17b20338bd195dd5f494bd94afa9e6"/>
 	</game>
-	<game name="Puyo Puyo Fever Two! (Japan)" id="0286">
+	<game name="Puyo Puyo Fever 2 (Japan)" id="0286">
 		<category>Games</category>
-		<description>Puyo Puyo Fever Two! (Japan)</description>
-		<rom name="Puyo Puyo Fever Two! (Japan).nds" size="67108864" crc="6fdf08c3" md5="8b54e3f2232afb482d30e37e7b80216a" sha1="4ab239f8969cce70a8dd3451cf6a8d54ccb161b3"/>
+		<description>Puyo Puyo Fever 2 (Japan)</description>
+		<rom name="Puyo Puyo Fever 2 (Japan).nds" size="67108864" crc="6fdf08c3" md5="8b54e3f2232afb482d30e37e7b80216a" sha1="4ab239f8969cce70a8dd3451cf6a8d54ccb161b3"/>
 	</game>
 	<game name="Puyo Puyo! - Puyopuyo 15th Anniversary (Japan) (Rev 3)" id="4404">
 		<category>Games</category>
@@ -16213,7 +16204,7 @@
 	<game name="Spiegel Online - Die Wissenstrainer-Serie - Life Coach (Germany)" id="5704">
 		<category>Games</category>
 		<description>Spiegel Online - Die Wissenstrainer-Serie - Life Coach (Germany)</description>
-		<rom name="Spiegel Online - Die Wissenstrainer-Serie - Life Coach (Germany).nds" size="8388608" crc="9cdaca2b" md5="90e33c29989add619f47180272138c53" sha1="92b48b16ccfbab4a497d4fc97fe9cfe57eb3c34b"/>
+		<rom name="Spiegel Online - Die Wissenstrainer-Serie - Life Coach (Germany).nds" size="8388608" crc="9cdaca2b" md5="90e33c29989add619f47180272138c53" sha1="92b48b16ccfbab4a497d4fc97fe9cfe57eb3c34b" sha256="1c452a5e032a2861550d27a46b6495c13efdd1d0600252cdd5e58e1dd68d19b1"/>
 	</game>
 	<game name="Spiegel Online - Die Wissenstrainer-Serie - Weltreise (Germany)" id="5705">
 		<category>Games</category>
@@ -19470,6 +19461,11 @@
 		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1)</description>
 		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1).nds" size="33554432" crc="d94662d2" md5="344d218ba55acbe624dabbcf5c412eb2" sha1="6b87b61e91e2a14eefca1d0705d6b40f42c2edab" sha256="593c64e86e0fb4dea6358fb014b5fbb928ca3f84df350367894887421de415d2"/>
 	</game>
+	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)" id="1825">
+		<category>Games</category>
+		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)</description>
+		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan).nds" size="33554432" crc="faeb371c" md5="d4afb9ec40267c243efde462f45259b5" sha1="b8b10fb1a1ab661acdd7b71d7e48ec81baff2a9a"/>
+	</game>
 	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken Premium - Zenkyuu Zen-Kanji Kanzen Seiha (Japan)" id="z044">
 		<category>Games</category>
 		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken Premium - Zenkyuu Zen-Kanji Kanzen Seiha (Japan)</description>
@@ -19695,6 +19691,11 @@
 		<category>Games</category>
 		<description>futureU - The Prep Game for SAT (USA)</description>
 		<rom name="futureU - The Prep Game for SAT (USA).nds" size="16777216" crc="fff07438" md5="7a2939fe365df790952c19d2a54cd360" sha1="0b86a7d6dec857bf5d7929ff41c7a89c90f2fede"/>
+	</game>
+	<game name="i-Cheat Games (Germany) (Unl)" id="z669">
+		<category>Add-Ons</category>
+		<description>i-Cheat Games (Germany) (Unl)</description>
+		<rom name="i-Cheat Games (Germany) (Unl).nds" size="2097152" crc="398ac7bf" md5="713b184dcd79de0d99a8e7b53a53c872" sha1="b93868c468e4ab05ac8cf1c50e35beedc475bd72" sha256="3ce3a9006dfbe5889b3aac88cd0f8719f22e158858920c8432ffe6b4de82445e"/>
 	</game>
 	<game name="iCarly (USA) (En,Fr) (NDSi Enhanced)" id="4609">
 		<category>Games</category>

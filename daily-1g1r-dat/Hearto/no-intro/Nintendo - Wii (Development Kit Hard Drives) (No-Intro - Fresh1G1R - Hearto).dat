@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Wii (Development Kit Hard Drives) (Retool)</name>
-		<description>Nintendo - Wii (Development Kit Hard Drives) (82) (-y) [-aAbBcefkmMoprv] (20250827-140352) (Retool)</description>
-		<version>20250827-140352</version>
-		<date>2026-06-20 06-43-31</date>
+		<description>Nintendo - Wii (Development Kit Hard Drives) (83) (-y) [-aAbBcefkmMoprv] (20260620-143711) (Retool)</description>
+		<version>20260620-143711</version>
+		<date>2026-06-21 07-18-51</date>
 		<author>Hiccup, NovaAurora, rarenight, relax</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -809,6 +809,11 @@
 		<category>Demos</category>
 		<description>Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk)</description>
 		<rom name="Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk).iso" size="1023639552" crc="271e35db" md5="4ce487ac512dea6d48844f87daee54a1" sha1="01da07598542c21684bd625ba51de24ed0edb618"/>
+	</game>
+	<game name="Need for Speed - Nitro (USA) (Beta) (2009-03-11)" id="0186">
+		<category>Preproduction</category>
+		<description>Need for Speed - Nitro (USA) (Beta) (2009-03-11)</description>
+		<rom name="Need for Speed - Nitro (USA) (Beta) (2009-03-11).iso" size="4294967296" crc="be979446" md5="053656a8ae4fa1537c853610fba5d428" sha1="10f6568fee4cca97e67d8b94c83a49545555b8ff" sha256="83a61d197a5a9f8f890dbbdf681ba81502ca7cec00ad71700a6bcaa4229b8c1a"/>
 	</game>
 	<game name="Netflix (USA) (Beta) (v1792)" id="0124">
 		<category>Preproduction</category>

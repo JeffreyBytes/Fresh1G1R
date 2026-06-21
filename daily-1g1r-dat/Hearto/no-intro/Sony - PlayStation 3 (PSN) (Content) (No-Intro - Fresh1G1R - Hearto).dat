@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (3,786) (-y) [-aAbBcefkmMoprv] (20260618-043315) (Retool)</description>
-		<version>20260618-043315</version>
-		<date>2026-06-20 06-40-48</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (3,786) (-y) [-aAbBcefkmMoprv] (20260620-065331) (Retool)</description>
+		<version>20260620-065331</version>
+		<date>2026-06-21 07-20-51</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10040,6 +10040,7 @@
 		<category>Games</category>
 		<description>John Daly's ProStroke Golf (Europe)</description>
 		<game_id>EP4003-NPEB01007_00-2012110100001456</game_id>
+		<rom name="EP4003-NPEB01007_00-2012110100001456.rap" size="16" crc="3ad56c52" md5="9469025f8e7d1dfc2d958bfdf7cc6810" sha1="3bfc443c874832e25a23b1308efa55292702938a" sha256="cb138f19fa47bcf1e2702fe7e6040604e1680ba597bd20f98a032571b5534f24"/>
 		<rom name="SlkTLkcptKCDPMGLHpdJPSBLnPqzCENmFpgxrfLaLfsYSWcWqYenENThjaEzQKoz.pkg" size="2318173616" crc="4901bbb3" md5="32564aecabc6a397e42f6cd1d72b3b15" sha1="10897fe2e396551ad94432bcbc3e2040845a2a16" sha256="1256a458081d2a0b8ae0b8e104e206ddf3991f10683fc9ef4b8760f0c84c514e"/>
 	</game>
 	<game name="John Daly's ProStroke Golf (USA) (Demo)" id="46005">
@@ -14058,14 +14059,14 @@
 		<category>Demos</category>
 		<description>Naughty Bear - Panic in Paradise (USA) (Trial)</description>
 		<game_id>UP4040-NPUB30828_00-TRIALGAME0000001</game_id>
-		<rom name="UP4040-NPUB30828_00-GAMELICENSE00001.rap" size="16" crc="908a434c" md5="17b3a10548b91646d9a7c60921bb9c5e" sha1="5dc3ae2725e770f106caf8e9770f2d1722c0a99f"/>
+		<rom name="UP4040-NPUB30828_00-GAMELICENSE00001.rap" size="16" crc="908a434c" md5="17b3a10548b91646d9a7c60921bb9c5e" sha1="5dc3ae2725e770f106caf8e9770f2d1722c0a99f" sha256="dc95c183d539d7951cb44dfaddbb33d1470d6b0abe0507fae3da542c56f34657"/>
 		<rom name="chYqWIMaCzALePIkKtjYAEVbFGfhUZDIfHHDsYKZgfnuFeEoniDXHtuiuNBbGBMp.pkg" size="1003033296" crc="1d2eacde" md5="655f7ca83cff51915853a28270c618e0" sha1="a144e0be357e7ab0cc8cbab6481c868596e3e0c7"/>
 	</game>
 	<game name="Naughty Bear - Panic in Paradise (USA) (Unlock Key)" id="19126">
 		<category>Games</category>
 		<description>Naughty Bear - Panic in Paradise (USA) (Unlock Key)</description>
 		<game_id>UP4040-NPUB30828_00-GAMELICENSE00001</game_id>
-		<rom name="UP4040-NPUB30828_00-GAMELICENSE00001.rap" size="16" crc="908a434c" md5="17b3a10548b91646d9a7c60921bb9c5e" sha1="5dc3ae2725e770f106caf8e9770f2d1722c0a99f"/>
+		<rom name="UP4040-NPUB30828_00-GAMELICENSE00001.rap" size="16" crc="908a434c" md5="17b3a10548b91646d9a7c60921bb9c5e" sha1="5dc3ae2725e770f106caf8e9770f2d1722c0a99f" sha256="dc95c183d539d7951cb44dfaddbb33d1470d6b0abe0507fae3da542c56f34657"/>
 		<rom name="aQFnWDQCPnIknypowJZUMonrawsypbrexVNCLPAuOQNeTaoJSeUeTpkTwRmFRfaH.pkg" size="6080" crc="738a73be" md5="c536606a874c72d27db7ac223e020d01" sha1="84c00ba0cf926597b1d016c6629e7641597eae19"/>
 	</game>
 	<game name="Naval Ops - Commander (USA) (PS2 Classics)" id="35574">
@@ -14204,7 +14205,7 @@
 		<category>Games</category>
 		<description>Ni no Kuni - Wrath of the White Witch - 1 of 2 (USA)</description>
 		<game_id>UP0700-NPUB30932_00-NNKDLFULLGAMEPTB</game_id>
-		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b"/>
+		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b" sha256="aa0047caac99a524993c929a993b679889b255b27045f671571526d611226472"/>
 		<rom name="dHPqDdrjEEzaIbFvSScSltWzTsOsgNkBpmkoHFbTMJVkMVWPFBzipDGnSfbpkLdc.pkg" size="17035368816" crc="363e5d8a" md5="2a3d6477f64dda7092703d252b8ee839" sha1="f450cb5efb7bb02b5dfbfe1af4c7febca42fa12c"/>
 	</game>
 	<game name="Ni no Kuni - Wrath of the White Witch - 2 of 2 (USA)" id="05097">
@@ -14212,7 +14213,7 @@
 		<description>Ni no Kuni - Wrath of the White Witch - 2 of 2 (USA)</description>
 		<game_id>UP0700-NPUB30932_00-NNKDLFULLGAMEPTA</game_id>
 		<rom name="AaOqRBZNNMQtqSBBWyRKCfpAIbOjigmGgEzUnjCKyXMrimqnwotzBIgEtmnBUkae.pkg" size="6256119008" crc="ef9b8289" md5="15b6cc43253e49832dc2d05da93b39b7" sha1="00b4cfe15339641b14569bb71229c4b432360f82"/>
-		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b"/>
+		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b" sha256="aa0047caac99a524993c929a993b679889b255b27045f671571526d611226472"/>
 	</game>
 	<game name="NiGHTS into Dreams... (USA)" id="05107">
 		<category>Games</category>

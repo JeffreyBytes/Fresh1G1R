@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260618-105035) (Retool)</description>
-		<version>20260618-105035</version>
-		<date>2026-06-20 06-46-29</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260620-161901) (Retool)</description>
+		<version>20260620-161901</version>
+		<date>2026-06-21 07-27-24</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -759,7 +759,7 @@
 	<game name="Bandz Mania (Europe) (En,Fr,De)" id="5817">
 		<category>Games</category>
 		<description>Bandz Mania (Europe) (En,Fr,De)</description>
-		<rom name="Bandz Mania (Europe) (En,Fr,De).nds" size="8388608" crc="3a13280c" md5="2d9db74a43b8be6476306127a9ef5662" sha1="ac8f23350fc3b794d1914fd6ee83f24251155f0c"/>
+		<rom name="Bandz Mania (Europe) (En,Fr,De).nds" size="8388608" crc="3a13280c" md5="2d9db74a43b8be6476306127a9ef5662" sha1="ac8f23350fc3b794d1914fd6ee83f24251155f0c" sha256="37479d8ab339ff08cac79bd15142d0dc8f2e400967af77b7a0e4b16056a6f755"/>
 	</game>
 	<game name="Bangai-O Spirits (USA)" id="2573">
 		<category>Games</category>
@@ -1269,7 +1269,7 @@
 	<game name="Bridge Training (Europe) (En,Fr,De,Es,It)" id="3649">
 		<category>Games</category>
 		<description>Bridge Training (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Bridge Training (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="69727d40" md5="7930193ee86d85c09a90edaf47131953" sha1="37d19c6dceb2ec7e58db437a94a8fea39ad3b51a"/>
+		<rom name="Bridge Training (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="69727d40" md5="7930193ee86d85c09a90edaf47131953" sha1="37d19c6dceb2ec7e58db437a94a8fea39ad3b51a" sha256="5b99a06342ad1af0d71f6692f638e9fb4c0587ef63dcc3b0fa11616f5d3d58d8"/>
 	</game>
 	<game name="Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,De,Es,It)" id="3776">
 		<category>Games</category>
@@ -4459,7 +4459,7 @@
 	<game name="Jam with the Band (Europe) (En,Fr,De,Es,It)" id="4950">
 		<category>Games</category>
 		<description>Jam with the Band (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Jam with the Band (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="13f9971b" md5="175498f1f74bfc37e1569290e072769c" sha1="f782f744dfc8608e636038b39ee571ac0cfe84b2"/>
+		<rom name="Jam with the Band (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="13f9971b" md5="175498f1f74bfc37e1569290e072769c" sha1="f782f744dfc8608e636038b39ee571ac0cfe84b2" sha256="df7ad936364cc9f874da455e67132c2a3af053c35654208285c1c842265461d8"/>
 	</game>
 	<game name="Jambo! Safari - Animal Rescue (USA) (En,Fr,De,Es,It)" id="4725">
 		<category>Games</category>
@@ -6674,7 +6674,7 @@
 	<game name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)" id="2736">
 		<category>Games</category>
 		<description>Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="60400db2" md5="0c3316a37294abb08cdb1f78eca82a74" sha1="2ef0bea2886e360077ef415916e5f7db45417a1f"/>
+		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="60400db2" md5="0c3316a37294abb08cdb1f78eca82a74" sha1="2ef0bea2886e360077ef415916e5f7db45417a1f" sha256="7d7e8c1c2fa50b6def1f426685afb17b64cfa81ad0953bb3b0d3795aa7cc9300"/>
 	</game>
 	<game name="Naruto - Ninja Council 3 (USA)" id="1096">
 		<category>Games</category>
