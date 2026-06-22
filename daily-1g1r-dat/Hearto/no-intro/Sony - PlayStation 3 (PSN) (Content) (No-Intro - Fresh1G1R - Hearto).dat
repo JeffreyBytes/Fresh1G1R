@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (3,786) (-y) [-aAbBcefkmMoprv] (20260620-065331) (Retool)</description>
-		<version>20260620-065331</version>
-		<date>2026-06-21 07-20-51</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (3,786) (-y) [-aAbBcefkmMoprv] (20260621-231538) (Retool)</description>
+		<version>20260621-231538</version>
+		<date>2026-06-22 07-37-10</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -16712,6 +16712,7 @@
 		<category>Demos</category>
 		<description>Rain (Japan) (TGS 2013 Demo)</description>
 		<game_id>JP9000-NPJA90260_00-RAIN000000000001</game_id>
+		<rom name="JP9000-NPJA90260_00-RAIN000000000001.rap" size="16" crc="94c6c564" md5="5105b909280bc913e4d5f0c766f56cb3" sha1="dd8e3e94f01b2859474950d318d4f9ac2c6b9c57" sha256="7f9da2be74d24b5b01cd6f819e35f3c75104e35943fb055983efed5c36e7237b"/>
 		<rom name="xGMjvHRqOtqsvEClEvngCLFfKktGrTIkhXBXngeoNyCPPDRvTCiRRCFTTgnDdUNpuZmPCMCiirUAuElFttVkKMwvTBEvrlauIQIxh.pkg" size="1126685920" crc="92f282a5" md5="6ba6ccf2cdad258280b583353ca20677" sha1="04ab50bbd1e02a1d4275ac78d03709d208d1857a" sha256="bbdb7059279e7a675d91f57baaa15b8bb3de0bc9954ca70787628fa47574a34a"/>
 	</game>
 	<game name="Rain (USA)" id="05953">

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Decrypted) (3,940) (-y) [-aAbBcefkmMoprv] (20260620-161901) (Retool)</description>
-		<version>20260620-161901</version>
-		<date>2026-06-21 07-21-32</date>
+		<description>Nintendo - Nintendo DS (Decrypted) (3,941) (-y) [-aAbBcefkmMoprv] (20260621-131125) (Retool)</description>
+		<version>20260621-131125</version>
+		<date>2026-06-22 07-37-24</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -186,6 +186,11 @@
 		<description>2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders (USA)</description>
 		<rom name="2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders (USA).nds" size="8388608" crc="a23f348c" md5="f5eec5cb1c991d3aa485107d8572ce22" sha1="8bcfbf360ed614cbd12328d2c8514054c6df5944"/>
 	</game>
+	<game name="2 in 1 - Best of Bibi &amp; Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter (Germany)" id="6468">
+		<category>Games</category>
+		<description>2 in 1 - Best of Bibi &amp; Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter (Germany)</description>
+		<rom name="2 in 1 - Best of Bibi &amp; Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter (Germany).nds" size="33554432" crc="f04ab4d4" md5="64f5400894645a03216563b251f4a26b" sha1="a8f1bbbe5def777e4f147dfc726b44cc0cd8f0b5" sha256="1dd7a470faee7a10270cb36a8c0d1513389be1f0297cf9ad359fdf4b3bf8c8b6"/>
+	</game>
 	<game name="2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced)" id="6492">
 		<category>Games</category>
 		<description>2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced)</description>
@@ -194,7 +199,7 @@
 	<game name="2 in 1 - My Riding Stables + My Riding Stables - Life with Horses (Europe) (En,Fr,De,Es,It)" id="6365">
 		<category>Games</category>
 		<description>2 in 1 - My Riding Stables + My Riding Stables - Life with Horses (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="2 in 1 - My Riding Stables + My Riding Stables - Life with Horses (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="6af04d90" md5="295cbf56f242360d81cd68524b4420dc" sha1="d78265ec2c870bfb7230fd38f2344ed695265df6"/>
+		<rom name="2 in 1 - My Riding Stables + My Riding Stables - Life with Horses (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="6af04d90" md5="295cbf56f242360d81cd68524b4420dc" sha1="d78265ec2c870bfb7230fd38f2344ed695265df6" sha256="7febfcd22b254d50cd85b7fa6f96062cdfb7844a42ae2f111f89173693b54707"/>
 	</game>
 	<game name="2 in 1 - My Riding Stables + My Western Horse (Europe) (En,Fr,De)" id="6488">
 		<category>Games</category>
@@ -13326,7 +13331,7 @@
 	<game name="Pinball Deluxe (Europe) (En,Fr,De,Es,It)" id="3674">
 		<category>Games</category>
 		<description>Pinball Deluxe (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Pinball Deluxe (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="c87f6d09" md5="0202c0b4dba8552fbe8abf84c2b9f66d" sha1="a78b17b0d574ad6c502394eb189361c982d7d00a"/>
+		<rom name="Pinball Deluxe (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="c87f6d09" md5="0202c0b4dba8552fbe8abf84c2b9f66d" sha1="a78b17b0d574ad6c502394eb189361c982d7d00a" sha256="0b96187809688473f79fd2508db4afc544a48a2c323f0d5fcc33027395db3fe2"/>
 	</game>
 	<game name="Ping Pals (USA)" id="0038">
 		<category>Games</category>
