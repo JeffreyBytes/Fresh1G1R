@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,789) (-y) [-aAbBcdkmMpPuv] (2026-06-13 08-01-46) (Retool)</description>
+		<description>Sony - PlayStation Portable (1,787) (-y) [-aAbBcdkmMpPuv] (2026-06-13 08-01-46) (Retool)</description>
 		<version>2026-06-13 08-01-46</version>
-		<date>2026-07-25 05-30-46</date>
+		<date>2026-07-26 05-48-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2941,11 +2941,6 @@
 		<description>Hatsune Miku - Project Diva (Japan, Asia)</description>
 		<rom name="Hatsune Miku - Project Diva (Japan, Asia).iso" size="1402929152" crc="1ad74675" md5="e4886b42939a47e39486414388061042" sha1="098758b6d50c584b874e032b15e5b68aa97e5a16"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva 2nd (Japan)">
-		<category>Games</category>
-		<description>Hatsune Miku - Project Diva 2nd (Japan)</description>
-		<rom name="Hatsune Miku - Project Diva 2nd (Japan).iso" size="1612283904" crc="242e921c" md5="2f5d32d9f77f926492b8cc07d88b18b0" sha1="af3929cf33e6f92cf3b991245df1ee8e2b576a17"/>
-	</game>
 	<game name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)">
 		<category>Games</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)</description>
@@ -4501,11 +4496,6 @@
 		<description>Mana Khemia - Student Alliance (USA)</description>
 		<rom name="Mana Khemia - Student Alliance (USA).iso" size="1085833216" crc="67b02322" md5="0ba7fd9d96681e17bb6c6d51b28abfd9" sha1="5e3489f094513761a12a893e268834dd36d2b980"/>
 	</game>
-	<game name="Mana-Khemia - Gakuen no Renkinjutsushitachi Portable + (Japan)">
-		<category>Games</category>
-		<description>Mana-Khemia - Gakuen no Renkinjutsushitachi Portable + (Japan)</description>
-		<rom name="Mana-Khemia - Gakuen no Renkinjutsushitachi Portable + (Japan).iso" size="1369309184" crc="80874ffb" md5="099026eef546d1585292c0e7666397bc" sha1="2e36845d242b25893f5212693b787836f107ac23"/>
-	</game>
 	<game name="Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi Portable+ (Japan)">
 		<category>Games</category>
 		<description>Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi Portable+ (Japan)</description>
@@ -4815,6 +4805,11 @@
 		<category>Games</category>
 		<description>Minna no Golf-jou Vol. 1 (Japan) (Disc 1) (Doukonban)</description>
 		<rom name="Minna no Golf-jou Vol. 1 (Japan) (Disc 1) (Doukonban).iso" size="1619001344" crc="7bff3a29" md5="892e65b62050a4c419eaa2f9ae22c732" sha1="60035dd25ffb74281678a977e20db9b80c4a65f1"/>
+	</game>
+	<game name="Minna no Golf-jou Vol. 1 (Japan) (Disc 2)">
+		<category>Games</category>
+		<description>Minna no Golf-jou Vol. 1 (Japan) (Disc 2)</description>
+		<rom name="Minna no Golf-jou Vol. 1 (Japan) (Disc 2).iso" size="1674444800" crc="e8bfecaf" md5="eadd69ab113a46bc3cb00429965d7e87" sha1="8cf67584c080ebb74a328b3f36225a0282ff6365"/>
 	</game>
 	<game name="Minna no Golf-jou Vol. 1 (Japan) (Disc 2) (Doukonban)">
 		<category>Games</category>
@@ -7065,11 +7060,6 @@
 		<category>Games</category>
 		<description>Sims 2, The - Castaway (USA) (En,Fr,De,Es,It,Nl,Pt)</description>
 		<rom name="Sims 2, The - Castaway (USA) (En,Fr,De,Es,It,Nl,Pt).iso" size="1034158080" crc="e6af06ad" md5="f5f6345544d4d8b3d5bb61dfd8d5ca91" sha1="dbd7cd82fa03df1334b04e8af6ad4ad13dbb493b"/>
-	</game>
-	<game name="Sims 2, The - Dr. Dominic no Inbou (Japan)">
-		<category>Games</category>
-		<description>Sims 2, The - Dr. Dominic no Inbou (Japan)</description>
-		<rom name="Sims 2, The - Dr. Dominic no Inbou (Japan).iso" size="1085046784" crc="d4ce1af6" md5="a14be49c28bdaa8fe7dbaa7fc5e8f036" sha1="dfede201e3c4e8f10319694f000e1ebf1b6b4c66"/>
 	</game>
 	<game name="Sims 2, The - Pets (USA)">
 		<category>Games</category>

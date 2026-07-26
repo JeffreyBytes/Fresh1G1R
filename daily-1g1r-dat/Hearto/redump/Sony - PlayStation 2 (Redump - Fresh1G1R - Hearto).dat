@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (5,372) (-y) [-aAbBcefkmMoprv] (2026-06-15 03-41-38) (Retool)</description>
+		<description>Sony - PlayStation 2 (5,361) (-y) [-aAbBcefkmMoprv] (2026-06-15 03-41-38) (Retool)</description>
 		<version>2026-06-15 03-41-38</version>
-		<date>2026-07-25 05-27-13</date>
+		<date>2026-07-26 05-45-12</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1036,11 +1036,6 @@
 		<description>Ar Tonelico II - Melody of Metafalica (USA)</description>
 		<rom name="Ar Tonelico II - Melody of Metafalica (USA).iso" size="4401790976" crc="49205494" md5="1b83937656fd8fede5c0fbc8dbc11f8f" sha1="df94f6a165cfc829821a5a18c1e3bf650624de52"/>
 	</game>
-	<game name="Ar Tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica (Japan) (PlayStation 2 the Best)">
-		<category>Games</category>
-		<description>Ar Tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica (Japan) (PlayStation 2 the Best)</description>
-		<rom name="Ar Tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica (Japan) (PlayStation 2 the Best).iso" size="4299980800" crc="5b33a4c1" md5="24d5f51c6ae3d24599e6a7b4595a1dbb" sha1="137e875c221222664b37d9628192d34bef85711c"/>
-	</game>
 	<game name="Arabians Lost - The Engagement on Desert (Japan)">
 		<category>Games</category>
 		<description>Arabians Lost - The Engagement on Desert (Japan)</description>
@@ -1845,11 +1840,6 @@
 		<category>Games</category>
 		<description>Ben Hur - Blood of Braves (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Ben Hur - Blood of Braves (Europe) (En,Fr,De,Es,It).iso" size="4684152832" crc="6e23761e" md5="4c04171bf2d2e0375d976300908e24b7" sha1="a57bc12be500252801f92c518b68e190df079b86"/>
-	</game>
-	<game name="Berserk - Cheonnyeonjegug-ui Mae Pyeon - Seongmajeongi-ui Jang (Korea)">
-		<category>Games</category>
-		<description>Berserk - Cheonnyeonjegug-ui Mae Pyeon - Seongmajeongi-ui Jang (Korea)</description>
-		<rom name="Berserk - Cheonnyeonjegug-ui Mae Pyeon - Seongmajeongi-ui Jang (Korea).iso" size="4278059008" crc="d4f041cf" md5="b642373178c51b7d645503b11e6f0627" sha1="919caa39c2db8739c9ba2ecd0c253fda14adf6b3"/>
 	</game>
 	<game name="Berserk - Millennium Falcon-hen - Seima Senki no Shou (Japan)">
 		<category>Games</category>
@@ -7089,12 +7079,6 @@
 		<category>Games</category>
 		<description>First Kiss Stories (Japan) (Special CD Doukonban)</description>
 		<rom name="First Kiss Stories (Japan) (Special CD Doukonban).iso" size="4087087104" crc="1ff3c64d" md5="fb2935840050ff2c4d3c3835c744f692" sha1="6bbbd4de99e29189735f69c0f4dfd82f04b94958"/>
-	</game>
-	<game name="Fish Eyes 3 - Kioku no Hahentachi (Japan)">
-		<category>Games</category>
-		<description>Fish Eyes 3 - Kioku no Hahentachi (Japan)</description>
-		<rom name="Fish Eyes 3 - Kioku no Hahentachi (Japan).bin" size="629454000" crc="7640c665" md5="35a276e82e8a3734c5b72de9717acd64" sha1="ac2bb398d8534e4ba719358e4b8b3e7bed37b170"/>
-		<rom name="Fish Eyes 3 - Kioku no Hahentachi (Japan).cue" size="107" crc="6eb41bca" md5="49bffbc12ab91f472cfeacef67e5faf6" sha1="04c47c13c708cbc6b1a638a61297c9aba1071083"/>
 	</game>
 	<game name="Fisherman's Bass Club (USA)">
 		<category>Games</category>
@@ -14094,16 +14078,6 @@
 		<category>Games</category>
 		<description>Mana Khemia 2 - Fall of Alchemy (USA)</description>
 		<rom name="Mana Khemia 2 - Fall of Alchemy (USA).iso" size="4331732992" crc="ac1c65ee" md5="cf711814bab77c6e737a381e7c754d8a" sha1="39a1611ccf3fd27dbb7150dc08350a3a84f99274"/>
-	</game>
-	<game name="Mana-Khemia - Gakuen no Renkinjutsushitachi (Japan) (Gust Best Price)">
-		<category>Games</category>
-		<description>Mana-Khemia - Gakuen no Renkinjutsushitachi (Japan) (Gust Best Price)</description>
-		<rom name="Mana-Khemia - Gakuen no Renkinjutsushitachi (Japan) (Gust Best Price).iso" size="1902936064" crc="1f554910" md5="0fa1d3058a0f29988204004e60e18f66" sha1="343ebdde81a24d9a15efa12183a0b526c768f116"/>
-	</game>
-	<game name="Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi (Japan) (Gust Best Price)">
-		<category>Games</category>
-		<description>Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi (Japan) (Gust Best Price)</description>
-		<rom name="Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi (Japan) (Gust Best Price).iso" size="2777088000" crc="3d3d3f17" md5="90ae836a6912634bd748fa8b3470d1bd" sha1="2b9231233716776ef8f39fce2cca5997972df285"/>
 	</game>
 	<game name="Manhunt (USA)">
 		<category>Games</category>
@@ -22049,18 +22023,6 @@
 		<rom name="Simple 2000 Series Vol. 100 - The Otokotachi no Kijuu Houza (Japan).bin" size="730637040" crc="77632811" md5="0126e61637af85e99c09a01f87893f65" sha1="b5c4b7e5fe4734fdcbe8bddf31011869445128c8"/>
 		<rom name="Simple 2000 Series Vol. 100 - The Otokotachi no Kijuu Houza (Japan).cue" size="133" crc="eb01fff2" md5="6c665dfc8d35b59ea9933c48fe26cf7e" sha1="88e721e1097e5393b63b7214bc9c461727e41881"/>
 	</game>
-	<game name="Simple 2000 Series Vol. 101 - The OneeChampon - The Neechan 2 Tokubetsu-hen (Japan)">
-		<category>Games</category>
-		<description>Simple 2000 Series Vol. 101 - The OneeChampon - The Neechan 2 Tokubetsu-hen (Japan)</description>
-		<rom name="Simple 2000 Series Vol. 101 - The OneeChampon - The Neechan 2 Tokubetsu-hen (Japan).bin" size="744600864" crc="4b8c67f2" md5="a840fb500e80cc45ac117a377c21da5d" sha1="d999704577c6bf73fe2a30c5c89f6b92f9562371"/>
-		<rom name="Simple 2000 Series Vol. 101 - The OneeChampon - The Neechan 2 Tokubetsu-hen (Japan).cue" size="149" crc="f4f5478a" md5="e25a8faced886f087f4ebee926d00102" sha1="ab8111120cb327bed1651abad968ab1c24ac976c"/>
-	</game>
-	<game name="Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan)">
-		<category>Games</category>
-		<description>Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan)</description>
-		<rom name="Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan).bin" size="391459824" crc="e93036b6" md5="0642bfc7b2d3666254ed8ca2c21ff1a2" sha1="99963730cdcd161c7591183eab1ccad83a2fc3ac"/>
-		<rom name="Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi (Japan).cue" size="134" crc="46a3f2fa" md5="b89b3d7e6f97d1460a69b02260e24259" sha1="d65e9d5b8a030ea453c11f10a338e19654928fc4"/>
-	</game>
 	<game name="Simple 2000 Series Vol. 104 - The Robot Tsukurou ze! Gekitou! Robot Fight (Japan)">
 		<category>Games</category>
 		<description>Simple 2000 Series Vol. 104 - The Robot Tsukurou ze! Gekitou! Robot Fight (Japan)</description>
@@ -22323,12 +22285,6 @@
 		<description>Simple 2000 Series Vol. 79 - Akko ni Omakase! The Party Quiz (Japan)</description>
 		<rom name="Simple 2000 Series Vol. 79 - Akko ni Omakase! The Party Quiz (Japan).bin" size="497029344" crc="90de8c85" md5="3cc6d68037b35578ffb687099c02e084" sha1="79ec92ce07036062b95d72d2b37a83a9d10bfe2d"/>
 		<rom name="Simple 2000 Series Vol. 79 - Akko ni Omakase! The Party Quiz (Japan).cue" size="134" crc="19b58b4a" md5="ec8fea0f2b39fb94d260fc9b447069db" sha1="49797d7c9bedeff905455c94da8b6027c41eb002"/>
-	</game>
-	<game name="Simple 2000 Series Vol. 80 - The OneeChamploo - The Neechan Tokubetsu-hen (Japan)">
-		<category>Games</category>
-		<description>Simple 2000 Series Vol. 80 - The OneeChamploo - The Neechan Tokubetsu-hen (Japan)</description>
-		<rom name="Simple 2000 Series Vol. 80 - The OneeChamploo - The Neechan Tokubetsu-hen (Japan).bin" size="538375152" crc="26ed488a" md5="a5ad013a399d28a77a9be8f039aa2174" sha1="721bbe8309e2ec4bc0e098d6e8c6ecb691249721"/>
-		<rom name="Simple 2000 Series Vol. 80 - The OneeChamploo - The Neechan Tokubetsu-hen (Japan).cue" size="147" crc="cfea6845" md5="e2708b9eb2db6f0658d392dfaf97e5f3" sha1="936716e0faa23ca315a3e995920d8116ead3f8b4"/>
 	</game>
 	<game name="Simple 2000 Series Vol. 82 - The Kung Fu (Japan)">
 		<category>Games</category>
@@ -24495,11 +24451,6 @@
 		<description>SuperLite 2000 Vol. 30 - Yoshinoya (Japan)</description>
 		<rom name="SuperLite 2000 Vol. 30 - Yoshinoya (Japan).bin" size="644064624" crc="c085bcda" md5="9ca9c77d01289d0539c5a243303132c1" sha1="20e42f0166f26594684c0c8f674402d62e13ade1"/>
 		<rom name="SuperLite 2000 Vol. 30 - Yoshinoya (Japan).cue" size="108" crc="654ac1ef" md5="7989bafacf3b3703f6da25c3db1657af" sha1="07f25e0e95adffce6fd031b8b8f5db4801d0b32f"/>
-	</game>
-	<game name="SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)">
-		<category>Games</category>
-		<description>SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)</description>
-		<rom name="SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan).iso" size="3429826560" crc="da43a624" md5="60e205af6a58b3e778812dffcabaf27d" sha1="f77597ba6038a6da83a969f9da86e542c84e0552"/>
 	</game>
 	<game name="SuperLite 2000 Vol. 34 - Akai Ito (Japan)">
 		<category>Games</category>
@@ -28141,12 +28092,6 @@
 		<description>Yamanote-sen, The - Train Simulator Real (Japan) (Taikenban)</description>
 		<rom name="Yamanote-sen, The - Train Simulator Real (Japan) (Taikenban).iso" size="2645000192" crc="ab2f2646" md5="d5e23e2a962b282d027969a27289f276" sha1="3e2bb7065f24894c51fbf35f4e80aeb3378e893a"/>
 	</game>
-	<game name="Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan)">
-		<category>Games</category>
-		<description>Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan)</description>
-		<rom name="Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan).bin" size="150109344" crc="ef708d57" md5="17aae54c5253df372767256c6f284e6e" sha1="1096186679f9fc6f03b2422da04274fb0251b975"/>
-		<rom name="Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan).cue" size="140" crc="dfe23cc1" md5="38d05f192e68dbd2b2a9ea41cb3648fc" sha1="9116194c46f8e0fcc6bc76a56501cdd92a9e9036"/>
-	</game>
 	<game name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)">
 		<category>Games</category>
 		<description>Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)</description>
@@ -28458,11 +28403,6 @@
 		<description>Zettai Zetsumei Toshi (Japan) (Taikenban)</description>
 		<rom name="Zettai Zetsumei Toshi (Japan) (Taikenban).bin" size="614405904" crc="0d302798" md5="b4462bd412ab16e6364d2fbc0bf76415" sha1="770596fc7b4897debfbe5c9606d11b698e1f4012"/>
 		<rom name="Zettai Zetsumei Toshi (Japan) (Taikenban).cue" size="107" crc="8902dcbf" md5="24abcc6b94664c7ea09d6825a2116082" sha1="5ef0d761ebe1a99b3721a22c9668a635893e15b1"/>
-	</game>
-	<game name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan)">
-		<category>Games</category>
-		<description>Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan)</description>
-		<rom name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan).iso" size="2311651328" crc="7673fb02" md5="49279a88b1c2105bf9ab8ab40616a3c0" sha1="d14b610eaedd0ea33d37561ab6f71ca5771558f6"/>
 	</game>
 	<game name="Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi (Japan) (Taikenban Type-A)">
 		<category>Demos</category>
